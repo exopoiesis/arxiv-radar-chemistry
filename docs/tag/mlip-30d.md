@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08013.html">Defect-limited thermal transport in AlN using pretrained machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Minseok Moon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08013">2610.08013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08020.html">Learning consistent molecular mechanics force fields from first principles</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Berkay Günes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08020">2610.08020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08291.html">Mechanical properties of V-4Ti-4Cr alloy from molecular dynamics with a neural-network potential</a></div><div class="paper-tags"><a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
+<td>G. S. Demyanov et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08291">2610.08291</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05998.html">Langevin Flow Maps: Efficient Molecular Dynamics and Transition Path Sampling</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -236,11 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07477.html">Benchmarking Universal Machine Learning Force Fields for Crystal Structure Prediction of High-Energy Molecular Systems</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
 <td>Musiha Mahfuza Mukta et al.</td>
 <td><a href="http://arxiv.org/abs/2609.07477">2609.07477</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06350.html">Barrierless Water Dissociation on Rare-Earth Sesquioxide Surfaces from First Principles</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="photocatalysis-30d.html">photocatalysis</a></div></td>
-<td>Shuxiang Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2609.06350">2609.06350</a></td>
 </tr>
 </tbody></table>

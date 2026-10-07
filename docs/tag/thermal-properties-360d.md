@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">284 papers</span>
+  <span class="paper-count">286 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07552.html">Reliability of AI/ML Computational Searches for Magnetic Materials: Databases, Validation, and Synthesizability</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Vladimir Antropov et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07552">2610.07552</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08013.html">Defect-limited thermal transport in AlN using pretrained machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Minseok Moon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08013">2610.08013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08249.html">Extraction of different electronic contributions to transport properties of transition metals from first principles</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
+<td>I. S. Galtsov et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08249">2610.08249</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06467.html">Quantum spectral thermodynamics and active learning enable million-scale exploration of high-entropy ceramics</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
@@ -1712,11 +1730,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15080.html">Robust Orbital-Selective Flat Bands in Transition-Metal Oxychlorides</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Xiangyu Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2510.15080">2510.15080</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10112.html">Thermal and Electrical Conductivities of Aluminum Up to 1000 eV: A First-Principles Prediction</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Qianrui Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10112">2510.10112</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">426 papers</span>
+  <span class="paper-count">430 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08296.html">OxiGen: Oxidation-State-Aware Crystal Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Dylan John et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08296">2610.08296</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08652.html">Steering Diffusion Models to Rare Events with Sequential Monte Carlo</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Aavash Subedi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08652">2610.08652</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05808.html">DiMOS: Doob-Guided Inference-Time Multi-Objective Search for Scientific Design</a></div></td>
 <td>Ziqing Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.05808">2610.05808</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07203.html">Contact-Governed Macroscopic Signatures of Strain-Induced Valley Sorting in MoS$_2$ Field-Effect Transistors</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="tmd-360d.html">tmd</a></div></td>
+<td>Suhas Suresh Bharadwaj</td>
+<td><a href="http://arxiv.org/abs/2610.07203">2610.07203</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-04</td>
@@ -32,6 +50,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05397.html">Efficient Graph Generation via Direct Prediction and Flow Matching</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Susie Lu</td>
 <td><a href="http://arxiv.org/abs/2610.05397">2610.05397</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07037.html">Inference-Time Projection for Physically Valid Biomolecular Diffusion Models</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td> Qurat-ul-ain et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07037">2610.07037</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-03</td>

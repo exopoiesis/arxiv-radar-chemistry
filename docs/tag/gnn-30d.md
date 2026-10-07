@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08165.html">Which alloy composition,what process parameters? Inferring the recipe from optimized metallic microstructure and texture</a></div></td>
+<td>Mahish K. Guru et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08165">2610.08165</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06685.html">Aligning Multimodal Patient Evidence with Biomedical Knowledge Graphs for Clinical LLMs</a></div></td>
 <td>Jiawen Du et al.</td>
@@ -176,11 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08669.html">Learning to build covering structures with continuous adjustments</a></div><div class="paper-tags"><a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
 <td>Gabriel Vallat et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08669">2609.08669</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06655.html">Out-of-Distribution Inverse Design of Elastic Networks with Differentiable Graph Neural Network Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Sergey A. Shteingolts et al.</td>
-<td><a href="http://arxiv.org/abs/2609.06655">2609.06655</a></td>
 </tr>
 </tbody></table>

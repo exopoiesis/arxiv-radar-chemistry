@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08013.html">Defect-limited thermal transport in AlN using pretrained machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Minseok Moon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08013">2610.08013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08020.html">Learning consistent molecular mechanics force fields from first principles</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Berkay Günes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08020">2610.08020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08291.html">Mechanical properties of V-4Ti-4Cr alloy from molecular dynamics with a neural-network potential</a></div><div class="paper-tags"><a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>G. S. Demyanov et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08291">2610.08291</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05998.html">Langevin Flow Maps: Efficient Molecular Dynamics and Transition Path Sampling</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Sam McCallum et al.</td>
@@ -524,23 +542,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08957.html">Structural Origin of Water Heat Capacity Anomaly from Classical and Quantum Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Kam-Tung Chan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08957">2607.08957</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06969.html">AI2Pot: A scalable and unified framework for machine-learning interatomic potential development and large-scale molecular dynamic simulations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Hanyu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06969">2607.06969</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07456.html">A Multi-Scale Machine Learning Framework for Coupled Chemical, Spin, and Structural Disorder in Alloys</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Zhenyao Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07456">2607.07456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07606.html">MLIP Studio: An Open Platform for Interactive Benchmarking and Atomistic Simulations Using Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Manas Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07606">2607.07606</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08296.html">OxiGen: Oxidation-State-Aware Crystal Generation</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Dylan John et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08296">2610.08296</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08652.html">Steering Diffusion Models to Rare Events with Sequential Monte Carlo</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Aavash Subedi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08652">2610.08652</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05808.html">DiMOS: Doob-Guided Inference-Time Multi-Objective Search for Scientific Design</a></div></td>
 <td>Ziqing Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.05808">2610.05808</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07203.html">Contact-Governed Macroscopic Signatures of Strain-Induced Valley Sorting in MoS$_2$ Field-Effect Transistors</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="tmd-30d.html">tmd</a></div></td>
+<td>Suhas Suresh Bharadwaj</td>
+<td><a href="http://arxiv.org/abs/2610.07203">2610.07203</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-04</td>
@@ -32,6 +50,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05397.html">Efficient Graph Generation via Direct Prediction and Flow Matching</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Susie Lu</td>
 <td><a href="http://arxiv.org/abs/2610.05397">2610.05397</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07037.html">Inference-Time Projection for Physically Valid Biomolecular Diffusion Models</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
+<td> Qurat-ul-ain et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07037">2610.07037</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-03</td>
@@ -224,11 +248,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10099.html">A Systematic Evaluation of Molecule Generation Models for De Novo Drug Design: From Benchmarks to Practical Insights</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-representation-30d.html">molecular-representation</a></div></td>
 <td>Xinrui Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.10099">2609.10099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06761.html">LATS: Levy Adaptive Tree Sampling for Feedback-Driven Diverse Target Discovery</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Binglin Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2609.06761">2609.06761</a></td>
 </tr>
 </tbody></table>

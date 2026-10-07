@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">419 papers</span>
+  <span class="paper-count">415 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08013.html">Defect-limited thermal transport in AlN using pretrained machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Minseok Moon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08013">2610.08013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08356.html">Incoherent Spectral Weight Emerging from a Van Hove Singularity in a Kagome Metal</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>C. -y. Lim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08356">2610.08356</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08380.html">Calculation of structural symmetry and applicability of small AkBlCm nanoclusters (A=Rb, Cs; B=Pb, Sn, Bi; C=Cl, Br, I) as building blocks for synthesis of larger-size nanoclusters</a></div></td>
+<td>Roman Makarevych et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08380">2610.08380</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08592.html">CNet: A Complex-Valued Deep Learning Framework with Wirtinger Autodifferentiation and FFT--Hadamard Convolution</a></div></td>
+<td>Marcel Crasmaru</td>
+<td><a href="http://arxiv.org/abs/2610.08592">2610.08592</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08762.html">Small Distortions, Big Polarization: Tetragonal BaTiO3 Nanoparticles for High-Performance Piezoelectric Nanogenerators</a></div><div class="paper-tags"><a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Shivshankar Jokare et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08762">2610.08762</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06158.html">Compressed magnetic Moment Tensor Potentials via low-rank matrix and tensor factorizations</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -26,6 +56,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06283.html">First-Principles Investigation of Multimodal Toxic Gas Sensing in Carbon-Tuned hBN-Graphene Alloys: Chemiresistive, Work-Function, and Optical Responses</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
 <td>Tanjuma Shikder Jhumu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.06283">2610.06283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07179.html">Adjoint-State Identifiability of Piezo-Tunable Valley Splitting in 2D Magnetic Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Suhas Suresh Bharadwaj</td>
+<td><a href="http://arxiv.org/abs/2610.07179">2610.07179</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07201.html">Is there a density-gradient expansion for the electronic exchange energy?</a></div></td>
+<td>John P. Perdew et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07201">2610.07201</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-04</td>
@@ -2462,71 +2504,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08927.html">Molecular Tuning of Charge-Transfer Resonance in Plasmonic Nanocavities</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Hasher Irshada et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08927">2607.08927</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06995.html">Surface-Reconstruction-Driven Insulating Behavior in Metallic Charge-Density-Wave 1T-TaSe$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Sung-Hoon Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06995">2607.06995</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07037.html">Minimizing propagated density errors of atomic core-electron for simultaneously accurate bandgaps and lattice constants in closed-shell Copper semiconductors</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Kuiyu Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07037">2607.07037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07067.html">Ab initio thermodynamic statistical modeling of the miscibility gap and the metal-insulator phase transition in SrTi$_{1-x}$V$_x$O$_{3}$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Luka Wibmer et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07067">2607.07067</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07086.html">A modified Moss rule highlights underexplored classes of high refractive index materials</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Eugène Bertin et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07086">2607.07086</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07339.html">Machine Learning Materials Properties by Encoding Orbital-Projected Density of States</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="gnn-90d.html">gnn</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Paulo Pires et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07339">2607.07339</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07341.html">Ab Initio Investigation of Pressure Effects in the Spin-Liquid Candidate Y-Kapellasite</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Federico Abbruciati et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07341">2607.07341</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07378.html">Quantitative DFT+DMFT description of spectra and transport in the moderately correlated metal SrVO$_3$</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Gurshidali P. et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07378">2607.07378</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07472.html">Stress calculation in linear scaling DFT: convergence and dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Shereif Y. Mujahed et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07472">2607.07472</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07606.html">MLIP Studio: An Open Platform for Interactive Benchmarking and Atomistic Simulations Using Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Manas Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07606">2607.07606</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07644.html">Thermal-response Functions and the Peierls-Boltzmann Equation for Second Sound and Phonon Hydrodynamics in Graphene</a></div></td>
-<td>Antonio Martinez-Margolles et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07644">2607.07644</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07894.html">Bulk Boundary Condition for Surface Calculations in Density Functional Theory</a></div></td>
-<td>Sayan Bhowmik et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07894">2607.07894</a></td>
 </tr>
 </tbody></table>

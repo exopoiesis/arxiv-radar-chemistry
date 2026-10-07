@@ -22,6 +22,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2610.04850">2610.04850</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07037.html">Inference-Time Projection for Physically Valid Biomolecular Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a> · <a href="protein-structure-7d.html">protein-structure</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
+<td> Qurat-ul-ain et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07037">2610.07037</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04193.html">Molecular Crystal Structure Prediction from Conditional Flow on the Unit Cells</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a></div></td>
 <td>Qiang Zhu et al.</td>
@@ -50,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01358.html">Fold&#x27;EM: Direct atomic structure inference from Cryo-EM particles</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="protein-structure-7d.html">protein-structure</a></div></td>
 <td>Advaith Maddipatla et al.</td>
 <td><a href="http://arxiv.org/abs/2610.01358">2610.01358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37414.html">Leveraging secondary-structure information for accurate nucleic acid structure prediction with OFoldNA</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a></div></td>
-<td> Valhalla Team</td>
-<td><a href="http://arxiv.org/abs/2609.37414">2609.37414</a></td>
 </tr>
 </tbody></table>

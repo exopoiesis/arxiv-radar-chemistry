@@ -16,6 +16,30 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08013.html">Defect-limited thermal transport in AlN using pretrained machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Minseok Moon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08013">2610.08013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08298.html">Design Principles for Programmable Topological Soft Networks</a></div></td>
+<td>Andrea Bonato et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08298">2610.08298</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08613.html">Grain-boundary segregation delays the onset of plastic flow in nanocrystalline Fe-18Cr-12Ni</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Ashwinee Kumar</td>
+<td><a href="http://arxiv.org/abs/2610.08613">2610.08613</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08652.html">Steering Diffusion Models to Rare Events with Sequential Monte Carlo</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Aavash Subedi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08652">2610.08652</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05941.html">Out-of-Plane Oscillating Electric Fields Unlock Low-Temperature Nonequilibrium Superionicity in Quasi-Two-Dimensional AgCrSe2</a></div></td>
 <td>Jia-Wen Li et al.</td>
@@ -9338,29 +9362,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10831.html">Emerging Ferroelectric Domains: Stacking and Rotational Landscape of MoS2 Moire Bilayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
 <td>Anikeya Aditya et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10831">2510.10831</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16537.html">The Capriccio method as a versatile tool for quantifying the fracture properties of glassy materials under complex loading conditions with chemical specificity</a></div></td>
-<td>Felix Weber et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16537">2501.16537</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09961.html">Real-time dynamics with bead-Fourier path integrals. II. Bead-Fourier RPMD</a></div></td>
-<td>Nathan London et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09961">2510.09961</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10061.html">High-Contrast Interferometric Imaging of Single-Molecule Dynamics on Optical Fibers</a></div></td>
-<td>Guifeng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10061">2510.10061</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10326.html">Atomic-Scale Origins of Oxidation Resistance in Amorphous Boron Nitride</a></div></td>
-<td>Onurcan Kaya et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10326">2510.10326</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">99 papers</span>
+  <span class="paper-count">100 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08296.html">OxiGen: Oxidation-State-Aware Crystal Generation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Dylan John et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08296">2610.08296</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08316.html">MARCO: The Radioactive Watermark for Protein Generative Models</a></div></td>
+<td>Huajie Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08316">2610.08316</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06190.html">Bridging the Evidence-to-Execution Gap:A Reflective Agent for Multi-Objective Peptide Design</a></div></td>
@@ -602,11 +614,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08404.html">DrugGen 2: A disease-aware language model for enhancing drug discovery</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
 <td>Ali Motahharynia et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08404">2607.08404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07233.html">HPG-Diff: Hierarchical physics-guided diffusion with differentiable connectivity constraints for topology optimization</a></div></td>
-<td>Jinbo Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07233">2607.07233</a></td>
 </tr>
 </tbody></table>

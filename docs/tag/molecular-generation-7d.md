@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08367.html">Evolutionary One-Step Generators: Fast and Diverse Sampling for Discrete Design</a></div></td>
+<td>Marcus Vukojevic et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08367">2610.08367</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05125.html">Bayesian Entropy-based Reordering for Calibrated Diffusion Language Models</a></div></td>
 <td>Zhejun Jiang et al.</td>
@@ -38,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02186.html">Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry</a></div></td>
 <td>Yiming Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.02186">2610.02186</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36683.html">MARCO: Multi-Round Agentic Reinforcement for Conditional Molecular Optimization</a></div></td>
-<td>Shicheng Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.36683">2609.36683</a></td>
 </tr>
 </tbody></table>

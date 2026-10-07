@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">349 papers</span>
+  <span class="paper-count">348 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07702.html">Demonstration of Parallel Multi-QPU Execution for Fragment-Based Quantum Chemistry Using On-Premises Hardware</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
+<td>Nils Herrmann et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07702">2610.07702</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06448.html">A Practical Introduction to VQE: Methods, Challenges, and Applications in Physics and Chemistry</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
@@ -2096,17 +2102,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11706.html">Probing emergent prethermal dynamics and resonant melting on a programmable quantum simulator</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Siva Darbha et al.</td>
 <td><a href="http://arxiv.org/abs/2510.11706">2510.11706</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20066.html">Enhancing quantum computations with the synergy of auxiliary field quantum Monte Carlo and computational basis tomography</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Viktor Khinevich et al.</td>
-<td><a href="http://arxiv.org/abs/2502.20066">2502.20066</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09151.html">The Quantum Paldus Transform: Efficient Circuits with Applications</a></div></td>
-<td>Jędrzej Burkat et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09151">2506.09151</a></td>
 </tr>
 </tbody></table>

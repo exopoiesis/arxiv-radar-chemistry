@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mof — all</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="mof-7d.html">7d</a> <a href="mof-30d.html">30d</a> <a href="mof-90d.html">90d</a> <a href="mof-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07918.html">Layered spin-crossover metal-organic frameworks for light-induced control of two-dimensional quantum materials</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="catalysis-all.html">catalysis</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
+<td>Carla Boix-Constant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07918">2610.07918</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08330.html">MoF: Preference-Aware Mixture Modeling for Black-Box LLM Personalization</a></div></td>
+<td>Hun Park</td>
+<td><a href="http://arxiv.org/abs/2610.08330">2610.08330</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04866.html">Phenomenon-first problem formulation with language models in metal-organic frameworks</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08165.html">Which alloy composition,what process parameters? Inferring the recipe from optimized metallic microstructure and texture</a></div></td>
+<td>Mahish K. Guru et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08165">2610.08165</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06685.html">Aligning Multimodal Patient Evidence with Biomedical Knowledge Graphs for Clinical LLMs</a></div></td>
@@ -386,29 +392,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08996.html">Model Agnostic Graph Prompt Learning for Crystal Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Shrimon Mukherjee et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08996">2607.08996</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07339.html">Machine Learning Materials Properties by Encoding Orbital-Projected Density of States</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Paulo Pires et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07339">2607.07339</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07456.html">A Multi-Scale Machine Learning Framework for Coupled Chemical, Spin, and Structural Disorder in Alloys</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Zhenyao Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07456">2607.07456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07611.html">Asymmetric Focal Loss Improves Graph Neural Network Prediction of Drug-Drug Interactions</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Faranak Hatami et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07611">2607.07611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07935.html">path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Claudio Meggio et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07935">2607.07935</a></td>
 </tr>
 </tbody></table>

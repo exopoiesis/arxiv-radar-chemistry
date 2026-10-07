@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">311 papers</span>
+  <span class="paper-count">313 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08013.html">Defect-limited thermal transport in AlN using pretrained machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Minseok Moon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08013">2610.08013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08613.html">Grain-boundary segregation delays the onset of plastic flow in nanocrystalline Fe-18Cr-12Ni</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Ashwinee Kumar</td>
+<td><a href="http://arxiv.org/abs/2610.08613">2610.08613</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08652.html">Steering Diffusion Models to Rare Events with Sequential Monte Carlo</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Aavash Subedi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08652">2610.08652</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05057.html">Onset of a quantum Fisher-Selke sequence in the transverse-field ANNNI model and its bilayer</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
@@ -1874,11 +1892,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11029.html">Frenkel anomaly on co-ordination numbers in liquid CO2 at 100 and 1000 bar studied by Monte Carlo simulation using Kihara potential model</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Koji Kobashi</td>
 <td><a href="http://arxiv.org/abs/2510.11029">2510.11029</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20066.html">Enhancing quantum computations with the synergy of auxiliary field quantum Monte Carlo and computational basis tomography</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Viktor Khinevich et al.</td>
-<td><a href="http://arxiv.org/abs/2502.20066">2502.20066</a></td>
 </tr>
 </tbody></table>

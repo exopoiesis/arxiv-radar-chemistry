@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>drug-discovery — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01827.html">Scientific Discovery under Validation Congestion via Multi-Fidelity Pairwise Rankings</a></div><div class="paper-tags"><a href="active-learning-7d.html">active-learning</a> · <a href="bayesian-optimization-7d.html">bayesian-optimization</a></div></td>
 <td>Kevin Tirta Wijaya et al.</td>
 <td><a href="http://arxiv.org/abs/2610.01827">2610.01827</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37384.html">MoTIF-X: A Multimodal Tokenized Framework for Interpretable and Extensible Molecular Representation Learning</a></div><div class="paper-tags"><a href="molecular-representation-7d.html">molecular-representation</a></div></td>
-<td>Linqing Mo et al.</td>
-<td><a href="http://arxiv.org/abs/2609.37384">2609.37384</a></td>
 </tr>
 </tbody></table>

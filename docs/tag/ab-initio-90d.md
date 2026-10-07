@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">321 papers</span>
+  <span class="paper-count">315 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08020.html">Learning consistent molecular mechanics force fields from first principles</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Berkay Günes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08020">2610.08020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08249.html">Extraction of different electronic contributions to transport properties of transition metals from first principles</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>I. S. Galtsov et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08249">2610.08249</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05714.html">Current selects the helicity of a chiral phonon</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
@@ -32,6 +44,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06283.html">First-Principles Investigation of Multimodal Toxic Gas Sensing in Carbon-Tuned hBN-Graphene Alloys: Chemiresistive, Work-Function, and Optical Responses</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Tanjuma Shikder Jhumu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.06283">2610.06283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07179.html">Adjoint-State Identifiability of Piezo-Tunable Valley Splitting in 2D Magnetic Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Suhas Suresh Bharadwaj</td>
+<td><a href="http://arxiv.org/abs/2610.07179">2610.07179</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-03</td>
@@ -1886,59 +1904,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08941.html">Ab initio calculations of $^{229}$Th band-to-band internal conversion rate in $^{229}$ThO$_2$</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a></div></td>
 <td>Udeshika C. Perera et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08941">2607.08941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06969.html">AI2Pot: A scalable and unified framework for machine-learning interatomic potential development and large-scale molecular dynamic simulations</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Hanyu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06969">2607.06969</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07067.html">Ab initio thermodynamic statistical modeling of the miscibility gap and the metal-insulator phase transition in SrTi$_{1-x}$V$_x$O$_{3}$</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Luka Wibmer et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07067">2607.07067</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07125.html">Density effects in precision laser spectroscopy of exotic helium atoms</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Hubert J. Jóźwiak et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07125">2607.07125</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07339.html">Machine Learning Materials Properties by Encoding Orbital-Projected Density of States</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Paulo Pires et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07339">2607.07339</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07341.html">Ab Initio Investigation of Pressure Effects in the Spin-Liquid Candidate Y-Kapellasite</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Federico Abbruciati et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07341">2607.07341</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07606.html">MLIP Studio: An Open Platform for Interactive Benchmarking and Atomistic Simulations Using Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Manas Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07606">2607.07606</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07642.html">Acoustic-phonon-driven spin-lattice relaxation of the hBN boron vacancy in the sub-THz regime</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Priyo Adhikary et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07642">2607.07642</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07804.html">Electron-Phonon Functional Renormalization Group of Fermi Liquid Instabilities</a></div></td>
-<td>C. Alexander Baum et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07804">2607.07804</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07983.html">Theoretical ab initio Evolution of Satellite Intensity near Threshold for Cu K-shell transitions</a></div></td>
-<td>Daniel Pinheiro et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07983">2607.07983</a></td>
 </tr>
 </tbody></table>

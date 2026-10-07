@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1536 papers</span>
+  <span class="paper-count">1537 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08020.html">Learning consistent molecular mechanics force fields from first principles</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Berkay Günes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08020">2610.08020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08249.html">Extraction of different electronic contributions to transport properties of transition metals from first principles</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>I. S. Galtsov et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08249">2610.08249</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05714.html">Current selects the helicity of a chiral phonon</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
@@ -32,6 +44,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06283.html">First-Principles Investigation of Multimodal Toxic Gas Sensing in Carbon-Tuned hBN-Graphene Alloys: Chemiresistive, Work-Function, and Optical Responses</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Tanjuma Shikder Jhumu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.06283">2610.06283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07179.html">Adjoint-State Identifiability of Piezo-Tunable Valley Splitting in 2D Magnetic Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Suhas Suresh Bharadwaj</td>
+<td><a href="http://arxiv.org/abs/2610.07179">2610.07179</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-03</td>
@@ -9218,17 +9236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10547.html">Near room temperature magnetoelectric response and tunable magnetic anisotropy in the two-dimensional magnet 1T-CrTe2</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Fengping Li et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10547">2510.10547</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10112.html">Thermal and Electrical Conductivities of Aluminum Up to 1000 eV: A First-Principles Prediction</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Qianrui Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10112">2510.10112</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10186.html">Atomic bonding in equilibrium single-component melts. The cases of arsenic, antimony and bismuth</a></div></td>
-<td>Artem A. Tsygankov et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10186">2510.10186</a></td>
 </tr>
 </tbody></table>

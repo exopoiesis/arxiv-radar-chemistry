@@ -16,6 +16,36 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08013.html">Defect-limited thermal transport in AlN using pretrained machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="monte-carlo-7d.html">monte-carlo</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Minseok Moon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08013">2610.08013</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08356.html">Incoherent Spectral Weight Emerging from a Van Hove Singularity in a Kagome Metal</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>C. -y. Lim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08356">2610.08356</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08380.html">Calculation of structural symmetry and applicability of small AkBlCm nanoclusters (A=Rb, Cs; B=Pb, Sn, Bi; C=Cl, Br, I) as building blocks for synthesis of larger-size nanoclusters</a></div></td>
+<td>Roman Makarevych et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08380">2610.08380</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08592.html">CNet: A Complex-Valued Deep Learning Framework with Wirtinger Autodifferentiation and FFT--Hadamard Convolution</a></div></td>
+<td>Marcel Crasmaru</td>
+<td><a href="http://arxiv.org/abs/2610.08592">2610.08592</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08762.html">Small Distortions, Big Polarization: Tetragonal BaTiO3 Nanoparticles for High-Performance Piezoelectric Nanogenerators</a></div><div class="paper-tags"><a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
+<td>Shivshankar Jokare et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08762">2610.08762</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06158.html">Compressed magnetic Moment Tensor Potentials via low-rank matrix and tensor factorizations</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Alexey S. Kotykhov et al.</td>
@@ -26,6 +56,18 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06283.html">First-Principles Investigation of Multimodal Toxic Gas Sensing in Carbon-Tuned hBN-Graphene Alloys: Chemiresistive, Work-Function, and Optical Responses</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a></div></td>
 <td>Tanjuma Shikder Jhumu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.06283">2610.06283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07179.html">Adjoint-State Identifiability of Piezo-Tunable Valley Splitting in 2D Magnetic Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Suhas Suresh Bharadwaj</td>
+<td><a href="http://arxiv.org/abs/2610.07179">2610.07179</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07201.html">Is there a density-gradient expansion for the electronic exchange energy?</a></div></td>
+<td>John P. Perdew et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07201">2610.07201</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-04</td>
@@ -122,47 +164,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02599.html">TasteBench: Multimodal Benchmark for Sensory Prediction, from Molecules to Sustainable Foods</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a> · <a href="protein-ligand-7d.html">protein-ligand</a></div></td>
 <td>Anna T. Thomas et al.</td>
 <td><a href="http://arxiv.org/abs/2610.02599">2610.02599</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36706.html">Probing the electronic structure of $\mathrm{UTe}_2$ with ARPES and high-energy spectroscopy</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>Shin-ichi Fujimori</td>
-<td><a href="http://arxiv.org/abs/2609.36706">2609.36706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37058.html">Linear-Scaling Quantum Transport from Machine-Learning Density Functional Theory Hamiltonians</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="gnn-7d.html">gnn</a></div></td>
-<td>Bang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.37058">2609.37058</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37075.html">Defect-controlled electrical and optical properties of CrN thin films: experiment and first-principles study</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>J. Bulíř et al.</td>
-<td><a href="http://arxiv.org/abs/2609.37075">2609.37075</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37166.html">Adaptive Expansions of the Optimized Effective Potential in Physically Motivated Response Spaces</a></div></td>
-<td>Gabriel Chirchir et al.</td>
-<td><a href="http://arxiv.org/abs/2609.37166">2609.37166</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37823.html">Multiscale modelling of nanoscaled FETs based on 2D ferroelectric materials</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Alejandro Toral-Lopez et al.</td>
-<td><a href="http://arxiv.org/abs/2609.37823">2609.37823</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37827.html">Electronic Coupling and Charge-Transfer Landscape of Graphene on Ge(001)/Si(001): Multiscale Analysis Assisted by Machine Learning</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
-<td>Pawel Dabrowski et al.</td>
-<td><a href="http://arxiv.org/abs/2609.37827">2609.37827</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.38125.html">How Thermodynamically Accessible are Quaternary Mixed-Metal Chalcohalides?</a></div></td>
-<td>Pascal Henkel et al.</td>
-<td><a href="http://arxiv.org/abs/2609.38125">2609.38125</a></td>
 </tr>
 </tbody></table>

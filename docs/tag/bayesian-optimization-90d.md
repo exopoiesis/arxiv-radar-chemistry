@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08495.html">Information-Dense Synthesis for Molecular Discovery</a></div></td>
+<td>Kasper K. Jakobsen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08495">2610.08495</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04134.html">Agentic Resource Allocation for Batch Multi-Objective Bayesian Optimization in Autonomous Materials Discovery</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Robert Robinson et al.</td>
@@ -194,11 +200,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10284.html">Rank-Refined Quantum-Behaved Particle Swarm Optimization for Quantum Molecular Generation</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Sing-Yun Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.10284">2607.10284</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07289.html">Bayesian Optimization of Genetic Algorithm Hyperparameters in a Multi-Fidelity Framework for Efficient Lattice Material Design</a></div></td>
-<td>Sergei Zorkaltsev et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07289">2607.07289</a></td>
 </tr>
 </tbody></table>

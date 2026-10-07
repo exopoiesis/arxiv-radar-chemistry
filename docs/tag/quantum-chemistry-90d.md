@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">64 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07702.html">Demonstration of Parallel Multi-QPU Execution for Fragment-Based Quantum Chemistry Using On-Premises Hardware</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
+<td>Nils Herrmann et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07702">2610.07702</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06448.html">A Practical Introduction to VQE: Methods, Challenges, and Applications in Physics and Chemistry</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
@@ -386,17 +392,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08220.html">Quantum linear solvers for quantum chemistry: prospects of exponential quantum advantage</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
 <td>Peniel Bertrand Tsemo et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08220">2607.08220</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07110.html">Probing Extended Recognition Sites in Zn-Metalloproteins via Quantum Chemistry and Polarizable Molecular Dynamics</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Nohad Gresh et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07110">2607.07110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07546.html">An analytical solution of a quantum system with non-Markovian behavior: The Bixon-Jortner system in time domain</a></div></td>
-<td>Osman Cevheroğlu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07546">2607.07546</a></td>
 </tr>
 </tbody></table>

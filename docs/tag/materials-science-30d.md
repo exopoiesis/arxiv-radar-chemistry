@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2610.06448">2610.06448</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07296.html">Mapping E-textiles Design Pain Points and Generative AI Opportunities: Insights from Workshops in Shanghai and Winchester</a></div></td>
+<td>Zhuchenyang Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07296">2610.07296</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04161.html">MOSAIC: Addressing Space for Local, Steerable, and Scalable Atomistic Generation</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Ishan Nadkarni et al.</td>
@@ -134,11 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07300.html">PCFlow: Physics-Conditioned Flow Matching for GPR B-Scan Image Synthesis</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Zhijie Shen et al.</td>
 <td><a href="http://arxiv.org/abs/2609.07300">2609.07300</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.06761.html">LATS: Levy Adaptive Tree Sampling for Feedback-Driven Diverse Target Discovery</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
-<td>Binglin Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2609.06761">2609.06761</a></td>
 </tr>
 </tbody></table>

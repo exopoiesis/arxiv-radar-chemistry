@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2610.06448">2610.06448</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07296.html">Mapping E-textiles Design Pain Points and Generative AI Opportunities: Insights from Workshops in Shanghai and Winchester</a></div></td>
+<td>Zhuchenyang Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07296">2610.07296</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04161.html">MOSAIC: Addressing Space for Local, Steerable, and Scalable Atomistic Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Ishan Nadkarni et al.</td>
@@ -2072,11 +2078,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12199.html">Spectroscopic Determination of Site-Selective Ligand Binding on Single Anisotropic Nanocrystals</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Dong Le et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12199">2510.12199</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21756.html">Utilizing SciPy and other open source packages to provide a powerful API for materials manipulation in the Schrödinger Materials Suite</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Alexandr Fonari et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21756">2510.21756</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">262 papers</span>
+  <span class="paper-count">263 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07552.html">Reliability of AI/ML Computational Searches for Magnetic Materials: Databases, Validation, and Synthesizability</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Vladimir Antropov et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07552">2610.07552</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08296.html">OxiGen: Oxidation-State-Aware Crystal Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Dylan John et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08296">2610.08296</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04866.html">Phenomenon-first problem formulation with language models in metal-organic frameworks</a></div><div class="paper-tags"><a href="mof-360d.html">mof</a></div></td>
@@ -1580,11 +1592,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01092.html">Machine Learning-Driven Insights into Excitonic Effects in 2D Materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
 <td>Ahsan Javed et al.</td>
 <td><a href="http://arxiv.org/abs/2501.01092">2501.01092</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21756.html">Utilizing SciPy and other open source packages to provide a powerful API for materials manipulation in the Schrödinger Materials Suite</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Alexandr Fonari et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21756">2510.21756</a></td>
 </tr>
 </tbody></table>

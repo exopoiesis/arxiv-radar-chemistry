@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">74 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08296.html">OxiGen: Oxidation-State-Aware Crystal Generation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Dylan John et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08296">2610.08296</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08652.html">Steering Diffusion Models to Rare Events with Sequential Monte Carlo</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Aavash Subedi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08652">2610.08652</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05808.html">DiMOS: Doob-Guided Inference-Time Multi-Objective Search for Scientific Design</a></div></td>
 <td>Ziqing Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.05808">2610.05808</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07203.html">Contact-Governed Macroscopic Signatures of Strain-Induced Valley Sorting in MoS$_2$ Field-Effect Transistors</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="tmd-90d.html">tmd</a></div></td>
+<td>Suhas Suresh Bharadwaj</td>
+<td><a href="http://arxiv.org/abs/2610.07203">2610.07203</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-04</td>
@@ -32,6 +50,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05397.html">Efficient Graph Generation via Direct Prediction and Flow Matching</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Susie Lu</td>
 <td><a href="http://arxiv.org/abs/2610.05397">2610.05397</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07037.html">Inference-Time Projection for Physically Valid Biomolecular Diffusion Models</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a> · <a href="structure-prediction-90d.html">structure-prediction</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td> Qurat-ul-ain et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07037">2610.07037</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-03</td>
@@ -434,17 +458,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08879.html">Decoupled Illumination Priors for Spatially Controllable Multi-View Indoor Scene Relighting</a></div></td>
 <td>Chenjian Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08879">2607.08879</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07015.html">EscFOA: Enhancing Spatial Learning for Visually Impaired Learners via Generative Spatial Audio in 360-Degree Educational Environments</a></div></td>
-<td>Ziyu Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07015">2607.07015</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07232.html">DiPhon: Diffusion on Graphons for Scalable Graph Generation</a></div></td>
-<td>Sergio Rozada et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07232">2607.07232</a></td>
 </tr>
 </tbody></table>

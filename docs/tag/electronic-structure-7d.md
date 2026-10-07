@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>electronic-structure — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08356.html">Incoherent Spectral Weight Emerging from a Van Hove Singularity in a Kagome Metal</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>C. -y. Lim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08356">2610.08356</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06448.html">A Practical Introduction to VQE: Methods, Challenges, and Applications in Physics and Chemistry</a></div><div class="paper-tags"><a href="materials-science-7d.html">materials-science</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
@@ -56,23 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02540.html">libterachem.py: Modular development of electronic structure methods with graphical processing units</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Juncheng Harry Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.02540">2610.02540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36450.html">Orbital-engineered px,y-kagome lattice in a halogen monolayer</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Xulin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.36450">2609.36450</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36706.html">Probing the electronic structure of $\mathrm{UTe}_2$ with ARPES and high-energy spectroscopy</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Shin-ichi Fujimori</td>
-<td><a href="http://arxiv.org/abs/2609.36706">2609.36706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37075.html">Defect-controlled electrical and optical properties of CrN thin films: experiment and first-principles study</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>J. Bulíř et al.</td>
-<td><a href="http://arxiv.org/abs/2609.37075">2609.37075</a></td>
 </tr>
 </tbody></table>

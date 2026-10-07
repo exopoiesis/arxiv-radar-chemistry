@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 90d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <strong>90d</strong> <a href="thermodynamic-integration-360d.html">360d</a> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08291.html">Mechanical properties of V-4Ti-4Cr alloy from molecular dynamics with a neural-network potential</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>G. S. Demyanov et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08291">2610.08291</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08762.html">Small Distortions, Big Polarization: Tetragonal BaTiO3 Nanoparticles for High-Performance Piezoelectric Nanogenerators</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Shivshankar Jokare et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08762">2610.08762</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05057.html">Onset of a quantum Fisher-Selke sequence in the transverse-field ANNNI model and its bilayer</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
@@ -170,11 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09005.html">Benchmarking Universal Machine Learning Force Fields for Molecular Dynamics of Lunar Regolith Minerals</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Ziyu Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.09005">2607.09005</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07467.html">SpaCellAgent: A Self-Evolving LLM-Based Multi-Agent Framework for Trajectory Analysis</a></div></td>
-<td>Songhan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07467">2607.07467</a></td>
 </tr>
 </tbody></table>

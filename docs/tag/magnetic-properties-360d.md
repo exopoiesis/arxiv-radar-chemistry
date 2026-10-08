@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09576.html">PEACE: Covariant learning of nonadiabatic manifolds with parity-resolved Hamiltonians</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
+<td>Rongzhi Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09576">2610.09576</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05714.html">Current selects the helicity of a chiral phonon</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Swagata Acharya et al.</td>
@@ -2090,11 +2096,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12888.html">Exotic Surface Stripe Orders in Correlated Kagome Metal CsCr3Sb5</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Yunxing Li et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12888">2510.12888</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10547.html">Near room temperature magnetoelectric response and tunable magnetic anisotropy in the two-dimensional magnet 1T-CrTe2</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Fengping Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10547">2510.10547</a></td>
 </tr>
 </tbody></table>

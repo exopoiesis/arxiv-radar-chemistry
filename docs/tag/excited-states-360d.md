@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09389.html">Accelerating dynamic polarizability calculations of organic molecules using equivariant graph neural networks</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a></div></td>
+<td>Houssam Metni et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09389">2610.09389</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01089.html">Charge and spin dynamics in spintronic THz emitters from Time-Dependent Density Functional Theory</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Ali Kefayati</td>
@@ -1298,11 +1304,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00526.html">Correlation-induced phase shifts and time delays in resonance enhanced high harmonic generation from Cr+</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Yoad Aharon et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00526">2507.00526</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.00702.html">Simulating Molecular Single Vibronic Level Fluorescence Spectra with ab initio Hagedorn Wavepacket Dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Zhan Tong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2403.00702">2403.00702</a></td>
 </tr>
 </tbody></table>

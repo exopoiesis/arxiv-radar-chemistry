@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">515 papers</span>
+  <span class="paper-count">516 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09548.html">De novo design of monoclonal and bispecific antibodies with OFAntibody</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td> Valhalla Team</td>
+<td><a href="http://arxiv.org/abs/2610.09548">2610.09548</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07340.html">CausalBind: Causal Modeling and Learning for Protein-Molecule Virtual Screening</a></div></td>
+<td>Loka Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07340">2610.07340</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05397.html">Efficient Graph Generation via Direct Prediction and Flow Matching</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
@@ -3098,11 +3110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12075.html">Generative Deep Learning Framework for Inverse Design of Fuels</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Kiran K. Yalamanchi et al.</td>
 <td><a href="http://arxiv.org/abs/2504.12075">2504.12075</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08075.html">Multi-Condition Conformal Selection</a></div></td>
-<td>Qingyang Hao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08075">2510.08075</a></td>
 </tr>
 </tbody></table>

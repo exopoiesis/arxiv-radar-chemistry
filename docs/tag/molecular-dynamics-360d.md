@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1558 papers</span>
+  <span class="paper-count">1563 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09268.html">Full molecular dynamics simulations of a single trapped ion in a neutral bath</a></div></td>
+<td>Saajid Chowdhury et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09268">2610.09268</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09405.html">Heat Transport of the $β$-Fermi--Pasta--Ulam--Tsingou chain in the long-wave limit</a></div></td>
+<td>Henrique Santos Lima et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09405">2610.09405</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09576.html">PEACE: Covariant learning of nonadiabatic manifolds with parity-resolved Hamiltonians</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
+<td>Rongzhi Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09576">2610.09576</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09705.html">Interfacial Water Responds Linearly to Charge yet Is Charge-Asymmetric</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="battery-materials-360d.html">battery-materials</a></div></td>
+<td>Yair Litman et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09705">2610.09705</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09936.html">Heat transport in weakly anharmonic Fermi-Pasta-Ulam-Tsingou chains</a></div></td>
+<td>Kiratholly Nandakumar Madhav Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09936">2610.09936</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10054.html">Transition Path Sampling Using Koopman Operators and Exit-Time Optimal Control</a></div></td>
+<td>Boya Hou et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10054">2610.10054</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08013.html">Defect-limited thermal transport in AlN using pretrained machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
@@ -38,6 +74,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08652.html">Steering Diffusion Models to Rare Events with Sequential Monte Carlo</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Aavash Subedi et al.</td>
 <td><a href="http://arxiv.org/abs/2610.08652">2610.08652</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09106.html">Angular Momentum Fluctuations Induced by Phonon-Rotation Coupling Govern Nuclear Spin Relaxation in a Molecular Rotator Phase</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Yanan Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09106">2610.09106</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-05</td>
@@ -9350,17 +9392,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11870.html">Neuromorphic heat transport effects in a molecular junction</a></div></td>
 <td>Renai Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2510.11870">2510.11870</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10495.html">Oscillator-qubit generalized quantum signal processing for vibronic models: a case study of uracil cation</a></div></td>
-<td>Jungsoo Hong et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10495">2510.10495</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10831.html">Emerging Ferroelectric Domains: Stacking and Rotational Landscape of MoS2 Moire Bilayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Anikeya Aditya et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10831">2510.10831</a></td>
 </tr>
 </tbody></table>

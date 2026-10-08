@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">263 papers</span>
+  <span class="paper-count">262 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04866.html">Phenomenon-first problem formulation with language models in metal-organic frameworks</a></div><div class="paper-tags"><a href="mof-360d.html">mof</a></div></td>
 <td>Jihan Kim</td>
 <td><a href="http://arxiv.org/abs/2610.04866">2610.04866</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08852.html">Autonomous Droplet Navigation via Model-Based Reinforcement Learning: Zero-Shot Transfer and Emergent Dynamics</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Rajneesh Anand et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08852">2610.08852</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-02</td>
@@ -1580,17 +1586,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11548.html">Unlocking High-Throughput Heterojunction Discovery</a></div></td>
 <td>Thomas W. Gries et al.</td>
 <td><a href="http://arxiv.org/abs/2510.11548">2510.11548</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.21341.html">Retrieval-Retro: Retrieval-based Inorganic Retrosynthesis with Expert Knowledge</a></div><div class="paper-tags"><a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Heewoong Noh et al.</td>
-<td><a href="http://arxiv.org/abs/2410.21341">2410.21341</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01092.html">Machine Learning-Driven Insights into Excitonic Effects in 2D Materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
-<td>Ahsan Javed et al.</td>
-<td><a href="http://arxiv.org/abs/2501.01092">2501.01092</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12340.html">Ambient Discrete Diffusion: Using the Wrong Data at the Right Time for Data Efficient Learning</a></div></td>
+<td>Julian Kleutgens et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12340">2610.12340</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08296.html">OxiGen: Oxidation-State-Aware Crystal Generation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Dylan John et al.</td>
@@ -440,11 +446,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10429.html">Data-efficient continuous conditional denoising diffusion model for microstructure generation</a></div></td>
 <td>Tarakram Ramgopal et al.</td>
 <td><a href="http://arxiv.org/abs/2607.10429">2607.10429</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09277.html">Autoregressive latent diffusion for 3D molecule generation</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
-<td>Federico Ottomano et al.</td>
-<td><a href="http://arxiv.org/abs/2607.09277">2607.09277</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dft — all</h1>
-  <span class="paper-count">3875 papers</span>
+  <span class="paper-count">3880 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11212.html">Light-induced interlayer spacing dynamics via orbital phonon coupling</a></div><div class="paper-tags"><a href="excited-states-all.html">excited-states</a> · <a href="tmd-all.html">tmd</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
+<td>Wenwen Mao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.11212">2610.11212</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11562.html">Multipolar fluctuations in localized $4f^2$-electron systems from dynamical mean-field theory: application to $\mathrm{PrCdNi}_4$</a></div></td>
+<td>Koki Numa et al.</td>
+<td><a href="http://arxiv.org/abs/2610.11562">2610.11562</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12132.html">A structure-preserving neural density functional for the ions of a polymer electrolyte</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Liyao Lyu</td>
+<td><a href="http://arxiv.org/abs/2610.12132">2610.12132</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09388.html">Bottom-Up Prediction of Amorphous Poly(1,3-dioxolane) using Ab Initio Reactive Machine-Learning Force Fields</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="structure-prediction-all.html">structure-prediction</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
@@ -68,6 +86,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10298.html">Physics-Aligned Electronic Ground-State Learning Improves Generalization</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
 <td>Eike S. Eberhard et al.</td>
 <td><a href="http://arxiv.org/abs/2610.10298">2610.10298</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10725.html">Resolving the interfacial mechanical landscape of monolayer NbSe2 grown by confined epitaxy</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
+<td>Ye Wang</td>
+<td><a href="http://arxiv.org/abs/2610.10725">2610.10725</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10891.html">Data driven screening of CaCu$_5$-type magnetic structures</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="chemical-space-all.html">chemical-space</a></div></td>
+<td>Nabaraj Pokhrel et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10891">2610.10891</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-06</td>

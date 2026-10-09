@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">252 papers</span>
+  <span class="paper-count">250 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1514,17 +1514,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12719.html">Multitask finetuning and acceleration of chemical pretrained models for small molecule drug property prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a></div></td>
 <td>Matthew Adrian et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12719">2510.12719</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.11866.html">Evaluating multiple models using labeled and unlabeled data</a></div></td>
-<td>Divya Shanmugam et al.</td>
-<td><a href="http://arxiv.org/abs/2501.11866">2501.11866</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12075.html">Generative Deep Learning Framework for Inverse Design of Fuels</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Kiran K. Yalamanchi et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12075">2504.12075</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11714.html">Predictable Accuracy of Martini 3 Absolute Protein-Ligand Binding Free Energies across 15 Targets</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Luis J. Walter et al.</td>
+<td><a href="http://arxiv.org/abs/2610.11714">2610.11714</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03992.html">MathAgent: Multi-Agent Optimization of Mathematical Invariants for Molecular Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Yiming Ren et al.</td>
@@ -914,11 +920,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12199.html">Spectroscopic Determination of Site-Selective Ligand Binding on Single Anisotropic Nanocrystals</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Dong Le et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12199">2510.12199</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17007.html">RiboFlow: Conditional De Novo RNA Co-Design via Synergistic Flow Matching</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Runze Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2503.17007">2503.17007</a></td>
 </tr>
 </tbody></table>

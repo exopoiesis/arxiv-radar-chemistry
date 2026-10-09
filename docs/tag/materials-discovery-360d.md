@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11331.html">Data-Driven Variable-Exponent Analysis for Photoemission Yield Spectroscopy: An Autonomous Self-Diagnosing Framework Based on Integrated Residual Metrics</a></div></td>
+<td>Shinjiro Yagyu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.11331">2610.11331</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07552.html">Reliability of AI/ML Computational Searches for Magnetic Materials: Databases, Validation, and Synthesizability</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Vladimir Antropov et al.</td>
@@ -1580,11 +1586,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12091.html">ToPolyAgent: AI Agents for Coarse-Grained Topological Polymer Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Lijie Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12091">2510.12091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11548.html">Unlocking High-Throughput Heterojunction Discovery</a></div></td>
-<td>Thomas W. Gries et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11548">2510.11548</a></td>
 </tr>
 </tbody></table>

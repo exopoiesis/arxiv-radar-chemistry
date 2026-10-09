@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11694.html">Elucidating the Space of Enzymatic Reaction: A Unified Benchmark and Pretrained Model</a></div></td>
+<td>Yutong Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.11694">2610.11694</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07560.html">Navigating Route Latent Space for Synthesizable Molecular Design</a></div></td>
 <td>Tao Li et al.</td>
@@ -44,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15096.html">OpenAI4S: Code as Action, Science as Sessions</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Gongbo Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.15096">2609.15096</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08503.html">TSBench: A physics-grounded benchmark for evaluating LLM understanding of chemical reaction mechanisms</a></div><div class="paper-tags"><a href="string-method-30d.html">string-method</a></div></td>
-<td>Xiaohu Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08503">2609.08503</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">429 papers</span>
+  <span class="paper-count">427 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12340.html">Ambient Discrete Diffusion: Using the Wrong Data at the Right Time for Data Efficient Learning</a></div></td>
+<td>Julian Kleutgens et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12340">2610.12340</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08296.html">OxiGen: Oxidation-State-Aware Crystal Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
@@ -2570,23 +2576,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16238.html">DNA Nanostructures Characterized via Dual Nanopore Resensing</a></div></td>
 <td>Wangwei Dong et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16238">2510.16238</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15567.html">Towards Unified and Lossless Latent Space for 3D Molecular Latent Diffusion Modeling</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Yanchen Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2503.15567">2503.15567</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08980.html">Learning Diffusion Models with Flexible Representation Guidance</a></div></td>
-<td>Chenyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08980">2507.08980</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12840.html">ST2HE: A Cross-Platform Framework for Virtual Histology and Annotation of High-Resolution Spatial Transcriptomics Data</a></div></td>
-<td>Zhentao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12840">2510.12840</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">516 papers</span>
+  <span class="paper-count">513 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3092,23 +3092,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12719.html">Multitask finetuning and acceleration of chemical pretrained models for small molecule drug property prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Matthew Adrian et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12719">2510.12719</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.13959.html">LIDDIA: Language-based Intelligent Drug Discovery Agent</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a></div></td>
-<td>Reza Averly et al.</td>
-<td><a href="http://arxiv.org/abs/2502.13959">2502.13959</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15567.html">Towards Unified and Lossless Latent Space for 3D Molecular Latent Diffusion Modeling</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Yanchen Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2503.15567">2503.15567</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12075.html">Generative Deep Learning Framework for Inverse Design of Fuels</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Kiran K. Yalamanchi et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12075">2504.12075</a></td>
 </tr>
 </tbody></table>

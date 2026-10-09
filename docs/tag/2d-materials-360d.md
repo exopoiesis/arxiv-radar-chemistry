@@ -40,6 +40,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2610.09719">2610.09719</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10725.html">Resolving the interfacial mechanical landscape of monolayer NbSe2 grown by confined epitaxy</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Ye Wang</td>
+<td><a href="http://arxiv.org/abs/2610.10725">2610.10725</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07918.html">Layered spin-crossover metal-organic frameworks for light-induced control of two-dimensional quantum materials</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="mof-360d.html">mof</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Carla Boix-Constant et al.</td>
@@ -3152,11 +3158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12074.html">Metalorganic Chemical Vapor Deposition of AlScN Thin Films and AlScN/AlN/GaN Heterostructures</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
 <td>Vijay Gopal Thirupakuzi Vangipuram et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12074">2510.12074</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21537.html">Molecular Beam Epitaxy of 2H-TaS$_2$ few-layers on GaN(0001)</a></div></td>
-<td>Constantin Hilbrunner et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21537">2508.21537</a></td>
 </tr>
 </tbody></table>

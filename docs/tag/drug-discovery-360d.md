@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">513 papers</span>
+  <span class="paper-count">510 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3074,23 +3074,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13127.html">Precision Design of Cyclic Peptides using AlphaFold</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Cheuk Sau Au</td>
 <td><a href="http://arxiv.org/abs/2510.13127">2510.13127</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10262.html">HelixVS: Deep Learning-Enhanced Structure-Based Platform for Screening and Design</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Shanzhuo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10262">2508.10262</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12245.html">MoRA: On-the-fly Molecule-aware Low-Rank Adaptation Framework for LLM-based Multi-Modal Molecular Assistant</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Tao Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12245">2510.12245</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12719.html">Multitask finetuning and acceleration of chemical pretrained models for small molecule drug property prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Matthew Adrian et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12719">2510.12719</a></td>
 </tr>
 </tbody></table>

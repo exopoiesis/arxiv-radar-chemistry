@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2046 papers</span>
+  <span class="paper-count">2041 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12260,35 +12260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14103.html">Turn-on of Current-Induced Spin Torque upon Noncollinear Antiferromagnetic Ordering in Delafossite PdCrO2</a></div></td>
 <td>Xiaoxi Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.14103">2510.14103</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14392.html">General approach for partitioning and phase separation in macromolecular coexisting phases</a></div></td>
-<td>Vikki Anand Varma et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14392">2509.14392</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12526.html">Anharmonic Effects in Ge2Sb2Te5 and Consequences on Thermodynamic Stability</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Owain T. Beynon et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12526">2510.12526</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12613.html">Quantum Spin Singlet and Classical Néel-Ordered Ground States in MoX3 (X = I, Br) Spin-3/2 Dimerized Antiferromagnetic Chain Crystals</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Jordan Teeter et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12613">2510.12613</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12682.html">Possible Bose-Einstein condensation of magnons in a S = 5/2 honeycomb lattice</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>J. Khatua et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12682">2510.12682</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12888.html">Exotic Surface Stripe Orders in Correlated Kagome Metal CsCr3Sb5</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Yunxing Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12888">2510.12888</a></td>
 </tr>
 </tbody></table>

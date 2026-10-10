@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,41 +182,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04290.html">Magneto-transport and electronic structure studies of ternary antimonides, La$T$Sb$_2$ ($T$ = Cu, Ag)</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
 <td>Himanshu Pant et al.</td>
 <td><a href="http://arxiv.org/abs/2610.04290">2610.04290</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02651.html">Equivariant Flow Matching for Electron Density Prediction</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="generative-model-7d.html">generative-model</a></div></td>
-<td>Chenxing Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.02651">2610.02651</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02761.html">Precise description of spontaneous fission half-lives of Rutherfordium isotopes within the relativistic Hartree-Bogoliubov theory</a></div></td>
-<td>Jie Zhao</td>
-<td><a href="http://arxiv.org/abs/2610.02761">2610.02761</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03444.html">Electronic Density versus Geometry for Machine-Learned Molecular Absorption Spectra</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>Siddharth Dhanpal et al.</td>
-<td><a href="http://arxiv.org/abs/2610.03444">2610.03444</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03821.html">Space Charge Layer and Facile Halide Rearrangement Enable Fast Lithium-Ion Transport at Halide Solid Electrolyte Interfaces</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="battery-materials-7d.html">battery-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Md Salman Rabbi Limon et al.</td>
-<td><a href="http://arxiv.org/abs/2610.03821">2610.03821</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03973.html">Equivariant generative diffusion learns and generalizes the structural ensemble of amorphous oxides</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="diffusion-model-7d.html">diffusion-model</a></div></td>
-<td>Jun Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.03973">2610.03973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04115.html">Distilling universal machine-learning potentials for moiré lattices across one million atoms</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="tmd-7d.html">tmd</a></div></td>
-<td>Thomas Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04115">2610.04115</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">158 papers</span>
+  <span class="paper-count">157 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -956,11 +956,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14217.html">Spectral Analysis of Molecular Kernels: When Richer Features Do Not Guarantee Better Generalization</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Asma Jamali et al.</td>
 <td><a href="http://arxiv.org/abs/2510.14217">2510.14217</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12426.html">Intense and Tunable Multi-color Terahertz Radiation from Laser-Shaped Electron Beams</a></div></td>
-<td>Yin Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12426">2510.12426</a></td>
 </tr>
 </tbody></table>

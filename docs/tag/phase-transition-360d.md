@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">206 papers</span>
+  <span class="paper-count">204 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1238,17 +1238,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13696.html">SimPoly: Simulation of Polymers with Machine Learning Force Fields Derived from First Principles</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Gregor N. C. Simm et al.</td>
 <td><a href="http://arxiv.org/abs/2510.13696">2510.13696</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12682.html">Possible Bose-Einstein condensation of magnons in a S = 5/2 honeycomb lattice</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>J. Khatua et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12682">2510.12682</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12998.html">Photostriction-Driven Phase Transition in Layered Chiral NbOX$_2$ Crystals: Electrical-Field-Controlled Enantiomer Selectivity</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Jorge Cardenas-Gamboa et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12998">2510.12998</a></td>
 </tr>
 </tbody></table>

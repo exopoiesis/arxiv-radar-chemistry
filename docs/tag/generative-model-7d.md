@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>generative-model — 7d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,29 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04419.html">MaDeL: Manifold-Decomposed Feature Losses for Generative Modeling</a></div></td>
 <td>Beomsu Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2610.04419">2610.04419</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02651.html">Equivariant Flow Matching for Electron Density Prediction</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Chenxing Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.02651">2610.02651</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03066.html">Explainable Molecular Structure Inference from GC--MS with Diffusion Models and LLM Reranking</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a> · <a href="drug-discovery-7d.html">drug-discovery</a></div></td>
-<td>Changlin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.03066">2610.03066</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03880.html">Reinforcement Learning on the Discrete Composition Channel of a Crystal Generator: Validated Gains and Reward Hacking</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a> · <a href="materials-discovery-7d.html">materials-discovery</a> · <a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
-<td>Pawan Prakash et al.</td>
-<td><a href="http://arxiv.org/abs/2610.03880">2610.03880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03978.html">Learning Latent Protein Languages for Autoregressive Generation</a></div><div class="paper-tags"><a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Mahdi Pourmirzaei et al.</td>
-<td><a href="http://arxiv.org/abs/2610.03978">2610.03978</a></td>
 </tr>
 </tbody></table>

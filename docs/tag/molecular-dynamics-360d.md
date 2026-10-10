@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1569 papers</span>
+  <span class="paper-count">1565 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9404,29 +9404,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16023.html">Unifying Polymer Modeling and Design via a Conformation-Centric Generative Foundation Model</a></div></td>
 <td>Fanmeng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16023">2510.16023</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12091.html">ToPolyAgent: AI Agents for Coarse-Grained Topological Polymer Simulations</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Lijie Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12091">2510.12091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12176.html">Nanoscale surface morphology controls charge storage at stepped Pt-water interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
-<td>Matthew T. Darby et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12176">2510.12176</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12593.html">Escape-Induced Temporally Correlated Noise Driven Universality Crossover</a></div></td>
-<td>Mrinal Manna et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12593">2510.12593</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12989.html">Time is length in self-similar logarithmic aging of physically cross-linked semiflexible polymer networks</a></div></td>
-<td>Patrick Ilg et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12989">2510.12989</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">240 papers</span>
+  <span class="paper-count">239 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1448,11 +1448,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13264.html">Generative model for information metamaterial design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Jun Ming Hou et al.</td>
 <td><a href="http://arxiv.org/abs/2510.13264">2510.13264</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18966.html">Protein Design with Dynamic Protein Vocabulary</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Nuowei Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18966">2505.18966</a></td>
 </tr>
 </tbody></table>

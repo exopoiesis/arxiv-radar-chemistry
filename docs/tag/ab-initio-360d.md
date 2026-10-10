@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1545 papers</span>
+  <span class="paper-count">1538 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9242,47 +9242,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14048.html">Comparative study of phonon-limited carrier transport in the Weyl semimetal TaAs family</a></div></td>
 <td>Shashi B. Mishra et al.</td>
 <td><a href="http://arxiv.org/abs/2510.14048">2510.14048</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05864.html">CryoFastAR: Fast Cryo-EM Ab Initio Reconstruction Made Easy</a></div></td>
-<td>Jiakai Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05864">2506.05864</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12103.html">The role of the overlap function in describing angular distributions of single-nucleon transfer reactions</a></div></td>
-<td>M. R. Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12103">2510.12103</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12176.html">Nanoscale surface morphology controls charge storage at stepped Pt-water interfaces</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Matthew T. Darby et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12176">2510.12176</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12199.html">Spectroscopic Determination of Site-Selective Ligand Binding on Single Anisotropic Nanocrystals</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Dong Le et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12199">2510.12199</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12317.html">Fe XVIII-XXIV K beta Inner-shell Absorption Lines in the X-ray Spectra of Neutron Star and Black Hole Binaries with XRISM</a></div></td>
-<td>Masahiro Tsujimoto et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12317">2510.12317</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12526.html">Anharmonic Effects in Ge2Sb2Te5 and Consequences on Thermodynamic Stability</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Owain T. Beynon et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12526">2510.12526</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12998.html">Photostriction-Driven Phase Transition in Layered Chiral NbOX$_2$ Crystals: Electrical-Field-Controlled Enantiomer Selectivity</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Jorge Cardenas-Gamboa et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12998">2510.12998</a></td>
 </tr>
 </tbody></table>

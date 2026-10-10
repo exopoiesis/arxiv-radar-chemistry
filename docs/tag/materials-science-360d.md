@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">348 papers</span>
+  <span class="paper-count">345 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2084,23 +2084,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13207.html">Towards Universal Material Property Prediction with Deep Learning and Single-Descriptor electronic Density</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Feng Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2510.13207">2510.13207</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.20278.html">Deep Generative Prior for First Order Inverse Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
-<td>Haoyu Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.20278">2504.20278</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12171.html">MatSciBench: Benchmarking the Reasoning Ability of Large Language Models in Materials Science</a></div></td>
-<td>Junkai Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12171">2510.12171</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12199.html">Spectroscopic Determination of Site-Selective Ligand Binding on Single Anisotropic Nanocrystals</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Dong Le et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12199">2510.12199</a></td>
 </tr>
 </tbody></table>

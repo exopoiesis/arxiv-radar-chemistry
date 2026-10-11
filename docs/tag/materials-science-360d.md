@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">345 papers</span>
+  <span class="paper-count">343 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2072,17 +2072,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16126.html">Engineering phase-frustration induced flat bands in an aza-triangulene covalent Kagome lattice</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Yuyi Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16126">2510.16126</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03943.html">Multi-Variable Batch Bayesian Optimization in Materials Research: Synthetic Data Analysis of Noise Sensitivity and Problem Landscape Effects</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
-<td>Imon Mia et al.</td>
-<td><a href="http://arxiv.org/abs/2504.03943">2504.03943</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13207.html">Towards Universal Material Property Prediction with Deep Learning and Single-Descriptor electronic Density</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Feng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13207">2510.13207</a></td>
 </tr>
 </tbody></table>

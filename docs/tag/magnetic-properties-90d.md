@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,11 +422,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11625.html">Chiral and $U(1)_A$ symmetries in background magnetic fields from lattice QCD</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
 <td>Heng-Tong Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2607.11625">2607.11625</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10937.html">A minimal model for the Weyl nodes and Fermi arcs of PtBi$_2$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Tobias Cristófoli et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10937">2607.10937</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">303 papers</span>
+  <span class="paper-count">300 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1814,23 +1814,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15697.html">All-Dielectric Photo-thermo-optical Metasurfaces for Thermal Landscaping at the Nanoscale</a></div></td>
 <td>Gopal Narmada Naidu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.15697">2510.15697</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21938.html">Multi-state Protein Design with DynamicMPNN</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Alex Abrudan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21938">2507.21938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13286.html">Surface Properties of Ga-Cu Based Liquid-Metal Alloys: Impact of Cu Dilution Topography and Reaction Conditions</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Tzung-En Hsieh et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13286">2510.13286</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13440.html">Computational Insights into Defect Induced Modulation in Electronic Properties of 2D Nitride Monolayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Shreya G. Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13440">2510.13440</a></td>
 </tr>
 </tbody></table>

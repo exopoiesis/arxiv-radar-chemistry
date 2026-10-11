@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1538 papers</span>
+  <span class="paper-count">1529 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9188,59 +9188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15171.html">Ab initio symmetry-adapted approaches to nuclear reactions</a></div></td>
 <td>Kristina D Launey et al.</td>
 <td><a href="http://arxiv.org/abs/2510.15171">2510.15171</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05385.html">Magnon-phonon interactions from first principles</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Khoa B. Le et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05385">2502.05385</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06285.html">A Wigner Matrix Based Convolution Algorithm For Matrix Elements in the LCAO Method</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Tyler C. Sterling</td>
-<td><a href="http://arxiv.org/abs/2510.06285">2510.06285</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13055.html">Reciprocal Space Attention for Learning Long-Range Interactions</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Hariharan Ramasubramanian et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13055">2510.13055</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13090.html">Optimization of Transferable Interatomic Potentials for Glasses toward Experimental Properties</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ruoxia Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13090">2510.13090</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13207.html">Towards Universal Material Property Prediction with Deep Learning and Single-Descriptor electronic Density</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Feng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13207">2510.13207</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13338.html">Wettability from Diffusion: A Universal Molecular Scaling Law</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Lorenzo Agosta</td>
-<td><a href="http://arxiv.org/abs/2510.13338">2510.13338</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13696.html">SimPoly: Simulation of Polymers with Machine Learning Force Fields Derived from First Principles</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Gregor N. C. Simm et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13696">2510.13696</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14012.html">CBVB-nH complexes as prevalent defects in metal-organic vapor-phase epitaxy-grown hexagonal boron nitride</a></div></td>
-<td>Marek Maciaszek et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14012">2510.14012</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14048.html">Comparative study of phonon-limited carrier transport in the Weyl semimetal TaAs family</a></div></td>
-<td>Shashi B. Mishra et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14048">2510.14048</a></td>
 </tr>
 </tbody></table>

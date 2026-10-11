@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 360d</h1>
-  <span class="paper-count">130 papers</span>
+  <span class="paper-count">129 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -788,11 +788,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16021.html">Hamiltonian parameter inference from resonant inelastic x-ray scattering with active learning</a></div></td>
 <td>Marton K. Lajer et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16021">2507.16021</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.03943.html">Multi-Variable Batch Bayesian Optimization in Materials Research: Synthetic Data Analysis of Noise Sensitivity and Problem Landscape Effects</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Imon Mia et al.</td>
-<td><a href="http://arxiv.org/abs/2504.03943">2504.03943</a></td>
 </tr>
 </tbody></table>

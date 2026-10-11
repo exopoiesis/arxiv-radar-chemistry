@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 360d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <strong>360d</strong> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -818,11 +818,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15343.html">Ab-initio study of structural, vibrational and non-linear optical properties of (TiO2)-(Tl2O)-(TeO2) glasses</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Raghvender Raghvender et al.</td>
 <td><a href="http://arxiv.org/abs/2510.15343">2510.15343</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13113.html">Energetic Origins of Competing Deformation Modes in Metastable Titanium Alloys</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ganlin Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13113">2510.13113</a></td>
 </tr>
 </tbody></table>

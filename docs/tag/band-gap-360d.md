@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">417 papers</span>
+  <span class="paper-count">416 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2510,11 +2510,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16143.html">Finite temperature magnetic interactions from first principles</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Ravi Kaushik et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16143">2510.16143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13440.html">Computational Insights into Defect Induced Modulation in Electronic Properties of 2D Nitride Monolayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Shreya G. Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13440">2510.13440</a></td>
 </tr>
 </tbody></table>

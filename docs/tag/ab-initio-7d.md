@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,35 +110,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07179.html">Adjoint-State Identifiability of Piezo-Tunable Valley Splitting in 2D Magnetic Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a></div></td>
 <td>Suhas Suresh Bharadwaj</td>
 <td><a href="http://arxiv.org/abs/2610.07179">2610.07179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04205.html">Origin of the inhomogeneous linewidth in a solid state $^{229}$Th:CaF$_2$ nuclear clock</a></div></td>
-<td>Kai Li et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04205">2610.04205</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04290.html">Magneto-transport and electronic structure studies of ternary antimonides, La$T$Sb$_2$ ($T$ = Cu, Ag)</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Himanshu Pant et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04290">2610.04290</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04510.html">ManifoldCache: Training-Free Diffusion Acceleration via Constraint Manifold Caching</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="diffusion-model-7d.html">diffusion-model</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Prashant Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04510">2610.04510</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04534.html">Beyond ideal cavities: quantifying the impact of cavity dissipation on light-matter strong coupling</a></div></td>
-<td>Giovanna Bruno et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04534">2610.04534</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04760.html">Site-Specific Orbital Symmetry Breaking in Epitaxial Graphene on Silicon Carbide</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Vinod K. Paidi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04760">2610.04760</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>2d-materials — 30d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <strong>30d</strong> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,23 +272,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12868.html">Decoupling support-dependent transport profiles from molecular water motion</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Jannik Mehlis et al.</td>
 <td><a href="http://arxiv.org/abs/2609.12868">2609.12868</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11459.html">Bottom-up Synthesis of Metastable 2D Hexagonal Copper(I) Iodide on Monolayer and within Bilayer Graphene</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>David Kaiser et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11459">2609.11459</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11602.html">Breaking Water at Graphene Defects</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Samuel G. H. Brookes et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11602">2609.11602</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11666.html">Competition between vacancy creation and filling in defect-engineering of hBN</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Shrirang Chokappa et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11666">2609.11666</a></td>
 </tr>
 </tbody></table>

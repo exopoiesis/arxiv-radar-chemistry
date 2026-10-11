@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">523 papers</span>
+  <span class="paper-count">519 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3128,29 +3128,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02606.html">Interface Structure and Electronic Properties in Cubic Boron Nitride - Diamond Heterostructures</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Cody L. Milne et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02606">2508.02606</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.05589.html">Predicting Resistive Pulse Signatures in Nanopores by Accurately Modeling Access Regions</a></div></td>
-<td>Martin Charron et al.</td>
-<td><a href="http://arxiv.org/abs/2411.05589">2411.05589</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05385.html">Magnon-phonon interactions from first principles</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Khoa B. Le et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05385">2502.05385</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13440.html">Computational Insights into Defect Induced Modulation in Electronic Properties of 2D Nitride Monolayers</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Shreya G. Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13440">2510.13440</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13699.html">Strain-induced Moiré Reconstruction and Memorization in Two-Dimensional Materials without Twist</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Nazmul Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13699">2510.13699</a></td>
 </tr>
 </tbody></table>

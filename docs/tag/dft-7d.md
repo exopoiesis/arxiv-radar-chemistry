@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05363.html">Sliding and stacking thin homo-monolayers from energy landscapes and combinatorics</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
 <td>Jose D. Mella et al.</td>
 <td><a href="http://arxiv.org/abs/2610.05363">2610.05363</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04290.html">Magneto-transport and electronic structure studies of ternary antimonides, La$T$Sb$_2$ ($T$ = Cu, Ag)</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Himanshu Pant et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04290">2610.04290</a></td>
 </tr>
 </tbody></table>

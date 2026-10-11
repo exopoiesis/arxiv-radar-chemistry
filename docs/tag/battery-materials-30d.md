@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>battery-materials — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <strong>30d</strong> <a href="battery-materials-90d.html">90d</a> <a href="battery-materials-360d.html">360d</a> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13115.html">Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>Qimen Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.13115">2609.13115</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12166.html">Functionalization-Driven Charge Redistribution Enabling Ultra-High-Capacity V2B MBene Anode for Li/Na ion batteries: A First-Principles study</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Shaiokh Bin Abi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12166">2609.12166</a></td>
 </tr>
 </tbody></table>

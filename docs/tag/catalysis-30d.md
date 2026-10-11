@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>catalysis — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <strong>30d</strong> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,17 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15096.html">OpenAI4S: Code as Action, Science as Sessions</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
 <td>Gongbo Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.15096">2609.15096</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11602.html">Breaking Water at Graphene Defects</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Samuel G. H. Brookes et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11602">2609.11602</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11790.html">Dynamic language model representations for multi-objective reaction optimisation</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
-<td>Joshua W. Sin et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11790">2609.11790</a></td>
 </tr>
 </tbody></table>

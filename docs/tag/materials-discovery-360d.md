@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">261 papers</span>
+  <span class="paper-count">259 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1568,17 +1568,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18900.html">Foundation Models for Discovery and Exploration in Chemical Space</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="property-prediction-360d.html">property-prediction</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Alexius Wadell et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18900">2510.18900</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13264.html">Generative model for information metamaterial design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Jun Ming Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13264">2510.13264</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13699.html">Strain-induced Moiré Reconstruction and Memorization in Two-Dimensional Materials without Twist</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Nazmul Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13699">2510.13699</a></td>
 </tr>
 </tbody></table>

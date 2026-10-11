@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">468 papers</span>
+  <span class="paper-count">467 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2816,11 +2816,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16659.html">Semiconducting nanotubes derived from a rectangular graphyne: a DFT study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Wjefferson Henrique da Silva Brandão et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16659">2510.16659</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06285.html">A Wigner Matrix Based Convolution Algorithm For Matrix Elements in the LCAO Method</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Tyler C. Sterling</td>
-<td><a href="http://arxiv.org/abs/2510.06285">2510.06285</a></td>
 </tr>
 </tbody></table>

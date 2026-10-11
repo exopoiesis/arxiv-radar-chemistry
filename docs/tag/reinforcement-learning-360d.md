@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 360d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">166 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <strong>360d</strong> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1010,11 +1010,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10248.html">Reasoning-Enhanced Large Language Models for Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-llm-360d.html">molecular-llm</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Jiaxi Zhuang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10248">2510.10248</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13786.html">The Art of Scaling Reinforcement Learning Compute for LLMs</a></div></td>
-<td>Devvrit Khatri et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13786">2510.13786</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>magnetic-properties — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <strong>30d</strong> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14371.html">Accelerating ab initio spin-phonon relaxation simulation of single-ion magnets by quantum embedding and spatial truncation</a></div><div class="paper-tags"><a href="quantum-computing-30d.html">quantum-computing</a></div></td>
 <td>Yifan Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2609.14371">2609.14371</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11881.html">Low temperature thermodynamics of $S_{\mathrm{eff}}=1/2$ triangular lattice quantum spin liquid candidate TlYbS$_2$</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Bishnu P. Belbase et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11881">2609.11881</a></td>
 </tr>
 </tbody></table>

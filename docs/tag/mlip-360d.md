@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">578 papers</span>
+  <span class="paper-count">574 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3458,29 +3458,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14745.html">Transport with noise in dilute gases: Effect of Langevin thermostat on transport coefficients</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Alejandro Alés et al.</td>
 <td><a href="http://arxiv.org/abs/2510.14745">2510.14745</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13055.html">Reciprocal Space Attention for Learning Long-Range Interactions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Hariharan Ramasubramanian et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13055">2510.13055</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13090.html">Optimization of Transferable Interatomic Potentials for Glasses toward Experimental Properties</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ruoxia Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13090">2510.13090</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13286.html">Surface Properties of Ga-Cu Based Liquid-Metal Alloys: Impact of Cu Dilution Topography and Reaction Conditions</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Tzung-En Hsieh et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13286">2510.13286</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13696.html">SimPoly: Simulation of Polymers with Machine Learning Force Fields Derived from First Principles</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Gregor N. C. Simm et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13696">2510.13696</a></td>
 </tr>
 </tbody></table>

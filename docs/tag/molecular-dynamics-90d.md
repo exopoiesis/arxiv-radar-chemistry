@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">320 papers</span>
+  <span class="paper-count">322 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13509.html">Energy-dependent trapping of backscattered helium during magnetron sputtering growth: A molecular dynamics study</a></div><div class="paper-tags"><a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Pascal Brault et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13509">2610.13509</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13714.html">Dislocation mediated twin boundary faceting in $β$-Sn</a></div></td>
+<td>John Israel et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13714">2610.13714</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11325.html">Isotope Effects at Classical Cost through Mass-Differentiable Machine Learning</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="chemical-space-90d.html">chemical-space</a></div></td>
@@ -56,6 +68,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12132.html">A structure-preserving neural density functional for the ions of a polymer electrolyte</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>Liyao Lyu</td>
 <td><a href="http://arxiv.org/abs/2610.12132">2610.12132</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12799.html">Drude, Where&#x27;s My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Artur Lyssenko et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12799">2610.12799</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-07</td>
@@ -104,6 +122,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10879.html">MD-LLM-2: A Transferable Language Model of Molecular Dynamics with Physical Conditioning and Explicit Path Probabilities</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
 <td>Mhd Hussein Murtada et al.</td>
 <td><a href="http://arxiv.org/abs/2610.10879">2610.10879</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12518.html">Looking Under the Streetlight: Evaluation in Generative Molecular Dynamics</a></div></td>
+<td>Simon Olsson et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12518">2610.12518</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-06</td>
@@ -1922,17 +1946,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13195.html">Reverse translocation of a nascent polypeptide through the ribosomal exit tunnels</a></div></td>
 <td>Felipe C. Nepomuceno et al.</td>
 <td><a href="http://arxiv.org/abs/2607.13195">2607.13195</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11217.html">Quantum Multiscale Modeling: A Hierarchy of Algorithms for Complex Chemical Systems</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Seenivasan Hariharan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11217">2607.11217</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11253.html">Impact of Electronic Energy Dissipation on Primary Radiation Damage Formation in Silicon</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
-<td>Nadezda Korepanova et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11253">2607.11253</a></td>
 </tr>
 </tbody></table>

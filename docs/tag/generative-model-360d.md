@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">484 papers</span>
+  <span class="paper-count">482 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2906,17 +2906,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16165.html">AtomBench: A Benchmark for Generative Atomic Structure Models using GPT, Diffusion, and Flow Architectures</a></div></td>
 <td>Charles Rhys Campbell et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16165">2510.16165</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18122.html">Provable Mixed-Noise Learning with Flow-Matching</a></div></td>
-<td>Paul Hagemann et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18122">2508.18122</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10480.html">Latent Retrieval Augmented Generation of Cross-Domain Protein Binders</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Zishen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10480">2510.10480</a></td>
 </tr>
 </tbody></table>

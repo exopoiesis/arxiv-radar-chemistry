@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13037.html">Quantum-Circuit Residuals for Receptor Functional Potency Prediction: Predictive Gains and Quadratic Structure</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
+<td>Chenyan Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13037">2610.13037</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11582.html">Undetected Photon Spectroscopy in the Long-wave and Far Infrared</a></div></td>
 <td>Jinghan Dong et al.</td>
@@ -950,11 +956,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16588.html">Copy-Augmented Representation for Structure Invariant Template-Free Retrosynthesis</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
 <td>Jiaxi Zhuang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16588">2510.16588</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14217.html">Spectral Analysis of Molecular Kernels: When Richer Features Do Not Guarantee Better Generalization</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Asma Jamali et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14217">2510.14217</a></td>
 </tr>
 </tbody></table>

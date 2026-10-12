@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>structure-prediction — 90d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <strong>90d</strong> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13106.html">Scaling RNA Foundation Models through Iterative Refinement</a></div></td>
+<td>Pengan Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13106">2610.13106</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11454.html">Zatom-2: Multitask Pretraining on Atomistic Data for Generative Modeling across Domains</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Miruna Cretu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11454">2610.11454</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12522.html">MolP2SBench: Do LLMs Really Reason from Molecular Properties to Structure?</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Yuhang Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12522">2610.12522</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-07</td>
@@ -212,11 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15309.html">DyneTrion: A Spatio-temporally Coherent Generative Emulator for Protein Dynamics Across Timescales</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
 <td>Kaihui Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15309">2607.15309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11105.html">Tiling decomposition multiplicity predicts stability of GaN(0001) surface reconstructions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Tetsuji Kuboyama et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11105">2607.11105</a></td>
 </tr>
 </tbody></table>

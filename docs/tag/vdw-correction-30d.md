@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>vdw-correction — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <strong>30d</strong> <a href="vdw-correction-90d.html">90d</a> <a href="vdw-correction-360d.html">360d</a> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,17 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13912.html">Unbiased first-principles construction of complete tensorial spin Hamiltonians</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
 <td>Haichang Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.13912">2609.13912</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12836.html">Ultrastrong Au-Te bonding drives disorder in monolayer ZrTe$_5$ on gold</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Konrád Kandrai et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12836">2609.12836</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12984.html">Assessing the magnetic states and the accuracy of first-principles Hubbard corrections for the battery cathode Li$_x$CoO$_2$ ($x=0,1$)</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Valentina Sanella et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12984">2609.12984</a></td>
 </tr>
 </tbody></table>

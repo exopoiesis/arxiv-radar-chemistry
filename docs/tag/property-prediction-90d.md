@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12522.html">MolP2SBench: Do LLMs Really Reason from Molecular Properties to Structure?</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Yuhang Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12522">2610.12522</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08400.html">Atom-JEPA: Joint-Embedding Predictive Architecture for 3D Atomistic Systems</a></div></td>
@@ -242,23 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13115.html">Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools</a></div></td>
 <td>Konstantinos Bougiatiotis et al.</td>
 <td><a href="http://arxiv.org/abs/2607.13115">2607.13115</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11091.html">Adapting Evidential Neural Networks to Test-Time Neighbor Fusion Improves Molecular Property Prediction</a></div></td>
-<td>Cameron Gruich et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11091">2607.11091</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11526.html">AutoMatBench: An Automatic Optimization Toolkit for the Acceleration of Material Properties Prediction Benchmarking</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
-<td>Hongxiao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11526">2607.11526</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12196.html">AlphaFunctor: Bridging The Gap Between Protein Function Annotation and Property Prediction</a></div><div class="paper-tags"><a href="protein-function-90d.html">protein-function</a></div></td>
-<td>Xiang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12196">2607.12196</a></td>
 </tr>
 </tbody></table>

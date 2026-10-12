@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12859.html">Closed-loop domain generation enhances battery health diagnosis</a></div></td>
+<td>Yue Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12859">2610.12859</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08495.html">Information-Dense Synthesis for Molecular Discovery</a></div></td>
 <td>Kasper K. Jakobsen et al.</td>
@@ -182,11 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12488.html">Sample Efficient Generative Optimization for Molecular Design</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="chemical-space-90d.html">chemical-space</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Sarina Kopf et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12488">2607.12488</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11526.html">AutoMatBench: An Automatic Optimization Toolkit for the Acceleration of Material Properties Prediction Benchmarking</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Hongxiao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11526">2607.11526</a></td>
 </tr>
 </tbody></table>

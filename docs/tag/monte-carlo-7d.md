@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>monte-carlo — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08652.html">Steering Diffusion Models to Rare Events with Sequential Monte Carlo</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Aavash Subedi et al.</td>
 <td><a href="http://arxiv.org/abs/2610.08652">2610.08652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05057.html">Onset of a quantum Fisher-Selke sequence in the transverse-field ANNNI model and its bilayer</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Tuan-Vu Truong et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05057">2610.05057</a></td>
 </tr>
 </tbody></table>

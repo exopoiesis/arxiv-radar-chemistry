@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13037.html">Quantum-Circuit Residuals for Receptor Functional Potency Prediction: Predictive Gains and Quadratic Structure</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Chenyan Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13037">2610.13037</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13418.html">VN-GraphGG: von Neumann--Mullins--based graph grain growth simulation</a></div></td>
+<td>Yuntong Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13418">2610.13418</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11549.html">$C_4$-Equivariant Flow Matching on Anisotropic Power-Diagram Graphs for Microstructure Generation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
@@ -404,11 +416,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20551.html">SenCos-GEM: SENet-Calibrated and Law-of-Cosines-Constrained Geometry-Enhanced Molecular Representation for Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-representation-90d.html">molecular-representation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Tianming Han et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20551">2607.20551</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11084.html">NVAITC AI Scientist: A Governed End-to-End Research System -- A Hypertension GWAS Case Study</a></div></td>
-<td>Eddie Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11084">2607.11084</a></td>
 </tr>
 </tbody></table>

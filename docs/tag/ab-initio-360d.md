@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1529 papers</span>
+  <span class="paper-count">1531 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12896.html">All-electron RT-TDDFT with Exact Exchange based on Numeric Atom-centered Orbitals for Condensed Matter</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
+<td>Jianhang Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12896">2610.12896</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12996.html">Real-Time Relaxation Dynamics of Dark Excitons in Mirror-Symmetric Monolayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
+<td>Rishabh Saraswat et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12996">2610.12996</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13155.html">X-ray absorption spectroscopic studies of oxygen-deficient double perovskite oxide NdBaCo$_2$O$_{5+δ}$ ($δ\sim 0.65$)</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Himanshu Pant et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13155">2610.13155</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13868.html">Impact of ab initio E1 strength on neutron capture rates along the nickel isotopic chain</a></div></td>
+<td>Francesca Bonaiti et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13868">2610.13868</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13922.html">Spin Migration in the Argon Dimer</a></div></td>
+<td>Stefanos Carlström et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13922">2610.13922</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11046.html">$\boldsymbol{\textit{Ab initio}}$ $nα$ scattering using the Efros method</a></div></td>
@@ -32,6 +62,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11878.html">Benchmarking Universal Machine-Learning Interatomic Potentials for Temperature-Dependent Elasticity of Binary and High-Entropy Refractory Carbides</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Miroslav Lebeda et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11878">2610.11878</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12743.html">Predicted state-to-state collisional rate coefficients from neural networks</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Lisán David Cabrera-González et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12743">2610.12743</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-07</td>
@@ -9164,29 +9200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16143.html">Finite temperature magnetic interactions from first principles</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Ravi Kaushik et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16143">2510.16143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01941.html">$\textit{Ab initio}$ correlated calculations without finite basis-set error: Numerically precise all-electron RPA correlation energies for diatomic molecules</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Hao Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2411.01941">2411.01941</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14370.html">Frustration-driven unconventional magnetism in the Mn$^{2+}$ ($S=\frac{5}{2}$) based two-dimensional triangular-lattice antiferromagnet Ba$_{3}$MnTa$_{2}$O$_{9}$</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Romario Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14370">2510.14370</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14405.html">First-Principles Approach to Spin Excitations in Noncollinear Magnetic Systems</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Hsiao-Yi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14405">2510.14405</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15171.html">Ab initio symmetry-adapted approaches to nuclear reactions</a></div></td>
-<td>Kristina D Launey et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15171">2510.15171</a></td>
 </tr>
 </tbody></table>

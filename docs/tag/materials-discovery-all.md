@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-discovery — all</h1>
-  <span class="paper-count">425 papers</span>
+  <span class="paper-count">426 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11331.html">Data-Driven Variable-Exponent Analysis for Photoemission Yield Spectroscopy: An Autonomous Self-Diagnosing Framework Based on Integrated Residual Metrics</a></div></td>
 <td>Shinjiro Yagyu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11331">2610.11331</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12739.html">Predictive Synthesis of MOFs and COFs</a></div><div class="paper-tags"><a href="mof-all.html">mof</a></div></td>
+<td>Bin Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12739">2610.12739</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-06</td>

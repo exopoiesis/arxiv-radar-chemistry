@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12996.html">Real-Time Relaxation Dynamics of Dark Excitons in Mirror-Symmetric Monolayers</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Rishabh Saraswat et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12996">2610.12996</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12771.html">Dynamic Chemical Changes of Ti3C2Tx MXenes in Halide Perovskite Precursor Environments</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Kirill Sobolev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12771">2610.12771</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09664.html">Vanishing Altermagnetism and Emergent Ferromagnetism at the Two-Dimensional Limit of CrSb</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Yunlong Liu et al.</td>
@@ -260,17 +272,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13723.html">Layer- and Orbital-Selective Mott Physics Driving Dimensional Crossover in Nickelate Superlattices</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Minjae Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2609.13723">2609.13723</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12836.html">Ultrastrong Au-Te bonding drives disorder in monolayer ZrTe$_5$ on gold</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Konrád Kandrai et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12836">2609.12836</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12868.html">Decoupling support-dependent transport profiles from molecular water motion</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jannik Mehlis et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12868">2609.12868</a></td>
 </tr>
 </tbody></table>

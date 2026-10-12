@@ -22,6 +22,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2610.11331">2610.11331</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12739.html">Predictive Synthesis of MOFs and COFs</a></div><div class="paper-tags"><a href="mof-7d.html">mof</a></div></td>
+<td>Bin Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12739">2610.12739</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07552.html">Reliability of AI/ML Computational Searches for Magnetic Materials: Databases, Validation, and Synthesizability</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
 <td>Vladimir Antropov et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08296.html">OxiGen: Oxidation-State-Aware Crystal Generation</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a> · <a href="generative-model-7d.html">generative-model</a></div></td>
 <td>Dylan John et al.</td>
 <td><a href="http://arxiv.org/abs/2610.08296">2610.08296</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04866.html">Phenomenon-first problem formulation with language models in metal-organic frameworks</a></div><div class="paper-tags"><a href="mof-7d.html">mof</a></div></td>
-<td>Jihan Kim</td>
-<td><a href="http://arxiv.org/abs/2610.04866">2610.04866</a></td>
 </tr>
 </tbody></table>

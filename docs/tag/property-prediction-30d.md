@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12522.html">MolP2SBench: Do LLMs Really Reason from Molecular Properties to Structure?</a></div><div class="paper-tags"><a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Yuhang Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12522">2610.12522</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08400.html">Atom-JEPA: Joint-Embedding Predictive Architecture for 3D Atomistic Systems</a></div></td>
 <td>Kasper Helverskov Petersen et al.</td>
@@ -98,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15611.html">Multi-View Molecular Representation Learning with Hierarchical Graphs and Contextualized Fingerprints</a></div></td>
 <td>Gwang-Hyeon Yun et al.</td>
 <td><a href="http://arxiv.org/abs/2609.15611">2609.15611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12386.html">Split Conformal Prediction with Label-Shift-Adjusted Bayesian Scores</a></div></td>
-<td>Hyeonsu Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12386">2609.12386</a></td>
 </tr>
 </tbody></table>

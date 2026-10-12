@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13917.html">Designing Protein Structures from Natural Language</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a></div></td>
+<td>Joseph Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13917">2610.13917</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11714.html">Predictable Accuracy of Martini 3 Absolute Protein-Ligand Binding Free Energies across 15 Targets</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="protein-ligand-7d.html">protein-ligand</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
 <td>Luis J. Walter et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08937.html">A Shortcut to Structure in AlphaFold 3</a></div></td>
 <td>Jonathan Feldman et al.</td>
 <td><a href="http://arxiv.org/abs/2610.08937">2610.08937</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07037.html">Inference-Time Projection for Physically Valid Biomolecular Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a> · <a href="structure-prediction-7d.html">structure-prediction</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td> Qurat-ul-ain et al.</td>
-<td><a href="http://arxiv.org/abs/2610.07037">2610.07037</a></td>
 </tr>
 </tbody></table>

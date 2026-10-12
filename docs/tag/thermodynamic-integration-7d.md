@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13509.html">Energy-dependent trapping of backscattered helium during magnetron sputtering growth: A molecular dynamics study</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Pascal Brault et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13509">2610.13509</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11714.html">Predictable Accuracy of Martini 3 Absolute Protein-Ligand Binding Free Energies across 15 Targets</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="protein-ligand-7d.html">protein-ligand</a> · <a href="protein-structure-7d.html">protein-structure</a></div></td>
 <td>Luis J. Walter et al.</td>
@@ -38,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08762.html">Small Distortions, Big Polarization: Tetragonal BaTiO3 Nanoparticles for High-Performance Piezoelectric Nanogenerators</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>Shivshankar Jokare et al.</td>
 <td><a href="http://arxiv.org/abs/2610.08762">2610.08762</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05057.html">Onset of a quantum Fisher-Selke sequence in the transverse-field ANNNI model and its bilayer</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Tuan-Vu Truong et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05057">2610.05057</a></td>
 </tr>
 </tbody></table>

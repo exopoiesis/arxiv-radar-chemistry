@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13509.html">Energy-dependent trapping of backscattered helium during magnetron sputtering growth: A molecular dynamics study</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Pascal Brault et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13509">2610.13509</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11714.html">Predictable Accuracy of Martini 3 Absolute Protein-Ligand Binding Free Energies across 15 Targets</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Luis J. Walter et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15898.html">Toward Predictive Hydride Bond Energetics with Neural-Network Wavefunctions</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Aqsa Shaikh et al.</td>
 <td><a href="http://arxiv.org/abs/2609.15898">2609.15898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13527.html">Incompatibility of iron in post-perovskite and the stability of basal magma oceans in super-Earths</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Francis Dragulet et al.</td>
-<td><a href="http://arxiv.org/abs/2609.13527">2609.13527</a></td>
 </tr>
 </tbody></table>

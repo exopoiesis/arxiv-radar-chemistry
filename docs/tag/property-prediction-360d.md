@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12522.html">MolP2SBench: Do LLMs Really Reason from Molecular Properties to Structure?</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Yuhang Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12522">2610.12522</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08400.html">Atom-JEPA: Joint-Embedding Predictive Architecture for 3D Atomistic Systems</a></div></td>
 <td>Kasper Helverskov Petersen et al.</td>
@@ -1490,11 +1496,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10248.html">Reasoning-Enhanced Large Language Models for Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-llm-360d.html">molecular-llm</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Jiaxi Zhuang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10248">2510.10248</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14217.html">Spectral Analysis of Molecular Kernels: When Richer Features Do Not Guarantee Better Generalization</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Asma Jamali et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14217">2510.14217</a></td>
 </tr>
 </tbody></table>

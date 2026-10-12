@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13917.html">Designing Protein Structures from Natural Language</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td>Joseph Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13917">2610.13917</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09548.html">De novo design of monoclonal and bispecific antibodies with OFAntibody</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
@@ -524,17 +530,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13309.html">Fundamental Relation between Conductance of Biomolecules and the Fukui Function</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Gabor Vattay</td>
 <td><a href="http://arxiv.org/abs/2607.13309">2607.13309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11701.html">$\mathtt{Q^2SAR}$: overcoming classical bottlenecks in drug discovery via quantum multiple kernel learning</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Mariano Caruso et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11701">2607.11701</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12060.html">Molecular Docking with Quantum Circuit Evolution</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Gleydson Fernandes de Jesus et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12060">2607.12060</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">509 papers</span>
+  <span class="paper-count">508 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13917.html">Designing Protein Structures from Natural Language</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td>Joseph Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13917">2610.13917</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09548.html">De novo design of monoclonal and bispecific antibodies with OFAntibody</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
@@ -3056,17 +3062,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15233.html">Adaptive Individual Uncertainty under Out-Of-Distribution Shift with Expert-Routed Conformal Prediction</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Amitesh Badkul et al.</td>
 <td><a href="http://arxiv.org/abs/2510.15233">2510.15233</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10480.html">Latent Retrieval Augmented Generation of Cross-Domain Protein Binders</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Zishen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10480">2510.10480</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14455.html">Coder as Editor: Code-driven Interpretable Molecular Optimization</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Wenyu Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14455">2510.14455</a></td>
 </tr>
 </tbody></table>

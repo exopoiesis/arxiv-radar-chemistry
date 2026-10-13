@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1559 papers</span>
+  <span class="paper-count">1550 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9314,59 +9314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26806.html">Molecular glues stabilize water-mediated hydrogen bonds in ternary complexes</a></div></td>
 <td>Apoorva Mathur et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26806">2510.26806</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06457.html">Deep learning reveals key predictors of thermal conductivity in covalent organic frameworks</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Prakash Thakolkaran et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06457">2409.06457</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01464.html">Flow Matching for Accelerated Simulation of Atomic Transport in Crystalline Materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Juno Nam et al.</td>
-<td><a href="http://arxiv.org/abs/2410.01464">2410.01464</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.02363.html">Quantum Ornstein-Zernike Theory for Two-Temperature Two-Component Plasmas</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Zachary A. Johnson et al.</td>
-<td><a href="http://arxiv.org/abs/2411.02363">2411.02363</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06882.html">Ab-initio heat transport in defect-laden quasi-1D systems from a symmetry-adapted perspective</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Yu-Jie Cen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06882">2508.06882</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20875.html">LeMat-Traj: A Scalable and Unified Dataset of Materials Trajectories for Atomistic Modeling</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Ali Ramlaoui et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20875">2508.20875</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00090.html">Migration as a Probe: A Generalizable Benchmark Framework for Specialist vs. Generalist Machine-Learned Force Fields</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Yi Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00090">2509.00090</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05960.html">Correlation Matrix Method for Phonon Quasiparticles</a></div></td>
-<td>Wenjing Li et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05960">2509.05960</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15316.html">Capturing Protein Free Energy Landscape using Efficient Quantum Encoding</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Ashwini Kannan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15316">2510.15316</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15343.html">Ab-initio study of structural, vibrational and non-linear optical properties of (TiO2)-(Tl2O)-(TeO2) glasses</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Raghvender Raghvender et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15343">2510.15343</a></td>
 </tr>
 </tbody></table>

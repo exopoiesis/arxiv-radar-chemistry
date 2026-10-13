@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>structure-prediction — 360d</h1>
-  <span class="paper-count">162 papers</span>
+  <span class="paper-count">161 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <strong>360d</strong> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -980,11 +980,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09890.html">Rao-Blackwell Gradient Estimators for Equivariant Denoising Diffusion</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Vinh Tong et al.</td>
 <td><a href="http://arxiv.org/abs/2502.09890">2502.09890</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16253.html">Protein Folding with Neural Ordinary Differential Equations</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Arielle Sanford et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16253">2510.16253</a></td>
 </tr>
 </tbody></table>

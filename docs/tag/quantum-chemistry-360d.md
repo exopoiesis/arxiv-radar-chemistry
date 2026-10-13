@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">347 papers</span>
+  <span class="paper-count">343 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2072,29 +2072,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18900.html">Foundation Models for Discovery and Exploration in Chemical Space</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Alexius Wadell et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18900">2510.18900</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14543.html">A recipe for local simulation of strongly-correlated fermionic matter on quantum computers: the 2D Fermi-Hubbard model</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Arash Jafarizadeh et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14543">2408.14543</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04369.html">A highly accurate procedure for computing globally optimal Wannier functions in one-dimensional crystalline insulators</a></div></td>
-<td>Abinand Gopal et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04369">2409.04369</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15678.html">Fragment, Entangle, and Consolidate: Strong Correlation through Bi-fold Quantum Circuits</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a></div></td>
-<td>Arpan Choudhury et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15678">2510.15678</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15806.html">Operator Commutativity Screening and Progressive Operator Block Reordering toward Many-body Inspired Quantum State Preparation</a></div></td>
-<td>Dibyendu Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15806">2510.15806</a></td>
 </tr>
 </tbody></table>

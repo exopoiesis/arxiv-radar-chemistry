@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>generative-model — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,23 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08922.html">Searching for hot water world candidates with CHEOPS: II. A low-density super-Earth orbiting the K dwarf TOI-2211</a></div></td>
 <td>J. A. Egger et al.</td>
 <td><a href="http://arxiv.org/abs/2610.08922">2610.08922</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06190.html">Bridging the Evidence-to-Execution Gap:A Reflective Agent for Multi-Objective Peptide Design</a></div></td>
-<td>Haosen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.06190">2610.06190</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06468.html">Latent Flow Matching for Molecular Graph Generation</a></div></td>
-<td>Mathis Goupillon et al.</td>
-<td><a href="http://arxiv.org/abs/2610.06468">2610.06468</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06614.html">FREA: A Multi-Source Expert Benchmark for Reaction Feasibility Verification</a></div><div class="paper-tags"><a href="retrosynthesis-7d.html">retrosynthesis</a></div></td>
-<td>Botao Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.06614">2610.06614</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1531 papers</span>
+  <span class="paper-count">1520 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9134,71 +9134,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03653.html">Vanadium-doped HfO$_2$, multiferroic uncompromised</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Vincenzo Fiorentini et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03653">2507.03653</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01464.html">Flow Matching for Accelerated Simulation of Atomic Transport in Crystalline Materials</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Juno Nam et al.</td>
-<td><a href="http://arxiv.org/abs/2410.01464">2410.01464</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.02363.html">Quantum Ornstein-Zernike Theory for Two-Temperature Two-Component Plasmas</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Zachary A. Johnson et al.</td>
-<td><a href="http://arxiv.org/abs/2411.02363">2411.02363</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13245.html">Ab initio study of strain-driven vacancy clustering in aluminum</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Sayan Bhowmik et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13245">2505.13245</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17719.html">Clarifying the Ti-V Phase Diagram Using First-Principles Calculations and Bayesian Learning</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Timofei Miryashkin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17719">2506.17719</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06882.html">Ab-initio heat transport in defect-laden quasi-1D systems from a symmetry-adapted perspective</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yu-Jie Cen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06882">2508.06882</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00090.html">Migration as a Probe: A Generalizable Benchmark Framework for Specialist vs. Generalist Machine-Learned Force Fields</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yi Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00090">2509.00090</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15343.html">Ab-initio study of structural, vibrational and non-linear optical properties of (TiO2)-(Tl2O)-(TeO2) glasses</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Raghvender Raghvender et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15343">2510.15343</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15433.html">Antiphase boundaries in Ni-Mn-Ga single crystal - experiment and model</a></div></td>
-<td>O. Heczko et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15433">2510.15433</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15860.html">Quantum Monte Carlo Calculations of Light Nuclei with Fully Propagated Theoretical Uncertainties</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Ryan Curry et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15860">2510.15860</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16126.html">Engineering phase-frustration induced flat bands in an aza-triangulene covalent Kagome lattice</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Yuyi Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16126">2510.16126</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16143.html">Finite temperature magnetic interactions from first principles</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Ravi Kaushik et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16143">2510.16143</a></td>
 </tr>
 </tbody></table>

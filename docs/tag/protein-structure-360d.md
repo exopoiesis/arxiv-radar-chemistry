@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">237 papers</span>
+  <span class="paper-count">234 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1418,23 +1418,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10908.html">Probably Approximately Correct Labels</a></div></td>
 <td>Emmanuel J. Candès et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10908">2506.10908</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15316.html">Capturing Protein Free Energy Landscape using Efficient Quantum Encoding</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ashwini Kannan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15316">2510.15316</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15601.html">Kernel-Based Evaluation of Conditional Biological Sequence Models</a></div></td>
-<td>Pierre Glaser et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15601">2510.15601</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16253.html">Protein Folding with Neural Ordinary Differential Equations</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Arielle Sanford et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16253">2510.16253</a></td>
 </tr>
 </tbody></table>

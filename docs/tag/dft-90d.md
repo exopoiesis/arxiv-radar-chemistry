@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">417 papers</span>
+  <span class="paper-count">412 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2486,35 +2486,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14083.html">Cluster-configurational study of G-center in Silicon</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a> · <a href="quantum-computing-90d.html">quantum-computing</a></div></td>
 <td>Narayan Pokhrel et al.</td>
 <td><a href="http://arxiv.org/abs/2607.14083">2607.14083</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12388.html">Magnetic Contributions to Phase Stability in the Co-Ni Binary: A First-Principles CALPHAD Study</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Prajna Jalagam et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12388">2607.12388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12633.html">Octupole deformation in even-even Ra isotopes from covariant density functional theory with localized exchange terms in a three-dimensional lattice space</a></div></td>
-<td>Z. Y. Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12633">2607.12633</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12843.html">Strong-Field Coulomb Explosion of Ethane, Propane, and Butane in Circularly Polarized Laser Fields</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Yuxuan Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12843">2607.12843</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13107.html">DeepCormack: Fermi surface tomography using model-based data-driven algorithms</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Georg F. B. Lovric et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13107">2607.13107</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13309.html">Fundamental Relation between Conductance of Biomolecules and the Fukui Function</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Gabor Vattay</td>
-<td><a href="http://arxiv.org/abs/2607.13309">2607.13309</a></td>
 </tr>
 </tbody></table>

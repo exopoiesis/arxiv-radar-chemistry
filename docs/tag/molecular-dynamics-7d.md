@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,29 +158,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09106.html">Angular Momentum Fluctuations Induced by Phonon-Rotation Coupling Govern Nuclear Spin Relaxation in a Molecular Rotator Phase</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a></div></td>
 <td>Yanan Li et al.</td>
 <td><a href="http://arxiv.org/abs/2610.09106">2610.09106</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05941.html">Out-of-Plane Oscillating Electric Fields Unlock Low-Temperature Nonequilibrium Superionicity in Quasi-Two-Dimensional AgCrSe2</a></div></td>
-<td>Jia-Wen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05941">2610.05941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05998.html">Langevin Flow Maps: Efficient Molecular Dynamics and Transition Path Sampling</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
-<td>Sam McCallum et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05998">2610.05998</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06158.html">Compressed magnetic Moment Tensor Potentials via low-rank matrix and tensor factorizations</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Alexey S. Kotykhov et al.</td>
-<td><a href="http://arxiv.org/abs/2610.06158">2610.06158</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06371.html">Disorder-driven loss of crystalline coherence in two-dimensional electron solids: Quantum Hartree-Fock and classical molecular dynamics</a></div></td>
-<td>Sankar Das Sarma et al.</td>
-<td><a href="http://arxiv.org/abs/2610.06371">2610.06371</a></td>
 </tr>
 </tbody></table>

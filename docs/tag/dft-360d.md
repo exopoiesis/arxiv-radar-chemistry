@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2044 papers</span>
+  <span class="paper-count">2028 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12182,101 +12182,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19840.html">Fourier-Based GAN Fingerprint Detection using ResNet50</a></div></td>
 <td>Sai Teja Erukude et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19840">2510.19840</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.02363.html">Quantum Ornstein-Zernike Theory for Two-Temperature Two-Component Plasmas</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Zachary A. Johnson et al.</td>
-<td><a href="http://arxiv.org/abs/2411.02363">2411.02363</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13245.html">Ab initio study of strain-driven vacancy clustering in aluminum</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Sayan Bhowmik et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13245">2505.13245</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00688.html">Ab initio density functional theory approach to warm dense hydrogen: from density response to electronic correlations</a></div></td>
-<td>Zhandos A. Moldabekov et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00688">2507.00688</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23612.html">Real-space Hubbard-corrected density functional theory</a></div></td>
-<td>Sayan Bhowmik et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23612">2507.23612</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20875.html">LeMat-Traj: A Scalable and Unified Dataset of Materials Trajectories for Atomistic Modeling</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ali Ramlaoui et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20875">2508.20875</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12852.html">Quantum Mechanical Analysis of Neutron Wavefunction Overlap and Nuclear Interaction Probability with Carborane Cage ($^{10}$B10) in Boron Neutron Capture Therapy</a></div></td>
-<td>Hung-Te Henry Su et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12852">2510.12852</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15322.html">Magnetic fluctuations and anisotropy in UTe2: a multi-orbital study based on GGA+U and RPA</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Makoto Shimizu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15322">2510.15322</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15397.html">Unravelling the Catalytic Activity of Dual-Metal Doped N6-Graphene for Sulfur Reduction via Machine Learning-Accelerated First-Principles Calculations</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Sahil Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15397">2510.15397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15523.html">Synergistic modulation of band structure and phonon transport for higher thermoelectric performance of WSe2</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Mazhar Hussain Danish et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15523">2510.15523</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15524.html">CoNi-MOF laccase-like nanozymes prepared by dielectric barrier discharge plasma for treatment of antibiotic pollution</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="mof-360d.html">mof</a></div></td>
-<td>Chao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15524">2510.15524</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15528.html">Facet Specific Electron Conduction in Pentavalent (W5+) WO3 Drives Superior Photocatalytic CO 2 Reduction in (002) Plane</a></div><div class="paper-tags"><a href="photocatalysis-360d.html">photocatalysis</a></div></td>
-<td>Muhammad Rizwan Kamal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15528">2510.15528</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15599.html">Surface diffusion of phosphorus on Si(100) after PBr3 adsorption</a></div></td>
-<td>T. V. Pavlova et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15599">2510.15599</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15608.html">Calculations of pathways of precise P incorporation into chlorinated Si(100) surface</a></div></td>
-<td>T. V. Pavlova</td>
-<td><a href="http://arxiv.org/abs/2510.15608">2510.15608</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16126.html">Engineering phase-frustration induced flat bands in an aza-triangulene covalent Kagome lattice</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Yuyi Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16126">2510.16126</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16142.html">Confinement-Induced One-Dimensional Magnetism in CrSBr Chains via Carbon Nanotube Encapsulation</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Diego López-Alcalá et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16142">2510.16142</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16143.html">Finite temperature magnetic interactions from first principles</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Ravi Kaushik et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16143">2510.16143</a></td>
 </tr>
 </tbody></table>

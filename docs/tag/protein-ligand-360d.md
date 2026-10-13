@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-ligand — 360d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <strong>360d</strong> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -890,11 +890,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19870.html">Transforming Multi-Omics Integration with GANs: Applications in Alzheimer&#x27;s and Cancer</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Md Selim Reza et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19870">2510.19870</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15233.html">Adaptive Individual Uncertainty under Out-Of-Distribution Shift with Expert-Routed Conformal Prediction</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Amitesh Badkul et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15233">2510.15233</a></td>
 </tr>
 </tbody></table>

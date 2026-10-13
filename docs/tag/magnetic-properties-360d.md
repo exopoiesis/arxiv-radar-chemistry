@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">345 papers</span>
+  <span class="paper-count">342 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2066,23 +2066,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03653.html">Vanadium-doped HfO$_2$, multiferroic uncompromised</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Vincenzo Fiorentini et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03653">2507.03653</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15322.html">Magnetic fluctuations and anisotropy in UTe2: a multi-orbital study based on GGA+U and RPA</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Makoto Shimizu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15322">2510.15322</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16142.html">Confinement-Induced One-Dimensional Magnetism in CrSBr Chains via Carbon Nanotube Encapsulation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Diego López-Alcalá et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16142">2510.16142</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16143.html">Finite temperature magnetic interactions from first principles</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Ravi Kaushik et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16143">2510.16143</a></td>
 </tr>
 </tbody></table>

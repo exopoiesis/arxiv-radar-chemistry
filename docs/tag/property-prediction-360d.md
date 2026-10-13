@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">247 papers</span>
+  <span class="paper-count">245 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1484,17 +1484,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16897.html">DeepChem Equivariant: SE(3)-Equivariant Support in an Open-Source Molecular Machine Learning Library</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Jose Siguenza et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16897">2510.16897</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04233.html">polyBART: A Chemical Linguist for Polymer Property Prediction and Generative Design</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-llm-360d.html">molecular-llm</a></div></td>
-<td>Anagha Savit et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04233">2506.04233</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10248.html">Reasoning-Enhanced Large Language Models for Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-llm-360d.html">molecular-llm</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Jiaxi Zhuang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10248">2510.10248</a></td>
 </tr>
 </tbody></table>

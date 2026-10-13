@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-ligand — 90d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <strong>90d</strong> <a href="protein-ligand-360d.html">360d</a> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,17 +146,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15309.html">DyneTrion: A Spatio-temporally Coherent Generative Emulator for Protein Dynamics Across Timescales</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Kaihui Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15309">2607.15309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12349.html">Generating Developable 3D Molecules via Pocket-Conditioned Diffusion and Property-Aware Optimization</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Ruoxi Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12349">2607.12349</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13155.html">HEDGEHOG: Hierarchical Evaluation of Drug Generators Through Rigorous Filtration</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Daria A. Ryabchenko et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13155">2607.13155</a></td>
 </tr>
 </tbody></table>

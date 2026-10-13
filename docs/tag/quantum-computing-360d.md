@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-computing — 360d</h1>
-  <span class="paper-count">119 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <strong>360d</strong> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -722,11 +722,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24316.html">Jacobi-Anger Density Estimation for Energy Distribution of Quantum States</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Kyeongan Park et al.</td>
 <td><a href="http://arxiv.org/abs/2510.24316">2510.24316</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14543.html">A recipe for local simulation of strongly-correlated fermionic matter on quantum computers: the 2D Fermi-Hubbard model</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Arash Jafarizadeh et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14543">2408.14543</a></td>
 </tr>
 </tbody></table>

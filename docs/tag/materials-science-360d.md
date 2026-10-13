@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">343 papers</span>
+  <span class="paper-count">339 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2048,29 +2048,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16659.html">Semiconducting nanotubes derived from a rectangular graphyne: a DFT study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Wjefferson Henrique da Silva Brandão et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16659">2510.16659</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04233.html">polyBART: A Chemical Linguist for Polymer Property Prediction and Generative Design</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="molecular-llm-360d.html">molecular-llm</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Anagha Savit et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04233">2506.04233</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00090.html">Migration as a Probe: A Generalizable Benchmark Framework for Specialist vs. Generalist Machine-Learned Force Fields</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yi Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00090">2509.00090</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10248.html">Reasoning-Enhanced Large Language Models for Molecular Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-llm-360d.html">molecular-llm</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a> · <a href="property-prediction-360d.html">property-prediction</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Jiaxi Zhuang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10248">2510.10248</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16126.html">Engineering phase-frustration induced flat bands in an aza-triangulene covalent Kagome lattice</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Yuyi Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16126">2510.16126</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">303 papers</span>
+  <span class="paper-count">299 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1808,29 +1808,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17190.html">Dissociative Mechanism from NH3 and CH4 on Ni-Doped Graphene: Tuning Electronic and Optical Properties</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>A. Aligayev et al.</td>
 <td><a href="http://arxiv.org/abs/2510.17190">2510.17190</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02955.html">Two-flavor chirally imbalanced quark matter beyond large $N_c$</a></div></td>
-<td>André G. da Silva et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02955">2509.02955</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15397.html">Unravelling the Catalytic Activity of Dual-Metal Doped N6-Graphene for Sulfur Reduction via Machine Learning-Accelerated First-Principles Calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Sahil Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15397">2510.15397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15524.html">CoNi-MOF laccase-like nanozymes prepared by dielectric barrier discharge plasma for treatment of antibiotic pollution</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mof-360d.html">mof</a></div></td>
-<td>Chao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15524">2510.15524</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15697.html">All-Dielectric Photo-thermo-optical Metasurfaces for Thermal Landscaping at the Nanoscale</a></div></td>
-<td>Gopal Narmada Naidu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15697">2510.15697</a></td>
 </tr>
 </tbody></table>

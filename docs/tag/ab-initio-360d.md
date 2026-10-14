@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1520 papers</span>
+  <span class="paper-count">1519 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9128,11 +9128,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16993.html">Coherent terahertz control of metastable magnetization in FePS3</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Batyr Ilyas et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16993">2510.16993</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03653.html">Vanadium-doped HfO$_2$, multiferroic uncompromised</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Vincenzo Fiorentini et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03653">2507.03653</a></td>
 </tr>
 </tbody></table>

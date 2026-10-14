@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">571 papers</span>
+  <span class="paper-count">570 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3434,11 +3434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18033.html">Benchmarking 34 OpenKIM Nickel Potentials with an Emphasis on Surfaces and Extended Defects</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Matthew Thoms et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18033">2510.18033</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16605.html">Graph Neural Network for Unified Electronic and Interatomic Potentials: Strain-tunable Electronic Structures in 2D Materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Moon-ki Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16605">2510.16605</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-computing — 90d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <strong>90d</strong> <a href="quantum-computing-360d.html">360d</a> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,23 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18126.html">CutBackdoor: A Circuit Cut Triggered Backdoor Attack on Variational Quantum Algorithms</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Ahatesham Bhuiyan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18126">2607.18126</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13737.html">Implementations of Quantum and Classical Topology-Aligned Architectures for Molecular Property Prediction</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>James T. Pegg et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13737">2607.13737</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14025.html">The WEST code for large-scale excited-state materials simulations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Victor Wen-zhe Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14025">2607.14025</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14083.html">Cluster-configurational study of G-center in Silicon</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Narayan Pokhrel et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14083">2607.14083</a></td>
 </tr>
 </tbody></table>

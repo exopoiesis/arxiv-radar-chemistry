@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">383 papers</span>
+  <span class="paper-count">381 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2300,17 +2300,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16878.html">Deep Learning Accelerated First-Principles Quantum Transport Simulations at Nonequilibrium State</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Zili Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16878">2510.16878</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.04863.html">OneProt: Towards Multi-Modal Protein Foundation Models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Klemens Flöge et al.</td>
-<td><a href="http://arxiv.org/abs/2411.04863">2411.04863</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16605.html">Graph Neural Network for Unified Electronic and Interatomic Potentials: Strain-tunable Electronic Structures in 2D Materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Moon-ki Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16605">2510.16605</a></td>
 </tr>
 </tbody></table>

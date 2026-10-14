@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">157 papers</span>
+  <span class="paper-count">156 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -950,11 +950,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16824.html">ProtoMol: Enhancing Molecular Property Prediction via Prototype-Guided Multimodal Learning</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Yingxu Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16824">2510.16824</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16588.html">Copy-Augmented Representation for Structure Invariant Template-Free Retrosynthesis</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Jiaxi Zhuang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16588">2510.16588</a></td>
 </tr>
 </tbody></table>

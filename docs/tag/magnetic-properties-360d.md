@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">342 papers</span>
+  <span class="paper-count">341 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2060,11 +2060,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18038.html">Tuning Magnetic and Electronic Properties of Double Perovskite La$_2$CoIr$_{1-x}$Ti$_x$O$_6$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Sromona Nandi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18038">2509.18038</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03653.html">Vanadium-doped HfO$_2$, multiferroic uncompromised</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Vincenzo Fiorentini et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03653">2507.03653</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1550 papers</span>
+  <span class="paper-count">1549 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9308,11 +9308,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16721.html">Scalable cell filter nudged elastic band (CFNEB) for large-scale transition-path calculations</a></div></td>
 <td>Qiuhan Jia et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16721">2510.16721</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26806.html">Molecular glues stabilize water-mediated hydrogen bonds in ternary complexes</a></div></td>
-<td>Apoorva Mathur et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26806">2510.26806</a></td>
 </tr>
 </tbody></table>

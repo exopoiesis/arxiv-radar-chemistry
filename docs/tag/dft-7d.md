@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,35 +164,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10891.html">Data driven screening of CaCu$_5$-type magnetic structures</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="chemical-space-7d.html">chemical-space</a></div></td>
 <td>Nabaraj Pokhrel et al.</td>
 <td><a href="http://arxiv.org/abs/2610.10891">2610.10891</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08013.html">Defect-limited thermal transport in AlN using pretrained machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="monte-carlo-7d.html">monte-carlo</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Minseok Moon et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08013">2610.08013</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08356.html">Incoherent Spectral Weight Emerging from a Van Hove Singularity in a Kagome Metal</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>C. -y. Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08356">2610.08356</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08380.html">Calculation of structural symmetry and applicability of small AkBlCm nanoclusters (A=Rb, Cs; B=Pb, Sn, Bi; C=Cl, Br, I) as building blocks for synthesis of larger-size nanoclusters</a></div></td>
-<td>Roman Makarevych et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08380">2610.08380</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08592.html">CNet: A Complex-Valued Deep Learning Framework with Wirtinger Autodifferentiation and FFT--Hadamard Convolution</a></div></td>
-<td>Marcel Crasmaru</td>
-<td><a href="http://arxiv.org/abs/2610.08592">2610.08592</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08762.html">Small Distortions, Big Polarization: Tetragonal BaTiO3 Nanoparticles for High-Performance Piezoelectric Nanogenerators</a></div><div class="paper-tags"><a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Shivshankar Jokare et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08762">2610.08762</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>vdw-correction — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <a href="vdw-correction-360d.html">360d</a> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10725.html">Resolving the interfacial mechanical landscape of monolayer NbSe2 grown by confined epitaxy</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a></div></td>
 <td>Ye Wang</td>
 <td><a href="http://arxiv.org/abs/2610.10725">2610.10725</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07918.html">Layered spin-crossover metal-organic frameworks for light-induced control of two-dimensional quantum materials</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="catalysis-7d.html">catalysis</a> · <a href="mof-7d.html">mof</a></div></td>
-<td>Carla Boix-Constant et al.</td>
-<td><a href="http://arxiv.org/abs/2610.07918">2610.07918</a></td>
 </tr>
 </tbody></table>

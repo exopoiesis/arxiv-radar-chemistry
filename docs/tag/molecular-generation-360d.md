@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-generation — 360d</h1>
-  <span class="paper-count">150 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -908,11 +908,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18851.html">LICO: Large Language Models for In-Context Molecular Optimization</a></div></td>
 <td>Tung Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2406.18851">2406.18851</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16588.html">Copy-Augmented Representation for Structure Invariant Template-Free Retrosynthesis</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Jiaxi Zhuang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16588">2510.16588</a></td>
 </tr>
 </tbody></table>

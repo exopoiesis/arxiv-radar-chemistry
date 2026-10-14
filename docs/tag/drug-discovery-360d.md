@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">506 papers</span>
+  <span class="paper-count">503 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3032,23 +3032,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19887.html">Compressing Biology: Evaluating the Stable Diffusion VAE for Phenotypic Drug Discovery</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Télio Cropsal et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19887">2510.19887</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.04863.html">OneProt: Towards Multi-Modal Protein Foundation Models</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Klemens Flöge et al.</td>
-<td><a href="http://arxiv.org/abs/2411.04863">2411.04863</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16588.html">Copy-Augmented Representation for Structure Invariant Template-Free Retrosynthesis</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Jiaxi Zhuang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16588">2510.16588</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16590.html">Atom-anchored LLMs speak Chemistry: A Retrosynthesis Demonstration</a></div><div class="paper-tags"><a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Alan Kai Hassen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16590">2510.16590</a></td>
 </tr>
 </tbody></table>

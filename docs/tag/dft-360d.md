@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2028 papers</span>
+  <span class="paper-count">2023 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12152,35 +12152,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16982.html">A first-principles investigation of the diffusivities of oxygen and oxygen defects in ThO$_2$</a></div></td>
 <td>Maniesha Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16982">2510.16982</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16348.html">Electron Localization in Non-Compact Covalent Bonds Captured by the r2SCAN+V Approach</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Yubo Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16348">2510.16348</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16453.html">Microscopic triaxial quadrupole-octupole collective Hamiltonian for low-energy nuclear excitations</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>J. Xiang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16453">2510.16453</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16605.html">Graph Neural Network for Unified Electronic and Interatomic Potentials: Strain-tunable Electronic Structures in 2D Materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Moon-ki Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16605">2510.16605</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16659.html">Semiconducting nanotubes derived from a rectangular graphyne: a DFT study</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Wjefferson Henrique da Silva Brandão et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16659">2510.16659</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19840.html">Fourier-Based GAN Fingerprint Detection using ResNet50</a></div></td>
-<td>Sai Teja Erukude et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19840">2510.19840</a></td>
 </tr>
 </tbody></table>

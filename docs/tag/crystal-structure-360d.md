@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">258 papers</span>
+  <span class="paper-count">257 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1556,11 +1556,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18174.html">Anisotropic-Strain Control of The Magnetic Structure in Mn\textsubscript{3}GaN</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Roman Malyshev et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18174">2510.18174</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09890.html">Rao-Blackwell Gradient Estimators for Equivariant Denoising Diffusion</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Vinh Tong et al.</td>
-<td><a href="http://arxiv.org/abs/2502.09890">2502.09890</a></td>
 </tr>
 </tbody></table>

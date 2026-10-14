@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">481 papers</span>
+  <span class="paper-count">480 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2894,11 +2894,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17035.html">Conditional Synthetic Live and Spoof Fingerprint Generation</a></div></td>
 <td>Syed Konain Abbas et al.</td>
 <td><a href="http://arxiv.org/abs/2510.17035">2510.17035</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16612.html">Accelerated Learning on Large Scale Screens using Generative Library Models</a></div></td>
-<td>Eli N. Weinstein et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16612">2510.16612</a></td>
 </tr>
 </tbody></table>

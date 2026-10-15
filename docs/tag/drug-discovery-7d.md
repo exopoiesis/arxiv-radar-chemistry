@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>drug-discovery — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13917.html">Designing Protein Structures from Natural Language</a></div><div class="paper-tags"><a href="protein-structure-7d.html">protein-structure</a></div></td>
 <td>Joseph Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2610.13917">2610.13917</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09548.html">De novo design of monoclonal and bispecific antibodies with OFAntibody</a></div><div class="paper-tags"><a href="protein-structure-7d.html">protein-structure</a></div></td>
-<td> Valhalla Team</td>
-<td><a href="http://arxiv.org/abs/2610.09548">2610.09548</a></td>
 </tr>
 </tbody></table>

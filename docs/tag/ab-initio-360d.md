@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1519 papers</span>
+  <span class="paper-count">1517 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9116,17 +9116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18174.html">Anisotropic-Strain Control of The Magnetic Structure in Mn\textsubscript{3}GaN</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Roman Malyshev et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18174">2510.18174</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16878.html">Deep Learning Accelerated First-Principles Quantum Transport Simulations at Nonequilibrium State</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Zili Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16878">2510.16878</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16993.html">Coherent terahertz control of metastable magnetization in FePS3</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Batyr Ilyas et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16993">2510.16993</a></td>
 </tr>
 </tbody></table>

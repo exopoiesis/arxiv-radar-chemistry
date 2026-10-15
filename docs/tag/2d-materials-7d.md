@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>2d-materials — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,35 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12771.html">Dynamic Chemical Changes of Ti3C2Tx MXenes in Halide Perovskite Precursor Environments</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="dft-7d.html">dft</a></div></td>
 <td>Kirill Sobolev et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12771">2610.12771</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09664.html">Vanishing Altermagnetism and Emergent Ferromagnetism at the Two-Dimensional Limit of CrSb</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Yunlong Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09664">2610.09664</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09685.html">How Good Is DFT for Solid-Liquid Interfaces? A Comparison With the Random-Phase Approximation for Water on Graphene</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Xavier R. Advincula et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09685">2610.09685</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09705.html">Interfacial Water Responds Linearly to Charge yet Is Charge-Asymmetric</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Yair Litman et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09705">2610.09705</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09719.html">Ab-initio Investigation on h-Be3N2 Monolayer for Photocatalytic Hydrogen Evolution Reaction and Oxygen Evolution Reaction</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="photocatalysis-7d.html">photocatalysis</a></div></td>
-<td>Karan Patel et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09719">2610.09719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10725.html">Resolving the interfacial mechanical landscape of monolayer NbSe2 grown by confined epitaxy</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Ye Wang</td>
-<td><a href="http://arxiv.org/abs/2610.10725">2610.10725</a></td>
 </tr>
 </tbody></table>

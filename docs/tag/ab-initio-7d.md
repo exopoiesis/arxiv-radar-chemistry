@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,41 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12743.html">Predicted state-to-state collisional rate coefficients from neural networks</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a></div></td>
 <td>Lisán David Cabrera-González et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12743">2610.12743</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09388.html">Bottom-Up Prediction of Amorphous Poly(1,3-dioxolane) using Ab Initio Reactive Machine-Learning Force Fields</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a> · <a href="structure-prediction-7d.html">structure-prediction</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Yizhi Song et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09388">2610.09388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09576.html">PEACE: Covariant learning of nonadiabatic manifolds with parity-resolved Hamiltonians</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="photocatalysis-7d.html">photocatalysis</a></div></td>
-<td>Rongzhi Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09576">2610.09576</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09719.html">Ab-initio Investigation on h-Be3N2 Monolayer for Photocatalytic Hydrogen Evolution Reaction and Oxygen Evolution Reaction</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="photocatalysis-7d.html">photocatalysis</a></div></td>
-<td>Karan Patel et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09719">2610.09719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09924.html">Nonuniform Screening Reshapes Collective Excitons in Molecular Aggregates from Stochastic Bethe-Salpeter Theory</a></div></td>
-<td>Barry Y. Li et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09924">2610.09924</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10891.html">Data driven screening of CaCu$_5$-type magnetic structures</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Nabaraj Pokhrel et al.</td>
-<td><a href="http://arxiv.org/abs/2610.10891">2610.10891</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10900.html">Ab Initio Investigation of Excited States and Absorption Spectra of Small Mercury Clusters (Hg$_{2-5}$)</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Michal Novotný et al.</td>
-<td><a href="http://arxiv.org/abs/2610.10900">2610.10900</a></td>
 </tr>
 </tbody></table>

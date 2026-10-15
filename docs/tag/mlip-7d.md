@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mlip — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,29 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12799.html">Drude, Where&#x27;s My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Artur Lyssenko et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12799">2610.12799</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09388.html">Bottom-Up Prediction of Amorphous Poly(1,3-dioxolane) using Ab Initio Reactive Machine-Learning Force Fields</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="structure-prediction-7d.html">structure-prediction</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Yizhi Song et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09388">2610.09388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09685.html">How Good Is DFT for Solid-Liquid Interfaces? A Comparison With the Random-Phase Approximation for Water on Graphene</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Xavier R. Advincula et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09685">2610.09685</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10298.html">Physics-Aligned Electronic Ground-State Learning Improves Generalization</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Eike S. Eberhard et al.</td>
-<td><a href="http://arxiv.org/abs/2610.10298">2610.10298</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10776.html">NEMORA: Neural Equivariant Multipole Operators for Long-Range Atomistic Learning</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a></div></td>
-<td>Jay L. Kaplan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.10776">2610.10776</a></td>
 </tr>
 </tbody></table>

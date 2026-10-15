@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">129 papers</span>
+  <span class="paper-count">128 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -782,11 +782,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18630.html">Non-Arrhenius Li-ion transport and grain-size effects in argyrodite solid electrolytes</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Yongliang Ou et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18630">2510.18630</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16697.html">Efficient small-cell sampling for machine-learning potentials of multi-principal element alloys</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Yan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16697">2510.16697</a></td>
 </tr>
 </tbody></table>

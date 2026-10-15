@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">338 papers</span>
+  <span class="paper-count">337 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2036,11 +2036,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17336.html">Chemically tailored planar defect phases in the Ta-Fe μ-phase</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Christina Gasper et al.</td>
 <td><a href="http://arxiv.org/abs/2510.17336">2510.17336</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16993.html">Coherent terahertz control of metastable magnetization in FePS3</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Batyr Ilyas et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16993">2510.16993</a></td>
 </tr>
 </tbody></table>

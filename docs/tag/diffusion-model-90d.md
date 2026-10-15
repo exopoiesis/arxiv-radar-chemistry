@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -428,11 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18144.html">Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Thomas MacDougall et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18144">2607.18144</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14678.html">Vortex-Beam Transient Absorption Microspectroscopy Resolves Ultrafast Free-Exciton and Polaron Diffusion in 2D Perovskites</a></div></td>
-<td>Ju-Young Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14678">2607.14678</a></td>
 </tr>
 </tbody></table>

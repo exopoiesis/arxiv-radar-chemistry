@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>monte-carlo — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11882.html">Beyond special quasirandom structures: free energies from energy cumulants</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Yann L. Müller et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11882">2610.11882</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10605.html">Kinetic Reduction and Hydrodynamics under Time-Dependent Helical Symmetry</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Qingyun Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2610.10605">2610.10605</a></td>
 </tr>
 </tbody></table>

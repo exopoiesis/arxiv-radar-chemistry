@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-llm — 90d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <a href="protein-llm-30d.html">30d</a> <strong>90d</strong> <a href="protein-llm-360d.html">360d</a> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21200.html">Poisoning the corpora of protein design systems during pre-training and retrieval</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td>Charalampos Koilakos et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21200">2610.21200</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19738.html">ProtModernBERT: Compute-Efficient Protein Language Modeling</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Alberto Martínez et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19738">2610.19738</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18481.html">ProTok: Unified Protein Tokenization via Modular Multi-Codebook Quantization</a></div></td>
+<td>Romain Hardy et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18481">2610.18481</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03029.html">SoftGene: Protein Language Model-Enhanced Soft Prompting for Interpretable Gene Set Annotation</a></div></td>
@@ -110,11 +128,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20057.html">Antigen-specific Antibody Multi-modal Foundation Model for Functional Antibody Design</a></div></td>
 <td>Xiaoliang Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20057">2607.20057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16553.html">Discrete Ricci Curvature on Protein Contact Graphs for Lightweight Fold Classification</a></div></td>
-<td>Jianru Shen</td>
-<td><a href="http://arxiv.org/abs/2607.16553">2607.16553</a></td>
 </tr>
 </tbody></table>

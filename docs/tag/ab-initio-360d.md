@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1517 papers</span>
+  <span class="paper-count">1516 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20779.html">Enabling large language model agents for high-fidelity many-body perturbation theory calculations</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
+<td>Benran Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20779">2610.20779</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21015.html">MASON: Materials Atomistic Structure builder Operated in Natural language</a></div></td>
+<td>Xinyue Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21015">2610.21015</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18631.html">Momentum conservation for ab initio calculations with pseudopotentials via a phase space electronic structure formulation</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Guy Ohad et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18631">2610.18631</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16091.html">Vibrational Fingerprints of Competing Structural and Polar Phases in CuInP2S6</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Pegah Mohammadi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16091">2610.16091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Shivang Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12896.html">All-electron RT-TDDFT with Exact Exchange based on Numeric Atom-centered Orbitals for Condensed Matter</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
@@ -9080,41 +9110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19088.html">Predicting Spectroscopic Properties of Solvated Nile Red with Automated Workflows for Machine Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Jacob Eller et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19088">2510.19088</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18038.html">Tuning Magnetic and Electronic Properties of Double Perovskite La$_2$CoIr$_{1-x}$Ti$_x$O$_6$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Sromona Nandi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18038">2509.18038</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17123.html">Deep Learning-Based Extraction of Promising Material Groups and Common Features from High-Dimensional Data: A Case of Optical Spectra of Inorganic Crystals</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Akira Takahashi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17123">2510.17123</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17706.html">Local Proton Disorder Induced Intermolecular H-H Coupling in Ionization of Dense Ammonia</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Yu Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17706">2510.17706</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17755.html">Mott vs Kondo: Influence of Various Density Functional Based Methods on the Ce Isostructural Phase Transition Mechanism</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Brenden W. Hamilton et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17755">2510.17755</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18033.html">Benchmarking 34 OpenKIM Nickel Potentials with an Emphasis on Surfaces and Extended Defects</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Matthew Thoms et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18033">2510.18033</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18174.html">Anisotropic-Strain Control of The Magnetic Structure in Mn\textsubscript{3}GaN</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Roman Malyshev et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18174">2510.18174</a></td>
 </tr>
 </tbody></table>

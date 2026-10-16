@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">343 papers</span>
+  <span class="paper-count">342 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2066,11 +2066,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.13839.html">Quantum-selected configuration interaction with time-evolved state</a></div></td>
 <td>Mathias Mikkelsen et al.</td>
 <td><a href="http://arxiv.org/abs/2412.13839">2412.13839</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18900.html">Foundation Models for Discovery and Exploration in Chemical Space</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Alexius Wadell et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18900">2510.18900</a></td>
 </tr>
 </tbody></table>

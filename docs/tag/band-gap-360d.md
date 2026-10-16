@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">414 papers</span>
+  <span class="paper-count">412 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2486,17 +2486,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18754.html">Interplay of Magnetism, Band Gap Tuning, Optical, and Thermoelectric Responses in Fe-Doped YMnO$_3$: Insights from First-Principles Calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Kazi Mazba Kamal et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18754">2510.18754</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18038.html">Tuning Magnetic and Electronic Properties of Double Perovskite La$_2$CoIr$_{1-x}$Ti$_x$O$_6$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Sromona Nandi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18038">2509.18038</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17464.html">Hybridization in van der Waals epitaxy of PtSe2/h-BN and PtSe2/graphene heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Meryem Bouaziz et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17464">2510.17464</a></td>
 </tr>
 </tbody></table>

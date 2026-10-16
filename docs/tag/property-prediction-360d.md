@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">243 papers</span>
+  <span class="paper-count">241 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19906.html">Beyond Benchmark Accuracy: A Diagnostic Test for LLM Chemical Prediction</a></div><div class="paper-tags"><a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
+<td>Yanyi Su et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19906">2610.19906</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12522.html">MolP2SBench: Do LLMs Really Reason from Molecular Properties to Structure?</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
@@ -1454,23 +1460,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16780.html">3D-GSRD: 3D Molecular Graph Auto-Encoder with Selective Re-mask Decoding</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Chang Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16780">2510.16780</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13174.html">GeoRecon: Graph-Level Representation Learning for 3D Molecules via Reconstruction-Based Pretraining</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Shaoheng Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13174">2506.13174</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18122.html">HyperDiffusionFields (HyDiF): Diffusion-Guided Hypernetworks for Learning Implicit Molecular Neural Fields</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Sudarshan Babu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18122">2510.18122</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18900.html">Foundation Models for Discovery and Exploration in Chemical Space</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Alexius Wadell et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18900">2510.18900</a></td>
 </tr>
 </tbody></table>

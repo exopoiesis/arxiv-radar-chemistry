@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17765.html">PROTEAN: Beyond De Novo Generation - Can LLM Agents Perform Text-Guided Protein Structure Editing?</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Encheng Su et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17765">2610.17765</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16975.html">MADDIE: Multi-Agent Drug Discovery Engine</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
+<td>Ye Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16975">2610.16975</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Shivang Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11454.html">Zatom-2: Multitask Pretraining on Atomistic Data for Generative Modeling across Domains</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
@@ -290,29 +308,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19476.html">Search at the Cost of Sampling: Nearly-Instant Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="drug-discovery-30d.html">drug-discovery</a></div></td>
 <td>Donney Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19476">2609.19476</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15659.html">KaiNinja: Extending Native 3D Generators to the Part Level</a></div></td>
-<td>Ruihan Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15659">2609.15659</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16466.html">Scaling LLM Agents for Materials Design through Hierarchical Collective Reasoning</a></div></td>
-<td>Jaehwan Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16466">2609.16466</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16527.html">QALPA: Property-guided diffusion modeling for efficient exploration of chemical spaces of flexible molecules</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="chemical-space-30d.html">chemical-space</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
-<td>Michael Hanna et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16527">2609.16527</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17646.html">Robust and Efficient AI Frameworks for Scalable Material Design and Property Prediction</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Kishalay Das</td>
-<td><a href="http://arxiv.org/abs/2609.17646">2609.17646</a></td>
 </tr>
 </tbody></table>

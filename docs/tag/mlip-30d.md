@@ -16,6 +16,24 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19630.html">Risk-Controlled DFT Selection for Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Kun Ryu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19630">2610.19630</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17352.html">Can Universal Machine-Learning Interatomic Potentials Capture Small Polarons? A Geometry-Based Benchmark in Transition-Metal Oxides</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Vladislav Korostelev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17352">2610.17352</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Shivang Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13902.html">Accuracy of Vibrational Properties of Machine-Learning Force Fields for Molecular Crystal Transformations</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Natalia Goncharova et al.</td>
@@ -248,23 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19487.html">ALIGNN 2.0: A Unified Line-Graph Neural Network Framework for Materials Screening, Force Fields, Inverse Design, Spectroscopy, and Microscopy</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="gnn-30d.html">gnn</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Jaehyung Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19487">2609.19487</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12401.html">Optimization of ReaxFF parameters for the $\mathrm{Mo-S}$ system using random optimization and coordinate search</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Arun Ravichandran et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12401">2609.12401</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16526.html">Symbolic Ensemble Learning Enables Discovery of Fast Accurate Physics-Based Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Bilvin Varughese et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16526">2609.16526</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17514.html">Molecular Decomposition of the Area Compressibility Modulus of Lipid Membranes</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Konstantin V. Pinigin</td>
-<td><a href="http://arxiv.org/abs/2609.17514">2609.17514</a></td>
 </tr>
 </tbody></table>

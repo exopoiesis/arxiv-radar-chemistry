@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19630.html">Risk-Controlled DFT Selection for Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Kun Ryu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19630">2610.19630</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17352.html">Can Universal Machine-Learning Interatomic Potentials Capture Small Polarons? A Geometry-Based Benchmark in Transition-Metal Oxides</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Vladislav Korostelev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17352">2610.17352</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Shivang Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13902.html">Accuracy of Vibrational Properties of Machine-Learning Force Fields for Molecular Crystal Transformations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Natalia Goncharova et al.</td>
@@ -3416,23 +3434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19088.html">Predicting Spectroscopic Properties of Solvated Nile Red with Automated Workflows for Machine Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Jacob Eller et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19088">2510.19088</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17152.html">System-Bath Modeling in Vibrational Spectroscopy via Molecular Dynamics: A Machine Learning Framework for Hierarchical Equations of Motion (HEOM)</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kwanghee Park et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17152">2510.17152</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17187.html">A Standardized Benchmark for Machine-Learned Molecular Dynamics using Weighted Ensemble Sampling</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Alexander Aghili et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17187">2510.17187</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18033.html">Benchmarking 34 OpenKIM Nickel Potentials with an Emphasis on Surfaces and Extended Defects</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Matthew Thoms et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18033">2510.18033</a></td>
 </tr>
 </tbody></table>

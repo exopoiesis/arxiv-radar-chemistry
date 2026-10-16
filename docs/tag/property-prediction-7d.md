@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12522.html">MolP2SBench: Do LLMs Really Reason from Molecular Properties to Structure?</a></div><div class="paper-tags"><a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Yuhang Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12522">2610.12522</a></td>
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19906.html">Beyond Benchmark Accuracy: A Diagnostic Test for LLM Chemical Prediction</a></div><div class="paper-tags"><a href="retrosynthesis-7d.html">retrosynthesis</a></div></td>
+<td>Yanyi Su et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19906">2610.19906</a></td>
 </tr>
 </tbody></table>

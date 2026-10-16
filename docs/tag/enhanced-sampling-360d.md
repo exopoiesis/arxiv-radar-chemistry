@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>enhanced-sampling — 360d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="enhanced-sampling-7d.html">7d</a> <a href="enhanced-sampling-30d.html">30d</a> <a href="enhanced-sampling-90d.html">90d</a> <strong>360d</strong> <a href="enhanced-sampling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08357.html">Hamiltonian replica exchange augmented with diffusion-based generative models and importance sampling to assess biomolecular conformational basins and barriers</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
 <td>Zakarya Benayad et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08357">2505.08357</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17187.html">A Standardized Benchmark for Machine-Learned Molecular Dynamics using Weighted Ensemble Sampling</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Alexander Aghili et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17187">2510.17187</a></td>
 </tr>
 </tbody></table>

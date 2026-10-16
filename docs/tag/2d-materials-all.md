@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>2d-materials — all</h1>
-  <span class="paper-count">1086 papers</span>
+  <span class="paper-count">1087 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19582.html">Magnetic proximity beyond the interface: Layer-sequence-dependent exchange in WSe$_2$/CrI$_3$ heterostructures</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="tmd-all.html">tmd</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
+<td>Natalie Kuhn et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19582">2610.19582</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12996.html">Real-Time Relaxation Dynamics of Dark Excitons in Mirror-Symmetric Monolayers</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>

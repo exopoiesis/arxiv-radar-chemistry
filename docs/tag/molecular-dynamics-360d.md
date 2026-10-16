@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1548 papers</span>
+  <span class="paper-count">1544 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13714.html">Dislocation mediated twin boundary faceting in $β$-Sn</a></div></td>
 <td>John Israel et al.</td>
 <td><a href="http://arxiv.org/abs/2610.13714">2610.13714</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14234.html">UGME: A python package for non-Markovian protein folding dynamics</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td>Anthony J. Dominic et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14234">2610.14234</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-08</td>
@@ -9272,35 +9278,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18426.html">Ideal Nodal-Sphere Semimetal in the Three-Dimensional Boron Allotrope CT-B$_{24}$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Xiao-jing Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18426">2510.18426</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17152.html">System-Bath Modeling in Vibrational Spectroscopy via Molecular Dynamics: A Machine Learning Framework for Hierarchical Equations of Motion (HEOM)</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Kwanghee Park et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17152">2510.17152</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17187.html">A Standardized Benchmark for Machine-Learned Molecular Dynamics using Weighted Ensemble Sampling</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Alexander Aghili et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17187">2510.17187</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17706.html">Local Proton Disorder Induced Intermolecular H-H Coupling in Ionization of Dense Ammonia</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Yu Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17706">2510.17706</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18061.html">Oxidation State Dynamics and Emerging Patterns in Magnetite</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Emre Gürsoy et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18061">2510.18061</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18630.html">Non-Arrhenius Li-ion transport and grain-size effects in argyrodite solid electrolytes</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Yongliang Ou et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18630">2510.18630</a></td>
 </tr>
 </tbody></table>

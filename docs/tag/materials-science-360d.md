@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">337 papers</span>
+  <span class="paper-count">334 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20779.html">Enabling large language model agents for high-fidelity many-body perturbation theory calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Benran Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20779">2610.20779</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11454.html">Zatom-2: Multitask Pretraining on Atomistic Data for Generative Modeling across Domains</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
@@ -2012,29 +2018,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18178.html">MACE Foundation Models for Lattice Dynamics: A Benchmark Study on Double Halide Perovskites</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Jack Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18178">2510.18178</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00227.html">Scalable, Non-contact Determination of Electric Properties of Nanostructures via Electro-Rotation in Water Solution</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Yun Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00227">2508.00227</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14111.html">From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery</a></div></td>
-<td>Jiaqi Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14111">2508.14111</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17123.html">Deep Learning-Based Extraction of Promising Material Groups and Common Features from High-Dimensional Data: A Case of Optical Spectra of Inorganic Crystals</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Akira Takahashi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17123">2510.17123</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17336.html">Chemically tailored planar defect phases in the Ta-Fe μ-phase</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Christina Gasper et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17336">2510.17336</a></td>
 </tr>
 </tbody></table>

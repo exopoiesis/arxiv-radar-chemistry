@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17832.html">Agentic-MatriBO: Capability-Compiled Agentic Bayesian Optimization for Materials and Chemical Design</a></div></td>
+<td>Yu Zeng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17832">2610.17832</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19404.html">ActMOF: Mapping Reticular Synthesis through Active Learning</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="mof-360d.html">mof</a></div></td>
+<td>Hongrui Sheng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19404">2610.19404</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12859.html">Closed-loop domain generation enhances battery health diagnosis</a></div></td>
 <td>Yue Wu et al.</td>
@@ -782,17 +794,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22766.html">Bayesian Optimization of Process Parameters of a Sensor-Based Sorting System using Gaussian Processes as Surrogate Models</a></div></td>
 <td>Felix Kronenwett et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22766">2507.22766</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15093.html">Steering Generative Models with Experimental Data for Protein Fitness Optimization</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="protein-llm-360d.html">protein-llm</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Jason Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15093">2505.15093</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16021.html">Hamiltonian parameter inference from resonant inelastic x-ray scattering with active learning</a></div></td>
-<td>Marton K. Lajer et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16021">2507.16021</a></td>
 </tr>
 </tbody></table>

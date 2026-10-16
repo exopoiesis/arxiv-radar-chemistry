@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20779.html">Enabling large language model agents for high-fidelity many-body perturbation theory calculations</a></div><div class="paper-tags"><a href="materials-science-7d.html">materials-science</a></div></td>
+<td>Benran Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20779">2610.20779</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21015.html">MASON: Materials Atomistic Structure builder Operated in Natural language</a></div></td>
+<td>Xinyue Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21015">2610.21015</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18631.html">Momentum conservation for ab initio calculations with pseudopotentials via a phase space electronic structure formulation</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Guy Ohad et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18631">2610.18631</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16091.html">Vibrational Fingerprints of Competing Structural and Polar Phases in CuInP2S6</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="phase-transition-7d.html">phase-transition</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
+<td>Pegah Mohammadi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16091">2610.16091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="diffusion-model-7d.html">diffusion-model</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="materials-discovery-7d.html">materials-discovery</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Shivang Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12896.html">All-electron RT-TDDFT with Exact Exchange based on Numeric Atom-centered Orbitals for Condensed Matter</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
@@ -44,29 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13922.html">Spin Migration in the Argon Dimer</a></div></td>
 <td>Stefanos Carlström et al.</td>
 <td><a href="http://arxiv.org/abs/2610.13922">2610.13922</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11046.html">$\boldsymbol{\textit{Ab initio}}$ $nα$ scattering using the Efros method</a></div></td>
-<td>Mamoon A. Sharaf et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11046">2610.11046</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11838.html">Magnon band splitting without altermagnetism in CuF2</a></div></td>
-<td>Ioannis Rousochatzakis et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11838">2610.11838</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11878.html">Benchmarking Universal Machine-Learning Interatomic Potentials for Temperature-Dependent Elasticity of Binary and High-Entropy Refractory Carbides</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Miroslav Lebeda et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11878">2610.11878</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12743.html">Predicted state-to-state collisional rate coefficients from neural networks</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Lisán David Cabrera-González et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12743">2610.12743</a></td>
 </tr>
 </tbody></table>

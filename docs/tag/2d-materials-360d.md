@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">515 papers</span>
+  <span class="paper-count">514 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19582.html">Magnetic proximity beyond the interface: Layer-sequence-dependent exchange in WSe$_2$/CrI$_3$ heterostructures</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Natalie Kuhn et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19582">2610.19582</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12996.html">Real-Time Relaxation Dynamics of Dark Excitons in Mirror-Symmetric Monolayers</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
@@ -3092,17 +3098,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18637.html">Measuring vacancy-type defect density in monolayer semiconductors</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Aleksandar Radic et al.</td>
 <td><a href="http://arxiv.org/abs/2409.18637">2409.18637</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17190.html">Dissociative Mechanism from NH3 and CH4 on Ni-Doped Graphene: Tuning Electronic and Optical Properties</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>A. Aligayev et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17190">2510.17190</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17464.html">Hybridization in van der Waals epitaxy of PtSe2/h-BN and PtSe2/graphene heterostructures</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Meryem Bouaziz et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17464">2510.17464</a></td>
 </tr>
 </tbody></table>

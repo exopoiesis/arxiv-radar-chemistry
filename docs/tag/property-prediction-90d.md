@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19906.html">Beyond Benchmark Accuracy: A Diagnostic Test for LLM Chemical Prediction</a></div><div class="paper-tags"><a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
+<td>Yanyi Su et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19906">2610.19906</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12522.html">MolP2SBench: Do LLMs Really Reason from Molecular Properties to Structure?</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Yuhang Xie et al.</td>
@@ -230,11 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19977.html">Rem3Di: Learning smooth, chiral 3D molecular descriptors from atomistic foundation models</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Steffen Wedig et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19977">2607.19977</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15686.html">S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation</a></div><div class="paper-tags"><a href="chemical-llm-90d.html">chemical-llm</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Jiahao Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15686">2607.15686</a></td>
 </tr>
 </tbody></table>

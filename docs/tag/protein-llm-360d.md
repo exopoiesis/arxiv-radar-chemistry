@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-llm — 360d</h1>
-  <span class="paper-count">107 papers</span>
+  <span class="paper-count">109 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <a href="protein-llm-30d.html">30d</a> <a href="protein-llm-90d.html">90d</a> <strong>360d</strong> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21200.html">Poisoning the corpora of protein design systems during pre-training and retrieval</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td>Charalampos Koilakos et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21200">2610.21200</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19738.html">ProtModernBERT: Compute-Efficient Protein Language Modeling</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Alberto Martínez et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19738">2610.19738</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18481.html">ProTok: Unified Protein Tokenization via Modular Multi-Codebook Quantization</a></div></td>
+<td>Romain Hardy et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18481">2610.18481</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03029.html">SoftGene: Protein Language Model-Enhanced Soft Prompting for Interpretable Gene Set Annotation</a></div></td>
@@ -650,11 +668,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05101.html">PRING: Rethinking Protein-Protein Interaction Prediction from Pairs to Graphs</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a></div></td>
 <td>Xinzhe Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05101">2507.05101</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15093.html">Steering Generative Models with Experimental Data for Protein Fitness Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Jason Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15093">2505.15093</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-representation — 90d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17164.html">Learning Perceptual Geometry of Natural Odor Mixtures from LLM-Derived Descriptors</a></div></td>
+<td>Farhad Pashakhanloo et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17164">2610.17164</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13037.html">Quantum-Circuit Residuals for Receptor Functional Potency Prediction: Predictive Gains and Quadratic Structure</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>

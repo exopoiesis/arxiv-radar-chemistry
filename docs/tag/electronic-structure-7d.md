@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11454.html">Zatom-2: Multitask Pretraining on Atomistic Data for Generative Modeling across Domains</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a> · <a href="materials-science-7d.html">materials-science</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Miruna Cretu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11454">2610.11454</a></td>
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19582.html">Magnetic proximity beyond the interface: Layer-sequence-dependent exchange in WSe$_2$/CrI$_3$ heterostructures</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="tmd-7d.html">tmd</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
+<td>Natalie Kuhn et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19582">2610.19582</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12297.html">The Stability of Rutile Oxides for Oxygen Evolution Catalysis: From Mechanistic Understanding to New Descriptors</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="electrocatalysis-7d.html">electrocatalysis</a></div></td>
-<td>Katarina Kretschmer et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12297">2610.12297</a></td>
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18631.html">Momentum conservation for ab initio calculations with pseudopotentials via a phase space electronic structure formulation</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Guy Ohad et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18631">2610.18631</a></td>
 </tr>
 </tbody></table>

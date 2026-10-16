@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18851.html">MFG: Multi-turn Feedback Guided Molecular Optimization</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
+<td>Trieu Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18851">2610.18851</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19123.html">PairIT: Autoregressive Transformers for Low-Data Molecule Optimization</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
+<td>Hannah Lawrence et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19123">2610.19123</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08367.html">Evolutionary One-Step Generators: Fast and Diverse Sampling for Discrete Design</a></div></td>
 <td>Marcus Vukojevic et al.</td>
@@ -128,17 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18144.html">Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Thomas MacDougall et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18144">2607.18144</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15686.html">S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation</a></div><div class="paper-tags"><a href="chemical-llm-90d.html">chemical-llm</a> · <a href="property-prediction-90d.html">property-prediction</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Jiahao Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15686">2607.15686</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16038.html">SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td> SciForge Team et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16038">2607.16038</a></td>
 </tr>
 </tbody></table>

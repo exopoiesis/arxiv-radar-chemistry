@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>battery-materials — 360d</h1>
-  <span class="paper-count">193 papers</span>
+  <span class="paper-count">191 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <strong>360d</strong> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1160,17 +1160,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.05925.html">First principles approaches and concepts for electrochemical systems</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Mira Todorova et al.</td>
 <td><a href="http://arxiv.org/abs/2411.05925">2411.05925</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18630.html">Non-Arrhenius Li-ion transport and grain-size effects in argyrodite solid electrolytes</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yongliang Ou et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18630">2510.18630</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18900.html">Foundation Models for Discovery and Exploration in Chemical Space</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Alexius Wadell et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18900">2510.18900</a></td>
 </tr>
 </tbody></table>

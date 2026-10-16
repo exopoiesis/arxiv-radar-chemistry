@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-space — 360d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <strong>360d</strong> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -746,11 +746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12961.html">Aligning Transformers with Continuous Feedback via Energy Rank Alignment</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Shriram Chennakesavalu et al.</td>
 <td><a href="http://arxiv.org/abs/2405.12961">2405.12961</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18900.html">Foundation Models for Discovery and Exploration in Chemical Space</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Alexius Wadell et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18900">2510.18900</a></td>
 </tr>
 </tbody></table>

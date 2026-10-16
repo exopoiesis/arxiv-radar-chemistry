@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19738.html">ProtModernBERT: Compute-Efficient Protein Language Modeling</a></div><div class="paper-tags"><a href="protein-llm-30d.html">protein-llm</a></div></td>
+<td>Alberto Martínez et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19738">2610.19738</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13106.html">Scaling RNA Foundation Models through Iterative Refinement</a></div></td>
 <td>Pengan Chen et al.</td>
@@ -116,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24842.html">Towards Accurate Prediction of Mutation-Induced Changes in Protein Structure</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Zhuoyi Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.24842">2609.24842</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16545.html">Exotic centrosymmetric phase of acentric urea under high pressure</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a></div></td>
-<td>Haw-Tyng Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16545">2609.16545</a></td>
 </tr>
 </tbody></table>

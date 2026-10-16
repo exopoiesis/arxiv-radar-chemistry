@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">105 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20779.html">Enabling large language model agents for high-fidelity many-body perturbation theory calculations</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
+<td>Benran Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20779">2610.20779</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21015.html">MASON: Materials Atomistic Structure builder Operated in Natural language</a></div></td>
+<td>Xinyue Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21015">2610.21015</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18631.html">Momentum conservation for ab initio calculations with pseudopotentials via a phase space electronic structure formulation</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Guy Ohad et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18631">2610.18631</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16091.html">Vibrational Fingerprints of Competing Structural and Polar Phases in CuInP2S6</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="phase-transition-30d.html">phase-transition</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
+<td>Pegah Mohammadi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16091">2610.16091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Shivang Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12896.html">All-electron RT-TDDFT with Exact Exchange based on Numeric Atom-centered Orbitals for Condensed Matter</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
@@ -578,71 +608,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22342.html">Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
 <td>Yi-Ran Xue et al.</td>
 <td><a href="http://arxiv.org/abs/2609.22342">2609.22342</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15774.html">Ab Initio Emergence and Collapse of Nuclear Collectivity near N = Z = 40</a></div></td>
-<td>X. C. Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15774">2609.15774</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16500.html">High-Performance Tensor Formulation of the Viterbi Algorithm for Hidden Semi-Markov Models</a></div></td>
-<td>Lorenzo Piarulli et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16500">2609.16500</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16526.html">Symbolic Ensemble Learning Enables Discovery of Fast Accurate Physics-Based Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Bilvin Varughese et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16526">2609.16526</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16545.html">Exotic centrosymmetric phase of acentric urea under high pressure</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Haw-Tyng Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16545">2609.16545</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16570.html">Origin and Reduction of Coercive Fields in ZnO-based Wurtzite Ferroelectrics</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Abhijeet Dhakane et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16570">2609.16570</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16749.html">Electric-Field-Switchable Altermagnetism via Ligand Rotation in a d0 Metal-Organic Framework</a></div><div class="paper-tags"><a href="mof-30d.html">mof</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Hongjing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16749">2609.16749</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17270.html">Higher order anharmonicity and polymorphism in the lattice thermal conductivity of transition metal dichalcogenides</a></div><div class="paper-tags"><a href="phase-transition-30d.html">phase-transition</a> · <a href="thermal-properties-30d.html">thermal-properties</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>Marta Loletti et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17270">2609.17270</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17385.html">A note on the accuracy of spin-densities from Kohn-Sham Density Functional Theory</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Rodrigo A. Mendes et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17385">2609.17385</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17433.html">Nonlinear electron-phonon interactions from first principles</a></div></td>
-<td>Zhenbang Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17433">2609.17433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17876.html">Surface chemistry investigation of an additively manufactured Al-Mg-Si-Zr alloy: Studies from experiments and first-principles simulation</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Zhengqing Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17876">2609.17876</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19192.html">Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Djardiel S. Gomes et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19192">2609.19192</a></td>
 </tr>
 </tbody></table>

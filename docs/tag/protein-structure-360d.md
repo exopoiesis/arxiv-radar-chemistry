@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">231 papers</span>
+  <span class="paper-count">235 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,46 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21200.html">Poisoning the corpora of protein design systems during pre-training and retrieval</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
+<td>Charalampos Koilakos et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21200">2610.21200</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19592.html">InstructPro2: Natural Language and Biological Grounding Guided De Novo Protein Design</a></div></td>
+<td>Charles Novak et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19592">2610.19592</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19810.html">ReproBAIT: Can coding agents build their own biological AI tools?</a></div></td>
+<td>Shiv Muthupandiyan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19810">2610.19810</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17765.html">PROTEAN: Beyond De Novo Generation - Can LLM Agents Perform Text-Guided Protein Structure Editing?</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Encheng Su et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17765">2610.17765</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17108.html">Calibrating AlphaFold confidence scores for interface quality</a></div></td>
+<td>Sagyndyk Sagadinov et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17108">2610.17108</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13917.html">Designing Protein Structures from Natural Language</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Joseph Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2610.13917">2610.13917</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14234.html">UGME: A python package for non-Markovian protein folding dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Anthony J. Dominic et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14234">2610.14234</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-08</td>
@@ -1388,17 +1424,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18790.html">Protein generation with embedding learning for motif diversification</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Kevin Michalewicz et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18790">2510.18790</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22109.html">The quest for the GRAph Level autoEncoder (GRALE)</a></div></td>
-<td>Paul Krzakala et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22109">2505.22109</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01857.html">Protein folding classes -- High-dimensional geometry of amino acid composition space revisited</a></div></td>
-<td>Boryeu Mao</td>
-<td><a href="http://arxiv.org/abs/2506.01857">2506.01857</a></td>
 </tr>
 </tbody></table>

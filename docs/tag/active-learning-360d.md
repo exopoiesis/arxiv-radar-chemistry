@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19404.html">ActMOF: Mapping Reticular Synthesis through Active Learning</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="mof-360d.html">mof</a></div></td>
+<td>Hongrui Sheng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19404">2610.19404</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01827.html">Scientific Discovery under Validation Congestion via Multi-Fidelity Pairwise Rankings</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Kevin Tirta Wijaya et al.</td>
@@ -776,11 +782,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19088.html">Predicting Spectroscopic Properties of Solvated Nile Red with Automated Workflows for Machine Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Jacob Eller et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19088">2510.19088</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18630.html">Non-Arrhenius Li-ion transport and grain-size effects in argyrodite solid electrolytes</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yongliang Ou et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18630">2510.18630</a></td>
 </tr>
 </tbody></table>

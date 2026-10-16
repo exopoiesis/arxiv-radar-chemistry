@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19738.html">ProtModernBERT: Compute-Efficient Protein Language Modeling</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
+<td>Alberto Martínez et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19738">2610.19738</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13106.html">Scaling RNA Foundation Models through Iterative Refinement</a></div></td>
 <td>Pengan Chen et al.</td>
@@ -212,11 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19237.html">DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Yiming Qin et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19237">2607.19237</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15686.html">S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation</a></div><div class="paper-tags"><a href="chemical-llm-90d.html">chemical-llm</a> · <a href="molecular-generation-90d.html">molecular-generation</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Jiahao Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15686">2607.15686</a></td>
 </tr>
 </tbody></table>

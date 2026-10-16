@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">479 papers</span>
+  <span class="paper-count">478 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17765.html">PROTEAN: Beyond De Novo Generation - Can LLM Agents Perform Text-Guided Protein Structure Editing?</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td>Encheng Su et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17765">2610.17765</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16975.html">MADDIE: Multi-Agent Drug Discovery Engine</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
+<td>Ye Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16975">2610.16975</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Shivang Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11454.html">Zatom-2: Multitask Pretraining on Atomistic Data for Generative Modeling across Domains</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
@@ -2864,29 +2882,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08357.html">Hamiltonian replica exchange augmented with diffusion-based generative models and importance sampling to assess biomolecular conformational basins and barriers</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
 <td>Zakarya Benayad et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08357">2505.08357</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.10612.html">Energy Matching: Unifying Flow Matching and Energy-Based Models for Generative Modeling</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Michal Balcerak et al.</td>
-<td><a href="http://arxiv.org/abs/2504.10612">2504.10612</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15093.html">Steering Generative Models with Experimental Data for Protein Fitness Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-llm-360d.html">protein-llm</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Jason Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15093">2505.15093</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18601.html">Flex-Judge: Text-Only Reasoning Unleashes Zero-Shot Multimodal Evaluators</a></div></td>
-<td>Jongwoo Ko et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18601">2505.18601</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17936.html">XDXD: End-to-end crystal structure determination with low resolution X-ray diffraction</a></div></td>
-<td>Jiale Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17936">2510.17936</a></td>
 </tr>
 </tbody></table>

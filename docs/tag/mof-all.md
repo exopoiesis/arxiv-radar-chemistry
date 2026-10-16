@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mof — all</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">89 papers</span>
   <nav class="window-nav"><a href="mof-7d.html">7d</a> <a href="mof-30d.html">30d</a> <a href="mof-90d.html">90d</a> <a href="mof-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19404.html">ActMOF: Mapping Reticular Synthesis through Active Learning</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="bayesian-optimization-all.html">bayesian-optimization</a></div></td>
+<td>Hongrui Sheng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19404">2610.19404</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12739.html">Predictive Synthesis of MOFs and COFs</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>

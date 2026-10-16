@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19582.html">Magnetic proximity beyond the interface: Layer-sequence-dependent exchange in WSe$_2$/CrI$_3$ heterostructures</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a> · <a href="tmd-7d.html">tmd</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
+<td>Natalie Kuhn et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19582">2610.19582</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12996.html">Real-Time Relaxation Dynamics of Dark Excitons in Mirror-Symmetric Monolayers</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>Rishabh Saraswat et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12996">2610.12996</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12771.html">Dynamic Chemical Changes of Ti3C2Tx MXenes in Halide Perovskite Precursor Environments</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Kirill Sobolev et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12771">2610.12771</a></td>
 </tr>
 </tbody></table>

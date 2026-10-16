@@ -16,6 +16,30 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19630.html">Risk-Controlled DFT Selection for Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Kun Ryu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19630">2610.19630</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16091.html">Vibrational Fingerprints of Competing Structural and Polar Phases in CuInP2S6</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="phase-transition-90d.html">phase-transition</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>Pegah Mohammadi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16091">2610.16091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17352.html">Can Universal Machine-Learning Interatomic Potentials Capture Small Polarons? A Geometry-Based Benchmark in Transition-Metal Oxides</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Vladislav Korostelev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17352">2610.17352</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Shivang Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12896.html">All-electron RT-TDDFT with Exact Exchange based on Numeric Atom-centered Orbitals for Condensed Matter</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
 <td>Jianhang Xu et al.</td>
@@ -2378,29 +2402,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16807.html">Theory of associating polymers with annealed and quenched sticker disorder: Mean-field solution and phase behavior</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
 <td>Sofia Moschin et al.</td>
 <td><a href="http://arxiv.org/abs/2607.16807">2607.16807</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15611.html">Topology and compact molecular orbitals in twisted bilayer WSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Chenyuan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15611">2607.15611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15728.html">Interface-Engineered Giant Multistate Resistance Switching in Altermagnetic CrSb Multiferroic Tunnel Junctions</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
-<td>Zhi Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15728">2607.15728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16454.html">Valley polarization, Rashba interaction, and weak altermagnetism in inversion-asymmetric MnPS$_\text{3}|$WS$_\text{2}$ van der Waals heterostructures</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Purba Dutta et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16454">2607.16454</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16483.html">Bond reconstruction and vacancy clustering in monolayer silicon carbide from first principles</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Péter Udvarhelyi</td>
-<td><a href="http://arxiv.org/abs/2607.16483">2607.16483</a></td>
 </tr>
 </tbody></table>

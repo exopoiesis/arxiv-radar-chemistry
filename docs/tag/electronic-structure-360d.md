@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">465 papers</span>
+  <span class="paper-count">464 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19582.html">Magnetic proximity beyond the interface: Layer-sequence-dependent exchange in WSe$_2$/CrI$_3$ heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Natalie Kuhn et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19582">2610.19582</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18631.html">Momentum conservation for ab initio calculations with pseudopotentials via a phase space electronic structure formulation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Guy Ohad et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18631">2610.18631</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11454.html">Zatom-2: Multitask Pretraining on Atomistic Data for Generative Modeling across Domains</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
@@ -2786,23 +2798,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18426.html">Ideal Nodal-Sphere Semimetal in the Three-Dimensional Boron Allotrope CT-B$_{24}$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Xiao-jing Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18426">2510.18426</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17464.html">Hybridization in van der Waals epitaxy of PtSe2/h-BN and PtSe2/graphene heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Meryem Bouaziz et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17464">2510.17464</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18061.html">Oxidation State Dynamics and Emerging Patterns in Magnetite</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Emre Gürsoy et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18061">2510.18061</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18078.html">First-Principles Investigation of the Physical and Thermoelectric Properties of Chalcogenide Compounds for Waste-Heat Recovery</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Md Hasan Shahriar Rifat et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18078">2510.18078</a></td>
 </tr>
 </tbody></table>

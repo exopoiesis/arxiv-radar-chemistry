@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">327 papers</span>
+  <span class="paper-count">326 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1970,11 +1970,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08357.html">Hamiltonian replica exchange augmented with diffusion-based generative models and importance sampling to assess biomolecular conformational basins and barriers</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
 <td>Zakarya Benayad et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08357">2505.08357</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.10612.html">Energy Matching: Unifying Flow Matching and Energy-Based Models for Generative Modeling</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Michal Balcerak et al.</td>
-<td><a href="http://arxiv.org/abs/2504.10612">2504.10612</a></td>
 </tr>
 </tbody></table>

@@ -7705,5 +7705,2155 @@
    "Reaction, Synthesis & Catalysis"
   ],
   "updated": "2026-10-09"
+ },
+ "2610.14234": {
+  "abstract": "Biomolecular processes, including protein folding, protein-protein association, and protein-DNA recognition, often occur on timescales beyond what individual atomistic molecular dynamics (MD) simulations can reach. To access these longer-timescale dynamics, practitioners commonly combine many parallelized, short trajectories into reduced kinetic models, such as Markov state models (MSMs), that describe how the biomolecules interconvert between a handful of biomolecular configurations (e.g., folded and unfolded states of a protein). Central to MSM construction is the assumption that, at sufficiently long time lags, these projected dynamics become memoryless, such that the future evolution of the system depends only on its current state. Yet, projecting high-dimensional biomolecular dynamics onto a small set of states necessarily discards information about unresolved degrees of freedom, including solvent reorganization, side-chain rearrangements, and intermediate configurations. Because these unresolved motions can continue to influence subsequent dynamics, the resulting dynamics retain memory that is absent from a Markovian description. Here, we present ugme, a modular, open-source Python package for constructing and validating generalized master equations (GME) models that explicitly account for these non-Markovian (memory) effects.",
+  "authors": [
+   "Anthony J. Dominic",
+   "Bertram Cham",
+   "Andrés Montoya-Castillo"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "3 pages, 1 figure",
+  "first_author": "Anthony J. Dominic",
+  "pdf_url": "http://arxiv.org/pdf/2610.14234",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-09",
+  "tags": [
+   "molecular-dynamics",
+   "protein-structure"
+  ],
+  "title": "UGME: A python package for non-Markovian protein folding dynamics",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-09"
+ },
+ "2610.14349": {
+  "abstract": "We show that continuous bitstream diffusion (CoBit), originally developed for language modeling, provides a unified framework for joint and conditional multimodal generation using the same training and sampling protocol. Across image-text, speech-text and protein sequence-structure modeling, models are trained separately from scratch, but each uses a single input projection, transformer backbone, bitwise prediction head and binary score-matching objective shared across its modalities. Within each setting, a single checkpoint supports joint generation and the conditional directions included in training by changing which parts of the bitstream are observed. We first validate the approach on MNIST-Sum, a controlled image-text task pairing raw binary images with equations encoded as text, achieving near-perfect conditional accuracy and high joint consistency without learned tokenizers. We then apply the same protocol at larger scale to speech-text and protein sequence-structure modeling. Trained without text pretraining, a single speech-text model performs speech synthesis, recognition, continuation, and unconditional co-generation. Jointly generated speech and text achieve 3.5% word error rate between the generated text and automatic transcriptions of the generated speech. In protein modeling, a single CoBit checkpoint supports forward folding, inverse folding, and joint sequence-structure generation. For jointly generated proteins spanning 100-500 residues, computational refolding of CoBit's sequences yields structures that agree with the generated backbones at a mean self-consistency TM-score of 0.911. Together, these results show that CoBit provides a common generative framework for substantially different modalities and forms of cross-modal dependence, without introducing a domain-specific objective or sampling procedure.",
+  "authors": [
+   "Georgios Batzolis",
+   "Georgios Kontos",
+   "Bruno Trentini",
+   "Pranam Chatterjee",
+   "Micha Livne",
+   "Mark Girolami",
+   "Luca Ambrogioni"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Georgios Batzolis",
+  "pdf_url": "http://arxiv.org/pdf/2610.14349",
+  "primary_category": "cs.CL",
+  "published": "2026-10-09",
+  "tags": [],
+  "title": "Multimodal Co-Generation With Continuous Bitstream Diffusion",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-09"
+ },
+ "2610.14438": {
+  "abstract": "Large Language Models (LLMs) are increasingly being used to summarize and verify claims in critical sources that inform consequential decisions. Such claims are full of plural definites. If three of five patients improved after taking drug A, the claim the patients improved after drug A is not true, since two did not, yet its negation, the patients didn't improve after drug A, is not true either, since three did. In formal semantics, this truth-value gap is known as the Homogeneity Gap: both the plural definite and its negation are neither true nor false when the property holds for only a fraction of the plural referent. A model that cannot represent this gap turns mixed evidence into a clean verdict, an error that can be costly in high-stakes use. We introduce HomogeneityNLI, a diagnostic dataset of 1,000 minimal pair items crossing determiner, polarity, and group composition across ten logical conditions. Evaluating seven open-weight models, we uncover a pervasive Bivalence Bias: models assign plural definites their homogeneous truth conditions. In the zero-shot setting, no model recognizes the gap for both polarities in more than 15% of scenarios, and negated definites are judged False in 84% of cases. Explicit linguistic rules, chain-of-thought, and enumeration prompts produce unstable, model-specific effects that often entrench the bias. Our findings indicate that current open-weight LLMs acquire the truth conditions of plural predication but not its trivalent logic, and cannot yet be trusted to summarize or verify claims whose evidence is mixed.",
+  "authors": [
+   "Duaa Nakshbandi",
+   "Zhiyu An",
+   "Yiping Li",
+   "Sachin Giri",
+   "Wan Du"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Duaa Nakshbandi",
+  "pdf_url": "http://arxiv.org/pdf/2610.14438",
+  "primary_category": "cs.CL",
+  "published": "2026-10-10",
+  "tags": [],
+  "title": "Neither True nor False: Do LLMs Represent Truth-Value Gaps in Plural Predication?",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.14464": {
+  "abstract": "In Chinese content governance, large language models are increasingly used to identify toxic and discriminatory expressions, yet both task operationalization and ironic expression can alter bias measurement readings. We conducted a preregistered multi-task behavioral audit of multiple Chinese large language models. In the content classification experiment, the core panel's classification error rate rose from 10.9% in the formal register to 23.5% in the yinyang (an echoic-irony register) version, a risk difference of +12.7 percentage points. (95% CI [+9.7, +15.7]). Inter-rater agreement was lower in the yinyang register (majority-vote kappa = 0.299), so the increase contains a component of label uncertainty propagation, but the direction of increase was consistent under both adjudicated and majority-vote reference standards. Explicit irony-aware prompts reduced the intervention panel's error rate by 9.6 percentage points. We operationalized the 29 shared proposition anchors into three task forms: social consensus estimation (Form A), high-stakes decision (Form B), and controlled association rating (Form C); independent manipulation checks found that all 58 A-C comparison units received unanimous agreement, whereas the low A-B convergence was confirmed by calibrated majority adjudication (87.8% supporting the minority judgment); on the irony-probe materials, the interactions of B and C relative to A were +0.577 and +1.121, respectively. Thus, when evaluating large language models for Chinese content governance, the effect of task operationalization on bias readings is an empirical question that requires data to answer, and safety evaluation should incorporate the ironic register as a test condition.",
+  "authors": [
+   "Mo Zhou"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.CY"
+  ],
+  "comment": "11 pages, 3 figures",
+  "first_author": "Mo Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2610.14464",
+  "primary_category": "cs.CL",
+  "published": "2026-10-10",
+  "tags": [],
+  "title": "Evaluating Bias in Chinese Large Language Models across Tasks and Registers: Task Operationalization Effects and Irony Classification Risks",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-10"
+ },
+ "2610.14545": {
+  "abstract": "Large-scale multimodal data are a key enabler for integrating large generative artificial intelligence models into wireless networks. However, existing wireless datasets offer limited support for heterogeneous environments, particularly in terms of reusable high-fidelity scenes, scalable differentiable ray tracing, and synchronized multimodal data. These limitations are more pronounced in mobile and aerial scenarios with time-varying environments and channels. To address these limitations, we propose DeepTelecom, a material-aware, high-fidelity multimodal channel dataset and reproducible generation framework for networks involving unmanned aerial vehicles (UAVs) and reconfigurable intelligent surfaces. DeepTelecom refines coarse indoor/outdoor reconstructions and uses a large language model to map segmented surfaces to frequency-dependent electromagnetic parameters, yielding material-aware Level of Detail 3 digital twins. Then, a differentiable GPU-accelerated Sionna ray tracer simulates propagation across the sub-6 GHz/millimeter-wave/sub-terahertz bands, and specifically captures rotor-induced micro-Doppler signatures of stationary or moving UAVs at different pitch angles and translational velocities. The framework synchronously produces channel tensors, coverage maps, transmission videos, multi-view images, and weather-conditioned renderings, and supports differentiable material calibration from sparse channel anchors. The released dataset contains 10 material-aware indoor/outdoor scenes and 50,000 synchronized UAV samples; the framework supports scalable generation of additional data for user-defined scenes and system configurations. In 3D UAV localization, DeepTelecom reduces the 90th-percentile error from 31.05 m to 2.43 m compared with schemes considering only channel state information, demonstrating its significance for artificial-intelligence-enabled wireless systems.",
+  "authors": [
+   "Bohao Wang",
+   "Tianen Yuan",
+   "William Yen",
+   "Zehua Jiang",
+   "Chongwen Huang",
+   "Li Wei",
+   "Chen Zhu",
+   "Jiguang He",
+   "Hang Zou",
+   "Lina Bariah",
+   "Brahim Mefgouda",
+   "Anis Bara",
+   "Yongliang Shen",
+   "Zhaoyang Zhang",
+   "Merouane Debbah"
+  ],
+  "categories": [
+   "cs.IT"
+  ],
+  "comment": null,
+  "first_author": "Bohao Wang",
+  "pdf_url": "http://arxiv.org/pdf/2610.14545",
+  "primary_category": "cs.IT",
+  "published": "2026-10-10",
+  "tags": [],
+  "title": "DeepTelecom: A Differentiable Multimodal Framework for Channel Twinning in Dynamic Heterogeneous Wireless Environments",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-10"
+ },
+ "2610.14699": {
+  "abstract": "The design of high-affinity, target-specific protein binders is central to the development of modern therapeutics. However, existing protein-generation methods remain limited in this setting, as many generated designs fail to simultaneously achieve geometric and physicochemical complementarity at binding interfaces. To address this challenge, we introduce PIDiff, a physicochemically enhanced multimodal diffusion framework for protein-protein complex design. PIDiff jointly designs target-conditioned protein sequences and structures by coupling diffusion in discrete sequence space with diffusion on the continuous (SE(3)) structural manifold. At its core, PIDiff employs PIFormer, a novel architecture that interleaves geometry-aware invariant point attention with global sequence self-attention. We further curate PIBench, a protein-protein complex dataset with diverse target scaffolds derived from the Protein Data Bank (PDB). We first pretrain PIDiff on PIBench and subsequently fine-tune it for two therapeutically relevant applications: minibinder design and antibody design. PPFrame consistently outperforms baseline methods across sequence design success rate, structure binding energy, and sequence-structure co-designability on all tasks.",
+  "authors": [
+   "Zhenqiao Song",
+   "Jianwen Xie",
+   "Lei Li"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Zhenqiao Song",
+  "pdf_url": "http://arxiv.org/pdf/2610.14699",
+  "primary_category": "cs.AI",
+  "published": "2026-10-10",
+  "tags": [],
+  "title": "Joint Discrete and SE(3) Diffusion for Protein Interface Design",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-10"
+ },
+ "2610.14727": {
+  "abstract": "Autoregressive world models have emerged as a powerful paradigm for sample efficient decision making, yet their open loop rollouts often exhibit increasing drift that leads to error accumulation even within a relatively small planning horizon. Hierarchical temporal abstraction is a natural candidate to mitigate such drift by reducing the effective prediction horizon; however, existing hierarchical designs can introduce added structural and conceptual complexity, sometimes making them difficult to control and limiting gains over flat baselines. To this end, we introduce MHWA (Multi-timescale Hierarchical World-Action model), which employs a strided high level context channel to reduce global context update frequency, effectively curbing the propagation of compounding drift. Crucially, via context aware routing, the gating network dynamically reconfigures a low level mixture of experts by using both global context and current observations, thereby enabling flexible high-low coordination, helping alleviate interference commonly observed in static hierarchies. Empirically, using RLiable's seed-by-game aggregation, MHWA (77M parameters) achieves an IQM human normalized score (HNS) of 0.884 across three training seeds on a 14-game Atari subset using 10% subsampled offline data, outperforming a matched JOWA-70M baseline (0.529) and achieving numerically comparable performance to JOWA-150M while using nearly half the parameters and 70.88% fewer training FLOPs per sequence.",
+  "authors": [
+   "Pengcheng Pan",
+   "Guoqing Ma",
+   "Yuhan Zhang",
+   "Yang Chen",
+   "Yichen Liu",
+   "Ziheng Li",
+   "Shan Yu"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "21 pages, 4 figures, 15 tables, including references and appendices",
+  "first_author": "Pengcheng Pan",
+  "pdf_url": "http://arxiv.org/pdf/2610.14727",
+  "primary_category": "cs.AI",
+  "published": "2026-10-10",
+  "tags": [],
+  "title": "MHWA: Multi-timescale Hierarchical World-Action Model",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-10"
+ },
+ "2610.14862": {
+  "abstract": "Machine learning models for protein-ligand interactions commonly rely on atomic coordinates, which are constructed by fitting molecular models to experimental electron-density maps. However, most models represent each complex as a single fitted structure, which can omit information about conformational heterogeneity, positional uncertainty, and local density support for individual atoms at binding interfaces. To fill this gap, we present CoDE, a Coordinate and Density Encoder, pre-trained on experimental density maps. We represent each binding site on a shared three-dimensional voxel grid combining atomic occupancy, experimental electron density, and its gradient magnitude. Using approximately 100K curated complexes, we pre-train a channel-wise vision transformer to jointly reconstruct masked atomic and density channels, learning a representation that integrates structural and experimental information. We evaluate the frozen encoder on two downstream tasks: (i) binding-affinity regression under leakage-controlled splits and (ii) pocket-conditioned ligand generation. Across these settings, CoDE improves over an identically pre-trained coordinate-only encoder and remains competitive with task-specific baselines, showing that density complements fitted atomic coordinates for protein-ligand interaction modeling and that the density-blended representation is useful for structure-based ligand generation.",
+  "authors": [
+   "Seonghyun Park",
+   "Shuan Chen",
+   "Jun Jin Choong",
+   "Noboru Kuno",
+   "Gyubok Lee",
+   "Kaushalya Madhawa",
+   "Keisuke Ozawa",
+   "Hikaru Shindo",
+   "Sungsoo Ahn"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Seonghyun Park",
+  "pdf_url": "http://arxiv.org/pdf/2610.14862",
+  "primary_category": "cs.LG",
+  "published": "2026-10-10",
+  "tags": [
+   "protein-ligand"
+  ],
+  "title": "Blending experimental electron density information to protein-ligand interaction",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-10"
+ },
+ "2610.14999": {
+  "abstract": "Steering candidate generation toward user-defined objectives is central to inverse materials design, yet remains difficult when objectives are black-box, changing, or non-differentiable, as in many simulation- and experiment-derived properties. Generative models offer a solution but typically require retraining or fine-tuning for each new objective, demanding labeled data and substantial compute, or rely on differentiable guidance that is brittle to gradient noise and undefined for many practical targets. We present DiffGA, a retraining-free framework that injects evolutionary search into the sampling trajectory of a retrained diffusion model, evolving partially denoised states under an arbitrary black-box oracle. Because oracle evaluation often dominates campaign cost, we couple DiffGA with an on-the-fly Bayesian surrogate that reuses representations from state-of-the-art machine-learned force fields (MLFFs). A Gaussian process is fit during the campaign on the force fields's graph embeddings and, once it demonstrably ranks an unseen generation, replaces expensive property evaluations under an uncertainty-aware acquisition rule, reducing oracle cost with negligible loss of accuracy. Across three crystal-design tasks using a frozen MatterGen backbone, DiffGA outperforms diffusion-only, compute-matched, purely evolutionary, and fine-tuned baselines in oracle-assessed rates of stable, unique, and novel hits. Rather than proposing scientific compounds, we use density functional theory to quantify MLFF oracle fidelity, showing that it is a faithful proxy in key regimes but systematically biased in others, delineating when proxy-driven generative discovery can be trusted. On a representative sample, DiffGA's top hits survive first principles re-evaluation as physically realistic hits, while the surrogate-accelerated pipeline preserves this fidelity at a fraction of the cost.",
+  "authors": [
+   "Shivang Agarwal",
+   "Rodrigo Wang",
+   "Kevin Ryczko",
+   "Aayush R. Singh"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Shivang Agarwal",
+  "pdf_url": "http://arxiv.org/pdf/2610.14999",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-10",
+  "tags": [
+   "ab-initio",
+   "dft",
+   "diffusion-model",
+   "generative-model",
+   "materials-discovery",
+   "mlip"
+  ],
+  "title": "DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-10"
+ },
+ "2610.15141": {
+  "abstract": "Single-step retrosynthesis is a one-to-many inverse problem, yet most models are trained and evaluated against a single recorded reactant set. Reference-based training gives no explicit positive signal for unrecorded alternatives, and exact-match evaluation rejects non-matching predictions regardless of chemical plausibility. We propose Retrosynthesis via Reinforcement Learning from Forward Feedback (RetroRLFF), which optimizes reactant generation using both reference agreement and forward consistency with the target product. Starting from a supervised decoder-only Transformer, RetroRLFF generates complete reactant candidates and uses a frozen forward reaction model to predict products. A sequence-level reward combines reference agreement and forward consistency while penalizing invalid outputs. Direct Advantage-Based Policy Optimization updates the policy without human preference annotations or a preference-trained reward model. On USPTO-50K, RetroRLFF outperforms all 14 baselines in candidate-level round-trip accuracy at k = 1, 3, 5, and 10. With approximately 50 million parameters, it achieves 90.1% top-1 round-trip accuracy, exceeding R-SMILES, the strongest competing baseline on this metric, by 8.5 percentage points. Compared with its supervised policy, round-trip accuracy increases from 83.1% to 90.1%, while exact-match accuracy is maintained at 57.9% versus 57.5%. In an anonymized expert assessment of 131 randomly selected test cases, organic synthesis experts prefer RetroRLFF over EditRetro in 67.9% of comparisons. These results support forward feedback as a training signal for improving forward consistency while retaining top-1 reference recovery. Expert assessment provides complementary evidence of synthetic feasibility on the selected cases, although neither forward consistency nor expert preference establishes experimental feasibility.",
+  "authors": [
+   "Zixun Lan",
+   "Zhenfu Liu",
+   "Yi Li",
+   "Xinheng Wang",
+   "Mingmin Chi",
+   "Qibiao Wang",
+   "Jie Zhu",
+   "Xiaohui Tian",
+   "Fei Ma"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Zixun Lan",
+  "pdf_url": "http://arxiv.org/pdf/2610.15141",
+  "primary_category": "cs.AI",
+  "published": "2026-10-10",
+  "tags": [
+   "reinforcement-learning",
+   "retrosynthesis"
+  ],
+  "title": "Single-step Retrosynthesis via Reinforcement Learning from Forward Feedback",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-10-10"
+ },
+ "2610.15295": {
+  "abstract": "This study investigates the chemical evolution history and radial migration in the Milky Way utilizing high-precision age measurements based on large-scale stellar spectroscopic surveys. Recent observational data have revealed a distinct break in the age-metallicity relation of stars in the solar neighborhood, suggesting that stellar populations of the Milky Way can be divided into two evolutionary sequences. Based on galactic chemical evolution models, we confirm that this break in the age-metallicity relation can be explained by a recent major gas accretion event, which diluted the metallicity in the disk and triggered a starburst, leading to the formation of an independent age-metallicity sequence. To assess the impact of stellar radial migration, we incorporate a simplified treatment of this process into our multi-zone chemical evolution model. Radial migration is modeled as a probabilistic diffusion process, characterized by a Gaussian distribution. By fitting the model-predicted metallicity distribution functions (MDFs) of mono-age stellar populations to observations, we infer a migration strength of $σ= 2.15^{+0.100}_{-0.103}\\,{\\rm kpc}$ for stars with ages between 2 and 6 Gyr located at 9.5-11.5 kpc, corresponding to an average radial displacement of 1.92 kpc over 10 Gyr. This result is lower than previous estimates of stellar radial migration, suggesting that the role of radial migration in shaping the chemical structure of the Milky Way is less important than previously estimated.",
+  "authors": [
+   "Qinhao Shao",
+   "Jianhui Lian"
+  ],
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "comment": null,
+  "first_author": "Qinhao Shao",
+  "pdf_url": "http://arxiv.org/pdf/2610.15295",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-10-11",
+  "tags": [],
+  "title": "Modelling the broken age-[Fe/H] relation and metallicity distribution function of mono-age populations",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-11"
+ },
+ "2610.15391": {
+  "abstract": "Target-conditioned cyclic peptide design requires coordinating interfacial side chains with macrocyclic closure. Existing end-to-end generators concurrently update geometric and chemical variables from noise, assigning residues to disordered coordinates. Meanwhile, predictor-assisted workflows often get stuck in local traps because they lack feedback in the propose-and-filter stage and ignore 3D structural proposals during sequence search. To overcome the drawbacks of these two paradigms, we propose DC-FLOW, a staged generative framework built around Delayed-Coupling Flow Matching. In principle, DC-FLOW postpones sequence and side-chain activation until a target-conditioned backbone takes shape, resolving structural ambiguity before chemical assignment. Then, it feeds delayed activations back into the backbone, achieving co-evolution of backbone geometry and emerging residue identities by coupling their flows. This mechanism enables more reliable macrocyclic closure and favorable interface packing. For predictor-assisted workflows, DC-FLOW supplies 3D proposals with in-trajectory guidance, enabling cascaded test-time scaling to prune redundant backbones and terminate unpromising refinement early. Extensive experiments show that DC-FLOW improves cyclization fidelity, diversity, and interface energetics, substantially increasing the yield of confident cyclic peptide binders under a fixed final-candidate budget. Our code is available at https://github.com/mianqiu00/DCFlow.",
+  "authors": [
+   "Yitian Wang",
+   "Minjie Cheng",
+   "Yaning Cui",
+   "Maohua Yang",
+   "Dongdong Wang",
+   "Hongteng Xu"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Yitian Wang",
+  "pdf_url": "http://arxiv.org/pdf/2610.15391",
+  "primary_category": "cs.LG",
+  "published": "2026-10-11",
+  "tags": [],
+  "title": "DC-Flow: Target-Conditioned Cyclic Peptide Design via Delayed-Coupling Flow Matching",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-11"
+ },
+ "2610.15491": {
+  "abstract": "Active debris removal requires a servicer spacecraft to approach a non-cooperative tumbling object, capture it, and arrest its rotation. This sequence is conventionally divided among phase-specific controllers, each depending on knowledge of the target's inertia, a dedicated grappling fixture, or a hand-designed switch at the contact-rich seam where such pipelines are most fragile. We show that a single constrained reinforcement learning policy can execute the entire mission, driving a dual-arm free-flying servicer from free-space closing through friction-based fixture-free capture to full detumbling of a target whose mass and inertia are unknown and whose state is observed only through noisy estimates. The enabling mechanism is a smooth proximity gate applied at three loci of a constrained Markov decision process. In the reward it induces the phase structure rather than imposing it; in the action space it forecloses a degenerate grab-and-pull exploit as a hard guarantee; and in the constraint set it resolves a normalization failure of constraint-based learning, in which a constraint spanning phases that load it unequally is rendered nearly inert in the phase where precision matters most. Both the failure mode and the remedy apply to any multi-phase problem of this kind. Over 1000 randomized trials the policy succeeds in 99.5% while holding its contact-force, actuator, base-reaction and collision limits throughout, transfers zero-shot to unseen geometries and centre-of-mass offsets, and extrapolates across a tenfold range of target mass.",
+  "authors": [
+   "Álvaro Belmonte-Baeza",
+   "Celia Redondo-Verdú",
+   "José L. Ramón",
+   "Miguel Cazorla",
+   "Leonard Felicetti",
+   "Jorge Pomares"
+  ],
+  "categories": [
+   "cs.RO",
+   "eess.SY"
+  ],
+  "comment": "20 pages. Submitted for review to an IEEE Scientific Journal",
+  "first_author": "Álvaro Belmonte-Baeza",
+  "pdf_url": "http://arxiv.org/pdf/2610.15491",
+  "primary_category": "cs.RO",
+  "published": "2026-10-11",
+  "tags": [
+   "reinforcement-learning"
+  ],
+  "title": "Phase-Gated Constrained Reinforcement Learning for End-to-End Capture and Detumbling of Non-Cooperative Targets",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-11"
+ },
+ "2610.15603": {
+  "abstract": "Materials synthesis planning (MSP) connects AI-driven materials discovery to experimental realization by proposing precursors, synthesis operations, and processing conditions for a target material. Existing approaches predict these components separately or in pairs and treat conditions only as a prediction target. Consequently, MSP remains centered on recipe prediction: it leaves unexplored how conditions can serve as process context for constructing synthesis routes, and it does not address which candidate routes should be executed under limited experimental resources. We propose CondMSP, which extends MSP from recipe prediction to execution-aware planning. CondMSP predicts temperature, time, and atmosphere by combining a joint predictor with variable-specific experts, and then uses these predictions both as process context, grounding the generation and retrieval of operation sequences, and as execution requirements, specifying which thermal stages can share a furnace run and at what cost. This specification is held fixed across all compared methods; within it, CondMSP ranks routes across precursor sets by a common utility and, under furnace budgets, jointly selects routes and allocates their thermal stages by constrained optimization. CondMSP improves condition and operation prediction and, under this shared constraint, raises reference-recipe recovery from 27.9% to 32.9% at three simulated furnace runs per target and from 34.7% to 40.0% at 30 trials, while a new evaluation set of 2,344 targets supports generalization beyond oxide-dominated training chemistry.",
+  "authors": [
+   "Heewoong Noh",
+   "Gyoung S. Na",
+   "Elton Pan",
+   "Namkyeong Lee",
+   "Chanyoung Park"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Heewoong Noh",
+  "pdf_url": "http://arxiv.org/pdf/2610.15603",
+  "primary_category": "cs.AI",
+  "published": "2026-10-11",
+  "tags": [
+   "materials-discovery",
+   "retrosynthesis"
+  ],
+  "title": "CondMSP: Condition-Informed and Resource-Aware Inorganic Materials Synthesis Planning",
+  "topics": [
+   "Large Language Models & Materials",
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-10-11"
+ },
+ "2610.15677": {
+  "abstract": "Continual learning aims to adapt pretrained large language models (LLMs) to evolving data while preserving their pretrained capabilities. A central challenge is catastrophic forgetting: adaptation to new data can impair performance on previously learned knowledge. Since continual learning commonly changes model parameters, the model's predictions may draw on knowledge from the base model, the parameter update, and the input context. Understanding how these sources interact is essential: conflicts reveal whether new knowledge can override outdated knowledge, while multi-hop reasoning tests whether new knowledge can be composed with existing knowledge to support generalization. We study these interactions in a hypernetwork-based adaptation framework, where a shared network generates adapters from context, allowing a frozen base model to adapt without task-specific updates. We find that, under knowledge conflict, models preferentially follow the context, and their choices depend more on where knowledge is presented than on its content. We also show that context and adapter knowledge perturb the base model's representations along directions orthogonal to its clean hidden states, enabling us to derive steering vectors that control which source the model follows. In multi-hop reasoning, we find that models fail to reliably compose knowledge across the three sources, with the key breakdown arising from the interaction of the hypernetwork with both the base model and the context. Code and reproduction materials: https://github.com/missswiftie/Knowledge-Interaction-in-CL",
+  "authors": [
+   "Jiaqi Zheng",
+   "Yi Hu",
+   "Yadong Mu",
+   "Muhan Zhang"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "23 pages",
+  "first_author": "Jiaqi Zheng",
+  "pdf_url": "http://arxiv.org/pdf/2610.15677",
+  "primary_category": "cs.AI",
+  "published": "2026-10-11",
+  "tags": [],
+  "title": "Knowledge Interaction in Hypernetwork-based Continual Learning: Conflict and Composition",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-11"
+ },
+ "2610.15834": {
+  "abstract": "Large language models (LLMs) raise new questions for instructors, among them how to integrate LLMs productively into coursework and what to evaluate in students' work when an LLM can produce much of it directly. LLM-guided homework assignments offer one answer. Instructors configure the LLM to guide students in ways that achieve specific pedagogical goals, such as recalling material, discovering new concepts, or critically evaluating deliberately flawed reasoning, and grade the full student--LLM conversation, and with it the student's reasoning, rather than only the final answer. In this paper, we report on the large-scale deployment of such assignments, implemented through LLteacher, an open-source tool that supports recall, discovery, and critical-thinking assignments, in a large introductory statistics course serving mostly pre-major undergraduates. Results on 134 students show meaningful gains in self-reported confidence, with over 80\\% agreeing that the assignments improved their comprehension of course material and their ability to interpret statistical results; gains were largest among students who started with lower confidence, suggesting this approach may help narrow gaps in preparation. Interaction patterns varied widely, from long single messages to rapid iterative exchanges, and hallucinations, when present, were rarely disruptive to learning.",
+  "authors": [
+   "Emanuela Furfaro",
+   "Katherine Elizabeth Lovelace",
+   "Yuhan Zhang",
+   "Simone Mosciatti"
+  ],
+  "categories": [
+   "stat.OT"
+  ],
+  "comment": null,
+  "first_author": "Emanuela Furfaro",
+  "pdf_url": "http://arxiv.org/pdf/2610.15834",
+  "primary_category": "stat.OT",
+  "published": "2026-10-11",
+  "tags": [],
+  "title": "AI-Guided Assignments in Practice: Students' Experiences in a Large Introductory Statistics Course",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-11"
+ },
+ "2610.15938": {
+  "abstract": "Evaluation of text generated by large language models (LLMs) is increasingly delegated to LLMs acting as judges, yet what such a judge must be shown remains unresolved. We treat a judge whose reports are acted on as a regulator, in the sense of cybernetics, and ask what it must be shown, how much, in what form, and what its reports must get right. On seven public benchmarks we varied only what the judge was shown. Across three judges whose prices differ 10- to 17-fold, what the judge was shown mattered more than which judge it was. When a system revised its answers on feedback from a judge denied the material they had to respect, it ended below its starting point on instruction following and question answering. On instruction following the loss grew with each round, and it persisted when the judge saw the user's request but not the constraints and with a second judge family. On news summarisation, a correct reference summary beside the source undid most of the source's contribution, whereas on single-answer questions a reference helped. About a tenth of the source did almost all of its work, and a small entailment graph matched an LLM judge at finding errors in grounded text. We committed 83 testable clauses before running; of the 81 that ran, 32 met their bar and 50 went in the predicted direction, and most quantitative predictions from the theory failed. We report every shortfall and derive design rules tied to measured effects.",
+  "authors": [
+   "Nitish Kumar",
+   "Prateik Pothuneedi",
+   "Greg Bandak"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.CL"
+  ],
+  "comment": "50 pages, 19 figures, 7 tables",
+  "first_author": "Nitish Kumar",
+  "pdf_url": "http://arxiv.org/pdf/2610.15938",
+  "primary_category": "cs.AI",
+  "published": "2026-10-11",
+  "tags": [],
+  "title": "The Anatomy of a Blind Spot: What an LLM Judge Must Be Shown, and How Much",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-11"
+ },
+ "2610.15994": {
+  "abstract": "Representing individual-level behavioral heterogeneity is challenging in epidemiological modeling, particularly when empirical behavioral data are sparse. We assess the potential of large language model (LLM)-generated behavioral outputs in addressing this challenge, using hepatitis C virus-related behaviors among people who inject drugs as a case study. Correspondence with epidemiological patterns was evaluated using external benchmarks: literature-informed association directions, correlations from an agent-based model (ABM), and survey associations. Across three LLMs, unconditional directional recovery across 28 retained literature-informed associations was 46-68%, compared with 82-93% agreement when LLMs were directly asked to classify the same associations. Mean absolute differences from ABM and survey correlation patterns were 0.11-0.13 and 0.15-0.18, respectively. Together, these findings show partial alignment between LLM-generated behavioral relationships and epidemiological evidence, despite higher knowledge-probe agreement. More systematic evaluation is needed before incorporating LLM-generated behavioral outputs into epidemiological models that simulate transmission dynamics.",
+  "authors": [
+   "Sophia Mao",
+   "Keshav Gandhi",
+   "Alexander Gutfraind"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Sophia Mao",
+  "pdf_url": "http://arxiv.org/pdf/2610.15994",
+  "primary_category": "cs.AI",
+  "published": "2026-10-11",
+  "tags": [],
+  "title": "Large language model-generated patterns for epidemiological modeling: a multi-benchmark evaluation framework",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-11"
+ },
+ "2610.16078": {
+  "abstract": "Recent advances in self-improving LLM agents have demonstrated the potential of AI systems that drive their own intelligence. However, many domain-specific applications rely on specialized foundation models that possess strong domain expertise but remain dependent on human-designed improvements. Extending recursive self-improvement to these models presents a key challenge: as a specialist improves, the strategies used to advance it must also adapt. To address this challenge, we propose Heterogeneous Agentic CoEvolution (HACE), a framework that jointly evolves specialized foundation models and LLM agents through reciprocal learning. HACE improves the specialist through supervised learning while training the agent with on-policy reinforced self-training, guided by verified performance gains on the current specialist. The agent's exploration, in turn, informs subsequent specialist training, enabling both models to adapt to each other's progress. To sustain this reciprocal learning, HACE further employs evolutionary search to optimize their interaction harness, adapting how the models exchange information and select training experiences as their capabilities evolve. We evaluate HACE across three challenging domains: recommendation systems, protein function prediction in biology, and crystal stability prediction in material discovery. We show that HACE outperforms the evaluated self-improving methods on the primary task metrics across all three domains. These results shed light on heterogeneous coevolution as a universal approach to improving specialized foundation models through reciprocal interaction with a learning agent.",
+  "authors": [
+   "Wenqian Ye",
+   "Ziwei Guan",
+   "Zi Yang",
+   "Shivani Modi",
+   "Cici Cong Wu",
+   "Yunlong He",
+   "Yuxin Chen",
+   "Zhengyu Zhang",
+   "Liang Luo",
+   "Venkatesh Ranganathan",
+   "Jianhui Sun",
+   "Yantao Yao",
+   "Wenlin Chen",
+   "Buyun Zhang",
+   "Ellie Dingqiao Wen",
+   "Henry Kautz",
+   "Aidong Zhang"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Wenqian Ye",
+  "pdf_url": "http://arxiv.org/pdf/2610.16078",
+  "primary_category": "cs.AI",
+  "published": "2026-10-12",
+  "tags": [
+   "protein-function"
+  ],
+  "title": "Heterogeneous Agentic Coevolution",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.16091": {
+  "abstract": "Layered van der Waals CuInP2S6 crystals exhibit a rich sequence of temperature- and pressure-driven phase transitions, giving rise to multiple structural phases with distinct physical properties. Despite extensive experimental and theoretical efforts, unambiguous identification of these phases remains challenging because of their structural similarities and complex vibrational responses. In this work, we employ first-principles density functional theory calculations to systematically investigate the vibrational properties of the reference paraelectric C2/c and P-31c phases and their corresponding dynamically stable ferroelectric Cc and P31c phases, as well as the antiferroelectric P-1 and P-3 phases. From calculated phonon spectra and symmetry analysis, we determine the Raman- and infrared-active modes of each candidate structure and identify characteristic vibrational fingerprints that enable their phase determination through vibrational spectroscopy. Furthermore, using Porto notation, we establish polarization- and crystal-orientation-dependent Raman selection rules for different backscattering geometries and identify the modes that are expected to emerge or vanish under specific experimental configurations. Thus, our results provide a comprehensive theoretical framework for interpreting Raman and infrared measurements of CuInP2S6 and for reliably identifying its competing structural, ferroelectric, and antiferroelectric phases across temperature- and pressure-driven phase transitions.",
+  "authors": [
+   "Pegah Mohammadi",
+   "Sobhit Singh"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "9 pages, 4 figures",
+  "first_author": "Pegah Mohammadi",
+  "pdf_url": "http://arxiv.org/pdf/2610.16091",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-12",
+  "tags": [
+   "ab-initio",
+   "dft",
+   "phase-transition",
+   "vdw-correction"
+  ],
+  "title": "Vibrational Fingerprints of Competing Structural and Polar Phases in CuInP2S6",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.16391": {
+  "abstract": "Multi-step retrosynthesis planning is often considered solved once a route to purchasable starting materials is found, but such a route should also be practical in real-world chemistry. Recent LLM-based planners formulate this process as sequential decision-making over an AND-OR graph, yet typically expand a single molecule per turn and are optimized for solvability alone, leaving alternative routes uncompared across the multiple objectives that determine practicality before the search budget is committed. We introduce RetroPlanner, an LLM-based planner that jointly compares multiple routes to steer the search toward higher synthesizability, as measured by reaction plausibility, round-trip consistency, and starting-material price. RetroPlanner is trained to reason over chemical evidence: structural progress from the target molecule, bond changes and reaction classes, where candidate routes diverge from one another, and how they rank across multiple objectives. Experiments on multi-step retrosynthesis benchmarks demonstrate that RetroPlanner recovers more alternative routes than prior LLM-based planners while improving synthetic route quality and maintaining a high success rate.",
+  "authors": [
+   "Ye Rin Kim",
+   "Yongjun Jeong",
+   "Seongjun Yun",
+   "Hanbum Ko",
+   "Soohyun Oh",
+   "Sungbin Lim",
+   "Sungwoong Kim"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.CL",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Ye Rin Kim",
+  "pdf_url": "http://arxiv.org/pdf/2610.16391",
+  "primary_category": "cs.AI",
+  "published": "2026-10-12",
+  "tags": [
+   "retrosynthesis"
+  ],
+  "title": "RetroPlanner: Multi-Route Expansion and Multi-Objective Reasoning for LLM-Based Retrosynthesis Planning",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.16717": {
+  "abstract": "Does a large language model have a self, and if so, of what kind? We separate two functional levels familiar from biology: a self-index, which distinguishes one's own material from external material and shapes processing, as corollary discharge does in nearly all animals, and self-reference, the higher ability to recognize what is one's own, as in mirror self-recognition. We probe both in Qwen3.8-27B by placing the same text in an Assistant, a User, or a System message rendered by the model's own chat template, and report three levels of evidence. Persistence: as predicted in advance, the representation of the text separates the model's own message from both external sources at all 64 layers and for every test text, along a shared direction, even when the answer does not depend on who supplied the text. Coupling: asked who wrote the preceding message, the model claims its own messages (0.77) and assigns User and System messages alike to the user, and how strongly it claims each message is predicted by the size of its self-index (Spearman correlation up to 0.68). Intervention: exchanging the internal states that follow a message, rather than those of its text, reverses the self-attribution between layers 15 and 31; removing the self-index direction from them at layer 39 lowers the claim more than a random direction; and in arithmetic the model adopts a wrong step more often when it wrote the step itself (0.92 versus 0.75), an effect carried by the step's representation at layers 31 to 39. Reasoning first in thinking mode raises the probability of the correct answer (0.96 instead of 0.77), but recognition is present without it. We propose that self-reference is a higher-level ability built on a self-index, a content-independent displacement superimposed on the whole representation of the model's own messages.",
+  "authors": [
+   "Yuchen Li",
+   "Xintong Li",
+   "Zongqi Fan",
+   "Ken-tye Yong",
+   "Nguyen H. Tran"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": "20 pages, 8 figures",
+  "first_author": "Yuchen Li",
+  "pdf_url": "http://arxiv.org/pdf/2610.16717",
+  "primary_category": "cs.CL",
+  "published": "2026-10-12",
+  "tags": [],
+  "title": "Where Is the \"Self\" of a Large Language Model? -- From Self-Index to Self-Reference",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.16920": {
+  "abstract": "Antibody therapeutics have transformed treatment across diverse therapeutic areas and have become central to modern medicine. While recent machine learning approaches aim to accelerate antibody discovery through structure-based design and target-affinity optimization, successful candidates must also satisfy broad developability constraints, including structural compatibility, low immunogenicity, and favorable biophysical properties, while remaining sufficiently diverse to provide sufficient coverage of design space to mitigate later-stage development failures. We introduce a preference-conditioned multi-objective generative flow network (GFN) fine-tuning pipeline for fixed-framework CDRH3 loop redesign that fine-tunes a biological sequence model against many inexpensive proxies covering backbone compatibility, sequence likelihood, immunogenicity risk, novelty, and developability liabilities. It combines up to fourteen predictive rewards in a single policy trained to sample CDRH3 loops across 623 SAbDab antibody structures, leveraging a reward reduction strategy to preserve Pareto dominance under this learned map. We also introduce a novel autoregressive span-in-filling variant of AMPLIFY-350M that serves both as a scaffold-conditioned CDRH3 generation prior and as a direct conditional likelihood scorer. We evaluated reward scores, diversity, and design quality on loops sampled on 45 held-out antibody complexes to assess structural consistency, confidence, aggregation propensity, stability, and antigen binding. Compared with the inverse-folding methods ProteinMPNN and ESM-IF, our approach produces roughly 10x more distinct acceptable candidates per design at 50% sequence identity, while holding 10% of the 14-objective Pareto front pooled across methods, trading per-sample quality for greater exploration of novel possible structures.",
+  "authors": [
+   "Joseph D. Viviano",
+   "Almer van der Sloot",
+   "Quentin Fournier",
+   "Robert M. Vernon",
+   "Christopher James Langmead",
+   "Yoshua Bengio"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": "21 Figures, 14 Tables, Under review",
+  "first_author": "Joseph D. Viviano",
+  "pdf_url": "http://arxiv.org/pdf/2610.16920",
+  "primary_category": "cs.CE",
+  "published": "2026-10-12",
+  "tags": [],
+  "title": "Multi-Objective Amortized CDRH3 Sequence Sampling Diversifies Promising Antibody Candidates",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.16975": {
+  "abstract": "Drug discovery remains a resource-intensive and time-consuming process, involving billions of dollars and a decade of development to advance a drug to market. While many in silico tools have accelerated this process, operating them still demands substantial time, effort, and expertise from medicinal chemists. Autonomous systems built on Large Language Models (LLMs) have emerged as a promising solution, yet current designs limit their performance. Existing single-agent systems scale poorly to long-horizon, multi-step, and realistic tasks, whereas multi-agent systems typically execute predefined workflows that cannot capture the iterative, non-linear nature of a real drug discovery campaign. Here, we present MADDIE, a multi-agent drug discovery engine. It comprises a central agent, Orchestrator, and four specialized worker agents: HitIdentifier, LeadOptimizer, Synthesizer, and Evaluator, each representing a critical step in a drug discovery campaign. Under Orchestrator's orchestration and coordination, these worker agents are composed into flexible workflows, enabling MADDIE to adapt its strategy and navigate the drug discovery pipeline end-to-end. Across 50 protein targets, MADDIE produces molecules satisfying key property requirements and their synthesis routes, outperforming existing agentic systems, generative models, and general-purpose LLMs by a wide margin. Our analysis reveals how these agents collaborate and that MADDIE can employ different strategies across targets to achieve the campaign's goal, while still being efficient in time and tokens. Together, they demonstrate MADDIE as a low-cost, effective, and efficient autonomous engine for accelerating drug discovery. Code and dataset is available via https://github.com/ninglab/MADDIE.",
+  "authors": [
+   "Ye Liu",
+   "Reza Averly",
+   "Avery Meyer",
+   "Frazier N. Baker",
+   "Ruoxi Gao",
+   "Daniel Adu-Ampratwum",
+   "Xia Ning"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Ye Liu",
+  "pdf_url": "http://arxiv.org/pdf/2610.16975",
+  "primary_category": "cs.AI",
+  "published": "2026-10-12",
+  "tags": [
+   "drug-discovery",
+   "generative-model"
+  ],
+  "title": "MADDIE: Multi-Agent Drug Discovery Engine",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.17108": {
+  "abstract": "AlphaFold confidence scores are widely used to rank protein complex predictions and to select subsets of models for downstream applications. Although these scores provide strong discriminatory power for distinguishing prediction quality, their numerical values were never intended to represent the probability that a prediction satisfies a given structural quality criterion. In this work, we calibrate commonly used confidence scores to estimate the probability that a predicted complex exceeds a chosen threshold of DockQ, an established measure of interface quality. On antibody-antigen and general multimer datasets, post-hoc isotonic calibration consistently improves agreement between predicted probabilities and observed DockQ success rates while preserving the underlying score ordering. The calibrated probabilities also provide more accurate estimates of the fraction of selected models expected to pass a given structural quality threshold. Although the mapping is fitted within a given prediction distribution and therefore transfers imperfectly across prediction domains, we show that reliable estimates are recovered from a small number of labeled target-domain samples. Because the calibration is entirely post hoc and requires no underlying AlphaFold model fine-tuning, it provides a straightforward and customizable way to convert existing model quality rankings into calibrated probabilities of passing a chosen structural quality threshold.",
+  "authors": [
+   "Sagyndyk Sagadinov",
+   "Vsevolod Viliuga",
+   "Arne Elofsson"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Sagyndyk Sagadinov",
+  "pdf_url": "http://arxiv.org/pdf/2610.17108",
+  "primary_category": "q-bio.BM",
+  "published": "2026-10-12",
+  "tags": [
+   "protein-structure"
+  ],
+  "title": "Calibrating AlphaFold confidence scores for interface quality",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.17109": {
+  "abstract": "Because household travel surveys combine household characteristics, variable-length person rosters, vehicle rosters, and trip chains, existing synthesis pipelines split them across separate models or flatten them into cropped fixed-length vectors. Representation, rather than modeling, becomes the bottleneck: splitting severs cross-segment dependence, and cropping truncates the household-structure distribution. We instead tokenize the diary and keep the object whole: each household-day becomes one token sequence with count tokens for vehicles, persons, and trips, and distinct symbols for padded, hidden, unobserved, and inapplicable positions. We introduce DiaryBridge, a masked diffusion model that bridges the fully hidden sequence to the distribution of complete diaries by unmasking positions in any order. One trained model, conditioned on any observed subset, performs synthesis and partial-diary completion alike. Experiments on real data extracted from the 2017/2018 Regional Travel Survey of the Baltimore region show that DiaryBridge generates travel reflecting vehicle availability and employment status, recovers shared trips using other household members' observed diaries, and better reproduces aggregate demand across modes, purposes, and departure periods than the learned baselines.",
+  "authors": [
+   "Pascal Jutras-Dubé",
+   "Raziq Zaman",
+   "Fabian Bastin",
+   "Cinzia Cirillo",
+   "Ruqi Zhang"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.SI"
+  ],
+  "comment": null,
+  "first_author": "Pascal Jutras-Dubé",
+  "pdf_url": "http://arxiv.org/pdf/2610.17109",
+  "primary_category": "cs.LG",
+  "published": "2026-10-12",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "Masked Diffusion for Travel Diaries Synthesis",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.17164": {
+  "abstract": "The relationship between odor chemistry and perception remains incompletely understood. Many existing studies focus on the perception of single molecules, whereas natural odors contain tens to hundreds of components, adding extra layer of complexity to percept formation. Here, we explore the relationship between molecular composition and perceived similarity in natural odor objects. We study this using a database of more than 1,200 volatile-compound-in-food mixtures containing more than 8,000 molecular components, and use large language models (LLMs) as a scalable surrogate for deriving mixture-level perceptual descriptions. We find that language-derived representations provide useful supervision for predicting held-out mixture similarities from molecular composition. The prediction was consistently strongest when perceptual targets were derived from chemosensory prompts than from other sensory prompts. Further, during the mixture-level training, we learned low-rank molecular embeddings that enabled better prediction of held-out mixture similarities than component-overlap metrics, even for mixture pairs with no shared molecules. Although no single-molecule labels were used during training, the learned molecular geometry showed significant alignment with the independent human odor-descriptor space. Finally, we explored the use of external molecular features in our mixture-similarity prediction task. These features showed modest zero-shot alignment with mixture-level perceptual similarity. They improved prediction under limited supervision but offered little additional predictive benefit with the full training set. Together, these results show that language-derived descriptions can provide scalable supervision for predicting the perceptual organization of complex natural mixtures, contributing to a quantitative understanding of how molecular composition gives rise to odor perception.",
+  "authors": [
+   "Farhad Pashakhanloo",
+   "Venkatesh N. Murthy"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.CL",
+   "q-bio.NC"
+  ],
+  "comment": "26 pages, 14 figures",
+  "first_author": "Farhad Pashakhanloo",
+  "pdf_url": "http://arxiv.org/pdf/2610.17164",
+  "primary_category": "cs.AI",
+  "published": "2026-10-12",
+  "tags": [
+   "molecular-representation"
+  ],
+  "title": "Learning Perceptual Geometry of Natural Odor Mixtures from LLM-Derived Descriptors",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.17246": {
+  "abstract": "Generative discovery in science requires coupling high-level scientific reasoning with the ability to generate samples respecting the structure of a design space. Yet these capabilities remain largely separated: foundation LLMs encode broad chemical and biological knowledge, while domain-specific flow- and diffusion-based generators capture the priors needed to produce valid sequences and geometries. We study how to align such scientific generators to high-level natural-language discovery goals without requiring an explicit proxy reward, which is often unavailable or poorly captured by learned predictors in experimental sciences. We introduce LLM-to-Flow Distillation (LFD), where a frozen LLM acts as an adaptive teacher for a domain-specific generator. Given a goal such as 'generate peptides with promising anticancer activity', the teacher constructs a curriculum of intermediate sub-goals aware of the flow's current capabilities, and progressively directs them toward the original discovery goal. At each round, the LLM judges sampled candidates under the current objective. These judgments induce preferences that are iteratively distilled into the generator through DPO. This procedure provides dense learning signals even when the initial model places negligible probability on designs satisfying the final goal, enabling adaptation toward poorly covered, out-of-distribution regions. Experiments on therapeutic peptides and small-molecule structure design demonstrate that LFD enables a new form of generative control: aligning arbitrary domain-specific scientific generators to scientific discovery tasks expressed via high-level natural-language goals.",
+  "authors": [
+   "Riccardo De Santi",
+   "Federico Di Gennaro",
+   "Angelo Gnazzo",
+   "Sophia Tang",
+   "Pranam Chatterjee",
+   "Fanny Yang",
+   "İsmail İlkan Ceylan",
+   "Michael M. Bronstein",
+   "Andreas Krause"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Riccardo De Santi",
+  "pdf_url": "http://arxiv.org/pdf/2610.17246",
+  "primary_category": "cs.LG",
+  "published": "2026-10-12",
+  "tags": [],
+  "title": "LLM-to-Flow Distillation: Teaching Natural Language Goals to Scientific Generators",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.17352": {
+  "abstract": "Small polarons, formed when excess electrons become localized through lattice distortions, play a critical role in charge transport, catalysis, and degradation processes in transition-metal (TM) oxides. Whether universal machine-learning interatomic potentials (uMLIPs), which lack explicit electronic degrees of freedom, can describe them remains unclear. Here, we investigate H-induced electron localization across a range of TM oxides using a geometric descriptor based on TM-O bond-length expansion (Z-score) to identify polaronic distortions. We find that uMLIPs exhibit varying degrees of electron localization, from delocalized states to metastable small polarons, with their behavior strongly dependent on the training data and treatment of electronic correlations. In particular, the absence of Hubbard U corrections for specific TM cations in the training data leads to electron delocalization, in contrast to DFT+U predictions. Although some uMLIPs reproduce polaron hopping barriers during coupled proton-polaron transfer, all of them fail to stabilize spatially separated polaron-donor configurations, instead favoring localization near the H dopant.",
+  "authors": [
+   "Vladislav Korostelev",
+   "Pjotrs Žguns",
+   "Konstantin Klyukin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "19 pages, 5 figures; Supporting Information (11 pages, 6 figures) appended at the end",
+  "first_author": "Vladislav Korostelev",
+  "pdf_url": "http://arxiv.org/pdf/2610.17352",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-12",
+  "tags": [
+   "catalysis",
+   "dft",
+   "mlip"
+  ],
+  "title": "Can Universal Machine-Learning Interatomic Potentials Capture Small Polarons? A Geometry-Based Benchmark in Transition-Metal Oxides",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.17363": {
+  "abstract": "Medical Concept Recognition is the task of extracting and grounding spans in medical text to entries in a standard ontology. Current methods are generally developed towards a single ontology and source text type (clinical notes, drug labels, etc.) The central challenge is therefore to build methods that adapt to any target ontology without requiring ontology-specific retraining. More recent approaches like REAL and AutoPCR make direct use of Large Language Models and can theoretically adapt to any ontology choice but suffer from a lack of generalization. We propose UMCR, a pipeline that allows extraction and linking to any target ontology using any source text variety, utilizing direct guideline integration and an agentic linking module. We evaluate our method on the recent MedPath benchmark, covering a wide variety of medical text types and vocabularies, and show that our method achieves strong performance across these tasks. This ability unlocks interoperability in the healthcare domain, allowing for extraction and alignment between different medical standards. Our method also reduces dependence on parametric LLM memory, thanks to improved interaction with the target ontology compared to other proposed approaches.",
+  "authors": [
+   "Fabrice Lamarche",
+   "Amal Zouaq"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Fabrice Lamarche",
+  "pdf_url": "http://arxiv.org/pdf/2610.17363",
+  "primary_category": "cs.CL",
+  "published": "2026-10-12",
+  "tags": [],
+  "title": "UMCR: Universal Medical Concept Recognition through Guideline Integration and Agentic Linking",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.17417": {
+  "abstract": "Understanding the functionalities of heterogeneous catalysts requires high-resolution nanoscale chemical imaging tools. X-ray spectro-ptychography offers this capability by enabling X-ray absorption near edge structure (XANES) based amplitude and phase contrasts imaging with high spatial resolution. However, such demonstrations at energies above 10 keV, such as the Au L-edges, remain limited due to weak X-ray absorption cross-sections and correspondingly, low signal levels. Here, multimodal spectro-microscopy has been performed on Au microcrystallites that host both conventional face-centered cubic (fcc) and unconventional non-cubic lattices, particularly important for catalysis. Amplitude and phase contrasts across the $\\mathrm{L}_3$ edge are resolved on thin Au crystallites (150 nm to 1.71 $μ\\mathrm{m}$) with 45 nm spatial resolution. The resulting XANES spectra exhibit excellent agreement with standard transmission and fluorescence contrasts, while providing complementary chemical insights with improved spatial resolution. Quantitative retrieval of anomalous phase variations ~12 keV further demonstrates the suitability of this method for high-resolution chemical imaging across a wide range of functional materials.",
+  "authors": [
+   "Chaitali Sow",
+   "Martin Seyrich",
+   "Johannes Hagemann",
+   "Giridhar U. Kulkarni",
+   "Thomas F. Keller",
+   "Christian G. Schroer",
+   "Andreas Schropp"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "31 pages, 6 figures",
+  "first_author": "Chaitali Sow",
+  "pdf_url": "http://arxiv.org/pdf/2610.17417",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-12",
+  "tags": [
+   "catalysis"
+  ],
+  "title": "High-Resolution X-ray Spectro-Microscopy of Au Microcrystallites",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-10-12"
+ },
+ "2610.17696": {
+  "abstract": "Identifying protein-ligand binding sites (pockets) is important for understanding protein function and developing drugs. However, no public method has leveraged co-folding models for novel pocket prediction; furthermore, this task lacks a suitable benchmark as existing benchmarks are within the training distribution of co-folding models. We therefore developed PocketWatch,a curated dataset of biologically relevant ligand pockets. The PocketWatch test set consists of unseen pockets stratified by sequence similarity, structural similarity, and crypticity to enable evaluation of generalization to novel and challenging pockets. Using this dataset, we develop zPocket, a method that trains pocket-prediction heads on top of frozen features from co-folding models. We show that zPocket heads outperform baseline methods across all stratifications. Our best zPocket model achieves overall per-target AUPRC of 0.745 compared to 0.598 and 0.595 for the strongest baselines, VN-EGNN and UniSite-1D retrained on the PocketWatch split (0.559 and 0.531 when using the published weights); the widely used P2Rank reaches 0.477. We further show that zPocket can be used to outperform baseline methods on top-N+2 recall of predicted pocket centroids through clustering per-residue predictions or using zPocket to rescore centroids proposed by other models. Finally, we explore two applications of zPocket: crystallographic fragment screens and a proteome-scale scan for uncharacterized pockets on human proteins. Together these results suggest that zPocket heads built on co-folding trunk features can greatly advance ligand binding site prediction.",
+  "authors": [
+   "Tally Portnoi",
+   "Allison M Keys",
+   "Benjamin R DiFrancesco",
+   "Nate Gruver"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Tally Portnoi",
+  "pdf_url": "http://arxiv.org/pdf/2610.17696",
+  "primary_category": "cs.LG",
+  "published": "2026-10-13",
+  "tags": [
+   "protein-function",
+   "protein-ligand"
+  ],
+  "title": "zPocket: Better Pocket Finding with Frozen Co-Folding Features",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.17765": {
+  "abstract": "Generative AI has achieved remarkable success in de novo protein design, yet protein engineering typically begins with existing, characterized proteins. The primary demand is targeted local editing, e.g., engineering a specific region to optimize affinity, alter immunogenicity, or improve stability, while strictly preserving core catalytic motifs and overall scaffold integrity. However, no standardized framework currently exists for carrying out and evaluating such edits. In current generative-design workflows, researchers often need to manually specify complex low-level parameters and rely on repetitive, trial-and-error sampling and evaluation across generative backends to search for viable conformations. While large language models (LLMs) offer an intuitive interface to express these goals using natural language, prevailing structure-generation models cannot directly interpret high-level human instructions. To bridge this gap, we introduce PROTEAN, a standardized benchmark for text-guided protein structural editing. PROTEAN comprises 380 sub-tasks spanning six intervention families and evaluates a two-stage pipeline in which an LLM translates natural-language goals into backend-specific geometric constraints and a generative model remodels the protein backbone. A two-tier evaluation separates geometric compliance, including target attainment and off-target scope fidelity, from biophysical realizability assessed by inverse folding and refolding consistency. Across five frontier LLMs paired with three backends, strict end-to-end biophysical success starts at just 7.0%. Ablation studies show that LLM constraint compilation is already highly accurate, whereas the main bottlenecks are backend-specific scope leakage and refolding failure. PROTEAN provides an open testbed for developing autonomous, multi-backend macromolecular design agents.",
+  "authors": [
+   "Encheng Su",
+   "Xinping Liu",
+   "Yizhou Wang",
+   "Bozitao Zhong",
+   "Pengze Li",
+   "Jianyu Wu",
+   "Mingxiao Li",
+   "Xinzhu Ma",
+   "Aoran Wang",
+   "Liang Hong",
+   "Wanli Ouyang",
+   "Chen Tang",
+   "Houqiang Li",
+   "Shixiang Tang"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Encheng Su",
+  "pdf_url": "http://arxiv.org/pdf/2610.17765",
+  "primary_category": "cs.CE",
+  "published": "2026-10-13",
+  "tags": [
+   "drug-discovery",
+   "generative-model",
+   "protein-structure"
+  ],
+  "title": "PROTEAN: Beyond De Novo Generation - Can LLM Agents Perform Text-Guided Protein Structure Editing?",
+  "topics": [
+   "Large Language Models & Materials",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.17804": {
+  "abstract": "How can language models learn to optimize physical designs through experience? We introduce FracLearn, an experience-abstraction-generalization framework evaluated through a deliberately unfamiliar, Tetris-inspired fracture game. The model first proposes architectures and examines simulated fracture responses to accumulate experience. Abstraction organizes these observations into conditional principles linking reinforcement placement, crack evolution and load transfer, with supporting evidence and failure conditions. Generalization challenges the model to combine these principles in new architectures and surpass the earlier design record. Campaigns demonstrate progressive refinement and recovery through hypothesis revision, yielding a best composite score 11.0% above the experience-stage record. Fracture analyses connect improved performance to crack deflection and temporary trapping as toughening mechanisms, alongside greater residual load capacity. Learning occurs through external knowledge and decisions, without model-weight updates. This approach offers a route to scientific agents that turn computational experiments into reusable physical knowledge for materials discovery and engineering design.",
+  "authors": [
+   "Bo Ni"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "21 pages, 7 figures, 3 tables. Includes Supplementary Materials",
+  "first_author": "Bo Ni",
+  "pdf_url": "http://arxiv.org/pdf/2610.17804",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-13",
+  "tags": [
+   "materials-discovery"
+  ],
+  "title": "Learning from fracture: Teaching language models to design through physical experience",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.17831": {
+  "abstract": "Diffusion large language models (dLLMs) are appealing for code generation because they can update many tokens in parallel, yet many are optimized for sequence synthesis rather than edit prediction. This setting is poorly matched to modern AI-assisted IDEs, where edit prediction must infer the next code change from recent edits, the current file, and cursor-local context. Such changes are usually sparse and preserve most source tokens, so regenerating a full code segment wastes computation. We propose Diff Diffusion, a diffusion-inspired LLM framework for code editing that predicts edit paths from an original snippet to its revised form. Diff Diffusion represents denoising as structured edit operations, and combines this formulation with multi-stage training and efficient parallel decoding. By focusing computation on changed regions, Diff Diffusion supports accurate low-latency edits and multi-position parallel modification. Across public edit-completion benchmarks, edit-prediction evaluations, and online validation, Diff Diffusion matches or leads autoregressive baselines while delivering 2.78 times faster inference on public edit-completion benchmarks and a 39.0% P50 model-latency reduction in production. This work provides a new modeling perspective for AI applications that require high accuracy and low latency.",
+  "authors": [
+   "Xiaolong Xu",
+   "Hao Jiang",
+   "Bo Jiang",
+   "Zhiwen Deng",
+   "Ningyuan Sun",
+   "Bingzhou Chen",
+   "Jin Chen",
+   "Chenxing Wei"
+  ],
+  "categories": [
+   "cs.SE",
+   "cs.AI",
+   "cs.CL"
+  ],
+  "comment": "15 pages, 3 figures, 6 tables. Accepted at the NeurIPS 2026 Workshop on Diffusion Language Models: Foundations, Efficiency, and Reasoning",
+  "first_author": "Xiaolong Xu",
+  "pdf_url": "http://arxiv.org/pdf/2610.17831",
+  "primary_category": "cs.SE",
+  "published": "2026-10-13",
+  "tags": [],
+  "title": "Diff Diffusion: Predicting Edit Paths with Diffusion Models for Efficient Code Editing",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.17832": {
+  "abstract": "Materials and chemical optimization must choose the next synthesis, characterization, or high-fidelity simulation from sequential observations under a limited budget. Large language models can use task knowledge to propose adjustments, but composing surrogates, acquisition functions, and search strategies is constrained by compatibility, parameter dependencies, and evidence requirements. We present Agentic-MatriBO, a capability-compiled agentic Bayesian optimization (BO) framework that represents BO components and selection conditions as composable capabilities. A language policy proposes BO recipes and candidate plans; a compiler checks proposals against the registered capability catalog; and a deterministic execution layer validates and commits candidates. Oracle observations are stored in research memory and inform later rounds. We compare Agentic-MatriBO with eight baselines on four offline finite candidate pools---COF, PCE10, Buchwald--Hartwig (BH), and Suzuki--Miyaura---using five seeds per condition; results are reported descriptively. Across the four tasks, Agentic-MatriBO has the best mean endpoint quality after orienting each objective so that higher is better. On COF, it reaches the tabulated optimum in all five seeds both in the end-to-end comparison and after shared initialization, where it also retains an advantage in cumulative quality. Its normalized area under the best-so-far quality curve during the BO stage (nAUC-BO) is substantially higher on COF, near parity with the best baseline on PCE10 and BH, and lower on Suzuki. COF ablations show that removing the capability compiler or evidence gate coincides with lower cumulative quality and fewer exact-optimum hits. The framework provides an inspectable interface for evidence-conditioned BO adaptation.",
+  "authors": [
+   "Yu Zeng",
+   "Yuchuan Chen",
+   "Ziyue Zhang",
+   "Zijian Wei",
+   "Yanyi Su",
+   "Guojiang Zhao",
+   "Hongshuai Wang",
+   "Zhifeng Gao"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "28 pages, 9 figures, supplementary information included",
+  "first_author": "Yu Zeng",
+  "pdf_url": "http://arxiv.org/pdf/2610.17832",
+  "primary_category": "cs.LG",
+  "published": "2026-10-13",
+  "tags": [
+   "bayesian-optimization"
+  ],
+  "title": "Agentic-MatriBO: Capability-Compiled Agentic Bayesian Optimization for Materials and Chemical Design",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.18176": {
+  "abstract": "Proactive human-robot collaboration requires autonomous systems to infer not only immediate actions but also the underlying hierarchical intentions governing human behavior. Current deep learning approaches predominantly focus on flat action classification, failing to capture the structural dependencies connecting kinematic motion to high-level goals. A Neuro-Symbolic Graph Transformer (NSGT) is proposed within this multimodal framework, a Human Reasoning Graph (HR-G) is integrated into the self-attention mechanism via learnable topological biases. Furthermore, the architecture is augmented with a differentiable First-Order Logic (FOL) loss, acting as a structural regularizer by which ontological consistency is enforced across four levels: atomic actions, composite activities, Low-Level Intentions, and High-Level Intentions. Evaluation is performed on the synthesized NTU-Hierarchy dataset, a four-level ontological extension of NTU RGB+D 120, wherein existing sequences were mapped into 119,383 complex hierarchical episodes (85 actions, 16 activities, 8 LLIs, 4 HLIs). To prevent circular supervision, strict isolation between label generation and FOL constraints was maintained. In the base configuration, 91.65% top-1 action accuracy is achieved by the NSGT. When the FOL loss is incorporated into the baseline, logic consistency is improved by 3.26 percentage points to 96.67%. Through the HR-G biases, a tunable trade-off between accuracy and structural coherence is established. In the primary consistency-maximizing configuration ($λ$ = 0.5), a logic consistency of 94.59% is reached and ontological contradictions are reduced by 33%, while a robust 89.90% top-1 action accuracy is retained. Finally, interpretable reasoning evidence is provided by the learned HR-G weights, wherein transition edges are strongly exploited ($β$ trans $\\approx$ +2.6) without explicit supervision.",
+  "authors": [
+   "Farnaz Soleimani",
+   "Abdelghani Chibani",
+   "Yacine Amirat",
+   "Ghazaleh Khodabandelou"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Farnaz Soleimani",
+  "pdf_url": "http://arxiv.org/pdf/2610.18176",
+  "primary_category": "cs.AI",
+  "published": "2026-10-13",
+  "tags": [],
+  "title": "Neuro-Symbolic Graph Transformers for Hierarchical Intention Recognition from Multimodal Human Activity Sequences",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.18314": {
+  "abstract": "This work discusses and tests the potential of reaction graphs for material synthesis, in which events consist of reaction steps (actions) and their outputs (observations). The importance comes from the requirement to synthesize technologically useful materials, especially those that are kinetically stabilized. Often, it is a science that follows years of trial and error, culminating in (published) successful recipes, but is truly driven by far more (unpublished) failures. The entry into the era of AI provides an opportunity to use learning algorithms to encode rules from multi-dimensional synthesis pathways, regardless of their technological usefulness, and to decode both forward prediction and inverse learning modes. The main incentive is to accelerate material discovery by generating a global knowledge base that can be shared among data agents and contributed to by them. We will focus on several scenarios in the common synthesis process during solid-state synthesis, primarily because these reactions are kinetic in nature and require closer monitoring and control of the reaction history.",
+  "authors": [
+   "Yevgeny Rakita",
+   "Paul Todd",
+   "James R. Neilson",
+   "Simon J. L. Billinge"
+  ],
+  "categories": [
+   "cs.AI",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "13 pages, 8 figures",
+  "first_author": "Yevgeny Rakita",
+  "pdf_url": "http://arxiv.org/pdf/2610.18314",
+  "primary_category": "cs.AI",
+  "published": "2026-10-13",
+  "tags": [],
+  "title": "Complex materials engineering via Provenance Action Graphs: potential, structure and demonstration",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.18481": {
+  "abstract": "Protein sequence, structure, and functional annotations each capture complementary aspects of protein biology, yet existing tokenizers encode each modality independently, limiting the expressiveness of discrete protein representations. We present ProTok, a unified protein tokenizer that maps all three modalities into a modular discrete vocabulary via product quantization with per-modality codebook groups and modality dropout. A single ProTok checkpoint supports flexible inference from any modality subset without retraining. On seven StructTokenBench benchmarks spanning 14 tasks and 28 test splits, ProTok achieves an average rank of 1.4 across all structure-only tokenizers, placing first on 21 splits and among the top two on 27 of the 28. These gains come without sacrificing reconstruction: ProTok's tokens reach 0.939 lDDT on CATH 4.2, showing that multi-codebook quantization and multi-modal training yield tokens that are both reconstructable and informative. ProTok's structure tokens further lead all baseline structure tokenizers on zero-shot functional retrieval across CATH, Enzyme Commission, and Gene Ontology label hierarchies. The vocabulary also supports generation: a compact language model trained from scratch over ProTok tokens jointly generates backbone and sequence, with 52% of sampled backbones designable versus 21% for a parameter-matched GeoBPE baseline. ProTok shows that structure, sequence, and function can share one discrete vocabulary, motivating protein language models that reason over a unified token stream.",
+  "authors": [
+   "Romain Hardy",
+   "Xiaoman Zhang",
+   "Pranav Rajpurkar"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "22 pages, 2 figures, 10 tables",
+  "first_author": "Romain Hardy",
+  "pdf_url": "http://arxiv.org/pdf/2610.18481",
+  "primary_category": "cs.LG",
+  "published": "2026-10-13",
+  "tags": [
+   "protein-llm"
+  ],
+  "title": "ProTok: Unified Protein Tokenization via Modular Multi-Codebook Quantization",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.18631": {
+  "abstract": "We demonstrate how to build a robust phase space electronic Hamiltonian $\\hat{H}_\\text{PS}(\\boldsymbol{R},\\boldsymbol{P})$ that depends on nuclear position $\\boldsymbol{R}$ and nuclear momentum $\\boldsymbol{P}$ in the presence of ionic pseudopotentials. In particular, we show that in order to account for the non-local component of a pseudopotential while also conserving linear and angular momentum, one is forced to introduce a non-local one-electron operator $\\hat{\\boldsymbolΓ}^\\text{nl}$ that couples electronic and nuclear momenta together. To test the validity of our ansatz, we derive a generalized form of Nafie's exact equality (which relates electronic momentum and electronic position) so as to include the presence of pseudopotentials. We then benchmark our proposed phase space electronic structure theory against this generalized Nafie-like result for a diverse set of diatomic molecules spanning a wide range of elements. We find excellent agreement across this ab initio test set, highlighting the strength of our method in capturing meaningful electronic momentum beyond the Born-Oppenheimer framework.",
+  "authors": [
+   "Guy Ohad",
+   "Nadine C. Bradbury",
+   "Joseph E. Subotnik"
+  ],
+  "categories": [
+   "cond-mat.other"
+  ],
+  "comment": null,
+  "first_author": "Guy Ohad",
+  "pdf_url": "http://arxiv.org/pdf/2610.18631",
+  "primary_category": "cond-mat.other",
+  "published": "2026-10-13",
+  "tags": [
+   "ab-initio",
+   "electronic-structure"
+  ],
+  "title": "Momentum conservation for ab initio calculations with pseudopotentials via a phase space electronic structure formulation",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.18724": {
+  "abstract": "The rapid advancement of image-to-text extraction systems and large language models (LLMs) poses new challenges for educational assessment by making assignment materials easy to transcribe and solve with minimal human effort. To address this problem, we present AIRRI (Artificial Intelligence Resilient Reading Interface), a framework for generating machine-resistant educational content, a dataset of higher-education assignments for evaluation, and an initial evaluation of the human readability of AIRRI machine-resistant text designs. AIRRI employs two categories of machine-resistance techniques. First, AIRRI applies image transformations including character spacing, word spacing, line spacing, character opacity variation, stripe overlays, and image noise. Second, AIRRI applies decision-based adversarial attacks: RayS, SurFree, and ADBA. We evaluate AIRRI against three image-to-text systems: Tesseract, EasyOCR, and the transformer-based GOT-OCR2 model. Our results show that AIRRI substantially degrades automated text extraction performance. AIRRI increased character error rates for EasyOCR (6.9% to 55.9%), Tesseract (2.3% to 100.0%), and GOT-OCR2 (30.7% to 48.1%). Word error rates increased for EasyOCR (24.9% to 96.7%) and Tesseract (10.7% to 100.0%). Among the evaluated decision-based attacks, ADBA consistently produced the largest degradation in image-to-text performance, while RayS and SurFree produced more moderate reductions. EasyOCR and Tesseract were generally more susceptible to both image-based and adversarial perturbations than the transformer-based GOT-OCR2 model. Our findings suggest that AIRRI can significantly reduce the reliability of image-to-text-to-LLM workflows, increasing the effort required for AI-assisted assignment completion.",
+  "authors": [
+   "Emory Salaun",
+   "Syed Ayon",
+   "Kaleel Mahmood",
+   "Shaun Wallace"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.HC",
+   "cs.LG"
+  ],
+  "comment": "12 pages, 2 figures, 6 tables",
+  "first_author": "Emory Salaun",
+  "pdf_url": "http://arxiv.org/pdf/2610.18724",
+  "primary_category": "cs.CV",
+  "published": "2026-10-13",
+  "tags": [],
+  "title": "AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.18851": {
+  "abstract": "Multi-objective molecular optimization is a critical process in drug discovery that aims to modify a given molecule to simultaneously improve multiple properties while maintaining a similar overall structure. This process often requires iterative modifications guided by computational or experimental feedback. Recent large language model (LLM)-based methods have begun to explore this iterative approach; however, these methods are not explicitly trained to leverage such feedback, while existing approaches primarily focus on single-turn molecular optimization. To address this gap, we introduce Multi-turn Feedback Guided (MFG) molecular optimization, a reinforcement learning framework that trains an LLM to progressively optimize molecules using feedback from previous turns. MFG introduces a feedback vector capturing both property improvements and source molecule similarity, alongside a feedback-aligned reward function that promotes progressive improvement across turns. We apply MFG over $\\text{GeLLM}^{3}\\text{O}$, a state-of-the-art LLM model for multi-objective molecular optimization, evaluate $\\text{GeLLM}^{3}\\text{O-MFG}$ on ten multi-objective molecular optimization tasks. The results demonstrate that $\\text{GeLLM}^{3}\\text{O-MFG}$ achieves the highest average similarity-constrained success rate ($81.50%$), outperforming the base model $\\text{GeLLM}^{3}\\text{O}$ ($70.81%$).",
+  "authors": [
+   "Trieu Nguyen",
+   "Frazier N. Baker",
+   "Ruoxi Gao",
+   "Daniel Adu-Ampratwum",
+   "Xia Ning"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.LG",
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Trieu Nguyen",
+  "pdf_url": "http://arxiv.org/pdf/2610.18851",
+  "primary_category": "cs.AI",
+  "published": "2026-10-13",
+  "tags": [
+   "drug-discovery",
+   "molecular-generation",
+   "reinforcement-learning"
+  ],
+  "title": "MFG: Multi-turn Feedback Guided Molecular Optimization",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.18879": {
+  "abstract": "Protein function annotation operates over an expanding label space, making class-incremental learning (CIL) a natural framework for incorporating newly discovered functions without full retraining. Yet existing CIL methods have been developed largely in vision and have not been systematically evaluated over frozen protein representations. We conduct a controlled benchmark of nine representative CIL methods across five sequence-, structure-, and sequence--structure-based protein encoders and two enzyme function datasets at different scales, while keeping the encoders frozen and evaluation settings consistent across representations. We find that no method transfers reliably across encoders, and that these failures persist across alternative phase constructions. Diagnostic analyses reveal that this instability arises from weak gradient-based stability signals, substantial heterogeneity in embedding geometry, and covariance assumptions whose appropriate capacity changes with both dataset scale and encoder. These findings suggest that the representation itself should be treated as a central component of continual-learning design rather than a passive feature extractor. More generally, reliable protein CIL will require encoder-aware methods that adapt their statistical assumptions and capacity to the geometry of the representation on which they operate. Code is available at https://github.com/zygao930/ProteinCIL.",
+  "authors": [
+   "Ziyuan Gao"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "q-bio.QM"
+  ],
+  "comment": "Accepted at NeurIPS 2026 Workshop on Continual Learning for Foundation Models and Agents (CL4FM Agents)",
+  "first_author": "Ziyuan Gao",
+  "pdf_url": "http://arxiv.org/pdf/2610.18879",
+  "primary_category": "cs.LG",
+  "published": "2026-10-01",
+  "tags": [
+   "protein-function"
+  ],
+  "title": "Do Vision CIL Methods Transfer to Protein? A Diagnostic Benchmark of Frozen Protein Encoders",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.18891": {
+  "abstract": "The semiconductor workforce shortage has renewed interest in making chip design accessible to students without conventional very-large-scale integration (VLSI) training. We present the AI Hardware Design League (AI-HDL), an international, project-based competition in which students use Large Language Models (LLMs) to generate and iteratively refine Verilog while simulation, synthesis, timing analysis, security review, and physical verification provide the engineering feedback needed to validate the result. Across two annual cycles, AI-HDL grew from 172 to 604 participants and from 40 to 108 teams, reaching 30 universities, six community colleges, and 19 countries. In the 2026 cohort, 68.7% of participants reported no prior Verilog experience. Twenty-two teams completed the four design phases and reached final evaluation. Two division-winning designs completed physical sign-off in the SkyWater 130 nm (Sky130) process, passing design-rule checking and layout-versus-schematic verification with zero violations before being submitted for fabrication. These results show that an LLM-assisted, tool-grounded workflow can be deployed at substantial scale while also revealing that completion, rather than initial access, remains the principal challenge. AI-HDL materials and finalist artifacts are released to support replication and future study.",
+  "authors": [
+   "Parsa Mirfasihi",
+   "Harish Kumar Dharavath",
+   "Muhtasim Alam Chowdhury",
+   "Sujan Ghimire",
+   "Banafsheh Saber Latibari",
+   "Rozhin Yasaei",
+   "Pratik Satam",
+   "Soheil Salehi"
+  ],
+  "categories": [
+   "cs.AR"
+  ],
+  "comment": "5 pages, 5 figures, 1 table",
+  "first_author": "Parsa Mirfasihi",
+  "pdf_url": "http://arxiv.org/pdf/2610.18891",
+  "primary_category": "cs.AR",
+  "published": "2026-10-09",
+  "tags": [],
+  "title": "From Prompts to Silicon: Scaling LLM-Assisted Chip Design with the AI Hardware Design League",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-09"
+ },
+ "2610.18995": {
+  "abstract": "We present the first results of a series of studies based on JWST observations of the globular cluster 47 Tucanae (47 Tuc, or NGC 104) obtained with NIRCam. By combining new data with earlier JWST observations, we derive high-precision proper motions (PMs) over a multi-year baseline (of ~3 years) and construct a clean sample of cluster members extending to very faint magnitudes (F444W~24.25 mag, corresponding to ~0.077 solar masses, slightly above the estimated hydrogen-burning limit of 47 Tuc, ~0.074 solar masses) along the main sequence (MS). We investigated the presence of the low-mass MS kink previously identified in 47 Tuc using the new F090W and F444W photometry. No significant signature of the feature is found using these filters, consistent with its proposed physical interpretation as a consequence of the transition in carbon chemistry toward a methane-dominated equilibrium in very low-mass stars. A comparison with theoretical isochrones indicates that the stellar population near the bottom of the MS is likely dominated by oxygen-poor stars, in agreement with previous findings. Using artificial-star tests, we quantify the completeness of our sample and show that the requirement of PM-based membership significantly limits the detection of the faintest objects, indicating that current JWST observations of 47 Tuc are not sufficiently deep to reliably trace the cluster's brown dwarf cooling sequence. The mass function (MF) of 47 Tuc shows a structured behaviour, with a break at ~0.15 solar masses not associated with the onset of convection, and a mild but systematic radial variation consistent with mass segregation. Our analysis indicates that the MF shape in this mass regime is more complex than a simple power-law description. This feature in the MF may point to a presently unrecognised mechanism affecting the formation or dynamical evolution of low-mass stars in globular clusters.",
+  "authors": [
+   "M. Scalco",
+   "R. Gerasimov",
+   "L. R. Bedin",
+   "E. Vesperini",
+   "M. Griggio",
+   "D. Nardiello",
+   "J. Anderson"
+  ],
+  "categories": [
+   "astro-ph.SR",
+   "astro-ph.GA"
+  ],
+  "comment": "16 pages, 14 figures (1 figure in Appendix A), 1 table. Published in A&A (https://doi.org/10.1051/0004-6361/202660362). Accepted on 22 June 2026",
+  "first_author": "M. Scalco",
+  "pdf_url": "http://arxiv.org/pdf/2610.18995",
+  "primary_category": "astro-ph.SR",
+  "published": "2026-10-13",
+  "tags": [],
+  "title": "JWST observations of 47 Tucanae: I. The low-mass main sequence down to the hydrogen-burning limit",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.19090": {
+  "abstract": "Materials usually remember their past through dissipative changes of structure or through a net order. Simulations of caged colloidal ellipsoids at a fluid interface reveal a purely orientational memory. The particles stay in place, the layer has no net alignment, and a pattern written by a field is retained by capillary interactions between neighbors. It lasts hundreds of times longer than a particle takes to reorient, while every particle keeps rotating. The layer also remembers sequence: when two strong fields act one after the other on the same particles, it records which came last.",
+  "authors": [
+   "Vladimir A. Baulin"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Vladimir A. Baulin",
+  "pdf_url": "http://arxiv.org/pdf/2610.19090",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-13",
+  "tags": [],
+  "title": "Geometry-Encoded Hidden Orientational Memory",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.19123": {
+  "abstract": "Generating novel molecules with desired properties is a central challenge in drug discovery. Although foundational work focused on de novo generation, practical use cases require a more complex setting: conditioning on an initial seed molecule, optimizing multiple properties, and operating in data-sparse regimes. We introduce PairIT, a flexible training framework for autoregressive transformers over SMILES sequences that enables seeded generation by learning from pairs of structurally similar molecules. By leveraging matched pairs, the model learns to generate local, chemically meaningful edits that improve a property of the seed molecule. Prompt tokens extend this framework by specifying the target property, desired direction, and approximate magnitude of change. Multiple prompt tokens can be concatenated to enable multi-property optimization at inference time. For properties where pair supervision alone is insufficient, reinforcement learning post-training can further improve optimization, providing a tunable trade-off between proximity to the seed and the optimization objective. PairIT naturally supports pretraining on a large dataset and fine-tuning on a smaller dataset, which is critical for performance in data-sparse regimes. Surprisingly, we observe diminishing returns to the scale of the pretraining dataset. We demonstrate empirically on MoleculeNet and Therapeutics Data Commons datasets that, with appropriate paired-data curation, a standard transformer model of modest size (68M parameters) can achieve robust seeded molecular optimization in low-data regimes.",
+  "authors": [
+   "Hannah Lawrence",
+   "Bodhi P. Vani",
+   "Ji Won Park",
+   "Natasa Tagasovska",
+   "Samuel Don Stanton",
+   "Andrew Martin Watkins",
+   "Michael Maser",
+   "Ewa M. Nowara"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Hannah Lawrence",
+  "pdf_url": "http://arxiv.org/pdf/2610.19123",
+  "primary_category": "cs.LG",
+  "published": "2026-10-13",
+  "tags": [
+   "drug-discovery",
+   "molecular-generation",
+   "reinforcement-learning"
+  ],
+  "title": "PairIT: Autoregressive Transformers for Low-Data Molecule Optimization",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.19228": {
+  "abstract": "Powerful X-ray flares from young stars may rapidly alter the physical and chemical conditions of their planet-forming disks, but direct observational tests remain scarce. We present a Chandra-JWST/NIRSpec study of infrared spectral variability associated with pre-main-sequence (PMS) X-ray flares in the Orion Nebula. Combining six Chandra/ACIS-I observations with three NIRSpec-MOS visits, we analyze two-epoch spectra of 10 X-ray Flare stars and 12 matched non-flaring Controls among 84 observed disk-bearing PMS stars. We investigate three diagnostics: narrow 2.8-4.3 micron features, HI Br-alpha, and the CO fundamental band. Flare stars show tentative evidence for relatively fewer variable narrow features at longer wavelengths than Controls, while feature incidence decreases strongly with projected distance from the dominant ionizing O star Theta1 Ori C. Most classifiable features appear in absorption. These properties suggest that at least some features may arise in externally irradiated disk atmospheres and/or associated photoevaporative flows, with their apparent epoch-to-epoch variability potentially reflecting spatial sampling of such locally structured material rather than intrinsic temporal changes. Br-alpha behaves differently: flare stars show systematically stronger variability and uniquely exhibit absorption-core profiles, suggesting control by magnetospheric accretion and stellar magnetic processes rather than disk irradiation. The CO fundamental band shows no significant flare-associated variability, consistent with thermochemical models predicting weak responses to moderate X-ray superflares. This pilot study demonstrates the potential of coordinated Chandra-JWST observations to probe how young stellar magnetic activity affects planet-forming environments, motivating future monitoring to build larger superflare samples and extend them into the rare X-ray mega-flare regime.",
+  "authors": [
+   "Konstantin V. Getman",
+   "Kevin L. Luhman",
+   "Bayron Portilla-Revelo",
+   "Christian Rab",
+   "Valentin Brunn",
+   "Eric D. Feigelson",
+   "Arjan Bik",
+   "Jan Forbrich",
+   "Jenny Frediani",
+   "Thomas J. Haworth",
+   "Charles J. Law",
+   "Marco Padovani",
+   "Maria Claudia Ramirez-Tannus",
+   "Andrew J. Winter",
+   "Vladimir S. Airapetian",
+   "L. Ilsedore Cleeves",
+   "Sergio A. Dzib",
+   "Michael A. Kuhn",
+   "Abygail R. Waggoner",
+   "Rens Waters"
+  ],
+  "categories": [
+   "astro-ph.SR",
+   "astro-ph.EP",
+   "hep-ph"
+  ],
+  "comment": "35 pages, 14 figures, and 3 tables",
+  "first_author": "Konstantin V. Getman",
+  "pdf_url": "http://arxiv.org/pdf/2610.19228",
+  "primary_category": "astro-ph.SR",
+  "published": "2026-10-13",
+  "tags": [],
+  "title": "Chandra-JWST Probing the Effects of Moderate X-Ray Superflares on Protoplanetary Disks",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.19324": {
+  "abstract": "In large language models (LLMs), attention concentrates heavily on the first token. This 'attention sink' is believed to protect deep models against over-mixing. Even though graph transformers face a related pressure, we find that a SoTA graph transformer, GRIT, rarely forms sinks on molecules, and that it sinks less when trained on larger graphs, the opposite of the trend in LLMs. In principle, a graph can prevent sinks: we prove and show empirically that its symmetry and locality limit the attention any node can receive. On molecules, however, with distinguishable atoms and global attention, neither limit prevents sinks; what stops them lies in the model. We find that the attention scoring function is the main cause. Replacing GRIT's gated logit with a dot product raises its sink rate from 0.09 to 0.68 on identical graphs. In Graph Transformers using dot-product attention, removing the sink gives about the same error as removing a random node, while GRIT's most-attended nodes matter to its predictions. Attention sinks are therefore a property of dot-product attention rather than of Transformers. In our experiments, they form when dot-product scoring has a distinguishable node to concentrate on.",
+  "authors": [
+   "Alexandre Bismuth"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Accepted at the Geometric Distributional Deep Learning (GDDL) workshop at NeurIPS 2026. 8 pages, 1 figure. Code: https://github.com/alexandre-bismuth/graph-transformer-sinks",
+  "first_author": "Alexandre Bismuth",
+  "pdf_url": "http://arxiv.org/pdf/2610.19324",
+  "primary_category": "cs.LG",
+  "published": "2026-10-14",
+  "tags": [],
+  "title": "Why don't Graph Transformers attend to the same token?",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19385": {
+  "abstract": "Large Language Model (LLM) unlearning is often evaluated primarily by target suppression and clean retain utility. These metrics can miss a local failure mode: a model may perform well on standard retain prompts, yet degrade on benign reasoning when prompts lie near the forgotten domain. This phenomenon is termed forget-adjacent utility loss. A fundamental question is: where should forget representations go after they leave the removed behavior? Successful unlearning depends not only on whether forget-conditioned representations depart from the harmful computation, but also on the direction in which they are redirected afterward. We propose RA$^2$ (Retain-Anchored Attraction), a latent-space unlearning method that redirects forget-token states toward nearby retain-supported representations while preserving higher-layer behavior on retain data. On WMDP and MUSE, RA$^2$ yields higher forget-adjacent utility than strong unlearning baselines at similar broad-utility levels. These results show that the migration direction of forget representations materially affects benign behavior near the forget boundary. Our code is available at https://github.com/ZacLing/retain_anchored_attraction.",
+  "authors": [
+   "Zinan Ling",
+   "Yang Xiao",
+   "Ruimeng Ye",
+   "Sijia Liu",
+   "Bo Hui"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Zinan Ling",
+  "pdf_url": "http://arxiv.org/pdf/2610.19385",
+  "primary_category": "cs.LG",
+  "published": "2026-10-14",
+  "tags": [],
+  "title": "RA$^2$: Retain-Anchored Attraction Preserves Forget-Adjacent Utility in LLM Unlearning",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19386": {
+  "abstract": "Large language model (LLM) agents can self-evolve at test time by accumulating experience: retrieving relevant memories before acting and writing new lessons back afterwards. Yet most are single-level: trajectories, distilled workflows and reasoning items all land in one undifferentiated pool indexed by embedding similarity, with no typed abstraction hierarchy. They never forget or deduplicate, and are prone to negative transfer, where a superficially similar but directionally opposite experience is recalled and its concrete steps are copied verbatim, actively harming the agent. We introduce STRATA, a structured, outcome-grounded, self-maintaining memory that organizes experience into a three-layer graph of atomic skills and code snippets, task workflows and generalized meta-frameworks, connected by typed edges. STRATA maintains itself through five mechanisms sharing one similarity geometry: a multi-dimensional similarity that scores retrieval by operation and target; a typed reflector crystallizing procedures from successes and pitfalls from failures; community detection that induces meta-frameworks; pressure-triggered garbage collection with articulation-point protection; and contrast edges that flag confusable, direction-opposite experiences. Across four interactive benchmarks (AppWorld, WebArena, ALFWorld, ScienceWorld), two frozen backbones and seven baselines, STRATA attains the best average score while simultaneously using the lowest latency and fewest environment steps of any memory-augmented method, and 44% fewer lines of injected memory than the most context-hungry baseline. We isolate two failure modes of prior memories: single-level memory degrades sharply as the task set grows, and single-level concrete memories suffer catastrophic negative transfer, which contrast edges repair, lifting ScienceWorld from 78.7 to 96.7 within the same system.",
+  "authors": [
+   "Guanhua Zhu",
+   "Hanwen Li",
+   "Zhi Wei",
+   "Mengnan Du",
+   "Chenxi Yuan"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "19 pages",
+  "first_author": "Guanhua Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2610.19386",
+  "primary_category": "cs.AI",
+  "published": "2026-10-14",
+  "tags": [],
+  "title": "STRATA: Self-Maintaining Structured Experience Graphs for Self-Evolving Language Agents",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19399": {
+  "abstract": "Korean neologisms arise through diverse mechanisms, a demanding test of language models beyond lexical memorization. To enable systematic evaluation, we introduce NeoTrace, an automated, rerunnable framework that collects and dates neologisms across genres. Its 4,271 entries support KoAGE, a cutoff-aware benchmark with three acquisition and two generation tasks---the latter, to our knowledge, the first to compare model coinages with attested neologisms under their original materials and community context. Across 21 models, lexical recall diverges from contextual inference: in a five-model temporal analysis, models define only 13-30% of cutoff-year words, yet can infer meaning from one usage. However, structural understanding remains limited: even correct definitions barely improve formation analysis of pre-cutoff neologisms. Given word-building materials, single models often follow human formation mechanisms, whereas multi-agent coinage favors abbreviation and depends on interaction framing. KoAGE thus separates what models know, learn from use, and coin.",
+  "authors": [
+   "SungHo Kim",
+   "Eojin Jeon",
+   "SangKeun Lee"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "SungHo Kim",
+  "pdf_url": "http://arxiv.org/pdf/2610.19399",
+  "primary_category": "cs.CL",
+  "published": "2026-10-14",
+  "tags": [],
+  "title": "KoAGE: Do Large Language Models Know, Learn, and Coin Korean Neologisms?",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19404": {
+  "abstract": "Reticular chemistry allows metal-organic frameworks (MOFs) to be designed from their building units, yet their synthesis remains constrained by sparse experimental data, noisy crystallization outcomes, and the absence of benchmarks for comparing active-learning strategies. While data-driven approaches such as Bayesian optimization (BO) can improve synthesis success rates, selecting appropriate optimizers beforehand for mapping MOF crystallization landscapes remains largely empirical. Here we present ActMOF, an experiment-grounded benchmark for comparing search strategies in aluminum-carboxylate MOF synthesis. ActMOF is emulated from experimentally measured microwave syntheses with each encoded condition assigned a crystallinity index calculated based on diffraction peak intensity and full width at half-maximum. By benchmarking policies guided by Gaussian processes (GP), tree ensembles and large language models (LLM), ActMOF placed the GP family among the leading policies for active learning in sparse synthesis landscapes. It then demonstrated transferability by guiding the microwave synthesis of six reticularly related aluminum MOFs. All six campaigns gave crystalline products within a fixed budget of 12 experiments each, and established a reusable testbed for AI-driven MOF synthesis.",
+  "authors": [
+   "Hongrui Sheng",
+   "Shutian Liang",
+   "Reid A. Coyle",
+   "Shyam Chand Pal",
+   "Peter Walther",
+   "Bin Feng",
+   "Xinyu Ding",
+   "Zhiling Zheng"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.chem-ph"
+  ],
+  "comment": "Main text and Supporting Information in one file. Data and code: https://github.com/deep-synthesis/ActMOF",
+  "first_author": "Hongrui Sheng",
+  "pdf_url": "http://arxiv.org/pdf/2610.19404",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-14",
+  "tags": [
+   "active-learning",
+   "bayesian-optimization",
+   "mof"
+  ],
+  "title": "ActMOF: Mapping Reticular Synthesis through Active Learning",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19427": {
+  "abstract": "Legal reasoning is a fundamental capability for large language models (LLMs) to complete legal AI tasks such as legal judgment prediction. In legal practice, this reasoning is shaped by legal philosophy: a judge's view of the nature and sources of law guides how legal materials are interpreted and applied, so judges working from the same statutes and precedents can reach different judgments. Existing research has largely overlooked whether LLMs can understand legal philosophy and apply it in legal reasoning, an ability we call \\textit{legal-philosophical reasoning}. To fill this gap, we introduce LePhilBench, a benchmark for evaluating the legal-philosophical reasoning of LLMs that comprises two benchmarking tasks and a dataset. The two tasks evaluate how well LLMs understand legal philosophy and how well they apply it in legal reasoning, respectively. The dataset is manually and meticulously constructed. Its test set contains 220 U.S. Supreme Court opinions. A law professor designed fourteen annotation questions on legal philosophy, and three law-trained annotators with formal training in jurisprudence answered all fourteen questions for every opinion, yielding 9,240 legal-philosophical labels. LePhilBench takes the first step toward exploring legal-philosophical reasoning in LLMs.",
+  "authors": [
+   "Shuyuan Zheng",
+   "Yun-seo Lee",
+   "Xing Gao",
+   "Jialu Wu",
+   "Jiabao Hu",
+   "Katrina Qiyao Wang",
+   "Xinbo Lin",
+   "Qianying Liu",
+   "Chuan Xiao",
+   "Tao Huang"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Shuyuan Zheng",
+  "pdf_url": "http://arxiv.org/pdf/2610.19427",
+  "primary_category": "cs.CL",
+  "published": "2026-10-14",
+  "tags": [],
+  "title": "How Do LLMs Understand Legal Philosophy? Diagnosing Legal-Philosophical Reasoning in LLMs",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19499": {
+  "abstract": "Text-to-speech (TTS) based on masked diffusion models (MDMs) achieves competitive zero-shot speech synthesis performance. Unlike autoregressive (AR) models, MDMs define a corruption process that maps clean speech-token sequences to masked maps and learn a reverse denoising process to recover the reference tokens. However, MDMs commit to intermediate predictions that cannot be revised in subsequent inference steps. Consequently, prediction errors accumulate and propagate, degrading synthesized speech quality. We present Revise-TTS, a single-stage framework that applies hierarchical binary quantization (HBQ) and generative refinement networks (GRN) to zero-shot speech generation. First, we replace finite scalar quantization (FSQ) with HBQ to introduce a scalable binary representation for speech tokens with an explicit coarse-to-fine structure. Second, GRN is trained to reconstruct the token sequence from a mixture of ground-truth and random tokens. During inference, iterative refinement enables self-correction by randomly discarding a small proportion of previously predicted tokens with new predictions. Experiments and ablation studies demonstrate that Revise-TTS achieves competitive zero-shot speech synthesis performance using HBQ. It can further be extended to any MDM-based TTS task as an alternative training and inference method.",
+  "authors": [
+   "Wanli Sun",
+   "Dan Su",
+   "Anton Ragni"
+  ],
+  "categories": [
+   "cs.SD",
+   "eess.AS"
+  ],
+  "comment": "5 pages, 1 figure, 5 tables. Under review",
+  "first_author": "Wanli Sun",
+  "pdf_url": "http://arxiv.org/pdf/2610.19499",
+  "primary_category": "cs.SD",
+  "published": "2026-10-14",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19582": {
+  "abstract": "Magnetic proximity effects in transition metal dichalcogenide (TMD)/2D-magnet heterostructures are often described in terms of the magnetization of the interfacial magnetic layer. Here, we show that this picture is sufficient to describe the neutral-exciton valley splitting of the TMD, but incomplete for its hole-doped electronic structure. We study a gate-tunable van der Waals heterostructure composed of monolayer WSe$_2$ in direct contact with trilayer CrI$_3$. By combining spatially and helicity-resolved reflection-contrast spectroscopy with magnetic circular dichroism, we identify two distinct magnetic domains in the trilayer CrI$_3$: one with purely antiferromagnetic interlayer coupling and one with a mixed antiferromagnetic (AFM)/ferromagnetic~(FM) coupling. In both domains, the sign of the neutral-exciton valley splitting of WSe$_2$ switches with the magnetization reversal of the adjacent CrI$_3$ layer. In contrast, helicity-resolved positive-trion spectroscopy of WSe$_2$ reveals a qualitatively different response. While the AFM domain shows a strongly helicity-selective trion resonance, the mixed AFM/FM domain exhibits trion resonances in both helicities. This behavior disappears when all CrI$_3$ layers are aligned in a parallel magnetization direction. Our results demonstrate that charged excitons are sensitive to the full layer-resolved magnetic sequence of the adjacent 2D-magnet, revealing magnetic proximity beyond the interface.",
+  "authors": [
+   "Natalie Kuhn",
+   "Marc Schütte",
+   "Joachim Emming",
+   "Felix Hellenkamp",
+   "Leo Dreyer",
+   "Frank Volmer",
+   "Kenji Watanabe",
+   "Takashi Taniguchi",
+   "Lutz Waldecker",
+   "Christoph Stampfer",
+   "Bernd Beschoten"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "9 pages, 3 figures",
+  "first_author": "Natalie Kuhn",
+  "pdf_url": "http://arxiv.org/pdf/2610.19582",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-14",
+  "tags": [
+   "2d-materials",
+   "electronic-structure",
+   "tmd",
+   "vdw-correction"
+  ],
+  "title": "Magnetic proximity beyond the interface: Layer-sequence-dependent exchange in WSe$_2$/CrI$_3$ heterostructures",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19592": {
+  "abstract": "The ability to generate proteins with desired functions is a central goal of computational biology. Although natural language can express diverse design objectives, existing protein generation methods often support only narrow tasks or make limited use of biological constraints. We develop InstructPro2 to translate natural-language design objectives into protein sequences while incorporating task-specific biological context. A text encoder captures the design instructions, while dedicated ligand and antigen encoders provide biological context to the sequence-generating decoder. For pretraining, we assemble InstructPro2Bench, comprising 205.7 million <function description, protein> pairs from UniProtKB. We subsequently adapt the model to ligand-binding protein and antibody design. On functional protein generation benchmarks, InstructPro2 outperforms Pinal, the strongest baseline, achieving a functional recovery F1 of 74.8 versus 62.2 and lowering global RMSD from 5.33A to 3.04A. For antibody design, the model obtains a DockQ score of 0.39, while ligand-binding protein design reaches a docking success rate of 72.6%. These findings highlight how integrating language-based instructions with biological conditioning can extend protein generation to distinct design settings.",
+  "authors": [
+   "Charles Novak",
+   "Zhenqiao Song",
+   "Chuan Li",
+   "Jianwen Xie",
+   "Lei Li"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "19 pages, 6 figures",
+  "first_author": "Charles Novak",
+  "pdf_url": "http://arxiv.org/pdf/2610.19592",
+  "primary_category": "cs.LG",
+  "published": "2026-10-14",
+  "tags": [
+   "protein-structure"
+  ],
+  "title": "InstructPro2: Natural Language and Biological Grounding Guided De Novo Protein Design",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19630": {
+  "abstract": "Automated materials discovery requires evaluating large pools of candidate configurations, with density functional theory (DFT) as a major throughput bottleneck. Pretrained machine-learned interatomic potentials (MLIPs) approximate DFT cheaply, but their errors vary by orders of magnitude across configurations, making it difficult to decide when to trust the MLIP predictions and when to fall back to DFT. We frame this decision as a risk-controlled selection problem and solve it within a conformal risk control (CRC) framework. Each configuration is mapped from atomic numbers and Cartesian coordinates to a fixed geometric descriptor, which a lightweight predictor uses to estimate an MLIP-DFT disagreement score in energy, average force, and maximum force. CRC then calibrates this score into a selection threshold for DFT labeling such that the MLIP error on the unselected configurations, which keep their MLIP labels, stays below a user-chosen fraction $α$ of the expected error. Under an identical guarantee across eight dataset-MLIP pairs, our predictor routes 7% and 14% fewer configurations to DFT at $α=0.3$ than committee baselines. Because committee disagreement overlooks errors the MLIPs share, our gains are largest when the DFT labels and MLIP training data differ in DFT functional and basis set, and narrow when the two agree. Without model access, the structure-only predictor also ranks errors as well as the target MLIP's latent representation and outperforms widely used descriptors such as Smooth Overlap of Atomic Positions (SOAP) and Atom-Centered Symmetry Functions (ACSF).",
+  "authors": [
+   "Kun Ryu",
+   "Yeo Jin Jung",
+   "Shyue Ping Ong",
+   "Claire Donnat",
+   "Ying Shirley Meng"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Kun Ryu",
+  "pdf_url": "http://arxiv.org/pdf/2610.19630",
+  "primary_category": "stat.ML",
+  "published": "2026-10-14",
+  "tags": [
+   "dft",
+   "materials-discovery",
+   "mlip"
+  ],
+  "title": "Risk-Controlled DFT Selection for Machine-Learned Interatomic Potentials",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19640": {
+  "abstract": "The scarcity of observed biodegradation reactions constrains the training of product and pathway predictors. We present enviGraph, a framework that generates and curates synthetic reaction data, uses these data to pretrain a graph-to-sequence predictor, and fine-tunes the predictor on observed environmental reactions for product and recursive pathway prediction. Applying inherited environmental transformation rules to structures from PubChem, NORMAN SusDat and EPA DSSTox, followed by curation, produces 776,851 canonical parent-product pairs for pretraining. We compare this dataset with three United States Patent and Trademark Office (USPTO) reaction datasets: USPTO-50K, USPTO-MIT and USPTO-Stereo. We evaluate enviGraph and the sequence-based enviFormer using ten folds split by pathway on the EAWAG Biocatalysis/Biodegradation Database (BBD), regulatory pesticide biodegradation data (Soil) and activated-sludge biodegradation data (Sludge). For both predictors, synthetic pretraining gives the highest BBD mean precision-recall area under the curve (PR-AUC) among the evaluated pretraining datasets for single-generation and multi-generation prediction. enviGraph achieves BBD single-generation PR-AUC of $0.202 \\pm 0.050$ with synthetic pretraining, compared with $0.169 \\pm 0.065$ for the retrospectively selected strongest USPTO condition, USPTO-Stereo (mean $\\pm$ sample standard deviation across folds). Its exact BBD top-1 and top-5 accuracies with synthetic pretraining are 0.355 and 0.594. The strongest USPTO conditions give higher PR-AUC means than synthetic pretraining in most Soil and Sludge comparisons. enviGraph has higher Soil multi-generation PR-AUC means than enviFormer under each of the four main pretraining datasets, and with synthetic pretraining it also leads enviFormer on BBD single-generation PR-AUC and exact top-1 and top-5 accuracy.",
+  "authors": [
+   "Irsyaad Rijwan",
+   "Liam Brydon",
+   "Aidan Jared",
+   "Jörg Simon Wicker"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "16 pages, 2 figures, 4 tables. Additional file 1 is provided as an ancillary file",
+  "first_author": "Irsyaad Rijwan",
+  "pdf_url": "http://arxiv.org/pdf/2610.19640",
+  "primary_category": "cs.LG",
+  "published": "2026-10-14",
+  "tags": [],
+  "title": "Synthetic reaction data from transformation rules for graph-to-sequence pretraining in biodegradation pathway prediction",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19674": {
+  "abstract": "Geometry foundation models estimate camera poses and 3D scene structure from video sequences, but maintaining consistent reconstructions over long horizons remains challenging. Feed-forward models process long sequences as independent, fixed-length frame windows and align their predictions, causing pose and reconstruction errors to accumulate across windows. Streaming models retain information from past frames to inform future predictions, but cannot revise earlier estimates when later observations reveal errors. To address this, we introduce Scaffold MemOry for Revision (SMORE), a framework equipping frozen geometry foundation models with a revisable external memory for long-horizon inference. Inspired by hippocampal associative memory in biological brains, which links spatial context with sensory experience, SMORE associates where an observer is with what it observes, enabling past observations to be stored, retrieved, verified against new evidence, and revised when inconsistencies are detected. We evaluate SMORE with eight competitive geometry models on five datasets spanning camera pose estimation, multi-view depth estimation, 3D point-cloud reconstruction, simultaneous localization and mapping (SLAM), and novel view synthesis. Across all evaluated models, SMORE consistently improves long-sequence pose estimation, reduces multi-view depth error by up to 58%, reduces Chamfer distance for 3D point-cloud reconstruction by up to 43%, and achieves average trajectory error as low as 2.9 cm in long-horizon SLAM. By retaining corrected poses and observations, SMORE further improves the fidelity and spatial consistency of large-scale 3D scene reconstruction. These results establish revisable external memory as a flexible interface for extending pretrained geometry models beyond fixed-context prediction toward iterative, error-correcting inference over long visual sequences.",
+  "authors": [
+   "Soumick Sarker",
+   "Mengmi Zhang"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "40 pages, 3 main figures, 3 supplementary figures",
+  "first_author": "Soumick Sarker",
+  "pdf_url": "http://arxiv.org/pdf/2610.19674",
+  "primary_category": "cs.CV",
+  "published": "2026-10-14",
+  "tags": [],
+  "title": "Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19686": {
+  "abstract": "Large language model agents increasingly undertake long-horizon tasks in complex environments characterized by fragmented evidence, partially completed states, and dependencies across resources and artifacts. Existing agents may satisfy individual requirements while failing to maintain these relationships, producing locally correct but incomplete outcomes. These failures arise because task completion depends on relationships among environmental evidence, consequential decisions, and required effects. To address this completion gap, we propose Interlock, a framework for task synthesis that represents each task as a typed completion graph. Grounding edges connect public evidence to decisions, coupling hyperedges impose joint constraints across components, and realization edges connect decisions to all required downstream effects. Interlock compiles this graph into a resettable workspace, a public request, and an evaluation rubric. A source-coverage review checks whether the original requirements survive generation, while a public-input review checks whether the rubric is supported by the materials available to the solver. An agent-as-judge inspects execution artifacts and runs verification scripts, retaining trajectories judged to satisfy all mandatory requirements. To evaluate training utility, we fine-tune two Qwen3.6 backbones on their own accepted trajectories. Across the two backbones, training improves AutomationBench task pass rates by 4.00-4.50 percentage points, JobBench weighted scores by 3.20-6.64 points, and Harvey LAB criterion pass rates by 3.89-4.16 percentage points. These results demonstrate the training utility of the synthesized experience across external task environments.",
+  "authors": [
+   "Linji Hao",
+   "Yanji He",
+   "Zihan Wang",
+   "Hansi Yang",
+   "Jiayuan Zhang",
+   "Hongyan Hao",
+   "Qi Gu",
+   "Yan Feng",
+   "Han Wu"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Linji Hao",
+  "pdf_url": "http://arxiv.org/pdf/2610.19686",
+  "primary_category": "cs.CL",
+  "published": "2026-10-14",
+  "tags": [],
+  "title": "Interlock: From Local Correctness to Task Completion in Long-Horizon Agents",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19738": {
+  "abstract": "Large protein language models provide a powerful framework for learning sequence-function relationships and guiding experimental design. However, architectural improvements are underexplored, especially in low-compute regimes of relevance for resource-constrained research laboratories. We show that the training cost for encoder-only transformer architectures can be reduced by leveraging modern architectural refinements, offering an encouraging performance / compute-efficiency trade-off. We introduce ProtModernBERT, a modernized BERT-style model pre-trained on amino acid sequences, and compare it with ProtBert, Amplify, and ESM2 across a set of supervised structural tasks -encompassing secondary structure prediction, disorder prediction, and subcellular localization- and ProteinGym's zero-shot functional benchmark. We find that ProtModernBERT matches or closely tracks the performance of Amplify-120M and ProtBert with up to 80-90\\% reduction in pre-training FLOPs, and narrows the gap to ESM2 when controlling for pre-training. Our analysis using a cluster-based validation protocol for hyperparameter selection and randomly initialized models disentangles the contributions of architecture and data, showing that modern components provide stronger inductive biases that are more consequential than parameter count in low-compute regimes.",
+  "authors": [
+   "Alberto Martínez",
+   "Natalia Flechas Manrique",
+   "Llorenç Espinosa-Portalés",
+   "Luc Andrea"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "q-bio.QM"
+  ],
+  "comment": "12 pages, 5 figures",
+  "first_author": "Alberto Martínez",
+  "pdf_url": "http://arxiv.org/pdf/2610.19738",
+  "primary_category": "cs.LG",
+  "published": "2026-10-14",
+  "tags": [
+   "protein-llm",
+   "structure-prediction"
+  ],
+  "title": "ProtModernBERT: Compute-Efficient Protein Language Modeling",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19781": {
+  "abstract": "We introduce SNACK, a string representation for probabilistic graph generation that enables sequence models to generate and model graphs with discrete node and edge features. SNACK linearizes graphs by encoding the nonzero entries of the lower-triangular adjacency matrix, establishing a bijective correspondence between valid sequences and ordered adjacency matrices. This design enables invalid logit masking to enforce structural constraints--such as chemical valence and ordering rules--guaranteeing 100% valid generated sequences. SNACK also enables principled string-based GFlowNet training by explicitly accounting for node-ordering symmetries. Across standard graph-generation tasks and molecular distribution-learning benchmarks, SNACK achieves competitive sample quality, while substantially improving the throughput of GFlowNet training relative to graph-based generation. Probing analyses further show that models trained on SNACK encode meaningful local and global graph structure despite receiving only sequential supervision. These results position SNACK as a practical framework for probabilistic graph generation with deep sequence models.",
+  "authors": [
+   "Hohyun Kim",
+   "Hyesung Kim",
+   "Min-hwan Oh",
+   "Seunggeun Lee"
+  ],
+  "categories": [
+   "stat.ML",
+   "cs.LG"
+  ],
+  "comment": "30 pages; Accepted at NeurIPS 2026",
+  "first_author": "Hohyun Kim",
+  "pdf_url": "http://arxiv.org/pdf/2610.19781",
+  "primary_category": "stat.ML",
+  "published": "2026-10-14",
+  "tags": [],
+  "title": "SNACK: A Sequential Notation Framework for Probabilistic Graph Generation",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19805": {
+  "abstract": "Densities and excess molar volumes ($V_{\\text{m}}^{\\text{E}}$) at (293.15 to 303.15) K and excess molar enthalpies ($H_{\\text{m}}^{\\text{E}}$) at 298.15 K are reported for the 2-butanol + 2,5-dioxahexane, or + 2,5,8-trioxanonane, or + 2,5,8,11-tetraoxadodecane, or + 2,5,8,11,14-pentaoxapentadecane systems at 95 kPa. Densities were measured using a densitometer Anton Paar DSA 5000, and excess enthalpies by means of a micro-calorimeter Tian-Calvet. $H_{\\text{m}}^{\\text{E}}$ and $V_{\\text{m}}^{\\text{E}}$ data are positive, indicating that interactions between like molecules are dominant and that the main contribution to $V_{\\text{m}}^{\\text{E}}$ is the interactional one. Our enthalpic data together with data from the literature have been used to evaluate the enthalpy of alcohol-glyme interactions, which are ranged between ($-$31 and $-$22) kJ mol$^{-1}$. From the comparison with $H_{\\text{m}}^{\\text{E}}$ results for glyme + heptane systems, and from the position of the investigated mixtures in the diagram $G_{\\text{m}}^{\\text{E}}$ (excess molar Gibbs energy) vs. $H_{\\text{m}}^{\\text{E}}$, it is shown that interactions are of dispersive type. 2-Alkanol + dipropyl ether (DPE), or + glyme systems have also been studied using the DISQUAC, UNIFAC (Dortmund) and ERAS models. According to ERAS results, physical interactions in glyme systems are dominant, while association effects are predominant in mixtures with DPE. The DISQUAC interaction parameters suggest that interactions related to the OH/O contacts are essentially dispersive. UNIFAC fails when representing thermodynamic properties of the studied solutions.",
+  "authors": [
+   "Fatemeh Pazoki",
+   "João Victor Alves-Laurentino",
+   "Susana Villa",
+   "Daniel Lozano-Martín",
+   "Fernando Hevia",
+   "Luis Felipe Sanz",
+   "Juan Antonio González"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Fatemeh Pazoki",
+  "pdf_url": "http://arxiv.org/pdf/2610.19805",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-14",
+  "tags": [],
+  "title": "Density and excess molar enthalpy of 2-butanol + glyme liquid mixtures. Application of the DISQUAC, UNIFAC (Dortmund) and ERAS models to 2-alkanol + linear ether systems",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19810": {
+  "abstract": "Large language models are increasingly competent at leveraging scientific knowledge and existing computational tools to execute complex workflows. At present, little information exists on their ability to reconstruct tools when given limited descriptions of such tools. We introduce an evaluation titled ReproBAIT (Reproducing Biological AI Tools), which measures the ability of coding agents to design, implement, and train biological AI tools taken from published research across a range of information access conditions. The coding agent is securely sandboxed without internet access and receives training data, a fixed time and compute budget, and limited information about the tool to replicate. We then score the reproduced biological AI tool based on its performance (tool-specific metrics) on held-out data. We evaluated a set of biological AI tools of varying complexities: ProteinMPNN, an inverse protein folding tool, RFdiffusion3, an all-atom generative diffusion tool, and a closed-source molecular design tool. We institute a methodology to check for memorisation, as the open source tools are likely to be included in models' pretraining corpus. Across a range of leading closed- and open-source coding agents, we find substantial reproduction capability for some selected tools, though limited capability for a highly complex tool. We find moderate evidence consistent with memorisation, varying across coding agents. These results suggest that tool developers need to be increasingly cautious when releasing information about the tools publicly; re-creation of the tool based on such information could undermine a tool's commercial value or invalidate dual-use managed access strategies.",
+  "authors": [
+   "Shiv Muthupandiyan",
+   "Tolga H. Dur",
+   "Mac Walker",
+   "Timo Flesch",
+   "Mahmoud Ghanem",
+   "Steph Suddell",
+   "Giles Harper-Donnelly",
+   "Sophie Rose",
+   "Jasper Götting",
+   "Coleman Breen",
+   "Jake Pencharz"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.CY",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Shiv Muthupandiyan",
+  "pdf_url": "http://arxiv.org/pdf/2610.19810",
+  "primary_category": "cs.AI",
+  "published": "2026-10-14",
+  "tags": [
+   "protein-structure"
+  ],
+  "title": "ReproBAIT: Can coding agents build their own biological AI tools?",
+  "topics": [
+   "Large Language Models & Materials",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.19906": {
+  "abstract": "LLMs have achieved strong performance on chemical prediction benchmarks. However, existing evaluation methods typically provide target entity identity information directly, making it difficult to determine whether model predictions arise from transferable structure-property reasoning capabilities or rely on target-related contextual information or memory retrieval. We propose the Identity-Blinded Reasoning Diagnostic framework to evaluate chemical prediction models when target entity identity information is hidden. In this framework, the target is no longer directly defined by its entity identity, but instead by a known source entity and an explicit structural edit operation. This setting preserves the information required to determine the target while reducing the opportunity for models to access target identity cues. We evaluate this framework across six tasks spanning odor prediction, molecular property prediction, retrosynthesis, and reaction yield prediction. The results show that models generally achieve better prediction performance when source and target entity properties are consistent. Providing explicit source entity labels further strengthens this dependence. Moreover, while keeping the target entity, structural change, and ground-truth label unchanged, replacing only the source entity label causes some model predictions to systematically shift toward the substituted source labels. These results indicate that high benchmark accuracy in chemical prediction tasks does not necessarily imply that LLMs possess reliable structure-property reasoning capabilities. Our diagnostic framework provides a controlled evaluation approach for testing whether models can genuinely update predictions according to entity changes. The framework can be extended to other AI for Science tasks, particularly those where targets can be defined through transformations of known entities.",
+  "authors": [
+   "Yanyi Su",
+   "Yu Zeng",
+   "Hongshuai Wang",
+   "Chenyan Wang",
+   "Zhifeng Gao",
+   "Xiaohui Yang"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": "Under review at ICLR 2027",
+  "first_author": "Yanyi Su",
+  "pdf_url": "http://arxiv.org/pdf/2610.19906",
+  "primary_category": "cs.CL",
+  "published": "2026-10-14",
+  "tags": [
+   "property-prediction",
+   "retrosynthesis"
+  ],
+  "title": "Beyond Benchmark Accuracy: A Diagnostic Test for LLM Chemical Prediction",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.20779": {
+  "abstract": "Many-body perturbation theory (MBPT) methods, including the GW approximation, the GW plus Bethe-Salpeter equation (GW-BSE) method, and GW perturbation theory (GWPT), among others, provide accurate first-principles descriptions of excited-state properties and multiparticle interactions of materials. However, their use remains limited due to complex multi-software workflows, interdependent physical parameters, and substantial theoretical expertise. Large language model (LLM) agents, which couple a language model to software tools, show potential in automating computational tasks, but MBPT remains an unaddressed challenge. We show that LLM agents tested in our work, including frontier models such as Opus 4.7 and GPT-5.5, do not reliably construct MBPT workflows in one attempt, suggesting that correct setup requires expert knowledge and consistency that current models lack. Across tested model-harness combinations, out-of-the-box agents average 54%, 36%, and 19% on GW, GW-BSE, and GWPT workflow benchmarks, with strong model dependence and large run-to-run variation. Errors typically originate from cross-stage inconsistencies that surface only several stages after they are introduced. We therefore develop AI-Donkey, an agentic framework that combines expert-curated knowledge with deterministic execution to enable high-fidelity GW, GW-BSE, and GWPT calculations and analyses. With AI-Donkey, all tested agents, from frontier proprietary models to open-weight models, produce complete, runnable MBPT workflows with no observed run-to-run variation. We further demonstrate autonomous calculations and post-processing on 1D, 2D, and bulk materials, including the many-body enhancement of Fröhlich electron-phonon coupling in polar semiconductors. Our approach provides a general framework for knowledge engineering to enable reliable agentic workflows in computational materials science.",
+  "authors": [
+   "Benran Zhang",
+   "Byeongchan Lee",
+   "Zien Zhu",
+   "Chih-En Hsu",
+   "Zhenfa Zheng",
+   "Hung-Chung Hsueh",
+   "Young Woo Choi",
+   "Mauro Del Ben",
+   "Zhenglu Li"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Benran Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2610.20779",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-14",
+  "tags": [
+   "ab-initio",
+   "materials-science"
+  ],
+  "title": "Enabling large language model agents for high-fidelity many-body perturbation theory calculations",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.21015": {
+  "abstract": "Building reliable atomistic models is a critical and often challenging step in first-principles calculations. Although large language model agents can assist with structure generation, they lack direct capabilities for crystallographic operations and therefore struggle to construct complex structures reliably. Here we present MASON, an AI-native toolkit for atomistic structure construction that can be invoked by agents through the Model Context Protocol (MCP). In an end-to-end example, an agent builds a CO/Pt(111) adsorption model from a natural language request. By equipping agents with dedicated structure-building tools, MASON enables reliable and efficient atomistic model construction and provides a foundation for autonomous first-principles workflows.",
+  "authors": [
+   "Xinyue Zhang",
+   "Jixiang Li",
+   "Bin Shao",
+   "Baishun Yang",
+   "Zhiyang Liu",
+   "Weichao Wang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "19 pages, 10 figures",
+  "first_author": "Xinyue Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2610.21015",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-14",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "MASON: Materials Atomistic Structure builder Operated in Natural language",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.21050": {
+  "abstract": "Soft porous crystals can undergo guest-induced structural transitions producing unconventional adsorption isotherms, which are valuable for gas separation and storage applications. However, the evidence for these transitions is scattered across the literature in narrative form and has not been aggregated. Here we use a large language model pipeline to mine the literature for anomalous adsorption, extracting phase-transition events together with material, adsorbate, temperature and pressure metadata and classifying each into an established behavioural class. Benchmarked against human annotation, the extraction stage attains an F1 score of 0.96. When applied at scale, the pipeline yields a curated corpus of 547 transitions across 240 distinct materials, drawn from 200 of 4,252 screened publications, which we further link to crystallographic structures. Analysis of this database shows that the principal behavioural classes, gate-opening and breathing, are distinguished by their functional response. Gate-opening frameworks transform at a significantly lower pressure than breathing frameworks (p = 3.8E-3). In contrast, no difference in pore size, void fraction, linker chemistry or metal identity was detected between the classes. Our findings argue for a functional rather than purely structural description of responsive porous materials. They also highlight the need for a community database that records the guest, temperature and pressure of every reported transition of these materials.",
+  "authors": [
+   "Fengxu Yang",
+   "Matthew L. Schneider",
+   "Weitong Chen",
+   "Jack D. Evans"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "15 pages, 5 figures",
+  "first_author": "Fengxu Yang",
+  "pdf_url": "http://arxiv.org/pdf/2610.21050",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-15",
+  "tags": [],
+  "title": "Large Language Model-Assisted Systematic Study of Anomalous Adsorption Phenomena",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.21165": {
+  "abstract": "Long-context capability has become essential for large language models (LLMs) to handle complex tasks, yet continuously expanding the context window does not remove the computational, storage, and information-selection pressures incurred at inference time. Existing work on prompt compression, KV-cache management, efficient serving, retrieval augmentation, and agent memory is usually discussed in isolation, leaving the flow of information between storage and computation insufficiently understood. This survey reframes long-context compression as a memory-management problem for allocating inference-time resources. We distinguish compute-active memory, which directly participates in model computation, from compute-inactive memory, which lies outside the computation path but can be stored, retrieved, updated, or forgotten, and we characterize offloaded KV caches, persistent prefix caches, and precomputed KV states as intermediate states on the activation path. On this basis, we formulate writing, offloading, recall, retrieval-and-injection, materialization, eviction, consolidation, and forgetting as state transitions within an information lifecycle, and introduce a budgeted cost model that places these operations in a single cost account. The resulting framework unifies short-term context compression, long-term memory management, and the transitions between them, and shows that the central challenge is not merely reducing information volume but deciding which information should participate in costly inference, when, and in what form. We further summarize evaluation dimensions, benchmark gaps, and open challenges, and argue that future research should move from static, pointwise compression toward dynamic, governable, lifecycle-aware memory management.",
+  "authors": [
+   "Chaogui Gou"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": null,
+  "first_author": "Chaogui Gou",
+  "pdf_url": "http://arxiv.org/pdf/2610.21165",
+  "primary_category": "cs.CL",
+  "published": "2026-10-15",
+  "tags": [],
+  "title": "From Long Context to Selective Memory:A Survey of Memory-Centric Compression for Large Language Models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.21200": {
+  "abstract": "Protein foundation models increasingly support the generation of novel biological sequences, yet their reliance on large public datasets creates opportunities for adversarial manipulation of the material they learn from and retrieve. We investigate two data-only poisoning attacks against protein design systems, targeting the pre-training corpus of autoregressive protein language models and the retrieval corpus of a text-guided protein generator. For the first, we pre-trained ProtGPT2 and ProGen2 variants of 300 million parameters, introducing poisoned protein sequences containing one of two triggers followed by one of three payloads. Across all poisoned runs, both architectures acquired highly reliable trigger-dependent generation under uniform and ramped poisoning schedules. Under ramped exposure, the earliest majority activation occurred after only 200 contaminated examples, while for the uniform schedule earliest activation occurred around 5000 poisoned samples. For the second attack, we inserted records into a retrieval corpus system without modifying its weights or decoding procedure. A single query-aware record captured a top-16 retrieval position for 58\\% of templated requests and 97\\% of free-text requests. Conditional on successful poisoned retrieval, 62\\% of requests produced altered sequences, while 19-21% acquired the inserted domain by profile-HMM homology. A universal query-unaware attack using 1,500 records also achieved substantial retrieval capture and domain transfer. Together, these findings demonstrate that adversarial protein sequence contributions can establish persistent, sequence-specific behaviour during pre-training or redirect protein generation at inference, while leaving ordinary model behaviour largely preserved. Our work establishes the integrity and biological provenance of protein sequence data as critical safeguards for generative protein design systems.",
+  "authors": [
+   "Charalampos Koilakos",
+   "Kimon-Antonios Provatas",
+   "Michail Patsakis",
+   "Candace SY Chan",
+   "Georgios A. Pavlopoulos",
+   "Ilias Georgakopoulos-Soares"
+  ],
+  "categories": [
+   "cs.LG",
+   "q-bio.QM"
+  ],
+  "comment": "double page format, 6 figures",
+  "first_author": "Charalampos Koilakos",
+  "pdf_url": "http://arxiv.org/pdf/2610.21200",
+  "primary_category": "cs.LG",
+  "published": "2026-10-15",
+  "tags": [
+   "protein-llm",
+   "protein-structure"
+  ],
+  "title": "Poisoning the corpora of protein design systems during pre-training and retrieval",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.21274": {
+  "abstract": "Time-series data generated continuously across industrial, environmental, and especially health domains produce multimodal signals whose scale and heterogeneity make their processing and interpretation particularly challenging. Time-Series Language Models (TSLMs) promise scalable interpretation of these signals, yet remain bottlenecked by a fundamental lack of text-annotated time series pairs that are signal-grounded, reproducible, and extensible across modalities and schemas. Existing paired corpora are either closed or limited in scale and modality coverage. Annotation with large language models could scale them up, but its outputs cannot be regenerated exactly, which prevents others from re-deriving, extending, or auditing the resulting corpus. To address this, we release TimeCap, an open deterministic captioning pipeline with three reusable extractor tiers and a cross-channel synthesis layer that operates directly on the signal with no language model in the loop, extensible to new schemas by writing channel definitions alone. This positions TimeCap as a reproducible mechanism for future dataset generation rather than a one-off release. Applying TimeCap to OpenMHC, the MyHeart Counts wearable dataset, yields MHCap, the largest open caption layer for multimodal wearable time-series data. MHCap spans 19 Apple HealthKit channels and 7,005,763 captions over 908,944 person-days. To showcase the impact of the corpus, we train OpenTSLM, a time-series language model, on MHCap and benchmark on health-outcome prediction. Caption-augmented training (OpenTSLM-Cap) outperforms a label-only baseline on 29 of 32 per-user binary evaluations across 8 tasks.",
+  "authors": [
+   "Max Rosenblattl",
+   "Milana Gurbanova",
+   "Karl Aurel Deck",
+   "Narayan Schuetz",
+   "Thomas Kaar",
+   "Manuel Milling",
+   "Nicolas Zumarraga",
+   "Ning Wang",
+   "Kelly W. Zhang",
+   "Anders Johnson",
+   "Robert Jakob",
+   "Björn W. Schuller",
+   "Elgar Fleisch",
+   "Daniel Seung Kim",
+   "Allan Lawrie",
+   "Patrick Langer",
+   "Maxwell A. Xu",
+   "Euan Ashley",
+   "Paul Schmiedmayer"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CL"
+  ],
+  "comment": "46 pages, 27 figures, including supplementary material. Code: https://github.com/SchmiedmayerLab/TimeCAP",
+  "first_author": "Max Rosenblattl",
+  "pdf_url": "http://arxiv.org/pdf/2610.21274",
+  "primary_category": "cs.LG",
+  "published": "2026-10-15",
+  "tags": [],
+  "title": "TimeCap: A Scalable Open-Source Pipeline for Captioning Wearable Health Time-Series Data",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.21483": {
+  "abstract": "Large language models can produce fluent answers that the supplied context does not support. A compact frozen proxy model can detect such answers by reading the context and another model's response, even from a proprietary generator. Attention-based detectors use summary statistics of the proxy's attention weights, but standard pipelines materialize the attention matrix, whose memory grows quadratically with sequence length. We compute these statistics without materializing attention, by accumulation in the FlashAttention pass, sparse lookups after it, or a second tiled pass over the scores, and classify them by this path into nearly free and costlier ones. On an H100, the statistics of five published detectors add 16% to the latency of a Qwen3-8B forward at 2K tokens, falling to 1.4% at 35K, and store 22.5 KiB per response token. On three benchmarks, probes trained on frozen Qwen3 proxies of 0.6B to 8B parameters prove strong detectors: a 4B proxy outperforms the strongest of nine zero-shot 4-9B LLM judges in F1 on two of the three, the proxies match or outperform specialized grounding checkers of up to 7B parameters, probing each proxy beats prompting it as a judge, and adding attention features significantly improves F1 in half of the 12 benchmark-proxy pairs, never significantly lowering it.",
+  "authors": [
+   "Andrei Volodichev",
+   "Maksim Savichev",
+   "Nikita Sviridov",
+   "Artem Yuliy",
+   "Dmitry Simakov",
+   "Alexey Zaytsev"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Andrei Volodichev",
+  "pdf_url": "http://arxiv.org/pdf/2610.21483",
+  "primary_category": "cs.AI",
+  "published": "2026-10-15",
+  "tags": [],
+  "title": "FlashAttention with Statistics: Low-Overhead Attention Features for Compact Hallucination Detectors",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.21703": {
+  "abstract": "Contrast-enhanced magnetic resonance imaging (CE-MRI) is crucial for accurately diagnosing and segmenting brain tumors. However, the acquisition of CE-MRI requires injecting contrast agents, which poses potential health risks and increases scan costs. Here, we propose a CE-MRI synthesis method from non-contrast sequences, reducing both risk and cost. Unlike existing methods that rely on channel-wise concatenation to fuse multi-sequence information for synthesis, we introduce a Mixture of Feature Difference (MoFD) module. The proposed module uses a dynamic weighting strategy to adaptively select and aggregate informative features from both individual source sequences and explicit differences among them. Quantitative and qualitative evaluations demonstrate that our proposed method outperforms baselines in terms of image fidelity and perceptual quality on the UCSF-PDGM and UPenn-GBM datasets. Our method successfully reconstructs tumor regions and achieves segmentation performance comparable to that obtained with real CE-MRI. Our ablation studies show that although adversarial learning improves perceptual quality, a regression-based variant of our method achieves higher structural fidelity.",
+  "authors": [
+   "Jonghun Kim",
+   "Junmo Kwon",
+   "Hyunjin Park"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "ACCV 2026",
+  "first_author": "Jonghun Kim",
+  "pdf_url": "http://arxiv.org/pdf/2610.21703",
+  "primary_category": "cs.CV",
+  "published": "2026-10-15",
+  "tags": [],
+  "title": "Mixture of Multi-Sequence Feature Difference for Contrast-Enhanced MRI Synthesis",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.21755": {
+  "abstract": "Large Language Model agents operate through closed-loop action policies whose decision space is defined by an agent harness. We investigate how this operating space shapes agent behavior and policy learning in computer-aided design (CAD), a professional domain characterized by persistent state, geometric constraints, and long-horizon procedures. We instantiate this perspective in DeciCAD, a domain-native harness that exposes semantic CAD actions, decision-oriented observations, environment feedback, and persistent state transitions. Building on this harness, we develop a learning pipeline that extracts causal decision supervision from interaction trajectories and improves the policy through supervised fine-tuning (SFT) and geometry-grounded online reinforcement learning (RL). Across four CAD benchmarks, DeciCAD achieves the best F1 and intersection over union (IoU) while reducing model-output tokens by 45--88% relative to a general-purpose coding harness. Under matched supervision, its SFT policy improves F1 from 0.6883 to 0.7437 and outperforms the coding policy; subsequent online RL further raises geometry availability from 66.5% to 73.5% and F1 to 0.7880. These results demonstrate that the decision space induced by a harness materially affects both agent execution and policy learning in CAD.",
+  "authors": [
+   "Yufeng Peng",
+   "Yixin Zhang",
+   "Ziyi Liu",
+   "Zhikun Xu",
+   "Jiarong Yang",
+   "Sijie Wang",
+   "Wenjie Feng",
+   "Qiyu Kang"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.CL",
+   "cs.LG",
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Yufeng Peng",
+  "pdf_url": "http://arxiv.org/pdf/2610.21755",
+  "primary_category": "cs.AI",
+  "published": "2026-10-15",
+  "tags": [
+   "reinforcement-learning"
+  ],
+  "title": "DeciCAD: Harness-Grounded Learning of Action Policies for CAD Agents",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.22004": {
+  "abstract": "Realistic non-Gaussian operations, which can be implemented by mixing a nonclassical Gaussian state with a Fock state at a beam splitter and then heralding on a photon-number-resolving detector, are known to improve phase estimation in a Mach-Zehnder interferometer. The existing studies have considered the single-mode squeezed vacuum for difference-intensity and parity detection, and the two-mode squeezed thermal state for parity detection alone as the initial Gaussian resources. However, a real squeezer in the lab actually produces single-mode squeezed thermal light, which has not been studied in a coherent-plus-resource interferometer. We take up this case and using the phase space Wigner picture, we obtain the heralded state produced by photon subtraction, addition and catalysis on a single-mode squeezed thermal resource, and evaluate the corresponding phase sensitivities. Single-photon catalysis, which is useless on squeezed vacuum, becomes a useful operation for any thermal occupation above $\\nth\\simeq0.2$, and since it heralds with a probability near one-half, it turns out to be the best success-weighted operation over the whole thermal range. In the vacuum limit our results reproduce the known hierarchy, where two-photon catalysis is the best operation. The quantum Fisher information computations confirms that thermal noise enhances the phase information encoded in the catalyzed state, demonstrating that difference-intensity detection closely approaches the ultimate precision bound across most operational regimes, and, together with a loss analysis, verifies the robustness of the effect.",
+  "authors": [
+   "Kirtpreet Singh",
+   " Arvind"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Kirtpreet Singh",
+  "pdf_url": "http://arxiv.org/pdf/2610.22004",
+  "primary_category": "quant-ph",
+  "published": "2026-10-15",
+  "tags": [
+   "catalysis"
+  ],
+  "title": "Thermal activation of photon catalysis in difference-intensity Mach-Zehnder interferometry with squeezed thermal light",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.22062": {
+  "abstract": "Objective: Trofinetide, approved in 2023 as the first Rett syndrome treatment, lacks scalable real-world monitoring because chart review is labor-intensive. We developed a dual large language model (LLM) consensus pipeline to extract 18 treatment-response phenotypes, comprising 4 adverse effects, 13 Rett clinical features, and medication refusal, from clinical notes. Materials and Methods: We analyzed 26,763 notes from 108 patients with confirmed sustained trofinetide exposure at Texas Children's Hospital. The pipeline filters notes by keyword, classifies each through two LLMs requiring consensus, and aggregates a patient-by-timepoint matrix. Architecture and prompt were selected on a diarrhea development set, then frozen and applied to the other 17 phenotypes with the phenotype definition substituted, as an out-of-sample test. The reported prompt comparison scores 183 expert-labeled cells. Results: A prompt requiring diarrhea to be active and severe performed best (84.2 $\\pm$ 0.0% accuracy; F1 = 0.674), 47 percentage points above regular-expression matching ($p < 0.0001$). Expert reviewers judged six of the pipeline's calls per phenotype, three positive and three negative, and agreed with 90.2% (92/102). The 13 Rett clinical features are manifestations of the disorder itself rather than adverse effects of trofinetide. Gross and fine motor impairment, language/communication, and stereotypy were documented present in 92-100% of patients at every visit. Discussion: In-context LLM extraction captured multi-domain treatment responses. The outcome is documented presence at each visit, not a direction-of-change judgment. Conclusion: Coupling in-context LLM reasoning with a consensus architecture offers a scalable alternative to keyword and regular-expression extraction for real-world evidence, adapting to new phenotypes and medications through configuration alone.",
+  "authors": [
+   "Daniel Palacios",
+   "Guantong Qi",
+   "Mikael Guzman Karlsson",
+   "Shawntel K. David",
+   "Mohammed Sameeruddin",
+   "Bernhard Suter",
+   "Zhandong Liu",
+   "Davut Pehlivan",
+   "Hu Chen"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "cs.CL"
+  ],
+  "comment": "20 pages, 3 figures, 4 tables; supplementary material (22 pages, 1 figure, 11 tables) included",
+  "first_author": "Daniel Palacios",
+  "pdf_url": "http://arxiv.org/pdf/2610.22062",
+  "primary_category": "q-bio.QM",
+  "published": "2026-10-15",
+  "tags": [],
+  "title": "Documenting Trofinetide Treatment Phenotypes in Rett Syndrome with a Dual-LLM Consensus Pipeline",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.22130": {
+  "abstract": "Key-value (KV) cache management has become a critical bottleneck for scaling Large Language Models (LLMs) to long-context scenarios due to linear memory growth. While recent eviction methods have moved beyond simple attention-score heuristics to incorporate value representations, they typically face a fundamental trade-off: the underlying optimization for minimizing output perturbation is an NP-hard combinatorial problem, leading to mathematically suboptimal heuristics or implementations that are difficult to kernelize. In this work, we propose DropKV, a simple principled eviction framework based on Decoupled Residual-Output Perturbation. By decoupling the joint eviction decision into independent per-token scoring, DropKV circumvents combinatorial intractability and admits a provable constant-factor approximation guarantee under a cone condition that we empirically verify on three long-context LLMs. To ensure practical viability, we provide a high-performance implementation using fused Triton kernels that avoid materializing the full attention matrix, delivering a 19.8x scoring-kernel speedup that translates to up to a 9.9% matched-batch end-to-end prefill speedup. Extensive evaluations on the RULER and LongBench benchmarks demonstrate that DropKV consistently outperforms state-of-the-art baselines at equivalent cache budgets, achieving the lowest inference latency among eviction methods while also remaining faster than the dynamic cache baseline.",
+  "authors": [
+   "Aozhong Zhang",
+   "Selcuk Gurses",
+   "Yanxia Deng",
+   "Naigang Wang",
+   "Chi-Chun Liu",
+   "Davis Wertheimer",
+   "Derrick Liu",
+   "Xin Li",
+   "Zi Yang",
+   "Felix X. -F. Ye",
+   "Penghang Yin"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "Accepted by NeurIPS 2026",
+  "first_author": "Aozhong Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2610.22130",
+  "primary_category": "cs.AI",
+  "published": "2026-10-15",
+  "tags": [],
+  "title": "DropKV: Decoupling Residual-Output Perturbation for Near-Optimal KV-Cache Eviction",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.22163": {
+  "abstract": "Large language models (LLMs) are increasingly being adopted as teaching tools in computing education, particularly for developing AI tutors capable of answering student questions. With the rise in enrollment of international students in computing programs, researchers have begun to explore the difficulties that non-native English speaker (NNES) students face in computing courses due to language barriers. To aid such students, we developed a general-purpose AI tutor system that can process student questions in foreign languages (currently focused on Mandarin) and provide bilingual responses. Our system also incorporates the functionality of generating a glossary of technical terms and their explanations to enhance comprehension. Our approach utilizes a specialized Retrieval-Augmented Generation (RAG) pipeline with a novel question extraction mechanism, enabling us to effectively utilize a diverse array of course materials for answering student queries. We evaluated our AI tutor using 91 Piazza posts, demonstrating that it could answer 83.52% of the posts correctly and in a helpful manner. The tutor also provided high-quality translations for 76.92% of the questions and generated technical term glossaries for 64.47% of them. Our findings underscore the potential of multi-source RAG pipeline in enhancing AI tutor systems, offering support for non-native speakers that are challenging to provide with traditional supporting staff of a computing course.",
+  "authors": [
+   "Yiyin Shen",
+   "Xinyi Ai",
+   "Weibing Wang",
+   "Rogers Jeffrey Leo John",
+   "Meenakshi Syamkumar"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Yiyin Shen",
+  "pdf_url": "http://arxiv.org/pdf/2610.22163",
+  "primary_category": "cs.AI",
+  "published": "2026-10-15",
+  "tags": [],
+  "title": "Multi-sourced AI Tutor for Non-Native English Speaker Students",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.22367": {
+  "abstract": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource costs are associated with a small set of computational primitives, optimizing them in the quantum setting presents unique challenges, including a reversibility constraint absent from ordinary classical computation. Here we introduce an evolutionary framework in which large language models (LLMs) propose circuit designs and an independent evaluator verifies and scores them. We apply this framework to tasks spanning numerical computation, chemistry, optimization, quantum simulation, and number theory. In seven of the eight tasks, the discovered circuits significantly reduce both Toffoli and qubit counts relative to the state of the art. In the eighth, the search discovers a new reversible architecture for prime-field modular inversion. By handling reversibility differently, the architecture makes divsteps -- a classical algorithm previously impractical for reversible integer arithmetic -- viable and substantially improves the Toffoli-qubit trade-off for modular inversion. These results open the door for evaluator-guided LLM co-design of new algorithmic structures for quantum computation.",
+  "authors": [
+   "Andi Gu",
+   "Alek H. Kemeny",
+   "Susanne F. Yelin",
+   "Mikhail D. Lukin"
+  ],
+  "categories": [
+   "quant-ph",
+   "cs.AI"
+  ],
+  "comment": "46 pages, 10 figures, 6 tables",
+  "first_author": "Andi Gu",
+  "pdf_url": "http://arxiv.org/pdf/2610.22367",
+  "primary_category": "quant-ph",
+  "published": "2026-10-15",
+  "tags": [],
+  "title": "Discovering state-of-the-art quantum circuits with large language models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-15"
  }
 }

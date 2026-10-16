@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>thermal-properties — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <strong>30d</strong> <a href="thermal-properties-90d.html">90d</a> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,17 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19833.html">The Roadmap of Inorganic Computational Materials Databases: Capabilities, Credibility, Coverage, and the Open Frontier</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Miao Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19833">2609.19833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16783.html">Room-temperature 1/3 suppression of diffusive shot noise</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Henri Vo Van Qui et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16783">2609.16783</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17270.html">Higher order anharmonicity and polymorphism in the lattice thermal conductivity of transition metal dichalcogenides</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="phase-transition-30d.html">phase-transition</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>Marta Loletti et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17270">2609.17270</a></td>
 </tr>
 </tbody></table>

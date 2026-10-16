@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19499.html">Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech</a></div></td>
+<td>Wanli Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19499">2610.19499</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17109.html">Masked Diffusion for Travel Diaries Synthesis</a></div></td>
+<td>Pascal Jutras-Dubé et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17109">2610.17109</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Shivang Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13187.html">Destination-Conditioned Adaptation with Semantic-Geometric Alignment for Generative Inbetweening</a></div></td>
@@ -236,29 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19487.html">ALIGNN 2.0: A Unified Line-Graph Neural Network Framework for Materials Screening, Force Fields, Inverse Design, Spectroscopy, and Microscopy</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="gnn-30d.html">gnn</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Jaehyung Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2609.19487">2609.19487</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16527.html">QALPA: Property-guided diffusion modeling for efficient exploration of chemical spaces of flexible molecules</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="chemical-space-30d.html">chemical-space</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
-<td>Michael Hanna et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16527">2609.16527</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16941.html">Optimal Scaling of Langevin Proposals with Generalized Acceptance Rules</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Ritik Soni et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16941">2609.16941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17169.html">MUMINS: Metadata-conditioned Uncertainty-aware Medical Image Next-state Synthesis</a></div></td>
-<td>Anna Oliveras et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17169">2609.17169</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17823.html">METALICA: METAdynamics and repLICA exchange for enhanced diffusion sampling</a></div><div class="paper-tags"><a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="metadynamics-30d.html">metadynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="replica-exchange-30d.html">replica-exchange</a></div></td>
-<td>Alireza Omidi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17823">2609.17823</a></td>
 </tr>
 </tbody></table>

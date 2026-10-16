@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19404.html">ActMOF: Mapping Reticular Synthesis through Active Learning</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="mof-30d.html">mof</a></div></td>
+<td>Hongrui Sheng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19404">2610.19404</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01827.html">Scientific Discovery under Validation Congestion via Multi-Fidelity Pairwise Rankings</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="drug-discovery-30d.html">drug-discovery</a></div></td>
 <td>Kevin Tirta Wijaya et al.</td>
@@ -32,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22411.html">AutoRASOR: Autonomous Rapid Scanning Electron Microscope Operator</a></div></td>
 <td>Kevin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.22411">2609.22411</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16527.html">QALPA: Property-guided diffusion modeling for efficient exploration of chemical spaces of flexible molecules</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
-<td>Michael Hanna et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16527">2609.16527</a></td>
 </tr>
 </tbody></table>

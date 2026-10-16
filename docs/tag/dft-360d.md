@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2020 papers</span>
+  <span class="paper-count">2014 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19630.html">Risk-Controlled DFT Selection for Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Kun Ryu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19630">2610.19630</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16091.html">Vibrational Fingerprints of Competing Structural and Polar Phases in CuInP2S6</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Pegah Mohammadi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16091">2610.16091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17352.html">Can Universal Machine-Learning Interatomic Potentials Capture Small Polarons? A Geometry-Based Benchmark in Transition-Metal Oxides</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Vladislav Korostelev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17352">2610.17352</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Shivang Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12896.html">All-electron RT-TDDFT with Exact Exchange based on Numeric Atom-centered Orbitals for Condensed Matter</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
@@ -12074,65 +12098,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19088.html">Predicting Spectroscopic Properties of Solvated Nile Red with Automated Workflows for Machine Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Jacob Eller et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19088">2510.19088</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00526.html">Correlation-induced phase shifts and time delays in resonance enhanced high harmonic generation from Cr+</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Yoad Aharon et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00526">2507.00526</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18038.html">Tuning Magnetic and Electronic Properties of Double Perovskite La$_2$CoIr$_{1-x}$Ti$_x$O$_6$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Sromona Nandi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18038">2509.18038</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17190.html">Dissociative Mechanism from NH3 and CH4 on Ni-Doped Graphene: Tuning Electronic and Optical Properties</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="catalysis-360d.html">catalysis</a></div></td>
-<td>A. Aligayev et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17190">2510.17190</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17336.html">Chemically tailored planar defect phases in the Ta-Fe μ-phase</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Christina Gasper et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17336">2510.17336</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17356.html">A Computational Study for Screening High-Selectivity Inhibitors in Area-Selective Atomic Layer Deposition on Amorphous Surfaces</a></div></td>
-<td>Gijin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17356">2510.17356</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17464.html">Hybridization in van der Waals epitaxy of PtSe2/h-BN and PtSe2/graphene heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Meryem Bouaziz et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17464">2510.17464</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17606.html">Sub-unit cell engineering of CrVO$_3$ superlattice thin films</a></div></td>
-<td>Claudio Bellani et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17606">2510.17606</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17755.html">Mott vs Kondo: Influence of Various Density Functional Based Methods on the Ce Isostructural Phase Transition Mechanism</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Brenden W. Hamilton et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17755">2510.17755</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18061.html">Oxidation State Dynamics and Emerging Patterns in Magnetite</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Emre Gürsoy et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18061">2510.18061</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18078.html">First-Principles Investigation of the Physical and Thermoelectric Properties of Chalcogenide Compounds for Waste-Heat Recovery</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Md Hasan Shahriar Rifat et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18078">2510.18078</a></td>
 </tr>
 </tbody></table>

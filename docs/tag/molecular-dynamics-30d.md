@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">128 papers</span>
+  <span class="paper-count">117 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13714.html">Dislocation mediated twin boundary faceting in $β$-Sn</a></div></td>
 <td>John Israel et al.</td>
 <td><a href="http://arxiv.org/abs/2610.13714">2610.13714</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14234.html">UGME: A python package for non-Markovian protein folding dynamics</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Anthony J. Dominic et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14234">2610.14234</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-08</td>
@@ -710,77 +716,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22341.html">NTBuilder: Commensurate Construction of Nanotubes from Arbitrary Two-Dimensional Crystals and a Catalog of 20 Million Structures</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a></div></td>
 <td>Marcelo Lopes Pereira Junior</td>
 <td><a href="http://arxiv.org/abs/2609.22341">2609.22341</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12401.html">Optimization of ReaxFF parameters for the $\mathrm{Mo-S}$ system using random optimization and coordinate search</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Arun Ravichandran et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12401">2609.12401</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12767.html">Crack propagation threshold in single-crystal silicon: a cleavage plane-crackons model</a></div></td>
-<td>Faming Gao</td>
-<td><a href="http://arxiv.org/abs/2609.12767">2609.12767</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16570.html">Origin and Reduction of Coercive Fields in ZnO-based Wurtzite Ferroelectrics</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Abhijeet Dhakane et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16570">2609.16570</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16749.html">Electric-Field-Switchable Altermagnetism via Ligand Rotation in a d0 Metal-Organic Framework</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mof-30d.html">mof</a></div></td>
-<td>Hongjing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16749">2609.16749</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16783.html">Room-temperature 1/3 suppression of diffusive shot noise</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Henri Vo Van Qui et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16783">2609.16783</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16941.html">Optimal Scaling of Langevin Proposals with Generalized Acceptance Rules</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Ritik Soni et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16941">2609.16941</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17514.html">Molecular Decomposition of the Area Compressibility Modulus of Lipid Membranes</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Konstantin V. Pinigin</td>
-<td><a href="http://arxiv.org/abs/2609.17514">2609.17514</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17707.html">Conditions for the Emergence of Spontaneous Phonon Frequency Combs from Anharmonic Potentials</a></div><div class="paper-tags"><a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Jayakrishnan SS et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17707">2609.17707</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17736.html">Machine learning kinetics from molecular dynamics data</a></div><div class="paper-tags"><a href="reinforcement-learning-30d.html">reinforcement-learning</a> · <a href="string-method-30d.html">string-method</a></div></td>
-<td>Jonathan Weare et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17736">2609.17736</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17791.html">Electric field effects on electrolytes near rough dielectric surfaces by GPU-accelerated code</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a></div></td>
-<td>Isaac Smith et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17791">2609.17791</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17901.html">Walking the Score Manifold: Continuous-time Generative Dynamics on Learned Data Manifolds</a></div></td>
-<td>Jan Tauberschmidt et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17901">2609.17901</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19192.html">Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Djardiel S. Gomes et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19192">2609.19192</a></td>
 </tr>
 </tbody></table>

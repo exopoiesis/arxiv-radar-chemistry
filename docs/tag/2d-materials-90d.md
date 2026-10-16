@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>2d-materials — 90d</h1>
-  <span class="paper-count">110 papers</span>
+  <span class="paper-count">107 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <strong>90d</strong> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19582.html">Magnetic proximity beyond the interface: Layer-sequence-dependent exchange in WSe$_2$/CrI$_3$ heterostructures</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="tmd-90d.html">tmd</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>Natalie Kuhn et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19582">2610.19582</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12996.html">Real-Time Relaxation Dynamics of Dark Excitons in Mirror-Symmetric Monolayers</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
@@ -650,29 +656,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16783.html">Lattice initialisation and finite-size effects of non-equilibrium molecular dynamics simulations for heat transfer across graphene-copper interfaces</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>L. A. van Goor et al.</td>
 <td><a href="http://arxiv.org/abs/2607.16783">2607.16783</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15611.html">Topology and compact molecular orbitals in twisted bilayer WSe$_2$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Chenyuan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15611">2607.15611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15728.html">Interface-Engineered Giant Multistate Resistance Switching in Altermagnetic CrSb Multiferroic Tunnel Junctions</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Zhi Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15728">2607.15728</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16454.html">Valley polarization, Rashba interaction, and weak altermagnetism in inversion-asymmetric MnPS$_\text{3}|$WS$_\text{2}$ van der Waals heterostructures</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Purba Dutta et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16454">2607.16454</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16483.html">Bond reconstruction and vacancy clustering in monolayer silicon carbide from first principles</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Péter Udvarhelyi</td>
-<td><a href="http://arxiv.org/abs/2607.16483">2607.16483</a></td>
 </tr>
 </tbody></table>

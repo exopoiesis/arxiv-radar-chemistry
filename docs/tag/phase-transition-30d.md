@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16091.html">Vibrational Fingerprints of Competing Structural and Polar Phases in CuInP2S6</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
+<td>Pegah Mohammadi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16091">2610.16091</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05624.html">Onset of Melting in Finite Ion Crystals: The Role of Structural Isomerization</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Boris V. Pashinsky et al.</td>
@@ -56,11 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20376.html">Pressure-induced electronic and structural evolution of EuIrGe3</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>N. S. Dhami et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20376">2609.20376</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17270.html">Higher order anharmonicity and polymorphism in the lattice thermal conductivity of transition metal dichalcogenides</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="thermal-properties-30d.html">thermal-properties</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>Marta Loletti et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17270">2609.17270</a></td>
 </tr>
 </tbody></table>

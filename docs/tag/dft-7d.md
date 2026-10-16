@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19630.html">Risk-Controlled DFT Selection for Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Kun Ryu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19630">2610.19630</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16091.html">Vibrational Fingerprints of Competing Structural and Polar Phases in CuInP2S6</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="phase-transition-7d.html">phase-transition</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
+<td>Pegah Mohammadi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16091">2610.16091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17352.html">Can Universal Machine-Learning Interatomic Potentials Capture Small Polarons? A Geometry-Based Benchmark in Transition-Metal Oxides</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Vladislav Korostelev et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17352">2610.17352</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="diffusion-model-7d.html">diffusion-model</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="materials-discovery-7d.html">materials-discovery</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Shivang Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12896.html">All-electron RT-TDDFT with Exact Exchange based on Numeric Atom-centered Orbitals for Condensed Matter</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
@@ -62,41 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13902.html">Accuracy of Vibrational Properties of Machine-Learning Force Fields for Molecular Crystal Transformations</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
 <td>Natalia Goncharova et al.</td>
 <td><a href="http://arxiv.org/abs/2610.13902">2610.13902</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11212.html">Light-induced interlayer spacing dynamics via orbital phonon coupling</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a> · <a href="tmd-7d.html">tmd</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Wenwen Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11212">2610.11212</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11562.html">Multipolar fluctuations in localized $4f^2$-electron systems from dynamical mean-field theory: application to $\mathrm{PrCdNi}_4$</a></div></td>
-<td>Koki Numa et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11562">2610.11562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12132.html">A structure-preserving neural density functional for the ions of a polymer electrolyte</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Liyao Lyu</td>
-<td><a href="http://arxiv.org/abs/2610.12132">2610.12132</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12749.html">Corrugated Niobene: Stability, Mechanical and Electronic Properties from First-Principles Calculations</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="catalysis-7d.html">catalysis</a></div></td>
-<td>Willian O. Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12749">2610.12749</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12771.html">Dynamic Chemical Changes of Ti3C2Tx MXenes in Halide Perovskite Precursor Environments</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="crystal-structure-7d.html">crystal-structure</a></div></td>
-<td>Kirill Sobolev et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12771">2610.12771</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12799.html">Drude, Where&#x27;s My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Artur Lyssenko et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12799">2610.12799</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>materials-discovery — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,15 +16,27 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11331.html">Data-Driven Variable-Exponent Analysis for Photoemission Yield Spectroscopy: An Autonomous Self-Diagnosing Framework Based on Integrated Residual Metrics</a></div></td>
-<td>Shinjiro Yagyu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11331">2610.11331</a></td>
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19630.html">Risk-Controlled DFT Selection for Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Kun Ryu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19630">2610.19630</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12739.html">Predictive Synthesis of MOFs and COFs</a></div><div class="paper-tags"><a href="mof-7d.html">mof</a></div></td>
-<td>Bin Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12739">2610.12739</a></td>
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17804.html">Learning from fracture: Teaching language models to design through physical experience</a></div></td>
+<td>Bo Ni</td>
+<td><a href="http://arxiv.org/abs/2610.17804">2610.17804</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15603.html">CondMSP: Condition-Informed and Resource-Aware Inorganic Materials Synthesis Planning</a></div><div class="paper-tags"><a href="retrosynthesis-7d.html">retrosynthesis</a></div></td>
+<td>Heewoong Noh et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15603">2610.15603</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="diffusion-model-7d.html">diffusion-model</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Shivang Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17164.html">Learning Perceptual Geometry of Natural Odor Mixtures from LLM-Derived Descriptors</a></div></td>
+<td>Farhad Pashakhanloo et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17164">2610.17164</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13037.html">Quantum-Circuit Residuals for Receptor Functional Potency Prediction: Predictive Gains and Quadratic Structure</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Chenyan Jia et al.</td>
@@ -938,11 +944,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19484.html">KnowMol: Advancing Molecular Large Language Models with Multi-Level Chemical Knowledge</a></div></td>
 <td>Zaifei Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19484">2510.19484</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13174.html">GeoRecon: Graph-Level Representation Learning for 3D Molecules via Reconstruction-Based Pretraining</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Shaoheng Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13174">2506.13174</a></td>
 </tr>
 </tbody></table>

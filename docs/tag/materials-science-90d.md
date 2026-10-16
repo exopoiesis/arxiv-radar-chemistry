@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20779.html">Enabling large language model agents for high-fidelity many-body perturbation theory calculations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Benran Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20779">2610.20779</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11454.html">Zatom-2: Multitask Pretraining on Atomistic Data for Generative Modeling across Domains</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Miruna Cretu et al.</td>
@@ -278,11 +284,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19318.html">SoK: Adversarial Robustness of the Variational Quantum Eigensolver via Red-Teaming</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Ahmed Azaz Humdoon et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19318">2607.19318</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15535.html">Symbolic Predicate-Guided Language Agents for Inverse Design of Perovskite Oxides</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Dong Hyeon Mok et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15535">2607.15535</a></td>
 </tr>
 </tbody></table>

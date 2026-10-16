@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19404.html">ActMOF: Mapping Reticular Synthesis through Active Learning</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="mof-90d.html">mof</a></div></td>
+<td>Hongrui Sheng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19404">2610.19404</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01827.html">Scientific Discovery under Validation Congestion via Multi-Fidelity Pairwise Rankings</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Kevin Tirta Wijaya et al.</td>
@@ -92,11 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01162.html">From oligomers to entangled polymers: How to train a transferable machine learning interatomic potential</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Mirko Fischer et al.</td>
 <td><a href="http://arxiv.org/abs/2608.01162">2608.01162</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16486.html">Instability-Avoiding Active Learning for Cluster Expansions in Complex Multielement Materials</a></div><div class="paper-tags"><a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Michael J. Waters et al.</td>
-<td><a href="http://arxiv.org/abs/2607.16486">2607.16486</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>retrosynthesis — 360d</h1>
-  <span class="paper-count">86 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <a href="retrosynthesis-30d.html">30d</a> <a href="retrosynthesis-90d.html">90d</a> <strong>360d</strong> <a href="retrosynthesis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19906.html">Beyond Benchmark Accuracy: A Diagnostic Test for LLM Chemical Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Yanyi Su et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19906">2610.19906</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16391.html">RetroPlanner: Multi-Route Expansion and Multi-Objective Reasoning for LLM-Based Retrosynthesis Planning</a></div></td>
+<td>Ye Rin Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16391">2610.16391</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15603.html">CondMSP: Condition-Informed and Resource-Aware Inorganic Materials Synthesis Planning</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Heewoong Noh et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15603">2610.15603</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15141.html">Single-step Retrosynthesis via Reinforcement Learning from Forward Feedback</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Zixun Lan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15141">2610.15141</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13639.html">RetroTAC: Learning Route-Derived Synthetic Accessibility for PROTACs</a></div></td>

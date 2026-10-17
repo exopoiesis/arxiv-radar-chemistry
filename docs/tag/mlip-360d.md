@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">570 papers</span>
+  <span class="paper-count">569 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,6 +38,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13902.html">Accuracy of Vibrational Properties of Machine-Learning Force Fields for Molecular Crystal Transformations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Natalia Goncharova et al.</td>
 <td><a href="http://arxiv.org/abs/2610.13902">2610.13902</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14239.html">Benchmarking machine-learning interatomic potentials using classical force fields</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
+<td>Johannes Sandberg et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14239">2610.14239</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-08</td>
@@ -3422,17 +3428,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19774.html">How Accurate Are DFT Forces? Unexpectedly Large Uncertainties in Molecular Datasets</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Domantas Kuryla et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19774">2510.19774</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18911.html">Prospects for Using Artificial Intelligence to Understand Intrinsic Kinetics of Heterogeneous Catalytic Reactions</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Andrew J. Medford et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18911">2510.18911</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19088.html">Predicting Spectroscopic Properties of Solvated Nile Red with Automated Workflows for Machine Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Jacob Eller et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19088">2510.19088</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">412 papers</span>
+  <span class="paper-count">408 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2462,29 +2462,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01827.html">An Accurate and Efficient Machine-Learned Potential for SiC from Ambient to Extreme Environments</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Jintong Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01827">2510.01827</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18275.html">Spin gaps in Transition Metal Dichalcogenide Nanoribbons with atomic Adsorbates</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Joshua O. Aggrey et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18275">2510.18275</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18426.html">Ideal Nodal-Sphere Semimetal in the Three-Dimensional Boron Allotrope CT-B$_{24}$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Xiao-jing Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18426">2510.18426</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18609.html">First-Principles Investigation of Sr2PrSbO6 Double Perovskite: An Emerging Aspirant for Electrocatalysis, Plasmonic, Photonics, Thermoelectric and Solar Cell Applications</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Md. Mohiuddin et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18609">2510.18609</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18754.html">Interplay of Magnetism, Band Gap Tuning, Optical, and Thermoelectric Responses in Fe-Doped YMnO$_3$: Insights from First-Principles Calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Kazi Mazba Kamal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18754">2510.18754</a></td>
 </tr>
 </tbody></table>

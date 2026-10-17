@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>magnetic-properties — 30d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <strong>30d</strong> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,23 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23645.html">Hund-driven local-itinerant duality of Eu-4$f$ electrons in infinite-layer nickelates</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Yingying Cao et al.</td>
 <td><a href="http://arxiv.org/abs/2609.23645">2609.23645</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18744.html">Electronic correlations shape the low-energy optical response of the kagome antiferromagnets Mn$_3$Sn and Mn$_3$Ge</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>R. Mathew Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18744">2609.18744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19408.html">Multiferroic Quantum Dot in an Artificial van der Waals Heterostructure</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Antti Karjasilta et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19408">2609.19408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22342.html">Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Yi-Ran Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2609.22342">2609.22342</a></td>
 </tr>
 </tbody></table>

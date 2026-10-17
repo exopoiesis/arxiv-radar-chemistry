@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vdw-correction — 360d</h1>
-  <span class="paper-count">146 papers</span>
+  <span class="paper-count">145 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <strong>360d</strong> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -884,11 +884,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22019.html">Highly Tunable Phonon Polaritons via Metal Intercalation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Mariia Stepanova et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22019">2510.22019</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18482.html">Semiconductor-Semimetal Transition in van der Waals Carbyne Crystals</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Daniele Barettin et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18482">2510.18482</a></td>
 </tr>
 </tbody></table>

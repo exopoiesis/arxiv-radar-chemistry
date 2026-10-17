@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <a href="bayesian-optimization-360d.html">360d</a> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19404.html">ActMOF: Mapping Reticular Synthesis through Active Learning</a></div><div class="paper-tags"><a href="active-learning-7d.html">active-learning</a> · <a href="mof-7d.html">mof</a></div></td>
 <td>Hongrui Sheng et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19404">2610.19404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12859.html">Closed-loop domain generation enhances battery health diagnosis</a></div></td>
-<td>Yue Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12859">2610.12859</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">235 papers</span>
+  <span class="paper-count">233 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1412,17 +1412,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20943.html">Meta-Learning for Cross-Task Generalization in Protein Mutation Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Srivathsan Badrinarayanan et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20943">2510.20943</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01919.html">From Possibility to Precision in Macromolecular Ensemble Prediction</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Stephanie A. Wankowicz et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01919">2505.01919</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18790.html">Protein generation with embedding learning for motif diversification</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Kevin Michalewicz et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18790">2510.18790</a></td>
 </tr>
 </tbody></table>

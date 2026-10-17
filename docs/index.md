@@ -5,9 +5,9 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-10-16._
+_Updated 2026-10-17._
 
-**16284** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**16290** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -76,6 +76,12 @@ _Updated 2026-10-16._
 </tr>
 <tr class="paper">
 <td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.22025.html">Not All Unlabeled Data Are Equal: Unlabeled Data Selection for Semi-Supervised QSAR Modeling with Large Chemical Repositories</a></div></td>
+<td>Oliver Majer et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22025">2610.22025</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.22062.html">Documenting Trofinetide Treatment Phenotypes in Rett Syndrome with a Dual-LLM Consensus Pipeline</a></div></td>
 <td>Daniel Palacios et al.</td>
 <td><a href="http://arxiv.org/abs/2610.22062">2610.22062</a></td>
@@ -103,6 +109,12 @@ _Updated 2026-10-16._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.14438.html">Neither True nor False: Do LLMs Represent Truth-Value Gaps in Plural Predication?</a></div></td>
 <td>Duaa Nakshbandi et al.</td>
 <td><a href="http://arxiv.org/abs/2610.14438">2610.14438</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.18651.html">Does Pretraining Teach Chemical Language Models Chemistry?</a></div><div class="paper-tags"><a href="tag/chemical-llm-30d.html">chemical-llm</a> · <a href="tag/property-prediction-30d.html">property-prediction</a></div></td>
+<td>Leif Sieben et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18651">2610.18651</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-14</td>
@@ -181,17 +193,5 @@ _Updated 2026-10-16._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.19686.html">Interlock: From Local Correctness to Task Completion in Long-Horizon Agents</a></div></td>
 <td>Linji Hao et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19686">2610.19686</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.19738.html">ProtModernBERT: Compute-Efficient Protein Language Modeling</a></div><div class="paper-tags"><a href="tag/protein-llm-30d.html">protein-llm</a> · <a href="tag/structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Alberto Martínez et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19738">2610.19738</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.19781.html">SNACK: A Sequential Notation Framework for Probabilistic Graph Generation</a></div></td>
-<td>Hohyun Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19781">2610.19781</a></td>
 </tr>
 </tbody></table>

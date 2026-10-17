@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>gnn — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <strong>30d</strong> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20374.html">Effective Graph Neural Representation of Chain Architectures of Block Copolymers Tested by Predicting RPA Instability Limits</a></div></td>
+<td>Xiyue Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20374">2610.20374</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18164.html">Random Probing for Structural Self-Interactions in Graph Neural Networks</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>Saku Peltonen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18164">2610.18164</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13037.html">Quantum-Circuit Residuals for Receptor Functional Potency Prediction: Predictive Gains and Quadratic Structure</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
@@ -26,6 +38,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13418.html">VN-GraphGG: von Neumann--Mullins--based graph grain growth simulation</a></div></td>
 <td>Yuntong Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.13418">2610.13418</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14239.html">Benchmarking machine-learning interatomic potentials using classical force fields</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Johannes Sandberg et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14239">2610.14239</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-08</td>
@@ -176,17 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25088.html">An Accurate and Interpretable Hyper Graph Neural Network for GBM Survival Prediction</a></div></td>
 <td>Mushahid Intesum</td>
 <td><a href="http://arxiv.org/abs/2609.25088">2609.25088</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18107.html">FoundAna: A GNN-assisted Foundation Model for Graph Anomaly Detection</a></div></td>
-<td>Suprim Nakarmi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18107">2609.18107</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19487.html">ALIGNN 2.0: A Unified Line-Graph Neural Network Framework for Materials Screening, Force Fields, Inverse Design, Spectroscopy, and Microscopy</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Jaehyung Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19487">2609.19487</a></td>
 </tr>
 </tbody></table>

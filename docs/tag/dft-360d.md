@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2014 papers</span>
+  <span class="paper-count">2005 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12044,59 +12044,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19774.html">How Accurate Are DFT Forces? Unexpectedly Large Uncertainties in Molecular Datasets</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Domantas Kuryla et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19774">2510.19774</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15393.html">An investigation into the nonconformity of homogeneous gas limit for kinetic energy density of atomic systems</a></div></td>
-<td>Priya Priya et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15393">2506.15393</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17432.html">Large-scale stochastic propagation method beyond the sequential approach</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Zhichang Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17432">2510.17432</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18178.html">MACE Foundation Models for Lattice Dynamics: A Benchmark Study on Double Halide Perovskites</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jack Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18178">2510.18178</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18217.html">Interatomic potential development for topological insulator Bi1-xSbx and its dislocation by force-following active learning</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
-<td>Moon-ki Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18217">2510.18217</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18275.html">Spin gaps in Transition Metal Dichalcogenide Nanoribbons with atomic Adsorbates</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Joshua O. Aggrey et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18275">2510.18275</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18482.html">Semiconductor-Semimetal Transition in van der Waals Carbyne Crystals</a></div><div class="paper-tags"><a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Daniele Barettin et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18482">2510.18482</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18609.html">First-Principles Investigation of Sr2PrSbO6 Double Perovskite: An Emerging Aspirant for Electrocatalysis, Plasmonic, Photonics, Thermoelectric and Solar Cell Applications</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Md. Mohiuddin et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18609">2510.18609</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18754.html">Interplay of Magnetism, Band Gap Tuning, Optical, and Thermoelectric Responses in Fe-Doped YMnO$_3$: Insights from First-Principles Calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Kazi Mazba Kamal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18754">2510.18754</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19088.html">Predicting Spectroscopic Properties of Solvated Nile Red with Automated Workflows for Machine Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Jacob Eller et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19088">2510.19088</a></td>
 </tr>
 </tbody></table>

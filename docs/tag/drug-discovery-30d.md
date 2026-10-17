@@ -29,6 +29,12 @@ current_window: 30d
 </tr>
 <tr class="paper">
 <td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19011.html">PMO-Dock: Benchmarking Docking, Specificity, and Generalization in Molecular Optimization</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Gor Simonyan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19011">2610.19011</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19123.html">PairIT: Autoregressive Transformers for Low-Data Molecule Optimization</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
 <td>Hannah Lawrence et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19123">2610.19123</a></td>
@@ -188,11 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21165.html">SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity</a></div></td>
 <td>Thao Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21165">2609.21165</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19476.html">Search at the Cost of Sampling: Nearly-Instant Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Donney Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19476">2609.19476</a></td>
 </tr>
 </tbody></table>

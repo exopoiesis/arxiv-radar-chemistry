@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,9 +17,21 @@ current_window: 90d
 <tbody>
 <tr class="paper">
 <td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18651.html">Does Pretraining Teach Chemical Language Models Chemistry?</a></div><div class="paper-tags"><a href="chemical-llm-90d.html">chemical-llm</a></div></td>
+<td>Leif Sieben et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18651">2610.18651</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19906.html">Beyond Benchmark Accuracy: A Diagnostic Test for LLM Chemical Prediction</a></div><div class="paper-tags"><a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
 <td>Yanyi Su et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19906">2610.19906</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18164.html">Random Probing for Structural Self-Interactions in Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
+<td>Saku Peltonen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18164">2610.18164</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-08</td>

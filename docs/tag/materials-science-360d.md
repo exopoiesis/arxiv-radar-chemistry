@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">334 papers</span>
+  <span class="paper-count">332 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20779.html">Enabling large language model agents for high-fidelity many-body perturbation theory calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Benran Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.20779">2610.20779</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14239.html">Benchmarking machine-learning interatomic potentials using classical force fields</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Johannes Sandberg et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14239">2610.14239</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-08</td>
@@ -2000,23 +2006,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25486.html">Scalable Boltzmann Generators for equilibrium sampling of large-scale materials</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a></div></td>
 <td>Maximilian Schebek et al.</td>
 <td><a href="http://arxiv.org/abs/2509.25486">2509.25486</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.07778.html">Trapped-ion quantum simulation of the Fermi-Hubbard model as a lattice gauge theory using hardware-aware native gates</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Dhruv Srinivasan et al.</td>
-<td><a href="http://arxiv.org/abs/2411.07778">2411.07778</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01042.html">MatPROV: A Provenance Graph Dataset of Material Synthesis Extracted from Scientific Literature</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Hirofumi Tsuruta et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01042">2509.01042</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18178.html">MACE Foundation Models for Lattice Dynamics: A Benchmark Study on Double Halide Perovskites</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jack Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18178">2510.18178</a></td>
 </tr>
 </tbody></table>

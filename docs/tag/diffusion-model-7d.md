@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-model — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,17 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="materials-discovery-7d.html">materials-discovery</a> · <a href="mlip-7d.html">mlip</a></div></td>
 <td>Shivang Agarwal et al.</td>
 <td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13187.html">Destination-Conditioned Adaptation with Semantic-Geometric Alignment for Generative Inbetweening</a></div></td>
-<td>Zhiyu Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13187">2610.13187</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13681.html">PhysForge: Material-Controllable 3D Reconstruction with Separable Components</a></div></td>
-<td>Yuchen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13681">2610.13681</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1544 papers</span>
+  <span class="paper-count">1539 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9248,35 +9248,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19550.html">Quantum computation of molecular geometry via many-body nuclear spin echoes</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>C. Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19550">2510.19550</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08357.html">Hamiltonian replica exchange augmented with diffusion-based generative models and importance sampling to assess biomolecular conformational basins and barriers</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
-<td>Zakarya Benayad et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08357">2505.08357</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26274.html">Zeta expansion for long-range interactions under periodic boundary conditions with applications to micromagnetics</a></div></td>
-<td>Andreas A. Buchheit et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26274">2509.26274</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18178.html">MACE Foundation Models for Lattice Dynamics: A Benchmark Study on Double Halide Perovskites</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Jack Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18178">2510.18178</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18191.html">Estimation of a Gas Diffusion Coefficient by Fitting Molecular Dynamics Trajectories to Finite-Difference Simulations</a></div></td>
-<td>Isaac Viviano</td>
-<td><a href="http://arxiv.org/abs/2510.18191">2510.18191</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18426.html">Ideal Nodal-Sphere Semimetal in the Three-Dimensional Boron Allotrope CT-B$_{24}$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Xiao-jing Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18426">2510.18426</a></td>
 </tr>
 </tbody></table>

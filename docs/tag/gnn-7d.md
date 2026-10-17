@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13037.html">Quantum-Circuit Residuals for Receptor Functional Potency Prediction: Predictive Gains and Quadratic Structure</a></div><div class="paper-tags"><a href="molecular-representation-7d.html">molecular-representation</a></div></td>
-<td>Chenyan Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13037">2610.13037</a></td>
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20374.html">Effective Graph Neural Representation of Chain Architectures of Block Copolymers Tested by Predicting RPA Instability Limits</a></div></td>
+<td>Xiyue Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20374">2610.20374</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13418.html">VN-GraphGG: von Neumann--Mullins--based graph grain growth simulation</a></div></td>
-<td>Yuntong Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13418">2610.13418</a></td>
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18164.html">Random Probing for Structural Self-Interactions in Graph Neural Networks</a></div><div class="paper-tags"><a href="property-prediction-7d.html">property-prediction</a></div></td>
+<td>Saku Peltonen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18164">2610.18164</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>property-prediction — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <strong>30d</strong> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,9 +17,21 @@ current_window: 30d
 <tbody>
 <tr class="paper">
 <td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18651.html">Does Pretraining Teach Chemical Language Models Chemistry?</a></div><div class="paper-tags"><a href="chemical-llm-30d.html">chemical-llm</a></div></td>
+<td>Leif Sieben et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18651">2610.18651</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19906.html">Beyond Benchmark Accuracy: A Diagnostic Test for LLM Chemical Prediction</a></div><div class="paper-tags"><a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
 <td>Yanyi Su et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19906">2610.19906</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18164.html">Random Probing for Structural Self-Interactions in Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
+<td>Saku Peltonen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18164">2610.18164</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-08</td>
@@ -86,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21085.html">Triply-Scalable Equivariant Gaussian Process Modeling</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
 <td>Tim Steinert et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21085">2609.21085</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19487.html">ALIGNN 2.0: A Unified Line-Graph Neural Network Framework for Materials Screening, Force Fields, Inverse Design, Spectroscopy, and Microscopy</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="gnn-30d.html">gnn</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jaehyung Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19487">2609.19487</a></td>
 </tr>
 </tbody></table>

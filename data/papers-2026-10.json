@@ -7731,6 +7731,33 @@
   ],
   "updated": "2026-10-09"
  },
+ "2610.14239": {
+  "abstract": "We propose a rational comparison between several well-known machine-learning interatomic potentials (linear atomic cluster expansion, the Behler-Parrinello high-dimensional neural network potential, and the graph neural network-based MACE potential) by testing their performance for fitting classical potentials such as the Lennard-Jones and Stillinger-Weber potential. With this we assess their advantages and limitations regarding several aspects: varying training dataset size, robustness to noise, carbon footprint, as well as the ability to reproduce the radial distribution function as an example observable. Overall the MACE models are shown to most accurately reproduce the potential energy surface, with little sign of overfitting, but at a significant computational cost, highlighting important questions regarding the choice of models in computational materials science.",
+  "authors": [
+   "Johannes Sandberg",
+   "Geneviève Dusson",
+   "Julien Lam"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Johannes Sandberg",
+  "pdf_url": "http://arxiv.org/pdf/2610.14239",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-09",
+  "tags": [
+   "free-energy",
+   "gnn",
+   "materials-science",
+   "mlip"
+  ],
+  "title": "Benchmarking machine-learning interatomic potentials using classical force fields",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-10-09"
+ },
  "2610.14349": {
   "abstract": "We show that continuous bitstream diffusion (CoBit), originally developed for language modeling, provides a unified framework for joint and conditional multimodal generation using the same training and sampling protocol. Across image-text, speech-text and protein sequence-structure modeling, models are trained separately from scratch, but each uses a single input projection, transformer backbone, bitwise prediction head and binary score-matching objective shared across its modalities. Within each setting, a single checkpoint supports joint generation and the conditional directions included in training by changing which parts of the bitstream are observed. We first validate the approach on MNIST-Sum, a controlled image-text task pairing raw binary images with equations encoded as text, achieving near-perfect conditional accuracy and high joint consistency without learned tokenizers. We then apply the same protocol at larger scale to speech-text and protein sequence-structure modeling. Trained without text pretraining, a single speech-text model performs speech synthesis, recognition, continuation, and unconditional co-generation. Jointly generated speech and text achieve 3.5% word error rate between the generated text and automatic transcriptions of the generated speech. In protein modeling, a single CoBit checkpoint supports forward folding, inverse folding, and joint sequence-structure generation. For jointly generated proteins spanning 100-500 residues, computational refolding of CoBit's sequences yields structures that agree with the generated backbones at a mean self-consistency TM-score of 0.911. Together, these results show that CoBit provides a common generative framework for substantially different modalities and forms of cross-modal dependence, without introducing a domain-specific objective or sampling procedure.",
   "authors": [
@@ -8413,7 +8440,8 @@
   ],
   "title": "Learning Perceptual Geometry of Natural Odor Mixtures from LLM-Derived Descriptors",
   "topics": [
-   "Large Language Models & Materials"
+   "Large Language Models & Materials",
+   "Molecular Representation & Learning"
   ],
   "updated": "2026-10-12"
  },
@@ -8670,6 +8698,32 @@
   ],
   "updated": "2026-10-15"
  },
+ "2610.18164": {
+  "abstract": "Graph Neural Networks (GNNs) fundamentally lack the ability to capture structural properties defined by node self-interactions, such as cycle counts, subgraph centrality, and heat kernel signatures. Existing solutions often rely on computationally expensive higher-order architectures or hand-crafted features. In this work, we introduce DIAL, a message-passing layer that gives nodes access to graph structure through the diagonal of graph-derived operators. Our approach uses randomized probing to provide nodes with learnable, permutation equivariant access to diagonal entries. We prove that our approach can express important structural features, including cycle counts, subgraph centrality, and heat kernel signatures. The proposed method can be integrated directly into message passing layers. Experiments on molecular property prediction, cycle counting, and pattern detection demonstrate the effectiveness of DIAL across a range of graph learning tasks.",
+  "authors": [
+   "Saku Peltonen",
+   "H. Çağrı Bilgi",
+   "Kubilay Atasu"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Accepted at LoG 2026 (oral)",
+  "first_author": "Saku Peltonen",
+  "pdf_url": "http://arxiv.org/pdf/2610.18164",
+  "primary_category": "cs.LG",
+  "published": "2026-10-13",
+  "tags": [
+   "gnn",
+   "property-prediction"
+  ],
+  "title": "Random Probing for Structural Self-Interactions in Graph Neural Networks",
+  "topics": [
+   "Molecular Representation & Learning",
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-10-13"
+ },
  "2610.18176": {
   "abstract": "Proactive human-robot collaboration requires autonomous systems to infer not only immediate actions but also the underlying hierarchical intentions governing human behavior. Current deep learning approaches predominantly focus on flat action classification, failing to capture the structural dependencies connecting kinematic motion to high-level goals. A Neuro-Symbolic Graph Transformer (NSGT) is proposed within this multimodal framework, a Human Reasoning Graph (HR-G) is integrated into the self-attention mechanism via learnable topological biases. Furthermore, the architecture is augmented with a differentiable First-Order Logic (FOL) loss, acting as a structural regularizer by which ontological consistency is enforced across four levels: atomic actions, composite activities, Low-Level Intentions, and High-Level Intentions. Evaluation is performed on the synthesized NTU-Hierarchy dataset, a four-level ontological extension of NTU RGB+D 120, wherein existing sequences were mapped into 119,383 complex hierarchical episodes (85 actions, 16 activities, 8 LLIs, 4 HLIs). To prevent circular supervision, strict isolation between label generation and FOL constraints was maintained. In the base configuration, 91.65% top-1 action accuracy is achieved by the NSGT. When the FOL loss is incorporated into the baseline, logic consistency is improved by 3.26 percentage points to 96.67%. Through the HR-G biases, a tunable trade-off between accuracy and structural coherence is established. In the primary consistency-maximizing configuration ($λ$ = 0.5), a logic consistency of 94.59% is reached and ontological contradictions are reduced by 33%, while a robust 89.90% top-1 action accuracy is retained. Finally, interpretable reasoning evidence is provided by the learned HR-G weights, wherein transition edges are strongly exploited ($β$ trans $\\approx$ +2.6) without explicit supervision.",
   "authors": [
@@ -8766,6 +8820,32 @@
    "Large Language Models & Materials"
   ],
   "updated": "2026-10-13"
+ },
+ "2610.18651": {
+  "abstract": "Chemical language models (CLMs) are pretrained on large corpora of molecules with the aim of learning representations that transfer to diverse downstream tasks. Here, we systematically study the effects of pretraining using a series of such CLMs across 64 molecular property prediction datasets. We find that the downstream gains of pretraining in CLMs do not scale and performance saturates below gradient-boosting baselines. Across the regimes evaluated, only supervised pretraining on traditional physico-chemical descriptors consistently improves downstream performance for the CLMs tested whereas some forms of pretraining result in models worse than a randomly initialized encoder. While models can resolve molecular structure well, they do so no better than a randomly initialized model, suggesting that, at best, CLMs learn descriptor-like properties in addition to low-level token statistics during pretraining, but surprisingly little chemistry beyond what classical molecular features already capture.",
+  "authors": [
+   "Leif Sieben",
+   "Yoel Zimmermann"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CL",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Leif Sieben",
+  "pdf_url": "http://arxiv.org/pdf/2610.18651",
+  "primary_category": "cs.LG",
+  "published": "2026-10-13",
+  "tags": [
+   "chemical-llm",
+   "property-prediction"
+  ],
+  "title": "Does Pretraining Teach Chemical Language Models Chemistry?",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-10-14"
  },
  "2610.18724": {
   "abstract": "The rapid advancement of image-to-text extraction systems and large language models (LLMs) poses new challenges for educational assessment by making assignment materials easy to transcribe and solve with minimal human effort. To address this problem, we present AIRRI (Artificial Intelligence Resilient Reading Interface), a framework for generating machine-resistant educational content, a dataset of higher-education assignments for evaluation, and an initial evaluation of the human readability of AIRRI machine-resistant text designs. AIRRI employs two categories of machine-resistance techniques. First, AIRRI applies image transformations including character spacing, word spacing, line spacing, character opacity variation, stripe overlays, and image noise. Second, AIRRI applies decision-based adversarial attacks: RayS, SurFree, and ADBA. We evaluate AIRRI against three image-to-text systems: Tesseract, EasyOCR, and the transformer-based GOT-OCR2 model. Our results show that AIRRI substantially degrades automated text extraction performance. AIRRI increased character error rates for EasyOCR (6.9% to 55.9%), Tesseract (2.3% to 100.0%), and GOT-OCR2 (30.7% to 48.1%). Word error rates increased for EasyOCR (24.9% to 96.7%) and Tesseract (10.7% to 100.0%). Among the evaluated decision-based attacks, ADBA consistently produced the largest degradation in image-to-text performance, while RayS and SurFree produced more moderate reductions. EasyOCR and Tesseract were generally more susceptible to both image-based and adversarial perturbations than the transformer-based GOT-OCR2 model. Our findings suggest that AIRRI can significantly reduce the reliability of image-to-text-to-LLM workflows, increasing the effort required for AI-assisted assignment completion.",
@@ -8897,6 +8977,35 @@
   "title": "JWST observations of 47 Tucanae: I. The low-mass main sequence down to the hydrogen-burning limit",
   "topics": [
    "Protein & Biomolecules"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.19011": {
+  "abstract": "The Practical Molecular Optimization (PMO) benchmark standardized evaluation in molecular optimization, but it is built on simple property-based oracles that do not capture structure-based drug design. As the field has moved to docking-based objectives, evaluation practice has become unstandardized, and different methods report results on different docking tasks, often without a shared protocol for fair comparison or sample-efficiency constraints. To address this, we introduce Practical Molecular Optimization for Docking (PMO-Dock), a benchmark and protocol for docking-based optimization consisting of 25 tasks covering hit generation, lead optimization, and a new specificity task requiring strong on-target binding while penalizing off-target interactions. The protocol separates model development from final evaluation: validation tasks are used for hyperparameter tuning, and test tasks are held out for final evaluation and are not used during development. Evaluation on the test tasks is done under a strict oracle budget to reflect realistic drug-discovery settings. We benchmark four diverse high-performing methods spanning different optimization paradigms, Saturn (reinforcement learning), GenMol (discrete diffusion), Genetic-guided GFlowNet, and ChemLlama (LLM-based evolutionary search). Our results show no universally best method across tasks, additional analyses of hyperparameter transfer (cross-task and cross-category) and sensitivity show that transfer is often limited and varies by method, motivating method-dependent selection strategies. This benchmark provides a concrete standard for evaluating generalization to unseen tasks and sample efficiency under a limited test-time oracle budget.",
+  "authors": [
+   "Gor Simonyan",
+   "Tatevik Abrahamyan",
+   "Narek Abelyan",
+   "Tigran Fahradyan",
+   "Hrant Khachatrian"
+  ],
+  "categories": [
+   "cs.LG",
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Gor Simonyan",
+  "pdf_url": "http://arxiv.org/pdf/2610.19011",
+  "primary_category": "cs.LG",
+  "published": "2026-10-13",
+  "tags": [
+   "drug-discovery",
+   "molecular-generation",
+   "reinforcement-learning"
+  ],
+  "title": "PMO-Dock: Benchmarking Docking, Specificity, and Generalization in Molecular Optimization",
+  "topics": [
+   "Property Prediction & ADMET"
   ],
   "updated": "2026-10-13"
  },
@@ -9474,7 +9583,33 @@
   ],
   "title": "Beyond Benchmark Accuracy: A Diagnostic Test for LLM Chemical Prediction",
   "topics": [
+   "Property Prediction & ADMET",
    "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-10-14"
+ },
+ "2610.20374": {
+  "abstract": "Advances in polymer synthesis and computational modeling are expanding the block-copolymer architecture space accessible for phase-behavior design. Machine learning can accelerate this exploration, yet a common representation capable of learning across diverse chain topologies remains lacking. Here, we present a graph neural network (GNN) representation of acyclic AB multiblock architectures, tested by random-phase approximation (RPA) instability prediction. Each chain is represented as a graph, enabling a common model to learn across diverse topologies. This representation, which organizes RPA-related information, retains predictive capability when extrapolated to architectures with more blocks and demonstrates its potential for reuse across tasks through transfer to instability-wavenumber prediction. By effectively linking block-copolymer chain architecture to field-theoretic response, this graph representation not only reconstructs stability-limit curves but also provides a practical route for future self-consistent field theory exploration of ordered phase space across complex topologies.",
+  "authors": [
+   "Xiyue Zhang",
+   "Yutong Wu",
+   "Yi-Xin Liu"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Xiyue Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2610.20374",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-14",
+  "tags": [
+   "gnn"
+  ],
+  "title": "Effective Graph Neural Representation of Chain Architectures of Block Copolymers Tested by Predicting RPA Instability Limits",
+  "topics": [
+   "Molecular Representation & Learning"
   ],
   "updated": "2026-10-14"
  },
@@ -9746,6 +9881,28 @@
   "title": "Thermal activation of photon catalysis in difference-intensity Mach-Zehnder interferometry with squeezed thermal light",
   "topics": [
    "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-10-15"
+ },
+ "2610.22025": {
+  "abstract": "Semi-supervised learning (SSL) is particularly attractive in domains where labels are expensive to obtain, while unlabeled examples are readily available. Quantitative Structure-Activity Relationship (QSAR) modeling, which predicts molecular biological activity from chemical structure, is one such domain. Obtaining activity measurements requires costly wet-lab experiments, resulting in small labeled datasets, while chemical repositories such as ChEMBL contain millions of unlabeled molecules. Despite this apparent suitability, the potential of large chemical databases to improve QSAR models via SSL remains largely unexplored. Furthermore, it is unclear how unlabeled data should be selected in realistic SSL settings with genuine unlabeled data. We conduct a systematic study of unlabeled-data selection using 10 QSAR datasets extracted from ChEMBL and a pool of more than 400,000 unlabeled molecules. To this end, we evaluate three established SSL algorithms (self-training, co-training, and label propagation) and formulate four unlabeled-data selection strategies based on random, nearest-neighbor, furthest-neighbor, and mixed sampling. Our results show that unlabeled data from large chemical repositories can improve QSAR models, with at least one SSL configuration outperforming the supervised baseline on each of the 10 datasets. Moreover, the most reliable improvements are generally achieved by selecting a relatively small number of chemically distant molecules. This suggests that the composition of the unlabeled set may be more important than its size, challenging the common premise that SSL necessitates an abundance of unlabeled data.",
+  "authors": [
+   "Oliver Majer",
+   "Saso Dzeroski",
+   "Jurica Levatic"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Accepted at the 29th International Conference on Discovery Science, October 5-9, Mainz, Germany",
+  "first_author": "Oliver Majer",
+  "pdf_url": "http://arxiv.org/pdf/2610.22025",
+  "primary_category": "cs.LG",
+  "published": "2026-10-15",
+  "tags": [],
+  "title": "Not All Unlabeled Data Are Equal: Unlabeled Data Selection for Semi-Supervised QSAR Modeling with Large Chemical Repositories",
+  "topics": [
+   "Property Prediction & ADMET"
   ],
   "updated": "2026-10-15"
  },

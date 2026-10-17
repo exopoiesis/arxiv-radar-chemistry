@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">128 papers</span>
+  <span class="paper-count">126 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -770,17 +770,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12888.html">aims-PAX: Parallel Active eXploration for the automated construction of Machine Learning Force Fields</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Tobias Henkes et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12888">2508.12888</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18217.html">Interatomic potential development for topological insulator Bi1-xSbx and its dislocation by force-following active learning</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Moon-ki Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18217">2510.18217</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19088.html">Predicting Spectroscopic Properties of Solvated Nile Red with Automated Workflows for Machine Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Jacob Eller et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19088">2510.19088</a></td>
 </tr>
 </tbody></table>

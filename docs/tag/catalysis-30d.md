@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>catalysis — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <strong>30d</strong> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,35 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21065.html">Mechanism of charge transfer and electrostatic field fluctuations in complex metallic alloys</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Wai-Ga D. Ho et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21065">2609.21065</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13939.html">Towards a Metal-Organic Framework with Pore-Confined Electrons</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="mof-30d.html">mof</a></div></td>
-<td>Julia H. Baratta et al.</td>
-<td><a href="http://arxiv.org/abs/2609.13939">2609.13939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18498.html">On-Water Surface Catalysis: From Hydrogen Bonding to Charge-Transfer Activation</a></div></td>
-<td>M. Alaraby Salem et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18498">2609.18498</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18570.html">Catalytic Activation of Genuine Multipartite Entanglement and Nonlocality</a></div></td>
-<td>Eliot Donnadieu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18570">2609.18570</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19087.html">An Atlas and Design Rules for Single- and Dual-Atom Alloys</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Fabian Berger et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19087">2609.19087</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19117.html">Floquet-Plasmon Enhanced Charge Transfer at Catalytic Interfaces</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Annabelle Canestraight et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19117">2609.19117</a></td>
 </tr>
 </tbody></table>

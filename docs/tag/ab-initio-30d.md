@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">99 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -554,59 +554,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20618.html">Spin-Lattice Dynamics and Interactions in Magnonic Spinels</a></div></td>
 <td>Hari Paudyal et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20618">2609.20618</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13939.html">Towards a Metal-Organic Framework with Pore-Confined Electrons</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="dft-30d.html">dft</a> · <a href="mof-30d.html">mof</a></div></td>
-<td>Julia H. Baratta et al.</td>
-<td><a href="http://arxiv.org/abs/2609.13939">2609.13939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18183.html">Van der Waals interactions in supercritical water under Earth&#x27;s mantle conditions</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Jiajia Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18183">2609.18183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18365.html">Electronic Origins of Elastic Behavior in Rocksalt, Zinc-Blende and Wurtzite 3d Transition-Metal Nitrides</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Jesus Cañas et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18365">2609.18365</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18524.html">Conformational landscape of a macrocycle from REST enhanced sampling</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="replica-exchange-30d.html">replica-exchange</a></div></td>
-<td>Valentin Kasper et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18524">2609.18524</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19229.html">Melting of corundum (α-Al2O3) under compression to 8 GPa: A decreasing melting slope</a></div></td>
-<td>Vladimir L. Solozhenko</td>
-<td><a href="http://arxiv.org/abs/2609.19229">2609.19229</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19408.html">Multiferroic Quantum Dot in an Artificial van der Waals Heterostructure</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Antti Karjasilta et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19408">2609.19408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19469.html">DFT GGA based datasets for H$_2$O potential energy surfaces, permanent moment and polarizability tensors</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Anoop Ajaya Kumar Nair et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19469">2609.19469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22341.html">NTBuilder: Commensurate Construction of Nanotubes from Arbitrary Two-Dimensional Crystals and a Catalog of 20 Million Structures</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Marcelo Lopes Pereira Junior</td>
-<td><a href="http://arxiv.org/abs/2609.22341">2609.22341</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22342.html">Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Yi-Ran Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2609.22342">2609.22342</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-ligand — 90d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <strong>90d</strong> <a href="protein-ligand-360d.html">360d</a> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18056.html">An Early Warning of Emerging Biosecurity Risks in Frontier LLMs</a></div></td>
 <td>Zhida He et al.</td>
 <td><a href="http://arxiv.org/abs/2607.18056">2607.18056</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17412.html">CORAL: Learning Amyloid Fibril Ligand Docking with Cooperative Binding Rewards</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
-<td>Yasheng Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17412">2607.17412</a></td>
 </tr>
 </tbody></table>

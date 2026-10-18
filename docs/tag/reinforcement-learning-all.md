@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>reinforcement-learning — all</h1>
-  <span class="paper-count">256 papers</span>
+  <span class="paper-count">257 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <a href="reinforcement-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21755.html">DeciCAD: Harness-Grounded Learning of Action Policies for CAD Agents</a></div></td>
 <td>Yufeng Peng et al.</td>
 <td><a href="http://arxiv.org/abs/2610.21755">2610.21755</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19920.html">MolHop: Scaffold-Hopping Molecular Design with Agentic Reinforcement Learning</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="molecular-generation-all.html">molecular-generation</a></div></td>
+<td>Yanyi Su et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19920">2610.19920</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-13</td>

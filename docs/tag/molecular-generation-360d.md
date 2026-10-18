@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-generation — 360d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">155 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19920.html">MolHop: Scaffold-Hopping Molecular Design with Agentic Reinforcement Learning</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Yanyi Su et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19920">2610.19920</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20459.html">MolLean: A Process-Verifiable Language for Chemical Reasoning</a></div></td>
+<td>Jiatong Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20459">2610.20459</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18851.html">MFG: Multi-turn Feedback Guided Molecular Optimization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
@@ -32,6 +44,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19123.html">PairIT: Autoregressive Transformers for Low-Data Molecule Optimization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Hannah Lawrence et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19123">2610.19123</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16586.html">OctMole: Multiscale 3D Molecular Generation with Hierarchical Spatial Flows</a></div></td>
+<td>Yu-Tong Jin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16586">2610.16586</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17244.html">MIRRA: Fast, High-Fidelity Molecular Generation with Chemistry-Informed Discrete Flow Matching</a></div></td>
+<td>Ge Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17244">2610.17244</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-06</td>
@@ -920,11 +944,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25788.html">SHA-256 Infused Embedding-Driven Generative Modeling of High-Energy Molecules in Low-Data Regimes</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="gnn-360d.html">gnn</a></div></td>
 <td>Siddharth Verma et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25788">2510.25788</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18851.html">LICO: Large Language Models for In-Context Molecular Optimization</a></div></td>
-<td>Tung Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18851">2406.18851</a></td>
 </tr>
 </tbody></table>

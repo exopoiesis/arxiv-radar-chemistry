@@ -23,6 +23,12 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18456.html">Learning Perturbation-Specific Representations through Conditional Energy Prior for Cellular Response Prediction</a></div></td>
+<td>Yuchen Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18456">2610.18456</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18851.html">MFG: Multi-turn Feedback Guided Molecular Optimization</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Trieu Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2610.18851">2610.18851</a></td>
@@ -44,6 +50,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16975.html">MADDIE: Multi-Agent Drug Discovery Engine</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Ye Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.16975">2610.16975</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15284.html">FragFlex: Fragment-Based Flexible Molecular Generation for Exploring Vast Chemical Space</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="diffusion-model-360d.html">diffusion-model</a></div></td>
+<td>Sihyun Park et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15284">2610.15284</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-09</td>
@@ -3050,17 +3062,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20943.html">Meta-Learning for Cross-Task Generalization in Protein Mutation Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Srivathsan Badrinarayanan et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20943">2510.20943</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19870.html">Transforming Multi-Omics Integration with GANs: Applications in Alzheimer&#x27;s and Cancer</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Md Selim Reza et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19870">2510.19870</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19887.html">Compressing Biology: Evaluating the Stable Diffusion VAE for Phenotypic Drug Discovery</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Télio Cropsal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19887">2510.19887</a></td>
 </tr>
 </tbody></table>

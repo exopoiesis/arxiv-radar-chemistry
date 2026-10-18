@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>excited-states — 90d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <strong>90d</strong> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21120.html">Constrained Nuclear-Electronic Orbital Time-Dependent Density Functional Theory for Excited-State Dynamics with Nuclear Quantum Effects</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Yiwen Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21120">2610.21120</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21712.html">Size-Dependent High-Order Harmonic Generation from Linear Carbon-Chain Molecules in Linearly Polarized Laser Fields</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Yifan Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21712">2610.21712</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18020.html">Development of a Minimal Auxiliary Basis for the Particle--Particle Random Phase Approximation (ppRPA): Accelerating Excited-State Calculations in Diradical Nanoparticles and Periodic Systems</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Yuchen Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18020">2610.18020</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12896.html">All-electron RT-TDDFT with Exact Exchange based on Numeric Atom-centered Orbitals for Condensed Matter</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
@@ -260,11 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00797.html">Ion stopping from bound and free electrons in plasmas: A channel-mixed RPA approach with average-atom orbitals</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Zachary A Johnson et al.</td>
 <td><a href="http://arxiv.org/abs/2608.00797">2608.00797</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17265.html">First-principles electron-phonon scattering in real-time TDDFT</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Zhengwei Nie et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17265">2607.17265</a></td>
 </tr>
 </tbody></table>

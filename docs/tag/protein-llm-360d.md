@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-llm — 360d</h1>
-  <span class="paper-count">109 papers</span>
+  <span class="paper-count">106 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <a href="protein-llm-30d.html">30d</a> <a href="protein-llm-90d.html">90d</a> <strong>360d</strong> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -650,23 +650,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11194.html">Prot2Text-V2: Protein Function Prediction with Multimodal Contrastive Alignment</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a></div></td>
 <td>Xiao Fei et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11194">2505.11194</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12961.html">Aligning Transformers with Continuous Feedback via Energy Rank Alignment</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Shriram Chennakesavalu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12961">2405.12961</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08437.html">Customizing Spider Silk: Generative Models with Mechanical Property Conditioning for Protein Engineering</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Neeru Dubey et al.</td>
-<td><a href="http://arxiv.org/abs/2504.08437">2504.08437</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05101.html">PRING: Rethinking Protein-Protein Interaction Prediction from Pairs to Graphs</a></div><div class="paper-tags"><a href="protein-function-360d.html">protein-function</a></div></td>
-<td>Xinzhe Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05101">2507.05101</a></td>
 </tr>
 </tbody></table>

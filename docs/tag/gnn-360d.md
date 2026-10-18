@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">381 papers</span>
+  <span class="paper-count">379 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2288,17 +2288,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20236.html">Layer-to-Layer Knowledge Mixing in Graph Neural Network for Chemical Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Teng Jiek See et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20236">2510.20236</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25486.html">Scalable Boltzmann Generators for equilibrium sampling of large-scale materials</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Maximilian Schebek et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25486">2509.25486</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18018.html">Committors without Descriptors</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Peilin Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18018">2510.18018</a></td>
 </tr>
 </tbody></table>

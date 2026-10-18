@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2610.21755">2610.21755</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19920.html">MolHop: Scaffold-Hopping Molecular Design with Agentic Reinforcement Learning</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
+<td>Yanyi Su et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19920">2610.19920</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18851.html">MFG: Multi-turn Feedback Guided Molecular Optimization</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
 <td>Trieu Nguyen et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32056.html">Graph Forward Distribution Matching for Molecular Inverse Design</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
 <td>Yihan Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.32056">2609.32056</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19894.html">Learning Reliable Parking Policies via Offline Reinforcement Learning with Quantized Action Representations</a></div></td>
-<td>Zewei Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19894">2609.19894</a></td>
 </tr>
 </tbody></table>

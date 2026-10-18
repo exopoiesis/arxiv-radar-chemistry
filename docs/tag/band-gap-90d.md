@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>band-gap — 90d</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <strong>90d</strong> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21163.html">Strain-enhanced superconductivity in RuO$_2$ thin films: Joint experimental and theoretical studies</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Moeen ud din et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21163">2610.21163</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20886.html">Material dependence of direct light-induced charge injection from metallic nanoparticles into adsorbates</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Jordan Alan Edwards et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20886">2610.20886</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17854.html">ARES: a plane-wave density-functional-theory code in Rust</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Zehan Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17854">2610.17854</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18550.html">Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Baikui Li et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18550">2610.18550</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16949.html">First-Principles Calculations of the Electron-Hole-Pair Creation Energy in Semiconductors and Dielectrics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Dallin O. Nielsen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16949">2610.16949</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14992.html">EpNet-Si: Atomic Form Factors Learned from Band Structures</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Qiang Zhu</td>
+<td><a href="http://arxiv.org/abs/2610.14992">2610.14992</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12749.html">Corrugated Niobene: Stability, Mechanical and Electronic Properties from First-Principles Calculations</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="dft-90d.html">dft</a></div></td>

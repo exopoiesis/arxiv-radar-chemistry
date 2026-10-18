@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">153 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -932,17 +932,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23640.html">Structure-Aware Fusion with Progressive Injection for Multimodal Molecular Representation Learning</a></div></td>
 <td>Zihao Jing et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23640">2510.23640</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16780.html">3D-GSRD: 3D Molecular Graph Auto-Encoder with Selective Re-mask Decoding</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Chang Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16780">2510.16780</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19484.html">KnowMol: Advancing Molecular Large Language Models with Multi-Level Chemical Knowledge</a></div></td>
-<td>Zaifei Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19484">2510.19484</a></td>
 </tr>
 </tbody></table>

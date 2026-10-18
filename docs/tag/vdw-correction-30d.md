@@ -28,6 +28,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2610.16091">2610.16091</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16528.html">Interlayer Registry Controls Polar Topology in Twisted Bilayer h-BN</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Di Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16528">2610.16528</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11212.html">Light-induced interlayer spacing dynamics via orbital phonon coupling</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="tmd-30d.html">tmd</a></div></td>
 <td>Wenwen Mao et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27108.html">Towards Extended Active Learning for Modelling Ferroelectric Switching: the Need for &#x27;Gold Standards&#x27;</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="active-learning-30d.html">active-learning</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Jeffrey R. Reimers et al.</td>
 <td><a href="http://arxiv.org/abs/2609.27108">2609.27108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20387.html">Ultralow-Tensile Strain Enables Exciton Funneling and Energy Transfer to Boost MoSe2 Photoluminescence Quantum Yield</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
-<td> Gayatri et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20387">2609.20387</a></td>
 </tr>
 </tbody></table>

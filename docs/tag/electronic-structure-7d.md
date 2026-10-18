@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>electronic-structure — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,6 +16,24 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21683.html">Novel high-pressure silicon allotrope with quartz topology from first principles</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Samir F. Matar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21683">2610.21683</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22284.html">Adding Temperature to the Adiabatic Connection: Hybrid Functionals for Static and Dynamic Correlation</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Florian Matz et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22284">2610.22284</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19383.html">Phase Stability and Anisotropic Superconductivity in Ternary M2B4C2 (M=Ca, Mg) Monolayer</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Jakkapat Seeyangnok et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19383">2610.19383</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19582.html">Magnetic proximity beyond the interface: Layer-sequence-dependent exchange in WSe$_2$/CrI$_3$ heterostructures</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="tmd-7d.html">tmd</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
 <td>Natalie Kuhn et al.</td>
@@ -23,8 +41,20 @@ current_window: 7d
 </tr>
 <tr class="paper">
 <td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17943.html">WannierSTM: Efficient superconducting scanning-probe spectroscopy from maximally localized Wannier functions</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Oscar Moreno Segura et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17943">2610.17943</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18631.html">Momentum conservation for ab initio calculations with pseudopotentials via a phase space electronic structure formulation</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>Guy Ohad et al.</td>
 <td><a href="http://arxiv.org/abs/2610.18631">2610.18631</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16467.html">Modelling the dynamics of the martensitic transformation in Ni$_2$MnGa with machine-learning force-fields</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Markus E. Gruner et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16467">2610.16467</a></td>
 </tr>
 </tbody></table>

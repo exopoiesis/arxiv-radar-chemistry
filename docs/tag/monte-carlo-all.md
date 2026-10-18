@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>monte-carlo — all</h1>
-  <span class="paper-count">589 papers</span>
+  <span class="paper-count">594 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21718.html">Bond-informed search for ordered configurations in multi-principal element alloys</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
+<td>Gaurav Arora et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21718">2610.21718</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19846.html">A practical route to amorphous solid-state electrolyte structures by hybrid reverse Monte Carlo with foundation potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Xintian Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19846">2610.19846</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20982.html">The Blume-Capel Model as a $φ^6$ Field Theory: A Monte Carlo and Flow Model Study</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
+<td>Ejaaz Merali et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20982">2610.20982</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16424.html">Thermal softening of the yield stress in glasses with different stability</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Tianze Wan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16424">2610.16424</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16949.html">First-Principles Calculations of the Electron-Hole-Pair Creation Energy in Semiconductors and Dielectrics</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
+<td>Dallin O. Nielsen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16949">2610.16949</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11882.html">Beyond special quasirandom structures: free energies from energy cumulants</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>

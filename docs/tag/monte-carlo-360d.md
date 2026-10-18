@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">310 papers</span>
+  <span class="paper-count">314 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21718.html">Bond-informed search for ordered configurations in multi-principal element alloys</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Gaurav Arora et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21718">2610.21718</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19846.html">A practical route to amorphous solid-state electrolyte structures by hybrid reverse Monte Carlo with foundation potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Xintian Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19846">2610.19846</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20982.html">The Blume-Capel Model as a $φ^6$ Field Theory: A Monte Carlo and Flow Model Study</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Ejaaz Merali et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20982">2610.20982</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16424.html">Thermal softening of the yield stress in glasses with different stability</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Tianze Wan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16424">2610.16424</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16949.html">First-Principles Calculations of the Electron-Hole-Pair Creation Energy in Semiconductors and Dielectrics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Dallin O. Nielsen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16949">2610.16949</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11882.html">Beyond special quasirandom structures: free energies from energy cumulants</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -1868,11 +1898,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21330.html">SCORENF: Score-based Normalizing Flows for Sampling Unnormalized distributions</a></div></td>
 <td>Vikas Kanaujia et al.</td>
 <td><a href="http://arxiv.org/abs/2510.21330">2510.21330</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.20541.html">Fast, Modular, and Differentiable Framework for Machine Learning-Enhanced Molecular Simulations</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Henrik Christiansen et al.</td>
-<td><a href="http://arxiv.org/abs/2503.20541">2503.20541</a></td>
 </tr>
 </tbody></table>

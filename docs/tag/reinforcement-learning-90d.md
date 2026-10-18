@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2610.21755">2610.21755</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19920.html">MolHop: Scaffold-Hopping Molecular Design with Agentic Reinforcement Learning</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
+<td>Yanyi Su et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19920">2610.19920</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18851.html">MFG: Multi-turn Feedback Guided Molecular Optimization</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Trieu Nguyen et al.</td>
@@ -182,11 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19044.html">Adopting Reinforcement Learning with Verifiable Rewards for Molecular Generation</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Mingxuan Ouyang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19044">2607.19044</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17412.html">CORAL: Learning Amyloid Fibril Ligand Docking with Cooperative Binding Rewards</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Yasheng Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17412">2607.17412</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 90d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-optimization-360d.html">360d</a> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,18 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19404.html">ActMOF: Mapping Reticular Synthesis through Active Learning</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="mof-90d.html">mof</a></div></td>
 <td>Hongrui Sheng et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19404">2610.19404</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14626.html">TagBO: LLM-Driven Task-Aware Graph Bayesian Optimization for Scientific Discovery</a></div></td>
+<td>Xinzhe Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14626">2610.14626</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14696.html">Understanding Hidden Spatial Preferences in Bayesian Optimization</a></div></td>
+<td>Maria Bånkestad et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14696">2610.14696</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-09</td>

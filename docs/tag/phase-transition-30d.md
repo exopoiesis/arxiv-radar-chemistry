@@ -16,10 +16,22 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17774.html">Hydrogen-Bond Density Drives the Order-Disorder Phase Transition from Orientational to Vibrational in Polyalcohol Plastic Crystals</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Ares Sanuy et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17774">2610.17774</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16091.html">Vibrational Fingerprints of Competing Structural and Polar Phases in CuInP2S6</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
 <td>Pegah Mohammadi et al.</td>
 <td><a href="http://arxiv.org/abs/2610.16091">2610.16091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16367.html">Derjaguin-corrected Kelvin equation for finite open slits</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Alexandr Malijevský</td>
+<td><a href="http://arxiv.org/abs/2610.16367">2610.16367</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-04</td>
@@ -50,17 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23621.html">On the statistical theory of strong electrolytes and high-temperature plasmas: New applications of the work by Yukhnovskii and Kelbg II</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
 <td>W. Ebeling et al.</td>
 <td><a href="http://arxiv.org/abs/2609.23621">2609.23621</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19646.html">Sensitivity of Nucleation Thermodynamics and Kinetics to the Treatment of Long-Range Interactions</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Fernanda Sulantay Vargas et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19646">2609.19646</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20376.html">Pressure-induced electronic and structural evolution of EuIrGe3</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>N. S. Dhami et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20376">2609.20376</a></td>
 </tr>
 </tbody></table>

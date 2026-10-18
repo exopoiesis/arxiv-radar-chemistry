@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">332 papers</span>
+  <span class="paper-count">335 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,9 +17,33 @@ current_window: 360d
 <tbody>
 <tr class="paper">
 <td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19919.html">Beyond DFT electronic band structures via dual-space orbital learning</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Minhyuk Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19919">2610.19919</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20779.html">Enabling large language model agents for high-fidelity many-body perturbation theory calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Benran Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.20779">2610.20779</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18357.html">Ionic gradients shape the spatial organization and dynamics of supramolecular polymers</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Claudio Perego et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18357">2610.18357</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18942.html">A quantum-assisted latent surrogate model for Bayesian inversion of heterogeneous material properties on NISQ hardware</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
+<td>Dewangga Alfarisy et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18942">2610.18942</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14891.html">Pressure-transferable universal machine-learning potentials: the WBM-MatPES benchmark and Tuga-FF</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Pierre-Paul De Breuck et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14891">2610.14891</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-09</td>
@@ -2000,11 +2024,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.03456.html">Text to Band Gap: Pre-trained Language Models as Encoders for Semiconductor Band Gap Prediction</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="gnn-360d.html">gnn</a></div></td>
 <td>Ying-Ting Yeh et al.</td>
 <td><a href="http://arxiv.org/abs/2501.03456">2501.03456</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25486.html">Scalable Boltzmann Generators for equilibrium sampling of large-scale materials</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Maximilian Schebek et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25486">2509.25486</a></td>
 </tr>
 </tbody></table>

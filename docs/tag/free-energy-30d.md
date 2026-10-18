@@ -16,6 +16,24 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21120.html">Constrained Nuclear-Electronic Orbital Time-Dependent Density Functional Theory for Excited-State Dynamics with Nuclear Quantum Effects</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Yiwen Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21120">2610.21120</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21259.html">Energy Flow Shapes the Decomposition Dynamics of a Reactive Atmospheric Intermediate</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Mitradip Das et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21259">2610.21259</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21625.html">Universal Dynamic Scaling for Sub-Yield Aging and Over-Yield Rejuvenation in A Cyclically Driven Metallic Glass</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Nannan Ren et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21625">2610.21625</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14239.html">Benchmarking machine-learning interatomic potentials using classical force fields</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Johannes Sandberg et al.</td>
@@ -110,23 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22022.html">cboamd: A Machine Learning Molecular Dynamics Framework for Vibrational Strong Coupling</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Yifan Li et al.</td>
 <td><a href="http://arxiv.org/abs/2609.22022">2609.22022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19584.html">Efficient tensorized evaluation of permutation invariant polynomials for representing potential energy surfaces</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Junhong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19584">2609.19584</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19901.html">Hydrogen isotope mixing entropy in ammonia clusters</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Klavs Hansen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19901">2609.19901</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20510.html">Truncated automatic sparse differentiation for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Marcel F. Langer et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20510">2609.20510</a></td>
 </tr>
 </tbody></table>

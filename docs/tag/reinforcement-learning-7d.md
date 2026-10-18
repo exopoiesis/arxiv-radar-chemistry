@@ -22,6 +22,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2610.21755">2610.21755</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19920.html">MolHop: Scaffold-Hopping Molecular Design with Agentic Reinforcement Learning</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="molecular-generation-7d.html">molecular-generation</a></div></td>
+<td>Yanyi Su et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19920">2610.19920</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18851.html">MFG: Multi-turn Feedback Guided Molecular Optimization</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="molecular-generation-7d.html">molecular-generation</a></div></td>
 <td>Trieu Nguyen et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15491.html">Phase-Gated Constrained Reinforcement Learning for End-to-End Capture and Detumbling of Non-Cooperative Targets</a></div></td>
 <td>Álvaro Belmonte-Baeza et al.</td>
 <td><a href="http://arxiv.org/abs/2610.15491">2610.15491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15141.html">Single-step Retrosynthesis via Reinforcement Learning from Forward Feedback</a></div><div class="paper-tags"><a href="retrosynthesis-7d.html">retrosynthesis</a></div></td>
-<td>Zixun Lan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.15141">2610.15141</a></td>
 </tr>
 </tbody></table>

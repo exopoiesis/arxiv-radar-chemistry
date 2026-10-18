@@ -16,6 +16,30 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21075.html">Data-Driven Optimization of Seminumerical Exchange for SIMD CPUs</a></div></td>
+<td>Jesse DiCenso et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21075">2610.21075</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16379.html">Benchmarking a randomized quantum algorithm for estimating expectation values of molecular observables</a></div></td>
+<td>Anna Schroeder et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16379">2610.16379</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16827.html">The Quantum Character Transform</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Kagwe A. Muchane</td>
+<td><a href="http://arxiv.org/abs/2610.16827">2610.16827</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14620.html">Dimension-independent eigenvalue approximation for sparse matrices</a></div></td>
+<td>Natalia Hajlasz et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14620">2610.14620</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10254.html">Benchmarking Modular Optimization Strategies for Parameterized Quantum Circuits</a></div><div class="paper-tags"><a href="quantum-computing-30d.html">quantum-computing</a></div></td>
 <td>Carla Cotea et al.</td>
@@ -128,29 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22729.html">Can Chemically Inspired Parameter Initialization Mitigate Barren Plateaus in Variational Quantum Eigensolvers?</a></div></td>
 <td>Zhangyu Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.22729">2609.22729</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19535.html">Symmetry-driven correlation patterns in one-dimensional periodic fermionic systems: closed-form expressions and exact selection rules for correlation functions, entanglement entropies and mutual information</a></div></td>
-<td>Celestino Angeli</td>
-<td><a href="http://arxiv.org/abs/2609.19535">2609.19535</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19901.html">Hydrogen isotope mixing entropy in ammonia clusters</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Klavs Hansen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19901">2609.19901</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20464.html">Neutral atom quantum computing for materials science and quantum chemistry</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
-<td>J. D. Pritchard</td>
-<td><a href="http://arxiv.org/abs/2609.20464">2609.20464</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21085.html">Triply-Scalable Equivariant Gaussian Process Modeling</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Tim Steinert et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21085">2609.21085</a></td>
 </tr>
 </tbody></table>

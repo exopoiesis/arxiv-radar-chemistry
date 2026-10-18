@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-transition — 90d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <strong>90d</strong> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17774.html">Hydrogen-Bond Density Drives the Order-Disorder Phase Transition from Orientational to Vibrational in Polyalcohol Plastic Crystals</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Ares Sanuy et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17774">2610.17774</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16091.html">Vibrational Fingerprints of Competing Structural and Polar Phases in CuInP2S6</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
 <td>Pegah Mohammadi et al.</td>
 <td><a href="http://arxiv.org/abs/2610.16091">2610.16091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16367.html">Derjaguin-corrected Kelvin equation for finite open slits</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Alexandr Malijevský</td>
+<td><a href="http://arxiv.org/abs/2610.16367">2610.16367</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-04</td>

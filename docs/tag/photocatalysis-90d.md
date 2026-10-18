@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>photocatalysis — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="photocatalysis-7d.html">7d</a> <a href="photocatalysis-30d.html">30d</a> <strong>90d</strong> <a href="photocatalysis-360d.html">360d</a> <a href="photocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18665.html">Composition-controlled optical fingerprints and anisotropy of self-trapped excitons in double perovskites</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Simone Grillo et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18665">2610.18665</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09576.html">PEACE: Covariant learning of nonadiabatic manifolds with parity-resolved Hamiltonians</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>

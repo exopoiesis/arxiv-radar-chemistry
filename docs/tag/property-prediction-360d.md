@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">243 papers</span>
+  <span class="paper-count">242 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1466,11 +1466,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20976.html">L^2M^3OF: A Large Language Multimodal Model for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mof-360d.html">mof</a></div></td>
 <td>Jiyu Cui et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20976">2510.20976</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16780.html">3D-GSRD: 3D Molecular Graph Auto-Encoder with Selective Re-mask Decoding</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Chang Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16780">2510.16780</a></td>
 </tr>
 </tbody></table>

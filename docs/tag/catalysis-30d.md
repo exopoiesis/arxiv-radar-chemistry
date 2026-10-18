@@ -17,9 +17,21 @@ current_window: 30d
 <tbody>
 <tr class="paper">
 <td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21625.html">Universal Dynamic Scaling for Sub-Yield Aging and Over-Yield Rejuvenation in A Cyclically Driven Metallic Glass</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Nannan Ren et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21625">2610.21625</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22004.html">Thermal activation of photon catalysis in difference-intensity Mach-Zehnder interferometry with squeezed thermal light</a></div></td>
 <td>Kirtpreet Singh et al.</td>
 <td><a href="http://arxiv.org/abs/2610.22004">2610.22004</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16831.html">Molecular Precursor Chemistry Shapes Early-Stage Reaction Pathways in Nitrogen-Doped Carbon Nanotube Synthesis</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Narayan N. Som et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16831">2610.16831</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-12</td>
@@ -140,17 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25936.html">Spin-Orbit-Mediated Magnetization Transfer in the Fermi-Hubbard Model</a></div></td>
 <td>Jialiang Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.25936">2609.25936</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19837.html">Machine Learning for High-Entropy Catalysts: Methods and Applications</a></div></td>
-<td>Hao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19837">2609.19837</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21065.html">Mechanism of charge transfer and electrostatic field fluctuations in complex metallic alloys</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Wai-Ga D. Ho et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21065">2609.21065</a></td>
 </tr>
 </tbody></table>

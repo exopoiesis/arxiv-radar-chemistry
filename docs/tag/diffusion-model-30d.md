@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -22,10 +22,40 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2610.19499">2610.19499</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20812.html">Modeling Transport and Mechanics in Anion Exchange Membranes to Optimize Continuous CO2 Separations</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Samaneh Bayati et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20812">2610.20812</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16051.html">How the Classical Baseline Shapes Machine-Learning Speed Claims in Topology Optimization</a></div></td>
+<td>Shaoliang Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16051">2610.16051</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16582.html">Characterizing and Mitigating Distributional Bias in Physics-Informed Generative Models</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
+<td>Tanja Bien et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16582">2610.16582</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17109.html">Masked Diffusion for Travel Diaries Synthesis</a></div></td>
 <td>Pascal Jutras-Dubé et al.</td>
 <td><a href="http://arxiv.org/abs/2610.17109">2610.17109</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15284.html">FragFlex: Fragment-Based Flexible Molecular Generation for Exploring Vast Chemical Space</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="drug-discovery-30d.html">drug-discovery</a></div></td>
+<td>Sihyun Park et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15284">2610.15284</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15724.html">Uncovering the Generative Landscape of Diffusion Models: A Spectral-Guided Quality-Diversity Diffusion Framework</a></div></td>
+<td>Hannah Janmohamed et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15724">2610.15724</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-10</td>
@@ -44,6 +74,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13681.html">PhysForge: Material-Controllable 3D Reconstruction with Separable Components</a></div></td>
 <td>Yuchen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.13681">2610.13681</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20643.html">Thermochemically Constrained Multiscale Laplace Neural Operator to Learn Stiff Chemical Kinetics with Conditional Diffusion Model Sampling</a></div></td>
+<td>Dong Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20643">2610.20643</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-08</td>
@@ -236,17 +272,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22036.html">Moderator Modeling for High Intensity Slow Positron Sources</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Sophie Crisp et al.</td>
 <td><a href="http://arxiv.org/abs/2609.22036">2609.22036</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20358.html">Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Ali Aouf et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20358">2609.20358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21022.html">Catch Me If You Can: Real-Time Feedback Denoising for Responsive VLAs</a></div></td>
-<td>Yiheng Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21022">2609.21022</a></td>
 </tr>
 </tbody></table>

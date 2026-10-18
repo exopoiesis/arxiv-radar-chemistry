@@ -28,6 +28,18 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2610.19404">2610.19404</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14626.html">TagBO: LLM-Driven Task-Aware Graph Bayesian Optimization for Scientific Discovery</a></div></td>
+<td>Xinzhe Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14626">2610.14626</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14696.html">Understanding Hidden Spatial Preferences in Bayesian Optimization</a></div></td>
+<td>Maria Bånkestad et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14696">2610.14696</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12859.html">Closed-loop domain generation enhances battery health diagnosis</a></div></td>
 <td>Yue Wu et al.</td>
@@ -80,17 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24029.html">Sustained Orbital Motion Driven by Circularly Polarized Light in Nanoscale Stator-Rotor Architectures</a></div></td>
 <td>Shiye Du et al.</td>
 <td><a href="http://arxiv.org/abs/2609.24029">2609.24029</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19550.html">Portfolio-Based Constrained Multi-Objective Bayesian Optimization for Materials Design</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Sushant Sinha et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19550">2609.19550</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20592.html">CrystalMO-TuRBO: Multi-Objective Trust-Region Bayesian Optimization for High-precision Joint Crystal Structure Refinement</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a></div></td>
-<td>Joseph Agada et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20592">2609.20592</a></td>
 </tr>
 </tbody></table>

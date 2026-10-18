@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2610.21755">2610.21755</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19920.html">MolHop: Scaffold-Hopping Molecular Design with Agentic Reinforcement Learning</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
+<td>Yanyi Su et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19920">2610.19920</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18851.html">MFG: Multi-turn Feedback Guided Molecular Optimization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Trieu Nguyen et al.</td>
@@ -1028,11 +1034,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00220.html">Iterative Foundation Model Fine-Tuning on Multiple Rewards</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Pouya M. Ghari et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00220">2511.00220</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12961.html">Aligning Transformers with Continuous Feedback via Energy Rank Alignment</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Shriram Chennakesavalu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12961">2405.12961</a></td>
 </tr>
 </tbody></table>

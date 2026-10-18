@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">260 papers</span>
+  <span class="paper-count">259 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1568,11 +1568,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20976.html">L^2M^3OF: A Large Language Multimodal Model for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="mof-360d.html">mof</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Jiyu Cui et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20976">2510.20976</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19251.html">Synthesizability Prediction of Crystalline Structures with a Hierarchical Transformer and Uncertainty Quantification</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Danial Ebrahimzadeh et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19251">2510.19251</a></td>
 </tr>
 </tbody></table>

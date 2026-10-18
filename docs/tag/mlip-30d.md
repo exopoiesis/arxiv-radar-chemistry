@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21205.html">A machine-learning-driven dataset of 144,111 polycyclic aromatic hydrocarbon infrared spectra for interpreting aromatic infrared bands</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Xinghong Mai et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21205">2610.21205</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21771.html">Hierarchical universal open structure dataset for atomistic modeling</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Sofiia Chorna et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21771">2610.21771</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19630.html">Risk-Controlled DFT Selection for Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Kun Ryu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19630">2610.19630</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20063.html">Sorption Molecular Dynamics of Point Defects in 2D Materials with a Machine Learning Potential</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Nils-Ruben Skogemyr et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20063">2610.20063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16521.html">Theoretical Investigation of Oxygen-Vacancy Diffusion in SrTiO$_3$ using Neural Network Potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Kazutaka Nishiguchi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16521">2610.16521</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17226.html">Solvating machine-learning interatomic potentials for solution-phase chemistry</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Anton Z. Ni et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17226">2610.17226</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-12</td>
@@ -28,10 +58,34 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2610.17352">2610.17352</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17366.html">Wisevolve Potential Engine: Machine-Learning Molecular Dynamics at 100 Million Atom-Steps per Second on a Single GPU</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Hekai Bu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17366">2610.17366</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15591.html">Tersoff-NN: Hybrid Machine-Learned Bond-Order Extension of the Tersoff Potential</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Yusuke Nishimura et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15591">2610.15591</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14891.html">Pressure-transferable universal machine-learning potentials: the WBM-MatPES benchmark and Tuga-FF</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
+<td>Pierre-Paul De Breuck et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14891">2610.14891</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Shivang Agarwal et al.</td>
 <td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15078.html">On the Theoretical Limits of Learning Unconstrained Interatomic Potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Prajwal Ananth et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15078">2610.15078</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-09</td>
@@ -44,6 +98,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14239.html">Benchmarking machine-learning interatomic potentials using classical force fields</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="gnn-30d.html">gnn</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Johannes Sandberg et al.</td>
 <td><a href="http://arxiv.org/abs/2610.14239">2610.14239</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14392.html">Atoms that Matter: Largest Materials Datasets Are 99% Redundant, and Local Chemistry Can Guide the Required 1%</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Evgeny Moerman et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14392">2610.14392</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-08</td>
@@ -248,23 +308,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22019.html">ReaxKit: A Modular Python Toolkit for Preparing, Parsing, and Analyzing ReaxFF Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Ali Mohammadi Dinani et al.</td>
 <td><a href="http://arxiv.org/abs/2609.22019">2609.22019</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19833.html">The Roadmap of Inorganic Computational Materials Databases: Capabilities, Credibility, Coverage, and the Open Frontier</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Miao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19833">2609.19833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20510.html">Truncated automatic sparse differentiation for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Marcel F. Langer et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20510">2609.20510</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20666.html">Molecular Geometry Understanding Has Unintendedly Emerged in Frontier Large Language Models</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Gregorii A. Semakin et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20666">2609.20666</a></td>
 </tr>
 </tbody></table>

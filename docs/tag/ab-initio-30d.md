@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">112 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,64 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21163.html">Strain-enhanced superconductivity in RuO$_2$ thin films: Joint experimental and theoretical studies</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a></div></td>
+<td>Moeen ud din et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21163">2610.21163</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21683.html">Novel high-pressure silicon allotrope with quartz topology from first principles</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Samir F. Matar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21683">2610.21683</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22365.html">$^6$He structure from semiclassical 3D models based on $\textit{ab initio}$ spatial correlations</a></div></td>
+<td>Mengyao Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22365">2610.22365</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19383.html">Phase Stability and Anisotropic Superconductivity in Ternary M2B4C2 (M=Ca, Mg) Monolayer</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jakkapat Seeyangnok et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19383">2610.19383</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19842.html">Nonadiabatic polaron dynamics from machine-learned hopping trajectories</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Daniela Mangano et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19842">2610.19842</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19967.html">High-Harmonic Generation Probes Quantum Nuclear Fluctuations in Liquid Water</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>George Trenins et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19967">2610.19967</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20063.html">Sorption Molecular Dynamics of Point Defects in 2D Materials with a Machine Learning Potential</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Nils-Ruben Skogemyr et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20063">2610.20063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20154.html">Access Rate-Dependent Endurance Behavior of Ferroelectric Hafnium Zirconium Oxide Capacitors</a></div></td>
+<td>Roberto Guido et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20154">2610.20154</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20779.html">Enabling large language model agents for high-fidelity many-body perturbation theory calculations</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Benran Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.20779">2610.20779</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20886.html">Material dependence of direct light-induced charge injection from metallic nanoparticles into adsorbates</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Jordan Alan Edwards et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20886">2610.20886</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-14</td>
@@ -29,15 +83,117 @@ current_window: 30d
 </tr>
 <tr class="paper">
 <td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17854.html">ARES: a plane-wave density-functional-theory code in Rust</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Zehan Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17854">2610.17854</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17943.html">WannierSTM: Efficient superconducting scanning-probe spectroscopy from maximally localized Wannier functions</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Oscar Moreno Segura et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17943">2610.17943</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18631.html">Momentum conservation for ab initio calculations with pseudopotentials via a phase space electronic structure formulation</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
 <td>Guy Ohad et al.</td>
 <td><a href="http://arxiv.org/abs/2610.18631">2610.18631</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18665.html">Composition-controlled optical fingerprints and anisotropy of self-trapped excitons in double perovskites</a></div><div class="paper-tags"><a href="photocatalysis-30d.html">photocatalysis</a></div></td>
+<td>Simone Grillo et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18665">2610.18665</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18691.html">Orientation Estimation of Cryo-EM Images for Molecules with Arbitrary Symmetry by Semidefinite Programming</a></div></td>
+<td>Yunpeng Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18691">2610.18691</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18800.html">Spin textures at the Fermi surface of ferromagnets and associated torque</a></div></td>
+<td>T. Valet et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18800">2610.18800</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16091.html">Vibrational Fingerprints of Competing Structural and Polar Phases in CuInP2S6</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="phase-transition-30d.html">phase-transition</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
 <td>Pegah Mohammadi et al.</td>
 <td><a href="http://arxiv.org/abs/2610.16091">2610.16091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16467.html">Modelling the dynamics of the martensitic transformation in Ni$_2$MnGa with machine-learning force-fields</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Markus E. Gruner et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16467">2610.16467</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16521.html">Theoretical Investigation of Oxygen-Vacancy Diffusion in SrTiO$_3$ using Neural Network Potentials</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Kazutaka Nishiguchi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16521">2610.16521</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16528.html">Interlayer Registry Controls Polar Topology in Twisted Bilayer h-BN</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
+<td>Di Fan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16528">2610.16528</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16629.html">Single-electron Fluorine Bonding. I. The SEFB-15 and CSFB-14 Benchmark Datasets, Reference Binding Energies and Intermolecular Bond Distances: Assessment of M06-2X density functional</a></div></td>
+<td>Govinda Prasad Khanal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16629">2610.16629</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16788.html">Information Entropy as a Sensitive Diagnostic of Relaxation Dynamics in a Quasiperiodic Mott Insulator</a></div></td>
+<td>N. D. Chavda et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16788">2610.16788</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16827.html">The Quantum Character Transform</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Kagwe A. Muchane</td>
+<td><a href="http://arxiv.org/abs/2610.16827">2610.16827</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16850.html">Trust-Limited Machine-Learning-Accelerated Nudged Elastic Band Calculations for Small-Polaron Hopping in Rutile TiO2</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Ashish Kumar Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16850">2610.16850</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16949.html">First-Principles Calculations of the Electron-Hole-Pair Creation Energy in Semiconductors and Dielectrics</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Dallin O. Nielsen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16949">2610.16949</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17148.html">H$_2$-Like Units and Pressure-Tunable High-$T_\mathrm{c}$ Superconductivity in NaH$_6$</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Tianran Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17148">2610.17148</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15591.html">Tersoff-NN: Hybrid Machine-Learned Bond-Order Extension of the Tersoff Potential</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Yusuke Nishimura et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15591">2610.15591</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14825.html">Selective faceting induced by Hexagonal Boron Nitride on curved Platinum substrate</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Alaa Mohammed Idris Bakhit et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14825">2610.14825</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14891.html">Pressure-transferable universal machine-learning potentials: the WBM-MatPES benchmark and Tuga-FF</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Pierre-Paul De Breuck et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14891">2610.14891</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-10</td>
@@ -530,29 +686,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22440.html">A low-symmetry ground state of dense two-dimensional hydrogen</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Cesare Cozza et al.</td>
 <td><a href="http://arxiv.org/abs/2609.22440">2609.22440</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19833.html">The Roadmap of Inorganic Computational Materials Databases: Capabilities, Credibility, Coverage, and the Open Frontier</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Miao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19833">2609.19833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20387.html">Ultralow-Tensile Strain Enables Exciton Funneling and Energy Transfer to Boost MoSe2 Photoluminescence Quantum Yield</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td> Gayatri et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20387">2609.20387</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20616.html">Magnon-Phonon Dynamics in Multidimensional Antiferromagnetic Oxides</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
-<td>Yogendra Limbu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20616">2609.20616</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20618.html">Spin-Lattice Dynamics and Interactions in Magnonic Spinels</a></div></td>
-<td>Hari Paudyal et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20618">2609.20618</a></td>
 </tr>
 </tbody></table>

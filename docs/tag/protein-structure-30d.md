@@ -17,6 +17,12 @@ current_window: 30d
 <tbody>
 <tr class="paper">
 <td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21125.html">Noise-Space Reward Alignment for Few-Step Generative Models</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
+<td>Woocheol Shin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21125">2610.21125</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21200.html">Poisoning the corpora of protein design systems during pre-training and retrieval</a></div><div class="paper-tags"><a href="protein-llm-30d.html">protein-llm</a></div></td>
 <td>Charalampos Koilakos et al.</td>
 <td><a href="http://arxiv.org/abs/2610.21200">2610.21200</a></td>
@@ -140,11 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24842.html">Towards Accurate Prediction of Mutation-Induced Changes in Protein Structure</a></div><div class="paper-tags"><a href="structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Zhuoyi Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.24842">2609.24842</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19770.html">TorchCraft: Unified binder design by inverting an all-atom structure predictor</a></div></td>
-<td> TorchCraft Team et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19770">2609.19770</a></td>
 </tr>
 </tbody></table>

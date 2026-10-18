@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-space — 360d</h1>
-  <span class="paper-count">122 papers</span>
+  <span class="paper-count">126 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <strong>360d</strong> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21205.html">A machine-learning-driven dataset of 144,111 polycyclic aromatic hydrocarbon infrared spectra for interpreting aromatic infrared bands</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Xinghong Mai et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21205">2610.21205</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19920.html">MolHop: Scaffold-Hopping Molecular Design with Agentic Reinforcement Learning</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Yanyi Su et al.</td>
+<td><a href="http://arxiv.org/abs/2610.19920">2610.19920</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15284.html">FragFlex: Fragment-Based Flexible Molecular Generation for Exploring Vast Chemical Space</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
+<td>Sihyun Park et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15284">2610.15284</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15190.html">Reparameterizing GFN1-xTB for Ionic Liquids</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>F. Stavarache et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15190">2610.15190</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14392.html">Atoms that Matter: Largest Materials Datasets Are 99% Redundant, and Local Chemistry Can Guide the Required 1%</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Evgeny Moerman et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14392">2610.14392</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11325.html">Isotope Effects at Classical Cost through Mass-Differentiable Machine Learning</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -740,11 +770,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12888.html">aims-PAX: Parallel Active eXploration for the automated construction of Machine Learning Force Fields</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Tobias Henkes et al.</td>
 <td><a href="http://arxiv.org/abs/2508.12888">2508.12888</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12961.html">Aligning Transformers with Continuous Feedback via Energy Rank Alignment</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Shriram Chennakesavalu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12961">2405.12961</a></td>
 </tr>
 </tbody></table>

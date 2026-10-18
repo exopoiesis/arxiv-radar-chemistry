@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">340 papers</span>
+  <span class="paper-count">343 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21075.html">Data-Driven Optimization of Seminumerical Exchange for SIMD CPUs</a></div></td>
+<td>Jesse DiCenso et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21075">2610.21075</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16379.html">Benchmarking a randomized quantum algorithm for estimating expectation values of molecular observables</a></div></td>
+<td>Anna Schroeder et al.</td>
+<td><a href="http://arxiv.org/abs/2610.16379">2610.16379</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16827.html">The Quantum Character Transform</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Kagwe A. Muchane</td>
+<td><a href="http://arxiv.org/abs/2610.16827">2610.16827</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14620.html">Dimension-independent eigenvalue approximation for sparse matrices</a></div></td>
+<td>Natalia Hajlasz et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14620">2610.14620</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10254.html">Benchmarking Modular Optimization Strategies for Parameterized Quantum Circuits</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
@@ -2048,11 +2072,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20236.html">Layer-to-Layer Knowledge Mixing in Graph Neural Network for Chemical Property Prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Teng Jiek See et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20236">2510.20236</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18817.html">High-order Equivariant Flow Matching for Density Functional Theory Hamiltonian Prediction</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Seongsu Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18817">2505.18817</a></td>
 </tr>
 </tbody></table>

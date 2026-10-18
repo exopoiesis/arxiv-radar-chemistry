@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>drug-discovery — all</h1>
-  <span class="paper-count">1041 papers</span>
+  <span class="paper-count">1043 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17765.html">PROTEAN: Beyond De Novo Generation - Can LLM Agents Perform Text-Guided Protein Structure Editing?</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
 <td>Encheng Su et al.</td>
 <td><a href="http://arxiv.org/abs/2610.17765">2610.17765</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18456.html">Learning Perturbation-Specific Representations through Conditional Energy Prior for Cellular Response Prediction</a></div></td>
+<td>Yuchen Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18456">2610.18456</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-13</td>
@@ -44,6 +50,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16975.html">MADDIE: Multi-Agent Drug Discovery Engine</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
 <td>Ye Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.16975">2610.16975</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15284.html">FragFlex: Fragment-Based Flexible Molecular Generation for Exploring Vast Chemical Space</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="diffusion-model-all.html">diffusion-model</a></div></td>
+<td>Sihyun Park et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15284">2610.15284</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-09</td>

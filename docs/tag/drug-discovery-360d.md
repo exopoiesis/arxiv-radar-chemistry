@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">508 papers</span>
+  <span class="paper-count">505 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3044,23 +3044,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21088.html">M-GLC: Motif-Driven Global-Local Context Graphs for Few-shot Molecular Property Prediction</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Xiangyang Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.21088">2510.21088</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.14621.html">JAMUN: Bridging Smoothed Molecular Dynamics and Score-Based Learning for Conformational Ensembles</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-function-360d.html">protein-function</a></div></td>
-<td>Ameya Daigavane et al.</td>
-<td><a href="http://arxiv.org/abs/2410.14621">2410.14621</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20103.html">Extending machine learning model for implicit solvation to free energy calculations</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Rishabh Dey et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20103">2510.20103</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20943.html">Meta-Learning for Cross-Task Generalization in Protein Mutation Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Srivathsan Badrinarayanan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20943">2510.20943</a></td>
 </tr>
 </tbody></table>

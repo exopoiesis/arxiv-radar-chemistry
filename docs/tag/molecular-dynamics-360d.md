@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1567 papers</span>
+  <span class="paper-count">1560 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9374,47 +9374,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21932.html">Emergent Microrobotic Behavior of Active Flexicles in Complex Environments</a></div></td>
 <td>Sophie Y. Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2510.21932">2510.21932</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.14621.html">JAMUN: Bridging Smoothed Molecular Dynamics and Score-Based Learning for Conformational Ensembles</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-function-360d.html">protein-function</a></div></td>
-<td>Ameya Daigavane et al.</td>
-<td><a href="http://arxiv.org/abs/2410.14621">2410.14621</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04808.html">Tracking electron capture processes in classical molecular dynamics simulations for spectral line broadening in plasmas</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>D. González-Herrero et al.</td>
-<td><a href="http://arxiv.org/abs/2502.04808">2502.04808</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13668.html">Viscosity, breakdown of Stokes-Einstein relation and dynamical heterogeneity in supercooled liquid Ge$_2$Sb$_2$Te$_5$ from simulations with a neural network potential</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Simone Marcorini et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13668">2506.13668</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20179.html">A follow-up on the sulphur atom popping model for MoS$_2$ memristor</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Sanchali Mitra et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20179">2509.20179</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20357.html">Self-diffusion in confined systems</a></div></td>
-<td>Manuel Mayo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20357">2510.20357</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20659.html">Kinetics of Peierls dimerization transition: Machine learning force-field approach</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Ho Jang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20659">2510.20659</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23621.html">Speeding Up MACE: Low-Precision Tricks for Equivarient Force Fields</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Alexandre Benoit</td>
-<td><a href="http://arxiv.org/abs/2510.23621">2510.23621</a></td>
 </tr>
 </tbody></table>

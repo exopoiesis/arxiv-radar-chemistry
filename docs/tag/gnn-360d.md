@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">379 papers</span>
+  <span class="paper-count">375 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2264,29 +2264,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22058.html">Pruning and Quantization Impact on Graph Neural Networks</a></div></td>
 <td>Khatoon Khedri et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22058">2510.22058</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.03456.html">Text to Band Gap: Pre-trained Language Models as Encoders for Semiconductor Band Gap Prediction</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Ying-Ting Yeh et al.</td>
-<td><a href="http://arxiv.org/abs/2501.03456">2501.03456</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06045.html">Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics</a></div></td>
-<td>Tobias Würth et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06045">2506.06045</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20103.html">Extending machine learning model for implicit solvation to free energy calculations</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Rishabh Dey et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20103">2510.20103</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20236.html">Layer-to-Layer Knowledge Mixing in Graph Neural Network for Chemical Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Teng Jiek See et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20236">2510.20236</a></td>
 </tr>
 </tbody></table>

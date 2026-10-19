@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">432 papers</span>
+  <span class="paper-count">429 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2588,23 +2588,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09837.html">Domain Knowledge Infused Conditional Generative Models for Accelerating Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Bing Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09837">2510.09837</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11224.html">GenLit: Reformulating Single-Image Relighting as Video Generation</a></div></td>
-<td>Shrisha Bharadwaj et al.</td>
-<td><a href="http://arxiv.org/abs/2412.11224">2412.11224</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20148.html">Understanding Mechanistic Role of Structural and Functional Connectivity in Tau Propagation Through Multi-Layer Modeling</a></div></td>
-<td>Tingting Dan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20148">2510.20148</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20661.html">UltraHR-100K: Enhancing UHR Image Synthesis with A Large-Scale High-Quality Dataset</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Chen Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20661">2510.20661</a></td>
 </tr>
 </tbody></table>

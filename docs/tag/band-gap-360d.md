@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">413 papers</span>
+  <span class="paper-count">411 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2480,17 +2480,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07785.html">Algorithmic differentiation for plane-wave DFT: materials design, error control and learning model parameters</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Niklas Frederik Schmitz et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07785">2509.07785</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.03456.html">Text to Band Gap: Pre-trained Language Models as Encoders for Semiconductor Band Gap Prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Ying-Ting Yeh et al.</td>
-<td><a href="http://arxiv.org/abs/2501.03456">2501.03456</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02728.html">Flat band driven itinerant magnetism in the Co-pnictides CaCo$_2$As$_2$ and LaCo$_2$P$_2$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>D. Subires et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02728">2503.02728</a></td>
 </tr>
 </tbody></table>

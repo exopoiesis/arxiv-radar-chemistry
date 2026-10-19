@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">480 papers</span>
+  <span class="paper-count">479 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2888,11 +2888,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23040.html">LLM Meets Diffusion: A Hybrid Framework for Crystal Material Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Subhojyoti Khastagir et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23040">2510.23040</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10994.html">Space Group Equivariant Crystal Diffusion</a></div></td>
-<td>Rees Chang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10994">2505.10994</a></td>
 </tr>
 </tbody></table>

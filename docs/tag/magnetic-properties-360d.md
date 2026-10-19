@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">342 papers</span>
+  <span class="paper-count">341 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2060,11 +2060,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22013.html">First-principles study of phase stability and magnetic properties of B2 AlCr, AlMn, AlFe, AlCo and AlNi aluminides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Haireguli Aihemaiti et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22013">2510.22013</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02728.html">Flat band driven itinerant magnetism in the Co-pnictides CaCo$_2$As$_2$ and LaCo$_2$P$_2$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>D. Subires et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02728">2503.02728</a></td>
 </tr>
 </tbody></table>

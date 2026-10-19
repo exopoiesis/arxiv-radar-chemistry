@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-model — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17109.html">Masked Diffusion for Travel Diaries Synthesis</a></div></td>
 <td>Pascal Jutras-Dubé et al.</td>
 <td><a href="http://arxiv.org/abs/2610.17109">2610.17109</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15284.html">FragFlex: Fragment-Based Flexible Molecular Generation for Exploring Vast Chemical Space</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="drug-discovery-7d.html">drug-discovery</a></div></td>
-<td>Sihyun Park et al.</td>
-<td><a href="http://arxiv.org/abs/2610.15284">2610.15284</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15724.html">Uncovering the Generative Landscape of Diffusion Models: A Spectral-Guided Quality-Diversity Diffusion Framework</a></div></td>
-<td>Hannah Janmohamed et al.</td>
-<td><a href="http://arxiv.org/abs/2610.15724">2610.15724</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-representation — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30433.html">Improving Molecular-Morphology Contrastive Pretraining using Deep-Learning-based Morphology Profiles</a></div></td>
 <td>Jie Li et al.</td>
 <td><a href="http://arxiv.org/abs/2609.30433">2609.30433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21542.html">Enriching molecular Raman spectroscopy with vibrational strong coupling</a></div></td>
-<td>Matteo Castagnola et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21542">2609.21542</a></td>
 </tr>
 </tbody></table>

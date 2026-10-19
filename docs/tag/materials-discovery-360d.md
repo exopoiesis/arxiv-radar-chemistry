@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">259 papers</span>
+  <span class="paper-count">257 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1556,17 +1556,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11569.html">The dark side of the forces: assessing non-conservative force models for atomistic machine learning</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Filippo Bigi et al.</td>
 <td><a href="http://arxiv.org/abs/2412.11569">2412.11569</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20125.html">Good Enough is Better: Feasibility vs. Pareto-Optimality in Alloy Design</a></div></td>
-<td>Cayden Maguire et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20125">2510.20125</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20976.html">L^2M^3OF: A Large Language Multimodal Model for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="mof-360d.html">mof</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Jiyu Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20976">2510.20976</a></td>
 </tr>
 </tbody></table>

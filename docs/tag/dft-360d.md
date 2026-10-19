@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2035 papers</span>
+  <span class="paper-count">2028 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12182,47 +12182,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22019.html">Highly Tunable Phonon Polaritons via Metal Intercalation</a></div><div class="paper-tags"><a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Mariia Stepanova et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22019">2510.22019</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02728.html">Flat band driven itinerant magnetism in the Co-pnictides CaCo$_2$As$_2$ and LaCo$_2$P$_2$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>D. Subires et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02728">2503.02728</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20179.html">A follow-up on the sulphur atom popping model for MoS$_2$ memristor</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Sanchali Mitra et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20179">2509.20179</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09839.html">Raman Digital Twin of Monolayer Janus Transition Metal Dichalcogenides</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Johnathan Kowalski et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09839">2510.09839</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20420.html">PBr3 Adsorption and Dissociation on the Si(100) Surface</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Vladimir M. Shevlyuga et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20420">2510.20420</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20426.html">Vacancy diffusion on a brominated Si(100) surface: Critical effect of the dangling bond charge state</a></div></td>
-<td>T. V. Pavlova et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20426">2510.20426</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20497.html">Transitions between liquid crystalline phases investigated by dielectric and infra-red spectroscopies</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Aleksandra Deptuch et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20497">2510.20497</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20661.html">UltraHR-100K: Enhancing UHR Image Synthesis with A Large-Scale High-Quality Dataset</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Chen Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20661">2510.20661</a></td>
 </tr>
 </tbody></table>

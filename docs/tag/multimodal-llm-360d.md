@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>multimodal-llm — 360d</h1>
-  <span class="paper-count">89 papers</span>
+  <span class="paper-count">88 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <a href="multimodal-llm-90d.html">90d</a> <strong>360d</strong> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -542,11 +542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07246.html">ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area</a></div><div class="paper-tags"><a href="chemical-llm-360d.html">chemical-llm</a></div></td>
 <td>Junxian Li et al.</td>
 <td><a href="http://arxiv.org/abs/2408.07246">2408.07246</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20223.html">Beyond Text: Multimodal Jailbreaking of Vision-Language and Audio Models through Perceptually Simple Transformations</a></div></td>
-<td>Divyanshu Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20223">2510.20223</a></td>
 </tr>
 </tbody></table>

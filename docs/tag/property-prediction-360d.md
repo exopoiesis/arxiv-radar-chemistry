@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">242 papers</span>
+  <span class="paper-count">239 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1448,23 +1448,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21574.html">Leveraging Classical Algorithms for Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Jason Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.21574">2510.21574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20236.html">Layer-to-Layer Knowledge Mixing in Graph Neural Network for Chemical Property Prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Teng Jiek See et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20236">2510.20236</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20943.html">Meta-Learning for Cross-Task Generalization in Protein Mutation Property Prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Srivathsan Badrinarayanan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20943">2510.20943</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20976.html">L^2M^3OF: A Large Language Multimodal Model for Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mof-360d.html">mof</a></div></td>
-<td>Jiyu Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20976">2510.20976</a></td>
 </tr>
 </tbody></table>

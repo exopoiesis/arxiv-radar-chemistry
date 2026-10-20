@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24458.html">Generative Retrieval for Reverse Target Fishing with a Proteome-Scale Benchmark</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
+<td>Zhichao Deng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24458">2610.24458</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17164.html">Learning Perceptual Geometry of Natural Odor Mixtures from LLM-Derived Descriptors</a></div></td>
@@ -920,17 +926,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22538.html">Iteratively Refined Early Interaction Alignment for Subgraph Matching based Graph Retrieval</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Ashwin Ramachandran et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22538">2510.22538</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09837.html">Domain Knowledge Infused Conditional Generative Models for Accelerating Drug Discovery</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Bing Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09837">2510.09837</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23640.html">Structure-Aware Fusion with Progressive Injection for Multimodal Molecular Representation Learning</a></div></td>
-<td>Zihao Jing et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23640">2510.23640</a></td>
 </tr>
 </tbody></table>

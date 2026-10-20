@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mof — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="mof-7d.html">7d</a> <strong>30d</strong> <a href="mof-90d.html">90d</a> <a href="mof-360d.html">360d</a> <a href="mof-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26689.html">Measurement-efficient energy estimator for quantum chemistry of photodynamic materials</a></div><div class="paper-tags"><a href="quantum-computing-30d.html">quantum-computing</a></div></td>
+<td>Connor Lenihan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26689">2610.26689</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19404.html">ActMOF: Mapping Reticular Synthesis through Active Learning</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="bayesian-optimization-30d.html">bayesian-optimization</a></div></td>

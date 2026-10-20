@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>diffusion-model — all</h1>
-  <span class="paper-count">795 papers</span>
+  <span class="paper-count">799 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23144.html">From GAN-Based Models to GPT-5: A Taxonomy-Guided Study of Human Performance in Detecting Deepfake Face Images</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="multimodal-llm-all.html">multimodal-llm</a></div></td>
+<td>Zhiqing Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23144">2610.23144</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25105.html">Generative marginal learning for finite-size molecular simulation with application to stress calculation</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Cheng Yuan</td>
+<td><a href="http://arxiv.org/abs/2610.25105">2610.25105</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22763.html">Acquisition Function-Guided Generation for Bayesian Optimization over Discrete Spaces</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="generative-model-all.html">generative-model</a></div></td>
+<td>Tommaso Ancilli et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22763">2610.22763</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23265.html">ADT: All-Atom Diffusion Tokenizer for 3D Molecular Structures</a></div><div class="paper-tags"><a href="molecular-generation-all.html">molecular-generation</a></div></td>
+<td>Xuantuo Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23265">2610.23265</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19499.html">Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech</a></div></td>

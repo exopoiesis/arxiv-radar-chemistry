@@ -1,0 +1,10 @@
+<article class="abstract-fragment" data-id="2610.24938">
+<h1 class="abstract-title">T-MUON: Tensorizing Muon via t-SVD for Large Language Model Pre-training</h1>
+<p class="abstract-authors">Dongyang Li, Mingsong Yan, Zheng Zhang, Sui Tang</p>
+<p class="abstract-meta"><span><a href="http://arxiv.org/abs/2610.24938" rel="nofollow noopener">arXiv:2610.24938</a></span><span class="sep">·</span><span>cs.LG</span><span class="sep">·</span><span>Published 2026-10-18</span></p>
+<div class="abstract-body">Muon has recently emerged as a strong optimizer for large language model pretraining by exploiting matrix structure through polar orthogonalization. However, it processes each parameter matrix independently, whereas recent tensor-aware extensions of Muon jointly update groups of eligible matrix parameters through matrix unfoldings. In contrast, we propose T-MUON, a t-SVD-based generalization that groups structurally related Transformer gradients into third-order tensors and defines the corresponding Muon-style update directly through the $M$-transform. We show that the exact T-MUON update is a steepest-descent direction under the $\star_M$-spectral norm and establish a convergence guarantee. Across GPT-2-style and LLaMA-style models from 51M to 1.3B parameters trained on FineWeb and FineWeb-Edu, head-wise T-MUON with the identity transform consistently achieves lower validation perplexity than AdamW, Muon, and variants using DFT, DCT, or DST transforms. These gains persist in additional experiments with longer context lengths and larger token budgets, although the preferred tensorization mode varies across settings.</div>
+<p class="abstract-tagline"><span class="label">Topics</span>Large Language Models &amp; Materials</p>
+<p class="abstract-tagline"><span class="label">Tags</span><a href="../tag/dft-30d.html">dft</a></p>
+<p class="abstract-tagline"><span class="label">arXiv categories</span>cs.LG</p>
+<p class="abstract-actions"><a href="http://arxiv.org/abs/2610.24938" rel="nofollow noopener">arXiv abstract page</a><a href="http://arxiv.org/pdf/2610.24938" rel="nofollow noopener">PDF</a></p>
+</article>

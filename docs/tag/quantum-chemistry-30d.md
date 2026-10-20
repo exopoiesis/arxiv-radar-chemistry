@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25260.html">Spatial Discretization Error for Quantum Chemistry Simulation</a></div></td>
+<td>Di Fang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25260">2610.25260</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21075.html">Data-Driven Optimization of Seminumerical Exchange for SIMD CPUs</a></div></td>
 <td>Jesse DiCenso et al.</td>
@@ -146,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23621.html">On the statistical theory of strong electrolytes and high-temperature plasmas: New applications of the work by Yukhnovskii and Kelbg II</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
 <td>W. Ebeling et al.</td>
 <td><a href="http://arxiv.org/abs/2609.23621">2609.23621</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22729.html">Can Chemically Inspired Parameter Initialization Mitigate Barren Plateaus in Variational Quantum Eigensolvers?</a></div></td>
-<td>Zhangyu Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.22729">2609.22729</a></td>
 </tr>
 </tbody></table>

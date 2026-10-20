@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">375 papers</span>
+  <span class="paper-count">373 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25775.html">Crystal Structure Based Graph Neural Network And LLM Multi-Modal Approach for Material Magnetic Ordering Prediction</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
+<td>Adam Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25775">2610.25775</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20374.html">Effective Graph Neural Representation of Chain Architectures of Block Copolymers Tested by Predicting RPA Instability Limits</a></div></td>
@@ -2246,23 +2252,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22538.html">Iteratively Refined Early Interaction Alignment for Subgraph Matching based Graph Retrieval</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Ashwin Ramachandran et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22538">2510.22538</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.21574.html">Leveraging Classical Algorithms for Graph Neural Networks</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Jason Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.21574">2510.21574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22008.html">A Multimodal Human Protein Embeddings Database: DeepDrug Protein Embeddings Bank (DPEB)</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Md Saiful Islam Sajol et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22008">2510.22008</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22058.html">Pruning and Quantization Impact on Graph Neural Networks</a></div></td>
-<td>Khatoon Khedri et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22058">2510.22058</a></td>
 </tr>
 </tbody></table>

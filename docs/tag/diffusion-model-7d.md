@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>diffusion-model — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23144.html">From GAN-Based Models to GPT-5: A Taxonomy-Guided Study of Human Performance in Detecting Deepfake Face Images</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a> · <a href="multimodal-llm-7d.html">multimodal-llm</a></div></td>
+<td>Zhiqing Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23144">2610.23144</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25105.html">Generative marginal learning for finite-size molecular simulation with application to stress calculation</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Cheng Yuan</td>
+<td><a href="http://arxiv.org/abs/2610.25105">2610.25105</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22763.html">Acquisition Function-Guided Generation for Bayesian Optimization over Discrete Spaces</a></div><div class="paper-tags"><a href="bayesian-optimization-7d.html">bayesian-optimization</a> · <a href="generative-model-7d.html">generative-model</a></div></td>
+<td>Tommaso Ancilli et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22763">2610.22763</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23265.html">ADT: All-Atom Diffusion Tokenizer for 3D Molecular Structures</a></div><div class="paper-tags"><a href="molecular-generation-7d.html">molecular-generation</a></div></td>
+<td>Xuantuo Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23265">2610.23265</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19499.html">Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech</a></div></td>
@@ -26,23 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20812.html">Modeling Transport and Mechanics in Anion Exchange Membranes to Optimize Continuous CO2 Separations</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
 <td>Samaneh Bayati et al.</td>
 <td><a href="http://arxiv.org/abs/2610.20812">2610.20812</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16051.html">How the Classical Baseline Shapes Machine-Learning Speed Claims in Topology Optimization</a></div></td>
-<td>Shaoliang Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16051">2610.16051</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16582.html">Characterizing and Mitigating Distributional Bias in Physics-Informed Generative Models</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a></div></td>
-<td>Tanja Bien et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16582">2610.16582</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17109.html">Masked Diffusion for Travel Diaries Synthesis</a></div></td>
-<td>Pascal Jutras-Dubé et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17109">2610.17109</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25260.html">Spatial Discretization Error for Quantum Chemistry Simulation</a></div></td>
+<td>Di Fang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25260">2610.25260</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21075.html">Data-Driven Optimization of Seminumerical Exchange for SIMD CPUs</a></div></td>
 <td>Jesse DiCenso et al.</td>
@@ -356,11 +362,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06415.html">Ground-State Energy Estimation of HeH$^{+}$, ArH$^{+}$, and H$_2$O via Sample-Based Quantum Diagonalization</a></div></td>
 <td>Jubin Park et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06415">2608.06415</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19318.html">SoK: Adversarial Robustness of the Variational Quantum Eigensolver via Red-Teaming</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
-<td>Ahmed Azaz Humdoon et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19318">2607.19318</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">328 papers</span>
+  <span class="paper-count">326 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1970,17 +1970,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23303.html">Ground and excited potential energy surfaces for CaF+Ca interactions and isotope exchange reactions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Dibyendu Sardar et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23303">2510.23303</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11569.html">The dark side of the forces: assessing non-conservative force models for atomistic machine learning</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Filippo Bigi et al.</td>
-<td><a href="http://arxiv.org/abs/2412.11569">2412.11569</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22435.html">Computing Solvation Shell Dynamics and Energetics in Electron Transfer Reactions via Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="string-method-360d.html">string-method</a></div></td>
-<td>Zhenyu Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22435">2510.22435</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">506 papers</span>
+  <span class="paper-count">505 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3044,11 +3044,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23379.html">Symbolic Neural Generation with Applications to Lead Discovery in Drug Design</a></div></td>
 <td>Ashwin Srinivasan et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23379">2510.23379</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22130.html">CAP: Commutative Algebra Prediction of Protein-Nucleic Acid Binding Affinities</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Mushal Zia et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22130">2510.22130</a></td>
 </tr>
 </tbody></table>

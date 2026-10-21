@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,11 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24213.html">Integrating Factual and Normative Industrial Knowledge via Constraint-Aware Graph Attention for Process Plan Recommendation</a></div></td>
 <td>Yuntong Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2607.24213">2607.24213</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20058.html">Reading and Steering Representations of Materials-Science Mechanisms in an Open-Weight Language Model</a></div></td>
-<td>Markus J. Buehler</td>
-<td><a href="http://arxiv.org/abs/2607.20058">2607.20058</a></td>
 </tr>
 </tbody></table>

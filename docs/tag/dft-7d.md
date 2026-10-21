@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,41 +254,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22394.html">Visualizing surface-reaction-driven chloride migration and cascading failure in sulfide solid electrolytes</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a></div></td>
 <td>Xiaoya He et al.</td>
 <td><a href="http://arxiv.org/abs/2610.22394">2610.22394</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17854.html">ARES: a plane-wave density-functional-theory code in Rust</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a></div></td>
-<td>Zehan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17854">2610.17854</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17943.html">WannierSTM: Efficient superconducting scanning-probe spectroscopy from maximally localized Wannier functions</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Oscar Moreno Segura et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17943">2610.17943</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18020.html">Development of a Minimal Auxiliary Basis for the Particle--Particle Random Phase Approximation (ppRPA): Accelerating Excited-State Calculations in Diradical Nanoparticles and Periodic Systems</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Yuchen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18020">2610.18020</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18137.html">Local-resolvent formulation and assessment of linear-scaling Kohn-Sham calculations</a></div></td>
-<td>Albert Linda</td>
-<td><a href="http://arxiv.org/abs/2610.18137">2610.18137</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18317.html">Accurately Generalizing Deep-Learning Hamiltonian Methods to Plane-Wave Density Functional Theory</a></div><div class="paper-tags"><a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Chuntian Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18317">2610.18317</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19168.html">Symmetry-selected extreme shear compliance in a stable carbon monolayer</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
-<td>J. W. González et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19168">2610.19168</a></td>
 </tr>
 </tbody></table>

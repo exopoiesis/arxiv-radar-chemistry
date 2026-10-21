@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>crystal-structure — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22600.html">A Comprehensive Survey of Crystal Structural Prototypes: Construction, Classification, and Applications</a></div><div class="paper-tags"><a href="structure-prediction-7d.html">structure-prediction</a></div></td>
 <td>Jianjun Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.22600">2610.22600</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18550.html">Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Baikui Li et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18550">2610.18550</a></td>
 </tr>
 </tbody></table>

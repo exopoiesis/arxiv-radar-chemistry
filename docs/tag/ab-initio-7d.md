@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,41 +110,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21015.html">MASON: Materials Atomistic Structure builder Operated in Natural language</a></div></td>
 <td>Xinyue Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.21015">2610.21015</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17854.html">ARES: a plane-wave density-functional-theory code in Rust</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Zehan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17854">2610.17854</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17943.html">WannierSTM: Efficient superconducting scanning-probe spectroscopy from maximally localized Wannier functions</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Oscar Moreno Segura et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17943">2610.17943</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18631.html">Momentum conservation for ab initio calculations with pseudopotentials via a phase space electronic structure formulation</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>Guy Ohad et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18631">2610.18631</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18665.html">Composition-controlled optical fingerprints and anisotropy of self-trapped excitons in double perovskites</a></div><div class="paper-tags"><a href="photocatalysis-7d.html">photocatalysis</a></div></td>
-<td>Simone Grillo et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18665">2610.18665</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18691.html">Orientation Estimation of Cryo-EM Images for Molecules with Arbitrary Symmetry by Semidefinite Programming</a></div></td>
-<td>Yunpeng Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18691">2610.18691</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18800.html">Spin textures at the Fermi surface of ferromagnets and associated torque</a></div></td>
-<td>T. Valet et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18800">2610.18800</a></td>
 </tr>
 </tbody></table>

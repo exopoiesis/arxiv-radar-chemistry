@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">140 papers</span>
+  <span class="paper-count">136 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -830,29 +830,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25317.html">Impact of Chemical Clustering on the Structural, Topological, and Functional Properties of Ba(Zr$_x$Ti$_{1-x}$)O$_3$: An Atomistic Simulation Study</a></div><div class="paper-tags"><a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
 <td>Matias Baldassin et al.</td>
 <td><a href="http://arxiv.org/abs/2609.25317">2609.25317</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23564.html">Dual Role of Mobile Interstitials in Defect Kinetics: From Retardation to Acceleration</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Shihao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23564">2609.23564</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23575.html">Multiscale Modeling of Ion Transport in Nanopores: Fitting Implicit-Water Radial Diffusion Profiles to Explicit-Water Molecular Dynamics</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Mónika Valiskó et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23575">2609.23575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23620.html">Molecular dynamics simulations of DMSO-MeOH liquid mixtures. Effects of force fields on mixing properties</a></div></td>
-<td>M. Cruz-Sánchez et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23620">2609.23620</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23905.html">A Spatio-Temporal Generalisation of Green Kubo</a></div></td>
-<td>E. R. Smith et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23905">2609.23905</a></td>
 </tr>
 </tbody></table>

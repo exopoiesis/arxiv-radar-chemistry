@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,23 +314,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26547.html">Topology-Stratified Materials Discovery with A Flow-Based Generative Model</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Jingyi Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26547">2609.26547</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23290.html">Stochastic Flow Map for Count Data</a></div></td>
-<td>Ganchao Wei</td>
-<td><a href="http://arxiv.org/abs/2609.23290">2609.23290</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23761.html">GenVoid: Uncertainty-Aware Learning of Subsurface Material Defects with an Experimentally Validated Physics-Informed Generative Model</a></div></td>
-<td>Trishit Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23761">2609.23761</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23907.html">A discrete generative model of neuronal spiking activity on microelectrode arrays</a></div></td>
-<td>Md Sayed Tanveer et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23907">2609.23907</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">200 papers</span>
+  <span class="paper-count">199 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1208,11 +1208,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23412.html">Quantum fluctuations determine the spin-flop transition in hematite</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Tobias Dannegger et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23412">2510.23412</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.06250.html">Phase transitions in the inner crust of neutron stars within the superfluid band theory: Competition between $^1\text{S}_0$ pairing and spin polarization under finite temperature and magnetic field</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Kenta Yoshimura et al.</td>
-<td><a href="http://arxiv.org/abs/2503.06250">2503.06250</a></td>
 </tr>
 </tbody></table>

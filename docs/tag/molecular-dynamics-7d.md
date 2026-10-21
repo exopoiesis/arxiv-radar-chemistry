@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,29 +218,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22402.html">Synergistic Self-Driven Nanoconfinement and Dynamical Heterogeneity in Deeply Supercooled &quot;No Man&#x27;s Land&quot; Water</a></div><div class="paper-tags"><a href="phase-transition-7d.html">phase-transition</a></div></td>
 <td>Péter Süle</td>
 <td><a href="http://arxiv.org/abs/2610.22402">2610.22402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17774.html">Hydrogen-Bond Density Drives the Order-Disorder Phase Transition from Orientational to Vibrational in Polyalcohol Plastic Crystals</a></div><div class="paper-tags"><a href="phase-transition-7d.html">phase-transition</a></div></td>
-<td>Ares Sanuy et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17774">2610.17774</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18250.html">Molecular-Dynamics Verification of Effective Gravity under Heat Conduction</a></div></td>
-<td>Satoshi Uruno et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18250">2610.18250</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18357.html">Ionic gradients shape the spatial organization and dynamics of supramolecular polymers</a></div><div class="paper-tags"><a href="materials-science-7d.html">materials-science</a></div></td>
-<td>Claudio Perego et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18357">2610.18357</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18936.html">Modeling the Microenvironmental Dynamics of Adenoid Cystic Carcinoma in Lacrimal Gland with Treatment Intervention</a></div></td>
-<td>Ayasa Akter et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18936">2610.18936</a></td>
 </tr>
 </tbody></table>

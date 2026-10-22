@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29189.html">Reasoning-Search-Augmented LLMs: An Operational Taxonomy, Benchmark Analysis and Controlled Evidence Synthesis</a></div></td>
+<td>Biswas Poudel et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29189">2610.29189</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21755.html">DeciCAD: Harness-Grounded Learning of Action Policies for CAD Agents</a></div></td>
 <td>Yufeng Peng et al.</td>
 <td><a href="http://arxiv.org/abs/2610.21755">2610.21755</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19920.html">MolHop: Scaffold-Hopping Molecular Design with Agentic Reinforcement Learning</a></div><div class="paper-tags"><a href="chemical-space-7d.html">chemical-space</a> · <a href="molecular-generation-7d.html">molecular-generation</a></div></td>
-<td>Yanyi Su et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19920">2610.19920</a></td>
 </tr>
 </tbody></table>

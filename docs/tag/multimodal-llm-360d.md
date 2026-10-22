@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28266.html">VGL-stGen: Learning a shared multimodal model for lung histology and spatial transcriptomics</a></div></td>
+<td>Haenara Shin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.28266">2610.28266</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23144.html">From GAN-Based Models to GPT-5: A Taxonomy-Guided Study of Human Performance in Detecting Deepfake Face Images</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Zhiqing Guo et al.</td>
@@ -554,11 +560,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26824.html">LeMat-Synth: a multi-modal toolbox to curate broad synthesis procedure databases from scientific literature</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Magdalena Lederbauer et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26824">2510.26824</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07246.html">ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area</a></div><div class="paper-tags"><a href="chemical-llm-360d.html">chemical-llm</a></div></td>
-<td>Junxian Li et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07246">2408.07246</a></td>
 </tr>
 </tbody></table>

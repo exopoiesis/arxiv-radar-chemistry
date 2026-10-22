@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26701.html">Challenging Atomistic Foundation Models on Disordered Carbons</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Joseph Hart et al.</td>
 <td><a href="http://arxiv.org/abs/2610.26701">2610.26701</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27230.html">Magnolia: A Persistent-Memory Agent Framework for Computational Chemistry</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Tao Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27230">2610.27230</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-18</td>
@@ -818,17 +824,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27036.html">An open benchmark for machine learning-based polymer property prediction</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Robert W. Learsch et al.</td>
 <td><a href="http://arxiv.org/abs/2609.27036">2609.27036</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24907.html">Nucleosome simulations suggest mechanisms of electrostatically-driven mesoscale chromatin evolution</a></div></td>
-<td>Siddhartha G. Jena</td>
-<td><a href="http://arxiv.org/abs/2609.24907">2609.24907</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25317.html">Impact of Chemical Clustering on the Structural, Topological, and Functional Properties of Ba(Zr$_x$Ti$_{1-x}$)O$_3$: An Atomistic Simulation Study</a></div><div class="paper-tags"><a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Matias Baldassin et al.</td>
-<td><a href="http://arxiv.org/abs/2609.25317">2609.25317</a></td>
 </tr>
 </tbody></table>

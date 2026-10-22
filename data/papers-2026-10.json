@@ -15110,5 +15110,337 @@
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-10-19"
+ },
+ "2610.27230": {
+  "abstract": "Chemistry has recently entered a high-data regime as molecular databases from high-throughput platforms or computational studies have become available. Increasing automation within the chemical sciences leads to a more digital and precision chemistry. Dedicated scientific agents are becoming central to guiding the chemist through an ever-increasing amount of data and findings, including negative ones. Here, we introduce Magnolia, a persistent-memory artificial intelligence agent framework that integrates computational protocols, from docking to quantum chemistry, lab notebooks and chat logs relying on large language models (LLMs). It relies on a three-tier memory system: session-level observations are automatically captured and distilled into structured learnings, confirmed and elevated to project-tier entries and, when human-validated, promoted to cross-project rules that actively guide subsequent work and provide direct chemical feedback. We illustrate Magnolia on four case studies: quantum-chemical evaluation of aromatic systems (COMPAS database), molecular dynamics of butane and of modified DNA, and a protein-peptide docking campaign. Across these projects, Magnolia tracked 317 runs and accumulated 116 project-tier entries, from which four cross-project rules were promoted; in controlled replays of four tasks, runs with memory passed the checks that runs without it failed (for example, ten of ten docking-configuration checks, against one to four of ten). By combining automation, reproducibility, and human-in-the-loop control, our Magnolia framework streamlines docking, molecular dynamics and quantum chemistry calculations with direct analysis and LLM-augmented feedback, offering accelerated access to computational (bio)chemistry.",
+  "authors": [
+   "Tao Jiang",
+   "Benjamin Navet",
+   "Yousouf Taghzouti",
+   "Fabien Gandon",
+   "Louis-Félix Nothias",
+   "Élise Dumont"
+  ],
+  "categories": [
+   "cs.AI",
+   "q-bio.BM"
+  ],
+  "comment": "https://github.com/HolobiomicsLab/Magnolia-AI",
+  "first_author": "Tao Jiang",
+  "pdf_url": "http://arxiv.org/pdf/2610.27230",
+  "primary_category": "cs.AI",
+  "published": "2026-10-19",
+  "tags": [
+   "molecular-dynamics",
+   "quantum-chemistry"
+  ],
+  "title": "Magnolia: A Persistent-Memory Agent Framework for Computational Chemistry",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-19"
+ },
+ "2610.27355": {
+  "abstract": "On-chip thermal processing is a key technology for materials discovery across all disciplines of the natural sciences. Here, we present a microfabricated heat-delivery platform that enables reaction-induced localized on-chip annealing up to 1400°C. A buried reactive multilayer combined with a nanometric diffusion barrier provide ultra-fast heating and quenching rates on the order of 10$^6$°C s$^{-1}$ as illustrated by the generation of ultra-high aspect ratio microstructures during rapid-solidification and the stabilization of dopant-free tetragonal zirconia at room temperature. Rapid kinetics also enable the observation of transient states of capillary-driven hole collapse in melts. Our work expands localized high-temperature processing routes and offers a material-independent approach for rapid screening of multidimensional nanomaterials on and off-equilibrium.",
+  "authors": [
+   "Nensi Toncich",
+   "Nerea Abando",
+   "Henning Galinski",
+   "Frans Spaepen",
+   "Ralph Spolenak"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.app-ph"
+  ],
+  "comment": "11 pages, 4 figures",
+  "first_author": "Nensi Toncich",
+  "pdf_url": "http://arxiv.org/pdf/2610.27355",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-19",
+  "tags": [
+   "materials-discovery",
+   "materials-science",
+   "thermal-properties"
+  ],
+  "title": "Reaction-induced Localized Annealing for On-chip Materials Discovery",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-19"
+ },
+ "2610.27762": {
+  "abstract": "Deep generative modeling has achieved remarkable progress in crystal generation. Given the rich symmetries inherent in crystalline structures, recent work has sought to explicitly incorporate space-group symmetry into generative models, enabling more effective exploration of novel symmetry templates. Yet introducing symmetry templates increases the combinatorial complexity of stoichiometric relationships between atomic species and crystallographic sites, while creating a fundamental tension between flexible exploration of discrete crystallographic templates and faithful realization of these templates as continuous three-dimensional structures. To address these challenges, we propose CrystalAR, a unified autoregressive framework that models Wyckoff symmetry templates and complete crystal structures within a single generative sequence. Specifically, CrystalAR reformulates continuous coordinate generation as a symmetry-conditioned hierarchy of discrete spatial localization decisions, autoregressively refining the positions of all symmetry-inequivalent sites across resolution levels while jointly modeling their spatial configuration within each level. This discrete hierarchical formulation further enables constraint-aware search over both crystallographic templates and geometric realizations. As a result, CrystalAR retains strong symmetry-template generation capability while achieving competitive de novo generation performance and template-free crystal structure prediction (CSP) accuracy. These results suggest that symmetry-template generation can be retained alongside broadly competitive de novo generation performance and competitive CSP without reliance on symmetry templates retrieved from prior data, providing a promising alternative paradigm for symmetry-preserving crystal generation.",
+  "authors": [
+   "Ziqiao Meng",
+   "Rongsheng Chen",
+   "Zhi Zheng",
+   "Nikita Kazeev",
+   "Zhenkun Wang",
+   "Andrey Ustyuzhanin",
+   "Wee Sun Lee"
+  ],
+  "categories": [
+   "cs.AI",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ziqiao Meng",
+  "pdf_url": "http://arxiv.org/pdf/2610.27762",
+  "primary_category": "cs.AI",
+  "published": "2026-10-20",
+  "tags": [
+   "crystal-structure",
+   "drug-discovery",
+   "generative-model",
+   "structure-prediction"
+  ],
+  "title": "CrystalAR: Autoregressive Modeling for Symmetric Crystal Generation",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-20"
+ },
+ "2610.27790": {
+  "abstract": "Large language models (LLMs) exhibit both knowledge of language, rendered by, for example, grammatical judgment ability, and abilities to perform tasks through language, such as math-word problem solving. Motivated by neurolinguistic studies of their neural dissociation in human brains, in this study, we investigate the overlap of their circuits in large language models (LLMs). Specifically, we examine the overlap and causal effects between the circuits extracted for linguistic and arithmetic tasks, using controlled materials and circuit discovery methods from the mechanistic interpretability field. Our experiments with five LLMs show that circuit similarity is mostly explained by task domains (linguistic vs. arithmetic), rather than by their input and output vocabularies or by the syntactic similarities between natural-language sentences and arithmetic expressions. This finding suggests that LLMs may process linguistic and arithmetic information using largely separate neural circuits, highlighting an ability-based modular organization of circuits within these models.",
+  "authors": [
+   "Riku Kisako",
+   "Tatsuki Kuribayashi",
+   "Ryohei Sasano"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": "AACL-IJCNLP 2026 main",
+  "first_author": "Riku Kisako",
+  "pdf_url": "http://arxiv.org/pdf/2610.27790",
+  "primary_category": "cs.CL",
+  "published": "2026-10-20",
+  "tags": [],
+  "title": "Are Linguistic and Arithmetic Circuits Dissociated in LLMs?",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-20"
+ },
+ "2610.28266": {
+  "abstract": "VGL-stGen is a multimodal large language model adapted from a pretrained medical vision-language model using paired lung H&E and spatial transcriptomics with single-cell references. Training integrates image-expression and expression-cell-type pairs, and gene-conditioned pseudo-labels transfer transcriptomic cell-type supervision to histology images. One deployed checkpoint supports thirteen evaluated tasks spanning tissue and cell-type classification, gene prediction and conditional expression completion from combinations of histology, cell identity and observed gene expression. Task-specific decoding produces categorical labels, gene lists and structured expression levels. For conditional completion, fixing queried gene identities and predicting their levels autoregressively improves structured prediction. Controlled adaptation shows that restricting supervision to requested expression-level tokens can further improve image-conditioned completion. Image-permutation experiments indicate that correctly paired histology adds information beyond observed expression. External classification relies partly on computational references with shared annotation lineage, and some H&E sources were exposed during cancer training or model development. Within these conditions, VGL-stGen demonstrates how a medical vision-language backbone can learn from spatial transcriptomics and histology to connect tissue morphology and molecular states through shared generative modeling.",
+  "authors": [
+   "Haenara Shin",
+   "Dongjoo Lee",
+   "Sungwoo Bae",
+   "Kwon Joong Na",
+   "Daeseung Lee",
+   "Hongyoon Choi"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.AI",
+   "q-bio.QM"
+  ],
+  "comment": "46 pages, 18 figures, 16 tables; appendix included",
+  "first_author": "Haenara Shin",
+  "pdf_url": "http://arxiv.org/pdf/2610.28266",
+  "primary_category": "cs.CV",
+  "published": "2026-10-20",
+  "tags": [
+   "multimodal-llm"
+  ],
+  "title": "VGL-stGen: Learning a shared multimodal model for lung histology and spatial transcriptomics",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-20"
+ },
+ "2610.28500": {
+  "abstract": "For efficient deployment of large language models (LLMs), methods of ultra-low-bit backbones reduce weight storage, memory traffic, and linear-layer execution cost, while multi-token prediction (MTP) methods reduce sequential decoding steps by predicting multiple future tokens in parallel. Although complementary, the direct combination of these methods cannot accelerate decoding at comparable quality: masked drafting lacks intermediate token input supplied in next-token training, while wider computation and causal key-value (KV) updates can offset the savings from fewer steps. To address these challenges, we propose BitMTP, an algorithm-system co-design framework for efficient MTP on ultra-low-bit LLM backbones. A joint next-token prediction and MTP objective equips a single model with both autoregressive (AR) generation and block-causal drafting. Confidence-only decoding, speculative-only decoding, and hybrid decoding provide different quality-throughput operating points without using separate draft and verifier models. Accepted-prefix alignment keeps the committed prefix, materialized causal KV boundary, and CUDA Graph replay state consistent for continued generation. BitMTP uses this contract to select width-specialized low-bit execution and reuse captured graphs over shared KV storage. On NVIDIA H20, BitMTP with hybrid decoding achieves five-task mean speedups of 2.2x on BitNet b1.58-2B and 2.1-2.4x on 1.7B-4B Bonsai models at comparable task quality. On RTX 3090 and Jetson Orin, it further achieves up to 2.0x in five-task mean throughput and 3.3x on MBPP+, respectively. These results demonstrate that BitMTP accelerates ultra-low-bit LLM generation across backbones, model sizes, and GPU types. The source code is released at https://github.com/PolyU-VCLab/BitMTP",
+  "authors": [
+   "Ning Zhang",
+   "Shihao Wang",
+   "Jinrui Zhang",
+   "Chaodong Xiao",
+   "Lei Zhang"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI",
+   "cs.DC",
+   "cs.LG"
+  ],
+  "comment": "Accepted at NeurIPS 2026. 16 pages, 3 figures. Code: https://github.com/PolyU-VCLab/BitMTP",
+  "first_author": "Ning Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2610.28500",
+  "primary_category": "cs.CL",
+  "published": "2026-10-20",
+  "tags": [],
+  "title": "BitMTP: When Multi-Token Prediction Meets Low-Bit Large Language Models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-20"
+ },
+ "2610.28629": {
+  "abstract": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the structure and deformation of general grain boundaries (GBs). Although general GBs constitute the vast majority of real-world interfaces in polycrystalline materials, they remain understudied because their structural complexity and interfacial mismatch complicate experimental and modeling research. GBClaw integrates large language models (LLMs) into a modular architecture comprising an orchestrator, specialized agents, domain-specific tools, simulation interfaces, and hierarchical memory. Through dynamic replanning and iterative workflow refinement, the framework effectively connects systematic simulations with targeted mechanistic analysis. Applied to 14 general asymmetric tilt GBs in nickel, GBClaw characterized interfacial defect structures and identified diverse deformation modes across these incommensurate boundaries. Comparing boundary sliding with and without secondary GB misfit dislocations revealed substantial differences in shear strength, underscoring the critical role of defect hierarchies in sliding resistance. Furthermore, researcher-guided follow-up calculations traced an anomalously high shear resistance to metastable boundary structures. This work demonstrates that combining agentic AI with domain expertise bridges high-throughput computational screening with deep physical understanding of complex material interfaces.",
+  "authors": [
+   "Yazhuo Liu",
+   "Kunqing Ding",
+   "Xiaoguo Gong",
+   "Zifeng Wang",
+   "Yichen Yang",
+   "Yifeng Che",
+   "Wen Chen",
+   "Josh Kacher",
+   "Olivier Pierron",
+   "Shigenobu Ogata",
+   "Ting Zhu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "cs.AI",
+   "cs.MA"
+  ],
+  "comment": null,
+  "first_author": "Yazhuo Liu",
+  "pdf_url": "http://arxiv.org/pdf/2610.28629",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-20",
+  "tags": [
+   "materials-discovery"
+  ],
+  "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-20"
+ },
+ "2610.28653": {
+  "abstract": "Whether large language models can assess the innovativeness of academic publications matters for literature reviews, research funding screening, and academic recommendations. We introduce the Scientific Research Taste Benchmark (SciTaste), a gold-standard benchmark covering six disciplines: physics, mathematics, chemistry, biology, medicine, and finance. SciTaste measures research taste, that is, the ability to judge a paper's scientific value and potential, of which innovativeness is one of seven dimensions. It integrates metadata from NASA ADS, OpenAlex, and arXiv, aligns papers to field-specific classification systems, and scores each paper with the seven-dimensional Academic Taste Index. Dimension weights come from a bi-objective machine-learning approach (five regressors, including random forests) and are shared across all six disciplines. The benchmark includes 300 selected papers (50 per discipline) and a backup pool of 5,700 papers (950 per field) covering 1996-2023. SciTaste supports four evaluation modes: pure_qa, native_search, our structured tool-calling agent DiM (9 bibliometric tools in ADS/OpenAlex), and dimagent_v3_native. Outputs are evaluated by two complementary schemes: correlation with dimension-level accuracy, and WAPE relative error. Across ten state-of-the-art LLMs, tool-based structured evaluation generally outperformed toolless and raw web search modes, though gains were model-dependent. Physics is easiest; chemistry, biology, and medicine remain more challenging. SciTaste supplies the value-judgment substrate auto-research systems need to screen, rank, and prioritize candidate ideas. Dataset, harness, and scoring code are available on Hugging Face at https://huggingface.co/datasets/skylenage/SciTaste-benchmark.",
+  "authors": [
+   "Xinyi Gao",
+   "Xiaogang Li",
+   "Jialu Nie",
+   "Yuting Fu",
+   "Jingye Xu",
+   "Xinyan Liu",
+   "Muxi Zheng",
+   "Xiao Zhou",
+   "Wenbo Li",
+   "Xuan Ren",
+   "Hu Wei",
+   "Bing Zhao"
+  ],
+  "categories": [
+   "cs.DL"
+  ],
+  "comment": null,
+  "first_author": "Xinyi Gao",
+  "pdf_url": "http://arxiv.org/pdf/2610.28653",
+  "primary_category": "cs.DL",
+  "published": "2026-10-09",
+  "tags": [],
+  "title": "The Scientific Research Taste Benchmark (SciTaste-Bench): A Multi-Disciplinary Benchmark for Assessing Large Language Models' Judgment of Research Taste in Scientific Papers",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-09"
+ },
+ "2610.29185": {
+  "abstract": "Root cause analysis (RCA) and mitigation prediction are essential for incident management, enabling the identification of underlying causes of failures and ensuring the reliability of complex cloud-based systems. With rising incident volume and system complexity, incident reports have become a valuable resource for these tasks. Recent studies have shown promising results using Large Language Models (LLMs) to predict root causes and mitigation actions from textual descriptions in incident reports. Despite these advances, further progress is hindered by the lack of publicly available datasets; existing work relies on private data, which limits transparency, reproducibility, and generalization. To address this gap, we introduce CloudIR-Bench, the first publicly available benchmark providing a dataset and evaluation framework for incident report-based RCA and mitigation prediction. Curated from incident reports across five leading cloud-based systems, CloudIR-Bench captures a diverse range of real-world production scenarios representing authentic failures and engineers' reasoning. We also release an open-source evaluation framework that includes eight recent LLM-based approaches. Our comprehensive evaluation includes zero-shot and in-context learning experiments, along with a qualitative analysis to identify where and why LLMs fail. Benchmarking results reveal the capabilities and limitations of existing LLMs in this domain. The benchmark, including the dataset, framework and supplementary materials, is available at https://github.com/hoangtnm/CloudIR-Bench.",
+  "authors": [
+   "Hoang Tran",
+   "Huong Ha",
+   "Tri Dang",
+   "Jeffrey Chan",
+   "Hongyu Zhang"
+  ],
+  "categories": [
+   "cs.SE"
+  ],
+  "comment": "33rd Asia-Pacific Software Engineering Conference (APSEC 2026)",
+  "first_author": "Hoang Tran",
+  "pdf_url": "http://arxiv.org/pdf/2610.29185",
+  "primary_category": "cs.SE",
+  "published": "2026-10-21",
+  "tags": [],
+  "title": "CloudIR-Bench: A Benchmark for Root Cause Analysis and Mitigation of Cloud Incidents",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-21"
+ },
+ "2610.29189": {
+  "abstract": "Large language models (LLMs) demonstrate impressive emergent reasoning capabilities, yet they remain constrained by fixed model parameters and finite context windows. Even when augmented with static retrieval, they can produce statements that are unsupported by, or even contradictory to, retrieved evidence. This leads to hallucinations, difficulty incorporating up-to-date information, and failures to correctly interpret or reconcile sources. Recent work addresses these limitations by tightly coupling step-by-step reasoning with interactive search, treating retrieval as an action within an iterative agentic loop rather than a one-shot preprocessing step. This study reviews frameworks that implement such reasoning-search loops by interleaving planning, querying, retrieval, integration, verification, and stopping. We analyze these systems through four architectural axes: retrieval coupling, controller design, knowledge source, and grounding strictness. We separately treat the learning signal as a cross-cutting dimension because prompting, supervision, preference optimization, and reinforcement learning can instantiate the same architecture while producing materially different search, stopping, and grounding behavior. We further distinguish benchmark difficulty from RSA-loop demand and synthesize controlled within-study ablations and quality-cost deltas, avoiding invalid pooling across heterogeneous model backbones, retrievers, corpora, and evaluation protocols. Our goal is to clarify the landscape of reasoning-search-augmented LLMs and outline a unified perspective on the design choices shaping future research.",
+  "authors": [
+   "Biswas Poudel",
+   "Nilson Chapagain",
+   "Amit Kumar",
+   "Xianshun Jiang"
+  ],
+  "categories": [
+   "cs.IR",
+   "cs.CL"
+  ],
+  "comment": "10 pages",
+  "first_author": "Biswas Poudel",
+  "pdf_url": "http://arxiv.org/pdf/2610.29189",
+  "primary_category": "cs.IR",
+  "published": "2026-10-21",
+  "tags": [
+   "reinforcement-learning"
+  ],
+  "title": "Reasoning-Search-Augmented LLMs: An Operational Taxonomy, Benchmark Analysis and Controlled Evidence Synthesis",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-21"
+ },
+ "2610.29271": {
+  "abstract": "Analogical reasoning is widely considered a fundamental component of human intelligence. Few benchmarks are designed to explicitly test far analogical reasoning - reasoning between domains that are superficially dissimilar yet share deep relational or structural similarities. In this work, we introduce an analogical reasoning benchmark called Abstraction and Reasoning Corpus of ANAlogy (ARCANA). The tasks of ARCANA require performing far analogical mappings from real-world objects or physical phenomena to abstract grid-based transformations, different from the well-known ARC-AGI benchmark which primarily emphasized innate human priors. We validate ARCANA through a human study, demonstrating that humans solve these tasks reliably. In contrast, evaluations across a range of large language models show a distinct performance gap compared to humans, revealing systematic failure modes that remain challenging for current models. To address this gap, we propose ConceptSIR, a reasoning framework based on concept slippage, introspection, and reflection. Experiments demonstrate that ConceptSIR enables standard LLMs to solve several challenging ARCANA tasks that were unsolved by direct prompting in our evaluation. Overall, our results suggest that far analogical reasoning remains an open problem for contemporary LLMs. All the materials are available at sites.google.com/view/arcanacogtest. The complete codebase, including benchmark, and ConceptSIR, is publicly available at https://github.com/density-11/arcana-test. All ARCANA data and task instances can be accessed and explored at https://arcanacogtest.org/.",
+  "authors": [
+   "Ruqi Chen",
+   "Zilei Wang",
+   "Wei Wang"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Ruqi Chen",
+  "pdf_url": "http://arxiv.org/pdf/2610.29271",
+  "primary_category": "cs.AI",
+  "published": "2026-10-21",
+  "tags": [],
+  "title": "ARCANA: A Benchmark for Abstraction and Analogical Reasoning",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-21"
+ },
+ "2610.29895": {
+  "abstract": "Over the past decade, substantial efforts have been devoted to developing machine learning (ML) methods for extracting materials data and, where possible, materials knowledge directly from the scientific literature. This review traces the evolution of these methods from heuristic, rule-based pipelines through natural language processing (NLP) models and transformer-based encoders to, lastly, large language models (LLMs) and agentic systems capable of extracting materials information across multiple modalities, including text, tables, and figures. Beside construction of large, queryable materials databases and knowledge graphs that support downstream materials discovery, we discuss how these advances have enabled new capabilities, such as, generic question answering across materials science, AI co-scientists and chatbots for research assistance, and closed-loop optimization and discovery when integrated with autonomous laboratories. We critically assess the datasets generated using these approaches, their extraction accuracy and computational costs, and the respective strengths and limitations of different methodologies, and even provide practical guidelines for developing more reliable and scalable materials data extraction pipelines. Finally, we identify key open challenges, including the extraction of full materials structure-property-processing-performance tetrahedron at the sample level, the scarcity of reliable benchmark datasets for systematic evaluation, and the resolution of non-standard materials terminology across different document modalities.",
+  "authors": [
+   "Aravindan Kamatchi Sundaram",
+   "B. Pabitramohan Prusty",
+   "Rohit Batra"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": "25 pages, 5 figures",
+  "first_author": "Aravindan Kamatchi Sundaram",
+  "pdf_url": "http://arxiv.org/pdf/2610.29895",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-21",
+  "tags": [
+   "materials-discovery",
+   "materials-science"
+  ],
+  "title": "Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language Models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-21"
  }
 }

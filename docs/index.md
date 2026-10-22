@@ -5,15 +5,69 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-10-21._
+_Updated 2026-10-22._
 
-**16474** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**16486** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.29185.html">CloudIR-Bench: A Benchmark for Root Cause Analysis and Mitigation of Cloud Incidents</a></div></td>
+<td>Hoang Tran et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29185">2610.29185</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.29189.html">Reasoning-Search-Augmented LLMs: An Operational Taxonomy, Benchmark Analysis and Controlled Evidence Synthesis</a></div><div class="paper-tags"><a href="tag/reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Biswas Poudel et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29189">2610.29189</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.29271.html">ARCANA: A Benchmark for Abstraction and Analogical Reasoning</a></div></td>
+<td>Ruqi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29271">2610.29271</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.29895.html">Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language Models</a></div><div class="paper-tags"><a href="tag/materials-discovery-30d.html">materials-discovery</a> · <a href="tag/materials-science-30d.html">materials-science</a></div></td>
+<td>Aravindan Kamatchi Sundaram et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29895">2610.29895</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.27762.html">CrystalAR: Autoregressive Modeling for Symmetric Crystal Generation</a></div><div class="paper-tags"><a href="tag/crystal-structure-30d.html">crystal-structure</a> · <a href="tag/drug-discovery-30d.html">drug-discovery</a> · <a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Ziqiao Meng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27762">2610.27762</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.27790.html">Are Linguistic and Arithmetic Circuits Dissociated in LLMs?</a></div></td>
+<td>Riku Kisako et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27790">2610.27790</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.28266.html">VGL-stGen: Learning a shared multimodal model for lung histology and spatial transcriptomics</a></div><div class="paper-tags"><a href="tag/multimodal-llm-30d.html">multimodal-llm</a></div></td>
+<td>Haenara Shin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.28266">2610.28266</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.28500.html">BitMTP: When Multi-Token Prediction Meets Low-Bit Large Language Models</a></div></td>
+<td>Ning Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.28500">2610.28500</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.28629.html">GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery</a></div><div class="paper-tags"><a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Yazhuo Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.28629">2610.28629</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.23144.html">From GAN-Based Models to GPT-5: A Taxonomy-Guided Study of Human Performance in Detecting Deepfake Face Images</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/multimodal-llm-30d.html">multimodal-llm</a></div></td>
@@ -139,59 +193,5 @@ _Updated 2026-10-21._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26689.html">Measurement-efficient energy estimator for quantum chemistry of photodynamic materials</a></div><div class="paper-tags"><a href="tag/mof-30d.html">mof</a> · <a href="tag/quantum-computing-30d.html">quantum-computing</a></div></td>
 <td>Connor Lenihan et al.</td>
 <td><a href="http://arxiv.org/abs/2610.26689">2610.26689</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26701.html">Challenging Atomistic Foundation Models on Disordered Carbons</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Joseph Hart et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26701">2610.26701</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26721.html">Collective diffusion of anisotropic hard-particle mixtures</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/free-energy-30d.html">free-energy</a></div></td>
-<td>Anouar El Moumane et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26721">2610.26721</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26732.html">Vacuum-Field Squeezing by Molecules in Optical Cavities: An Exact Bound and Linear-Response Theory</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/excited-states-30d.html">excited-states</a></div></td>
-<td>Kurt R. Brorsen</td>
-<td><a href="http://arxiv.org/abs/2610.26732">2610.26732</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.24938.html">T-MUON: Tensorizing Muon via t-SVD for Large Language Model Pre-training</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a></div></td>
-<td>Dongyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2610.24938">2610.24938</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.25029.html">Extrinsic Bulk Photovoltaic Effect from Asymmetric Defect Scattering</a></div><div class="paper-tags"><a href="tag/2d-materials-30d.html">2d-materials</a> · <a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
-<td>Zixun Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.25029">2610.25029</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.25105.html">Generative marginal learning for finite-size molecular simulation with application to stress calculation</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Cheng Yuan</td>
-<td><a href="http://arxiv.org/abs/2610.25105">2610.25105</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.25194.html">Electronic structure, magnetic order and anisotropic magnetoresistance in $\mathbf{Eu_{1-x}Gd_xCd_2P_2}$ (0 $\le$ x $\le$1)</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Yogendra Singh Negi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.25194">2610.25194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.25209.html">One Component Plasmas Frequency Moments from the ISF</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>D. Ballester</td>
-<td><a href="http://arxiv.org/abs/2610.25209">2610.25209</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.25260.html">Spatial Discretization Error for Quantum Chemistry Simulation</a></div><div class="paper-tags"><a href="tag/quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Di Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.25260">2610.25260</a></td>
 </tr>
 </tbody></table>

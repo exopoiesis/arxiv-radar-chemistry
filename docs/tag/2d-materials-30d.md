@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>2d-materials — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <strong>30d</strong> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,23 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26685.html">Disentangling Surface Charge and Electrolyte Effects on Interfacial Water at Electrified Pt(111)</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Thorben Eggert et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26685">2609.26685</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23963.html">Transitions between bulk and interfacial fracture in diamond/$c$BN heterostructures</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Wei Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23963">2609.23963</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24856.html">Scandium diboride: a semi-metallic, lattice, thermally matched substrate for vertical AlGaN power electronics</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>MVS Chandrashekhar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24856">2609.24856</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25305.html">Influence of Electrostatic Environment on the Proximity Spin-Orbit Coupling in Graphene on Transition-Metal Dichalcogenides</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>Bert Jorissen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.25305">2609.25305</a></td>
 </tr>
 </tbody></table>

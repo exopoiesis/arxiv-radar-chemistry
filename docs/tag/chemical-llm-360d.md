@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-llm — 360d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="chemical-llm-7d.html">7d</a> <a href="chemical-llm-30d.html">30d</a> <a href="chemical-llm-90d.html">90d</a> <strong>360d</strong> <a href="chemical-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,11 +158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15971.html">REINFORCE-ING Chemical Language Models for Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Morgan Thomas et al.</td>
 <td><a href="http://arxiv.org/abs/2501.15971">2501.15971</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07246.html">ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area</a></div><div class="paper-tags"><a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
-<td>Junxian Li et al.</td>
-<td><a href="http://arxiv.org/abs/2408.07246">2408.07246</a></td>
 </tr>
 </tbody></table>

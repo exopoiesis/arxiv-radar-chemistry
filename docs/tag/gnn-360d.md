@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">373 papers</span>
+  <span class="paper-count">372 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2246,11 +2246,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23428.html">Improving Predictions of Molecular Properties with Graph Featurisation and Heterogeneous Ensemble Models</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Michael L. Parker et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23428">2510.23428</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22538.html">Iteratively Refined Early Interaction Alignment for Subgraph Matching based Graph Retrieval</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Ashwin Ramachandran et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22538">2510.22538</a></td>
 </tr>
 </tbody></table>

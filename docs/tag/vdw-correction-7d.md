@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>vdw-correction — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <a href="vdw-correction-360d.html">360d</a> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24633.html">Theory of High-Temperature Fractional Chern Phases in Monolayer van der Waals Kagome Materials A$_2$T$_3$X$_4$</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
 <td>Soomin Oh et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24633">2610.24633</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19582.html">Magnetic proximity beyond the interface: Layer-sequence-dependent exchange in WSe$_2$/CrI$_3$ heterostructures</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="tmd-7d.html">tmd</a></div></td>
-<td>Natalie Kuhn et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19582">2610.19582</a></td>
 </tr>
 </tbody></table>

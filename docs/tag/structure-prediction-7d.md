@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>structure-prediction — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27762.html">CrystalAR: Autoregressive Modeling for Symmetric Crystal Generation</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="drug-discovery-7d.html">drug-discovery</a> · <a href="generative-model-7d.html">generative-model</a></div></td>
+<td>Ziqiao Meng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27762">2610.27762</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26009.html">ProtGlycanDock: Towards Accurate Protein-Glycan Docking with Tailored Dataset, Benchmark and Model</a></div><div class="paper-tags"><a href="protein-structure-7d.html">protein-structure</a></div></td>
@@ -38,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22600.html">A Comprehensive Survey of Crystal Structural Prototypes: Construction, Classification, and Applications</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a></div></td>
 <td>Jianjun Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.22600">2610.22600</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19738.html">ProtModernBERT: Compute-Efficient Protein Language Modeling</a></div><div class="paper-tags"><a href="protein-llm-7d.html">protein-llm</a></div></td>
-<td>Alberto Martínez et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19738">2610.19738</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19919.html">Beyond DFT electronic band structures via dual-space orbital learning</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
-<td>Minhyuk Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19919">2610.19919</a></td>
 </tr>
 </tbody></table>

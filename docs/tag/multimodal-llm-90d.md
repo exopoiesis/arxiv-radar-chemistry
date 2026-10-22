@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28266.html">VGL-stGen: Learning a shared multimodal model for lung histology and spatial transcriptomics</a></div></td>
+<td>Haenara Shin et al.</td>
+<td><a href="http://arxiv.org/abs/2610.28266">2610.28266</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23144.html">From GAN-Based Models to GPT-5: A Taxonomy-Guided Study of Human Performance in Detecting Deepfake Face Images</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Zhiqing Guo et al.</td>
@@ -128,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23472.html">VIPER: Visual In-Context Physics Reasoning for Physically Plausible Video Generation</a></div></td>
 <td>Tianxiao Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2607.23472">2607.23472</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20990.html">LivePhys: Transforming Static Physics Problems into Interactive Simulations via a Scan-to-Play Framework</a></div></td>
-<td>Xiaowei Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20990">2607.20990</a></td>
 </tr>
 </tbody></table>

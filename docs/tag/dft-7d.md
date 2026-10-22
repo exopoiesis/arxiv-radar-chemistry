@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,65 +194,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22284.html">Adding Temperature to the Adiabatic Connection: Hybrid Functionals for Static and Dynamic Correlation</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
 <td>Florian Matz et al.</td>
 <td><a href="http://arxiv.org/abs/2610.22284">2610.22284</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19402.html">Wigner time delay in the $4d$ giant-resonance region of iodoalkanes</a></div></td>
-<td>Anatoli S. Kheifets et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19402">2610.19402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19630.html">Risk-Controlled DFT Selection for Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Kun Ryu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19630">2610.19630</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19770.html">Beyond Kitaev exchange: $Γ&#x27;$-driven magnetism in Ag$_3$LiRh$_2$O$_6$</a></div></td>
-<td>Efrain Insuasti Pazmino et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19770">2610.19770</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19919.html">Beyond DFT electronic band structures via dual-space orbital learning</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="materials-science-7d.html">materials-science</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Minhyuk Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19919">2610.19919</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19967.html">High-Harmonic Generation Probes Quantum Nuclear Fluctuations in Liquid Water</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>George Trenins et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19967">2610.19967</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20063.html">Sorption Molecular Dynamics of Point Defects in 2D Materials with a Machine Learning Potential</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Nils-Ruben Skogemyr et al.</td>
-<td><a href="http://arxiv.org/abs/2610.20063">2610.20063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20564.html">Exchange Interactions and Magnon Spectra in bcc Fe(001) Thin Films: A Computational Study</a></div></td>
-<td>Joanna Marciniak et al.</td>
-<td><a href="http://arxiv.org/abs/2610.20564">2610.20564</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20883.html">Sb-5$p$-mediated antiparallel Nd-Fe coupling in Nd$_3$Fe$_3$Sb$_7$</a></div></td>
-<td>S. Palazzese et al.</td>
-<td><a href="http://arxiv.org/abs/2610.20883">2610.20883</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20886.html">Material dependence of direct light-induced charge injection from metallic nanoparticles into adsorbates</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a></div></td>
-<td>Jordan Alan Edwards et al.</td>
-<td><a href="http://arxiv.org/abs/2610.20886">2610.20886</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22394.html">Visualizing surface-reaction-driven chloride migration and cascading failure in sulfide solid electrolytes</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a></div></td>
-<td>Xiaoya He et al.</td>
-<td><a href="http://arxiv.org/abs/2610.22394">2610.22394</a></td>
 </tr>
 </tbody></table>

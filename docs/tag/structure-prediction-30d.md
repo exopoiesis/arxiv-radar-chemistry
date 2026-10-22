@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27762.html">CrystalAR: Autoregressive Modeling for Symmetric Crystal Generation</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
+<td>Ziqiao Meng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27762">2610.27762</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26009.html">ProtGlycanDock: Towards Accurate Protein-Glycan Docking with Tailored Dataset, Benchmark and Model</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Minghao Xu et al.</td>
@@ -152,11 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26502.html">Deep Generative Crystal Structure Prediction: A Benchmark Study and a Controlled Test of Prototype Dependence</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Lai Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26502">2609.26502</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24842.html">Towards Accurate Prediction of Mutation-Induced Changes in Protein Structure</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Zhuoyi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.24842">2609.24842</a></td>
 </tr>
 </tbody></table>

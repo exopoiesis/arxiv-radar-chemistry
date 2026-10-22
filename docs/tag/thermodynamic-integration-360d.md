@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 360d</h1>
-  <span class="paper-count">133 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <strong>360d</strong> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,11 +806,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24956.html">The Fate of Hydrogen and Helium: From Planetary Embryos to Earth- and Neptune-like Worlds</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Akash Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2510.24956">2510.24956</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15840.html">Multiscale Modeling of Abnormal Grain Growth: Role of Solute Segregation and Grain Boundary Character</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Albert Linda et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15840">2510.15840</a></td>
 </tr>
 </tbody></table>

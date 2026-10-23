@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30180.html">QProtFuse: Query-Guided Layer Fusion for Retrieval-Augmented Protein Function Prediction</a></div></td>
+<td>Mianzhi Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30180">2610.30180</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24458.html">Generative Retrieval for Reverse Target Fishing with a Proteome-Scale Benchmark</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Zhichao Deng et al.</td>
@@ -644,11 +650,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24053.html">Low-N Protein Activity Optimization with FolDE</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
 <td>Jacob B. Roberts et al.</td>
 <td><a href="http://arxiv.org/abs/2510.24053">2510.24053</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23786.html">Relaxed Sequence Sampling for Diverse Protein Design</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Joohwan Ko et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23786">2510.23786</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-llm — all</h1>
-  <span class="paper-count">184 papers</span>
+  <span class="paper-count">185 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <a href="protein-llm-30d.html">30d</a> <a href="protein-llm-90d.html">90d</a> <a href="protein-llm-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30180.html">QProtFuse: Query-Guided Layer Fusion for Retrieval-Augmented Protein Function Prediction</a></div></td>
+<td>Mianzhi Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30180">2610.30180</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24458.html">Generative Retrieval for Reverse Target Fishing with a Proteome-Scale Benchmark</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>

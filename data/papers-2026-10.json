@@ -13904,6 +13904,31 @@
   ],
   "updated": "2026-10-16"
  },
+ "2610.24338": {
+  "abstract": "Optical frequency combs have transformed molecular spectroscopy by enabling broadband, high-resolution analysis, yet they are conventionally used as light sources to interrogate external samples. Here, we introduce an integrated microcomb sensing architecture that unifies resonantly enhanced evanescent sensing with multiwavelength molecular fingerprinting in a single ultrahigh-quality-factor silica microresonator. Gaseous analytes interact directly with the evanescent field of light recirculating within the resonator, enhancing sensitivity while encoding analyte-induced perturbations across the microcomb's collective spectral response. Rather than relying on a single optical resonance, we exploit distributed responses across multiple comb lines to generate multidimensional molecular fingerprints. Adding more comb lines systematically improves analyte discrimination, showing that the microcomb provides sensing information beyond what individual spectral channels offer. Using methane as a model analyte, we achieve an estimated detection limit of 178 parts per trillion, with minimal spectral responses to ammonia, carbon monoxide, hexane, and water vapor at relative humidities up to 90%. By replacing physically long interaction paths with resonant light recirculation in an ultrahigh-Q microresonator, this architecture brings compact optical sensing into the parts-per-trillion regime while exploiting distributed spectral information for chemical identification.",
+  "authors": [
+   "Shiyan Cao",
+   "Yinchao Xu",
+   "Judith Su"
+  ],
+  "categories": [
+   "physics.optics",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Shiyan Cao",
+  "pdf_url": "http://arxiv.org/pdf/2610.24338",
+  "primary_category": "physics.optics",
+  "published": "2026-10-17",
+  "tags": [
+   "molecular-representation"
+  ],
+  "title": "Microcomb spectral fingerprinting enables parts-per-trillion methane detection with low humidity cross-sensitivity",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-10-17"
+ },
  "2610.24418": {
   "abstract": "In covalent organic frameworks (COFs), the geometry of the building units predetermines the structure of the framework, yet comparable design principles relating the COF linkers to the local motions that govern guest adsorption and diffusion as well as mechanical response have remained beyond reach. Here, we combine synchrotron X-ray pair distribution function (PDF) analysis with molecular dynamics (MD) simulations accelerated by machine learning interatomic potentials to resolve and compare the local dynamics of two three-dimensional imine-linked COFs, chosen to differ in the geometry and rigidity of one of their two building units. Both are constructed from the same 4-connected square planar linker, $4,4',4'',4'''$-(pyrene-1,3,6,8-tetrayl)tetraaniline (PyTTA), reticulated with the 12-connected nanographene hexakis{[3,5-bis($p$-formylphenyl)-4,6-dimethoxyphenyl]}hexabenzocoronene to give COF-412, {[(HBC-LA$_{12}$)(PyTTA)$_3$]}$_{\\mathit{imine}}$, and with the 6-connected triptycene 2,3,6,7,14,15-hexakis(4-formylphenyl)triptycene to give COF-564, {[(Trip-CHO)$_2$(PyTTA)$_3$]}$_{\\mathit{imine}}$. The PDF-MD approach resolves the amplitude, the time scale, and the spatial extent of the motion of all COF linkers, separating the limited libration of the fused aromatic cores from the larger reorientational tilts of the pendant aryl rings they carry and from the translation of whole linkers within the net. The simulations further reveal that exchanging the nanographene- for the triptycene-based linker tunes the equilibrium tilt and the positional probability density of PyTTA, raising the tilt amplitude of its linker partner, and, notably, strengthens the coupling between the translations of neighbouring linkers. This approach provides a blueprint for understanding local dynamical properties in COFs, and shows them to be selectable through the choice of building unit and amenable to design.",
   "authors": [
@@ -13984,6 +14009,7 @@
   ],
   "title": "Generative Retrieval for Reverse Target Fishing with a Proteome-Scale Benchmark",
   "topics": [
+   "Molecular Representation & Learning",
    "Property Prediction & ADMET"
   ],
   "updated": "2026-10-17"
@@ -14300,6 +14326,31 @@
   ],
   "updated": "2026-10-18"
  },
+ "2610.25163": {
+  "abstract": "Self-supervised molecular representation learning is increasingly used to improve transfer on small, label-limited property prediction tasks, yet commonly used contrastive objectives can be sensitive to view construction and are often evaluated with protocols that report only discrimination. We adapt Joint Embedding Predictive Architectures (JEPAs) to molecular graphs by masking chemically coherent connected subgraphs and training a context encoder to regress the masked target embedding produced by an exponential-moving-average (EMA) teacher. To evaluate predictive self-supervision under realistic distribution shift, we introduce a leakage-resistant, compute-matched three-phase protocol: (i) an 80-run objective screening on ESOL with fixed compute budgets, (ii) JEPA-only refinement of masking and augmentation choices, and (iii) per-assay Tox21 evaluation under Bemis-Murcko scaffold splits with joint discrimination-reliability analysis and attribution diagnostics. Under matched compute, M-JEPA achieves substantially lower ESOL proxy RMSE than a compute-matched InfoNCE baseline (mean RMSE 2.12 vs 3.75; mean paired dRMSE 1.61; 95% bootstrap CI [1.52, 1.72]; Wilcoxon p=2.4e-4) and typically completes runs faster (~15-25 min vs ~35-45 min on a single GPU under identical hardware), albeit with higher runtime variance. On Tox21, improvements in ROC-AUC/PR-AUC are assay-dependent and do not uniformly imply better calibration; reliability diagrams and Brier/ECE metrics reveal endpoints where fine-tuning improves ranking but leaves probabilities miscalibrated.",
+  "authors": [
+   "Karthik Iyer",
+   "Nasser Sabar"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "28 pages, 9 figures. Submitted (pre-peer-review) version; the final published version appeared in J. Chem. Inf. Model",
+  "first_author": "Karthik Iyer",
+  "pdf_url": "http://arxiv.org/pdf/2610.25163",
+  "primary_category": "cs.LG",
+  "published": "2026-10-18",
+  "tags": [
+   "molecular-representation",
+   "property-prediction"
+  ],
+  "title": "M-JEPA: Predictive Self-Supervised Learning for Molecular Graphs with Scaffold-Shift Evaluation on Tox21",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-10-18"
+ },
  "2610.25194": {
   "abstract": "Recently, $\\text{EuCd}_2\\text{P}_2$ has attracted increased attention for its colossal magnetoresistive (CMR) property, the mechanism of which seems to deviate from that of known canonical CMR compounds such as manganites. Many studies underscore the role of low density of hole carriers caused by Eu vacancies, particularly in stabilizing ferromagnetic (FM) order and modifying electrical transport and magnetoresistive responses in this compound. A magnetic polaron based mechanism rather than double exchange based mechanism is being proposed to explain the CMR effect for this compound. In this work, we explore the effect of elctron doping on the magnetic transition and CMR behaviour via Gd substitution at Eu sites with varying concentration (x) in Eu$_{1-x}$Gd$_{x}$Cd$_2$P$_2$. Our Density Functional Theory (DFT) and Monte Carlo-based calculations reveal an oscillating ground state magnetic order as a function of electron carrier density. The ground state is found to be A-AFM metal for x=0.056, 0.125 and 0.5 while it becomes ferromagnetic metal at x= 0.33, 0.67 and 1. Most importantly, we predict colossal anisotropic magnetoresistance in this compound for x=0.125 and 0.5. The underlying mechanism of anisotropic CMR in this compound looks similar to double exchange like due to the presence of a strong intra-site 4\\textit{f}-5\\textit{d} ferromagnetic exchange interaction and an itinerant electron in the hybridized conduction states. The oscillating ground state magnetic order and the enhancement of transition temperature (as high as 150K for x=0.67) as a function of electron carrier density offers a new avenue to tune the magnetotransport property in this compound and offers an excellent platform for designing future spintronics devices.",
   "authors": [
@@ -14539,7 +14590,8 @@
   ],
   "title": "Crystal Structure Based Graph Neural Network And LLM Multi-Modal Approach for Material Magnetic Ordering Prediction",
   "topics": [
-   "Large Language Models & Materials"
+   "Large Language Models & Materials",
+   "Molecular Representation & Learning"
   ],
   "updated": "2026-10-19"
  },
@@ -15169,6 +15221,29 @@
   ],
   "updated": "2026-10-19"
  },
+ "2610.27614": {
+  "abstract": "Complex chemical systems containing heterogeneous substructures are common in real-world applications. Various physical phenomena of the complex chemical systems are derived from the interactions between the heterogeneous substructures. However, existing graph representation learning methods for inter-graph interactions assumed graph-level interactions between homogeneous structures, such as organic molecules and inorganic crystalline materials. We propose a data descriptor of the complex chemical systems and a graph neural network for learning inter-graph interactions between organic and inorganic compounds. We applied the proposed method to predict the physical properties of hybrid solar cell materials containing heterogeneous substructures, which have received significant attention for sustainable energy resources. By learning heterogeneous inter-graph interactions, the proposed method achieved state-of-the-art accuracy in predicting band gaps of 1,682 hybrid solar cell materials.",
+  "authors": [
+   "Gyoung S. Na"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Gyoung S. Na",
+  "pdf_url": "http://arxiv.org/pdf/2610.27614",
+  "primary_category": "cs.LG",
+  "published": "2026-10-20",
+  "tags": [
+   "gnn"
+  ],
+  "title": "Learning Inter-Graph Interactions Between Heterogeneous Substructures of Chemical Systems",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-10-20"
+ },
  "2610.27762": {
   "abstract": "Deep generative modeling has achieved remarkable progress in crystal generation. Given the rich symmetries inherent in crystalline structures, recent work has sought to explicitly incorporate space-group symmetry into generative models, enabling more effective exploration of novel symmetry templates. Yet introducing symmetry templates increases the combinatorial complexity of stoichiometric relationships between atomic species and crystallographic sites, while creating a fundamental tension between flexible exploration of discrete crystallographic templates and faithful realization of these templates as continuous three-dimensional structures. To address these challenges, we propose CrystalAR, a unified autoregressive framework that models Wyckoff symmetry templates and complete crystal structures within a single generative sequence. Specifically, CrystalAR reformulates continuous coordinate generation as a symmetry-conditioned hierarchy of discrete spatial localization decisions, autoregressively refining the positions of all symmetry-inequivalent sites across resolution levels while jointly modeling their spatial configuration within each level. This discrete hierarchical formulation further enables constraint-aware search over both crystallographic templates and geometric realizations. As a result, CrystalAR retains strong symmetry-template generation capability while achieving competitive de novo generation performance and template-free crystal structure prediction (CSP) accuracy. These results suggest that symmetry-template generation can be retained alongside broadly competitive de novo generation performance and competitive CSP without reliance on symmetry templates retrieved from prior data, providing a promising alternative paradigm for symmetry-preserving crystal generation.",
   "authors": [
@@ -15345,6 +15420,34 @@
   ],
   "updated": "2026-10-09"
  },
+ "2610.29111": {
+  "abstract": "Predicting molecular magnetism often requires electronic-structure calculations with spin-orbit coupling (SOC), which are costly to repeat across many molecules. The underlying electronic states can transform as spinors, yet equivariant surrogates typically use only integer-rank features. Inspired by the spinor nature of these electronic states, we develop eSpinor, an SU(2)-equivariant graph neural network that propagates spinor features. We initialize spinor features from eigenvectors of an approximate SOC Hamiltonian and use gauge-covariant message passing with a gauge-invariant readout to make predictions independent of the arbitrary eigenbasis choice. On cobalt single-molecule magnet candidates, eSpinor improves zero-field-splitting predictions relative to NequIP, including for unseen ligands. For a dysprosium magnetic resonance imaging probe, eSpinor improves real electron-spin correlations over a Hamiltonian-informed baseline despite similar static crystal-field errors and fewer parameters, while accurately predicting low-field nuclear relaxation in water and after transfer to methanol without retraining. Overall, these results demonstrate that SU(2)-equivariant spinor message passing is a useful inductive bias for molecular magnetism. We also find that similar static tensor errors can yield different dynamical errors, motivating model selection based on accuracy for the intended physical observables.",
+  "authors": [
+   "Erh-Wei Sheng",
+   "Beom Seok Kang",
+   "Yuchao Lin",
+   "Danish Khan",
+   "Anima Anandkumar"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.LG"
+  ],
+  "comment": "An earlier version was accepted to the NeurIPS 2026 SimBioChem Workshop",
+  "first_author": "Erh-Wei Sheng",
+  "pdf_url": "http://arxiv.org/pdf/2610.29111",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-21",
+  "tags": [
+   "gnn",
+   "magnetic-properties"
+  ],
+  "title": "SU(2)-Equivariant Spinor Message Passing for Molecular Magnetism",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-10-21"
+ },
  "2610.29185": {
   "abstract": "Root cause analysis (RCA) and mitigation prediction are essential for incident management, enabling the identification of underlying causes of failures and ensuring the reliability of complex cloud-based systems. With rising incident volume and system complexity, incident reports have become a valuable resource for these tasks. Recent studies have shown promising results using Large Language Models (LLMs) to predict root causes and mitigation actions from textual descriptions in incident reports. Despite these advances, further progress is hindered by the lack of publicly available datasets; existing work relies on private data, which limits transparency, reproducibility, and generalization. To address this gap, we introduce CloudIR-Bench, the first publicly available benchmark providing a dataset and evaluation framework for incident report-based RCA and mitigation prediction. Curated from incident reports across five leading cloud-based systems, CloudIR-Bench captures a diverse range of real-world production scenarios representing authentic failures and engineers' reasoning. We also release an open-source evaluation framework that includes eight recent LLM-based approaches. Our comprehensive evaluation includes zero-shot and in-context learning experiments, along with a qualitative analysis to identify where and why LLMs fail. Benchmarking results reveal the capabilities and limitations of existing LLMs in this domain. The benchmark, including the dataset, framework and supplementary materials, is available at https://github.com/hoangtnm/CloudIR-Bench.",
   "authors": [
@@ -15417,6 +15520,31 @@
   ],
   "updated": "2026-10-21"
  },
+ "2610.29589": {
+  "abstract": "Graph neural networks (GNNs) are among the standard tools for molecular property prediction, but the atom-level explanations of their predictions are hard for medicinal chemists to act on. We propose a change of input representation rather than a new model: molecules are encoded as fragment-level graphs from BRICS decomposition, where each node is a synthetically meaningful fragment whose features are the element-wise sum of its atoms' features. Because only the representation changes, any message-passing GNN and any post-hoc attribution method produces explanations at the resolution of functional groups instead of single atoms. Across four architectures, four prediction tasks, and two explainers under scaffold splits, fragment-level encoding matches atom-level test accuracy on roughly five-fold smaller graphs. Integrated-Gradients attributions recover known pharmacophores above chance on two enzyme targets, namely BACE at 1.5 times the chance rate, and PTR1 at 3.2 times. A like-for-like comparison against an aggregated atom-level baseline shows that post-hoc aggregation is not a stable substitute: its BACE hit rate range both exceeds and falls below the fragment model's hit rate depending on two arbitrary aggregation choices, whereas fragment-level training yields a single convention-free attribution at no predictive cost. The code is available at: https://github.com/4D-Lab/frame",
+  "authors": [
+   "Rafael Lopes Almeida",
+   "Ina Pöhner"
+  ],
+  "categories": [
+   "cs.LG",
+   "stat.ML"
+  ],
+  "comment": "12 pages, 3 figures, 6-page appendices, to be published in Proceedings of the 8th Northern Lights Deep Learning Conference (NLDL), 2027. For associated code, see https://github.com/4D-Lab/frame",
+  "first_author": "Rafael Lopes Almeida",
+  "pdf_url": "http://arxiv.org/pdf/2610.29589",
+  "primary_category": "cs.LG",
+  "published": "2026-10-21",
+  "tags": [
+   "gnn",
+   "property-prediction"
+  ],
+  "title": "Fragment-Level Graph Encoding for Interpretable Molecular Property Prediction",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-10-21"
+ },
  "2610.29895": {
   "abstract": "Over the past decade, substantial efforts have been devoted to developing machine learning (ML) methods for extracting materials data and, where possible, materials knowledge directly from the scientific literature. This review traces the evolution of these methods from heuristic, rule-based pipelines through natural language processing (NLP) models and transformer-based encoders to, lastly, large language models (LLMs) and agentic systems capable of extracting materials information across multiple modalities, including text, tables, and figures. Beside construction of large, queryable materials databases and knowledge graphs that support downstream materials discovery, we discuss how these advances have enabled new capabilities, such as, generic question answering across materials science, AI co-scientists and chatbots for research assistance, and closed-loop optimization and discovery when integrated with autonomous laboratories. We critically assess the datasets generated using these approaches, their extraction accuracy and computational costs, and the respective strengths and limitations of different methodologies, and even provide practical guidelines for developing more reliable and scalable materials data extraction pipelines. Finally, we identify key open challenges, including the extraction of full materials structure-property-processing-performance tetrahedron at the sample level, the scarcity of reliable benchmark datasets for systematic evaluation, and the resolution of non-standard materials terminology across different document modalities.",
   "authors": [
@@ -15442,5 +15570,215 @@
    "Large Language Models & Materials"
   ],
   "updated": "2026-10-21"
+ },
+ "2610.30180": {
+  "abstract": "Predicting protein functions from amino acid sequences is essential to understanding biological processes. Large language models (LLMs) offer flexible function descriptions to natural-language queries, yet their limited protein understanding motivates retrieval-augmented generation (RAG). Existing protein RAG methods primarily expand external retrieval signals while overlooking the rich knowledge encoded within a single protein language model (PLM). We show that retrieval performance varies across PLM layers and biological tasks, making conventional final-layer selection suboptimal. To this end, we propose QProtFuse, which uses queries to adaptively fuse multi-layer protein features and jointly learns protein and annotation retrieval through intra-modal and cross-modal contrastive objectives. On Prot-Inst-OOD, QProtFuse achieves the best protein and annotation retrieval scores, reaching 16.4\\% Recall@1 with annotation reranking. These gains improve downstream RAG-based function descriptions, yielding the highest LLM-as-a-judge scores for both Qwen3-8B (6.22/10) and DeepSeek-V4-Pro (6.68/10). Ablations and weight analyses demonstrate the value of query-guided fusion and complementary training objectives for exploiting a PLM's internal knowledge.",
+  "authors": [
+   "Mianzhi Pan",
+   "Peishuo Liu",
+   "Yawen Ouyang",
+   "Botian Wang",
+   "Yiming Rong",
+   "Hao Zhou",
+   "Jianbing Zhang"
+  ],
+  "categories": [
+   "cs.IR",
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Mianzhi Pan",
+  "pdf_url": "http://arxiv.org/pdf/2610.30180",
+  "primary_category": "cs.IR",
+  "published": "2026-10-19",
+  "tags": [
+   "protein-llm"
+  ],
+  "title": "QProtFuse: Query-Guided Layer Fusion for Retrieval-Augmented Protein Function Prediction",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-19"
+ },
+ "2610.30215": {
+  "abstract": "LLMs can act as scientific agents using tools to consult specialists and run experiments. Yet specialist information must enter their context, generally as text, images, audio or video: a bottleneck between models with rich, high-dimensional representations. We advocate direct representation exchange: a mindmeld conveying many properties, including information an LLM would not think to request. It should be extensible to new specialists, flexible across questions and tasks, and compositional across independently connected specialists without joint training.   The Latent Interconnect Protocol (LIP) learns connectors mapping specialist representations into LLM internal states. Training only connectors keeps this practical as LLMs grow and evolve. We connect three protein and three small molecule specialists to Gemma 3 (4B and 12B parameters) and Kimi K2.6 (1T total, 32B active), freezing all pretrained models. Independently trained connectors provide useful information without changing the LLM or existing connectors, supporting familiar and new question types about unseen objects. We demonstrate zero-shot transfer to cross-domain tasks without joint training. Task performance and compositionality generally improve with LLM capability, with especially strong gains in zero-shot task transfer. Limitations remain: current LLMs were not trained for specialist representations as native inputs; access does not ensure reliable interpretation, integration or use in reasoning. We call on specialist developers to provide consistent representation interfaces and, especially, on LLM developers to train models to receive, combine and reason with these inputs. These efforts could expand scientific agents' information while preserving conventional tools' flexibility.   Data, pretrained connectors, and code for training, evaluation and interactive inference: https://github.com/PolymathicAI/AI-Mindmeld",
+  "authors": [
+   "Siavash Golkar",
+   "Jake Kovalic",
+   "Shirley Ho"
+  ],
+  "categories": [
+   "cs.LG",
+   "q-bio.BM",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Siavash Golkar",
+  "pdf_url": "http://arxiv.org/pdf/2610.30215",
+  "primary_category": "cs.LG",
+  "published": "2026-10-21",
+  "tags": [],
+  "title": "AI Mindmeld: A Latent Interconnect Protocol",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-21"
+ },
+ "2610.30394": {
+  "abstract": "Protein classifiers are highly sensitive to evaluation protocol: random train/test splits induce phylogenetic leakage, allowing models to exploit taxon-specific correlations and substantially overestimate out-of-distribution performance. This issue is particularly acute for venom compound classification by ion-channel target (Ca2+, K+, Na+), where reported accuracies of 80-90% do not reflect generalization to unseen taxa. We formulate cross-species prediction as a structured distribution shift in which taxonomic identity acts as a confounder, requiring representations that capture structural features invariant across phylogeny. Using a shared multimodal backbone that fuses ESM-2 sequence embeddings with a disulfide-aware graph attention network, we systematically compare five structural inductive biases (spectral, Riemannian, SE(3)-invariant, statistical-manifold, and persistent-homology representations) under a leave-one-taxon-out evaluation protocol on a benchmark of 1,373 ColabFold-predicted venom compounds spanning five taxa. The persistent-homology representation summarizes backbone geometry through topological descriptors that are robust to local structural perturbations, providing an inductive bias toward phylogenetically invariant learning. Under conventional i.i.d. splits, all models achieve similar accuracy (81-86%), masking differences in inductive bias. Under taxonomic shift, this parity collapses: a sequence-only baseline drops to approximately 30%, the remaining geometric priors cluster at 54-55%, while our persistent-homology model (PH-GNN) achieves 63.4%, outperforming the next-best method by over 8 percentage points. These results demonstrate that random-split evaluation obscures meaningful differences in representation quality and identify topological representations as an effective inductive bias for learning under structured biological distribution shift.",
+  "authors": [
+   "Arezoo Bybordi",
+   "Favour Achimba",
+   "Mariam Gelashvili",
+   "Jessy Ramirez",
+   "Weigang Qiu",
+   "Mandë Holford",
+   "Anita Raja"
+  ],
+  "categories": [
+   "cs.LG",
+   "q-bio.BM"
+  ],
+  "comment": "9 pages, 3 figures, 2 tables",
+  "first_author": "Arezoo Bybordi",
+  "pdf_url": "http://arxiv.org/pdf/2610.30394",
+  "primary_category": "cs.LG",
+  "published": "2026-10-21",
+  "tags": [],
+  "title": "Escaping the Phylogenetic Trap: Persistent Homology Enables Cross-Species Ion Channel Classification via Multimodal Graph Neural Networks",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-10-21"
+ },
+ "2610.31012": {
+  "abstract": "Capability benchmarks measure what large language models can do, but not whether their recommendations remain appropriate as decision conditions change. This paper proposes a trajectory-based measurement framework and prospective validation protocol for artificial wisdom, defined behaviorally as context-sensitive regulation of judgment. Versioned reference specifications determine admissible responses and transition materiality before evaluation. Seven stage-level criteria assess judgment under current conditions, while two transition components assess material-update adequacy and commitment-preserving stability. Stability requires prior adequacy; switching within registered commitment classes is permitted, and persistent error earns no stability credit. A nine-component profile is primary, with a secondary bottleneck score and separate critical-failure reporting. Three simplified simulations examine precision, bottleneck estimation, and sensitivity to model-family count. A single-criterion simulation met its precision criteria at 24 scenarios per domain. Near a bottleneck tie, the estimated minimum had a downward bias of 0.55 points at that size. A simplified incremental-prediction simulation detected a Brier improvement of 0.027 with probabilities of .508 and .742 using eight and twelve families, respectively; it does not establish power for the operational protocol. An exploratory predecessor-rubric study comprising 71 evaluation records illustrates aggregation sensitivity but does not validate the proposed instrument. The twelve-family target remains provisional pending feasibility assessment and calibration of the complete analysis. Whether the profile predicts independent decision outcomes beyond capability remains an open empirical question.",
+  "authors": [
+   "Md. Jalil Piran"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Md. Jalil Piran",
+  "pdf_url": "http://arxiv.org/pdf/2610.31012",
+  "primary_category": "cs.AI",
+  "published": "2026-10-22",
+  "tags": [],
+  "title": "Evaluating Artificial Wisdom (AW): A Trajectory-Based Framework for Context-Sensitive Decision Regulation",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-22"
+ },
+ "2610.31183": {
+  "abstract": "Machine-learned interatomic potentials based on graph neural networks (GNNs) have made first-principles accuracy routine for the potential energy surface (PES). Their backbones, often O(3)-equivariant by design, are increasingly used to learn other atomistic properties. Many of these are of high angular order or pseudotensorial character, defined per atom, or expanded on large atom-centered basis sets. Such targets strain equivariant GNNs, whose tensor products grow steeply in cost with angular order and can fail to represent the target if truncated, forcing difficult trade-offs between hyperparameters. Unconstrained models like the Point-Edge Transformer (PET) instead replace explicit O(3) algebra with edge-to-edge attention and learn equivariance from data, so that the same backbone can in principle learn any equivariant property. We demonstrate how to use PET to learn molecular dipoles and polarizabilities, NMR chemical shielding tensors, and auxiliary-basis expansions of the electron density. Increasing the backbone size systematically improves both accuracy and equivariance error, and targeted architectural and training choices reduce the symmetry breaking further. PET matches or improves on the released reference models at lower inference cost and, compared with equivariant models, a smaller memory footprint. The predictions give accurate IR and Raman spectra and isotropic shieldings; the predicted densities accelerate self-consistent field calculations and give one-shot ground-state properties, and pretrained density models transfer to higher levels of theory by fine-tuning on little data. The impact of approximate equivariance is small for most observables, further validating this approach to train fast, accurate, and useful surrogate models for properties beyond the PES.",
+  "authors": [
+   "Joseph W. Abbott",
+   "Paolo Pegolo",
+   "Pol Febrer",
+   "Michelangelo Domina",
+   "Sandra Saade",
+   "Matthias Kellner",
+   "Filippo Bigi",
+   "Philip Loche",
+   "Michele Ceriotti"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Joseph W. Abbott",
+  "pdf_url": "http://arxiv.org/pdf/2610.31183",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-22",
+  "tags": [
+   "ab-initio",
+   "free-energy",
+   "gnn",
+   "mlip"
+  ],
+  "title": "Unconstrained learning of equivariant atomistic properties",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-10-22"
+ },
+ "2610.31519": {
+  "abstract": "Large language models (LLMs) are increasingly used to generate domain-specific commercial & medical content (e.g., claims, statements, and promotional phrases) in regulated industries such as pharmaceuticals. However, ensuring its regulatory compliance, factual accuracy, and audience-specific personalization remains a major challenge. We report a production case study asking whether moving compliance and personalization signal from prompt-level rules into retrieval time structured context improves pharmaceutical claims generation, using Composer, a deployed internal tool built on a Golden Data Model (GDM) of 1,867 pharmaceutical claims spanning four products. The GDM integrates claim metadata, references, audience labels, material type, usage history, Match Text Variant (MTV) links, and a six dimension quality score (6C). Across six product-audience segments, the context pipeline improves intended indication (+29%), intended content type (+62%) and intended target audience (+67%), 6C quality score (+86%), and claim reuse (+34%). Production log analysis over the deployment period shows a 29.5% reduction in weekly API cost. We report this as descriptive deployment evidence. This work is a systems and data architecture contribution: it shows that in a regulated, high-stakes domain, restructuring claim data for retrieval-time filtering is a more scalable lever than expanding prompt-level rules, and documents the engineering path data cleaning, graph linking, and quality scoring.",
+  "authors": [
+   "Suyash Mishra",
+   "Qiang Li",
+   "Subhabrata Adak",
+   "Upender Phogat",
+   "Srikanth Patil",
+   "Satyanarayan Pati"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Suyash Mishra",
+  "pdf_url": "http://arxiv.org/pdf/2610.31519",
+  "primary_category": "cs.AI",
+  "published": "2026-10-22",
+  "tags": [],
+  "title": "From Prompt Rules to Golden Data Model: Production-Scale Generation of Personalized, Compliant Pharmaceutical Claims",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-22"
+ },
+ "2610.31566": {
+  "abstract": "Large language models have shown outstanding performance on text-first tasks such as coding, math, and writing. Recent efforts are shifting models' training to include scientific problems that often live in highly specialized domains beyond text, such as protein structure and biological images. However, in these scenarios, their general-purpose accuracy compared with specialized algorithms remains in question. One such domain is cell tracking, which requires spatiotemporal awareness of cell dynamics. To evaluate this, we created a new benchmark, CellTrack-Bench, which assesses Vision-Language Models' (VLMs) cell-tracking-related performance against specialized trackers. The full benchmark draws from 15 standard cell-tracking datasets across four imaging modalities and comprises 1,537 problems corresponding to 9,041 cell-linking decisions. We selected a hard subset requiring greater reasoning effort by identifying failures shared across distinct algorithmic trackers. With this proposed dataset, we: (i) evaluated different environment harnesses for VLMs; (ii) benchmarked 9 frontier closed-source models and 13 open-weight models; and (iii) provided a detailed analysis of their failure modes. Code, the stored model outputs, and a pipeline that regenerates the benchmark from the source datasets are available at https://github.com/royerlab/celltrack-bench.",
+  "authors": [
+   "Ilan Theodoro",
+   "Jordão Bragantini",
+   "Loïc A. Royer"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Ilan Theodoro",
+  "pdf_url": "http://arxiv.org/pdf/2610.31566",
+  "primary_category": "cs.CV",
+  "published": "2026-10-22",
+  "tags": [
+   "protein-structure"
+  ],
+  "title": "CellTrack-Bench: Microscopic Cell Tracking Benchmark for Vision-Language Models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-22"
+ },
+ "2610.31588": {
+  "abstract": "Institutions that deploy large language models in regulated settings often need technical evidence of responsible AI practices before approving a deployment. COMPL-AI provides a technical interpretation of the EU AI Act that organises this evidence under six principle groups and eighteen technical requirements, twelve of which current benchmarks can measure. The benchmark suites that produce this evidence are typically operated from a command line, while the staff who approve deployments are non-engineers. We present VERA, an open-source self-hosted dashboard deployed to facilitate responsible AI processes within a large European bank. A reviewer selects a model and runs public benchmarks against it. VERA scores the twelve requirements that current benchmarks can measure and instruments the energy consumed by each evaluation, adding run-level evidence for environmental impact. We run four served open-weight models through the requirement pipeline, and the dashboard displays a score for each measurable requirement. A within-subject study then compares how participants read these benchmark results: from the raw output files in one condition, and through the VERA dashboard in the other. The dashboard reduced the time needed to perform the responsible AI assessment, reducing the time required from 56 seconds using raw files to 30 seconds using our dashboard, on average. Our dashboard scored highly (4.36 out of 5) on usefulness in the survey conducted within the organization. The dashboard and the study material are released publicly to promote replicability and reproducibility in different organisational contexts.",
+  "authors": [
+   "Robin Quériaux",
+   "Solveig Bachellery",
+   "Léa Déléris",
+   "Saurabhsingh Rajput",
+   "Mariam Barry",
+   "Tushar Sharma",
+   "Jérôme Lebecq"
+  ],
+  "categories": [
+   "cs.SE",
+   "cs.AI",
+   "cs.CY"
+  ],
+  "comment": "Accepted at the 33rd Asia-Pacific Software Engineering Conference (APSEC 2026), Software Engineering in Practice track, Bali, Indonesia, 7-10 December 2026. 11 pages, 3 figures",
+  "first_author": "Robin Quériaux",
+  "pdf_url": "http://arxiv.org/pdf/2610.31588",
+  "primary_category": "cs.SE",
+  "published": "2026-10-22",
+  "tags": [],
+  "title": "VERA: A Responsible AI Dashboard for Assessing LLM Deployments in Light of the EU AI Act",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-10-22"
  }
 }

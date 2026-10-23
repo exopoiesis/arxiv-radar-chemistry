@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,59 +116,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24144.html">LiveCoMS Roundtable: Discussing Markov state models after two decades of development v1.0</a></div></td>
 <td>Daniel M. Zuckerman et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24144">2610.24144</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17987.html">Knowledge-Guided Construction of Machine Learning Potentials for Reactive Behavior in Energetic Materials</a></div></td>
-<td>Guanchen Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17987">2610.17987</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21107.html">Aluminum wide-range EOS sensitivity in Z-pinch dynamic-hohlraum liner-foam impact and outgoing radiation</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Cong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21107">2610.21107</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21120.html">Constrained Nuclear-Electronic Orbital Time-Dependent Density Functional Theory for Excited-State Dynamics with Nuclear Quantum Effects</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="excited-states-7d.html">excited-states</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Yiwen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21120">2610.21120</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21259.html">Energy Flow Shapes the Decomposition Dynamics of a Reactive Atmospheric Intermediate</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Mitradip Das et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21259">2610.21259</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21625.html">Universal Dynamic Scaling for Sub-Yield Aging and Over-Yield Rejuvenation in A Cyclically Driven Metallic Glass</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Nannan Ren et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21625">2610.21625</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21637.html">Directed impulsive molecular dynamics reveal energy-routing pathways of bond cleavage in TATB</a></div></td>
-<td>Guanchen Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21637">2610.21637</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21771.html">Hierarchical universal open structure dataset for atomistic modeling</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
-<td>Sofiia Chorna et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21771">2610.21771</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21911.html">VoroTypes: automated enumeration of Voronoi cell topologies for structural identification of complex crystals in atomistic simulations</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a></div></td>
-<td>Emanuel A. Lazar et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21911">2610.21911</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22147.html">Simulated Solvation Dynamics of a Photoexcited Organic Molecule and the Associated Time-Resolved X-ray Scattering Signal</a></div></td>
-<td>Simon Petry et al.</td>
-<td><a href="http://arxiv.org/abs/2610.22147">2610.22147</a></td>
 </tr>
 </tbody></table>

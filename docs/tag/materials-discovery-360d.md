@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">258 papers</span>
+  <span class="paper-count">257 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1556,11 +1556,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26824.html">LeMat-Synth: a multi-modal toolbox to curate broad synthesis procedure databases from scientific literature</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
 <td>Magdalena Lederbauer et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26824">2510.26824</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23394.html">fair_data.py: implementing FAIR data compliance in Tribchem</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Lucrezia Berghenti et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23394">2510.23394</a></td>
 </tr>
 </tbody></table>

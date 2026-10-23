@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">313 papers</span>
+  <span class="paper-count">311 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1880,17 +1880,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25938.html">Revisiting and Accelerating the Basin Hopping Algorithm for Lennard-Jones Clusters: Adaptive and Parallel Implementation in Python</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Oliver Carmona et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25938">2510.25938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22494.html">ProSpero: Active Learning for Robust Protein Design Beyond Wild-Type Neighborhoods</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Michal Kmicikiewicz et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22494">2505.22494</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23786.html">Relaxed Sequence Sampling for Diverse Protein Design</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Joohwan Ko et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23786">2510.23786</a></td>
 </tr>
 </tbody></table>

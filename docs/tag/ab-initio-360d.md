@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1524 papers</span>
+  <span class="paper-count">1522 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31183.html">Unconstrained learning of equivariant atomistic properties</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Joseph W. Abbott et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31183">2610.31183</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26129.html">Generalised Fluctuating Dynamic Density-Functional Theory: Derivation and Applications</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
@@ -9140,23 +9146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24968.html">FSIM: A Pedagogical and Extensible HPC Framework for the Hartree-Fock Method</a></div></td>
 <td>Mario Hernández Vera</td>
 <td><a href="http://arxiv.org/abs/2510.24968">2510.24968</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23303.html">Ground and excited potential energy surfaces for CaF+Ca interactions and isotope exchange reactions</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Dibyendu Sardar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23303">2510.23303</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23412.html">Quantum fluctuations determine the spin-flop transition in hematite</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Tobias Dannegger et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23412">2510.23412</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23466.html">Thermoelectric transport and the role of different scattering processes in the half-Heusler NbFeSb</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Bhawna Sahni et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23466">2510.23466</a></td>
 </tr>
 </tbody></table>

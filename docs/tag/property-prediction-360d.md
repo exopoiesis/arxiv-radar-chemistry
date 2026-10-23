@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">237 papers</span>
+  <span class="paper-count">238 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29589.html">Fragment-Level Graph Encoding for Interpretable Molecular Property Prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
+<td>Rafael Lopes Almeida et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29589">2610.29589</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25163.html">M-JEPA: Predictive Self-Supervised Learning for Molecular Graphs with Scaffold-Shift Evaluation on Tox21</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
+<td>Karthik Iyer et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25163">2610.25163</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18651.html">Does Pretraining Teach Chemical Language Models Chemistry?</a></div><div class="paper-tags"><a href="chemical-llm-360d.html">chemical-llm</a></div></td>
@@ -1430,11 +1442,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15403.html">Geometric Mixture Models for Electrolyte Conductivity Prediction</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="gnn-360d.html">gnn</a></div></td>
 <td>Anyi Li et al.</td>
 <td><a href="http://arxiv.org/abs/2510.15403">2510.15403</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00063.html">MolErr2Fix: Benchmarking LLM Trustworthiness in Chemistry via Modular Error Detection, Localization, Explanation, and Revision</a></div></td>
-<td>Yuyang Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00063">2509.00063</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">506 papers</span>
+  <span class="paper-count">503 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3032,23 +3032,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24380.html">APEX: Approximate-but-exhaustive search for ultra-large combinatorial synthesis libraries</a></div></td>
 <td>Aryan Pedawi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.24380">2510.24380</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.19342.html">Covering Multiple Objectives with a Small Set of Solutions Using Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
-<td>Natalie Maus et al.</td>
-<td><a href="http://arxiv.org/abs/2501.19342">2501.19342</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03095.html">Distilled Protein Backbone Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Liyang Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03095">2510.03095</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23379.html">Symbolic Neural Generation with Applications to Lead Discovery in Drug Design</a></div></td>
-<td>Ashwin Srinivasan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23379">2510.23379</a></td>
 </tr>
 </tbody></table>

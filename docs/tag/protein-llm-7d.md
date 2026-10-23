@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30180.html">QProtFuse: Query-Guided Layer Fusion for Retrieval-Augmented Protein Function Prediction</a></div></td>
+<td>Mianzhi Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30180">2610.30180</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24458.html">Generative Retrieval for Reverse Target Fishing with a Proteome-Scale Benchmark</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="molecular-representation-7d.html">molecular-representation</a></div></td>
 <td>Zhichao Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24458">2610.24458</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21200.html">Poisoning the corpora of protein design systems during pre-training and retrieval</a></div><div class="paper-tags"><a href="protein-structure-7d.html">protein-structure</a></div></td>
-<td>Charalampos Koilakos et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21200">2610.21200</a></td>
 </tr>
 </tbody></table>

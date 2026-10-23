@@ -5,15 +5,51 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-10-22._
+_Updated 2026-10-23._
 
-**16486** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**16499** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.31012.html">Evaluating Artificial Wisdom (AW): A Trajectory-Based Framework for Context-Sensitive Decision Regulation</a></div></td>
+<td>Md. Jalil Piran</td>
+<td><a href="http://arxiv.org/abs/2610.31012">2610.31012</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.31183.html">Unconstrained learning of equivariant atomistic properties</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/free-energy-30d.html">free-energy</a> · <a href="tag/gnn-30d.html">gnn</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
+<td>Joseph W. Abbott et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31183">2610.31183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.31519.html">From Prompt Rules to Golden Data Model: Production-Scale Generation of Personalized, Compliant Pharmaceutical Claims</a></div></td>
+<td>Suyash Mishra et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31519">2610.31519</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.31566.html">CellTrack-Bench: Microscopic Cell Tracking Benchmark for Vision-Language Models</a></div><div class="paper-tags"><a href="tag/protein-structure-30d.html">protein-structure</a></div></td>
+<td>Ilan Theodoro et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31566">2610.31566</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.31588.html">VERA: A Responsible AI Dashboard for Assessing LLM Deployments in Light of the EU AI Act</a></div></td>
+<td>Robin Quériaux et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31588">2610.31588</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.29111.html">SU(2)-Equivariant Spinor Message Passing for Molecular Magnetism</a></div><div class="paper-tags"><a href="tag/gnn-30d.html">gnn</a> · <a href="tag/magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Erh-Wei Sheng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29111">2610.29111</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.29185.html">CloudIR-Bench: A Benchmark for Root Cause Analysis and Mitigation of Cloud Incidents</a></div></td>
@@ -34,9 +70,33 @@ _Updated 2026-10-22._
 </tr>
 <tr class="paper">
 <td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.29589.html">Fragment-Level Graph Encoding for Interpretable Molecular Property Prediction</a></div><div class="paper-tags"><a href="tag/gnn-30d.html">gnn</a> · <a href="tag/property-prediction-30d.html">property-prediction</a></div></td>
+<td>Rafael Lopes Almeida et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29589">2610.29589</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.29895.html">Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language Models</a></div><div class="paper-tags"><a href="tag/materials-discovery-30d.html">materials-discovery</a> · <a href="tag/materials-science-30d.html">materials-science</a></div></td>
 <td>Aravindan Kamatchi Sundaram et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29895">2610.29895</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.30215.html">AI Mindmeld: A Latent Interconnect Protocol</a></div></td>
+<td>Siavash Golkar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30215">2610.30215</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.30394.html">Escaping the Phylogenetic Trap: Persistent Homology Enables Cross-Species Ion Channel Classification via Multimodal Graph Neural Networks</a></div></td>
+<td>Arezoo Bybordi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30394">2610.30394</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.27614.html">Learning Inter-Graph Interactions Between Heterogeneous Substructures of Chemical Systems</a></div><div class="paper-tags"><a href="tag/gnn-30d.html">gnn</a></div></td>
+<td>Gyoung S. Na</td>
+<td><a href="http://arxiv.org/abs/2610.27614">2610.27614</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-20</td>
@@ -133,65 +193,5 @@ _Updated 2026-10-22._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26261.html">REFLEX: RNA Ensemble Generation via Flexibility-Calibrated Stochastic Bridge</a></div></td>
 <td>Wanli Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2610.26261">2610.26261</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26280.html">Correlated detection of electrons and ions emitted from laser-induced nanoplasmas in doped helium nanodroplets in the single-shot single-cluster regime</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Keshav Sishodia et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26280">2610.26280</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26301.html">Machine Learning-Assisted Discovery of Carbon-Related Defect Formation Mechanisms in Diamond</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
-<td>Grace Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26301">2610.26301</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26306.html">Linear gas mass density: a unifying descriptor of Cosmic Filaments</a></div></td>
-<td>Daniela Galárraga-Espinosa et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26306">2610.26306</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26307.html">La14.33(CN3)8N, a Nitridocarbonate based on the (CN3)5- Ion</a></div><div class="paper-tags"><a href="tag/crystal-structure-30d.html">crystal-structure</a></div></td>
-<td>Markus Ströbele et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26307">2610.26307</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26387.html">Ultrafast Proton-Induced Collective Dynamics Regulated by Water-Mediated Hydrogen-Bond Networks in Liquids</a></div></td>
-<td>Xiaokun Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26387">2610.26387</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26502.html">Atomic-level study of dose-dependent lattice thermal conductivity degradation in irradiated tungsten</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Mary K Chessey et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26502">2610.26502</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26538.html">Small Average Error, Wide Individual Error: General-Purpose LLMs Estimating Energy Intake from Meal Photos in a Feeding Trial</a></div><div class="paper-tags"><a href="tag/multimodal-llm-30d.html">multimodal-llm</a></div></td>
-<td>Xiaomeng Li</td>
-<td><a href="http://arxiv.org/abs/2610.26538">2610.26538</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26587.html">Local Measurement Theory for Quantum Cellular Automata</a></div></td>
-<td>Tommaso Brambilla et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26587">2610.26587</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26667.html">Vacancy and Helium-Cluster Thermomigration in Tungsten</a></div></td>
-<td>Sanad Alturk et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26667">2610.26667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26689.html">Measurement-efficient energy estimator for quantum chemistry of photodynamic materials</a></div><div class="paper-tags"><a href="tag/mof-30d.html">mof</a> · <a href="tag/quantum-computing-30d.html">quantum-computing</a></div></td>
-<td>Connor Lenihan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26689">2610.26689</a></td>
 </tr>
 </tbody></table>

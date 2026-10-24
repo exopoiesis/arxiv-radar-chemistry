@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-ligand — 360d</h1>
-  <span class="paper-count">143 papers</span>
+  <span class="paper-count">141 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <strong>360d</strong> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -860,17 +860,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15855.html">THFlow: A Temporally Hierarchical Flow Matching Framework for 3D Peptide Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Dengdeng Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2502.15855">2502.15855</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23975.html">Machine learning approaches for interpretable antibody property prediction using structural data</a></div></td>
-<td>Kevin Michalewicz et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23975">2510.23975</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24186.html">TriDS: AI-native molecular docking framework unified with binding site identification, conformational sampling and scoring</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Xuhan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24186">2510.24186</a></td>
 </tr>
 </tbody></table>

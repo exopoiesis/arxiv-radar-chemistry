@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1568 papers</span>
+  <span class="paper-count">1557 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9356,71 +9356,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25707.html">Dual quantum locking: Dynamic coupling of hydrogen and water sublattices in hydrogen filled ice</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Loan Renaud et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25707">2510.25707</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17804.html">Incongruent Melting and Phase Diagram of SiC from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Yu Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17804">2502.17804</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.07328.html">Cation-DNA outer sphere coordination in DNA polymorphism</a></div></td>
-<td>Elena A. Zubova et al.</td>
-<td><a href="http://arxiv.org/abs/2508.07328">2508.07328</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08307.html">Non-equilibrium lifetimes of DNA under electronic current in a molecular junction</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Julian A. Lawn et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08307">2509.08307</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23098.html">Topological Control of Transition Metal Networks for Reversible High-Capacity Li-rich Cathodes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Changming Ke et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23098">2510.23098</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24324.html">Energy evolution in nanocrystalline iron driven by collision cascades</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Ivan Tolkachev et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24324">2510.24324</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24343.html">Molecular Dynamics Study of Irradiation-Induced Defect and Dislocation Evolution in Strained Nickel</a></div></td>
-<td>Maciej Wilczynski et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24343">2510.24343</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24523.html">Unsupervised Machine-Learning Pipeline for Data-Driven Defect Detection and Characterisation: Application to Displacement Cascades</a></div></td>
-<td>Samuel Del Fré et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24523">2510.24523</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24874.html">Molecular simulations of Perovskites CsXI3 (X = Pb,Sn) Using Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Atefe Ebrahimi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24874">2510.24874</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24952.html">Stabilisation of hBN/SiC Heterostructures with Vacancies and Transition-Metal Atoms</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Arsalan Hashemi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24952">2510.24952</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24956.html">The Fate of Hydrogen and Helium: From Planetary Embryos to Earth- and Neptune-like Worlds</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Akash Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24956">2510.24956</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24979.html">Breaking the Timescale Barrier: Generative Discovery of Conformational Free-Energy Landscapes and Transition Pathways</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Chenyu Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24979">2510.24979</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">325 papers</span>
+  <span class="paper-count">322 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1946,23 +1946,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25938.html">Revisiting and Accelerating the Basin Hopping Algorithm for Lennard-Jones Clusters: Adaptive and Parallel Implementation in Python</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Oliver Carmona et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25938">2510.25938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08307.html">Non-equilibrium lifetimes of DNA under electronic current in a molecular junction</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Julian A. Lawn et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08307">2509.08307</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24324.html">Energy evolution in nanocrystalline iron driven by collision cascades</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ivan Tolkachev et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24324">2510.24324</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24566.html">Toward a Physical Interpretation of Phase Field Models with Dynamic Boundary Conditions</a></div></td>
-<td>Xiaobo Jing et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24566">2510.24566</a></td>
 </tr>
 </tbody></table>

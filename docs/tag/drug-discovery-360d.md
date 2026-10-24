@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">503 papers</span>
+  <span class="paper-count">501 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3020,17 +3020,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25132.html">EnzyControl: Adding Functional and Substrate-Specific Control for Enzyme Backbone Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Chao Song et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25132">2510.25132</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24186.html">TriDS: AI-native molecular docking framework unified with binding site identification, conformational sampling and scoring</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Xuhan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24186">2510.24186</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24380.html">APEX: Approximate-but-exhaustive search for ultra-large combinatorial synthesis libraries</a></div></td>
-<td>Aryan Pedawi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24380">2510.24380</a></td>
 </tr>
 </tbody></table>

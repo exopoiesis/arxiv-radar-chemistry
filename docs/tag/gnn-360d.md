@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">373 papers</span>
+  <span class="paper-count">371 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2240,17 +2240,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22094.html">Hierarchical Graph Networks for Accurate Weather Forecasting via Lightweight Training</a></div></td>
 <td>Thomas Bailie et al.</td>
 <td><a href="http://arxiv.org/abs/2510.22094">2510.22094</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15403.html">Geometric Mixture Models for Electrolyte Conductivity Prediction</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Anyi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15403">2510.15403</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25788.html">SHA-256 Infused Embedding-Driven Generative Modeling of High-Energy Molecules in Low-Data Regimes</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Siddharth Verma et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25788">2510.25788</a></td>
 </tr>
 </tbody></table>

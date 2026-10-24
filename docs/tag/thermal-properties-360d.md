@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">283 papers</span>
+  <span class="paper-count">282 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1706,11 +1706,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26244.html">Impact of AlN buffer thickness on electrical and thermal characteristics of AlGaN/GaN/AlN HEMTs</a></div></td>
 <td>Minho Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26244">2510.26244</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24147.html">Interplay between Cu diffusion and bonding anisotropy on the thermoelectric performance of double cation chalcohalides $CuBiSeX_{2} (X = Cl, Br)$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Manivannan Saminathan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24147">2510.24147</a></td>
 </tr>
 </tbody></table>

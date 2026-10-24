@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1522 papers</span>
+  <span class="paper-count">1514 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9098,53 +9098,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25938.html">Revisiting and Accelerating the Basin Hopping Algorithm for Lennard-Jones Clusters: Adaptive and Parallel Implementation in Python</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Oliver Carmona et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25938">2510.25938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23098.html">Topological Control of Transition Metal Networks for Reversible High-Capacity Li-rich Cathodes</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Changming Ke et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23098">2510.23098</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24291.html">Viscous AC current-driven nanomotors</a></div></td>
-<td>Vladimir U. Nazarov et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24291">2510.24291</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24322.html">Non-equilibrium correlation effects in spin transport through the 2D ferromagnet Fe$_4$GeTe$_2$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Declan Nell et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24322">2510.24322</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24685.html">Flat bands in ultra-wide gap two-dimensional germanium dioxide</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Rafael Franco Ribeiro Reis et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24685">2510.24685</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24689.html">Bonding Character as a Descriptor for Huang-Rhys Factors in Optically Active Defects</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Fatimah Habis et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24689">2510.24689</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24874.html">Molecular simulations of Perovskites CsXI3 (X = Pb,Sn) Using Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Atefe Ebrahimi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24874">2510.24874</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24956.html">The Fate of Hydrogen and Helium: From Planetary Embryos to Earth- and Neptune-like Worlds</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Akash Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24956">2510.24956</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24968.html">FSIM: A Pedagogical and Extensible HPC Framework for the Hartree-Fock Method</a></div></td>
-<td>Mario Hernández Vera</td>
-<td><a href="http://arxiv.org/abs/2510.24968">2510.24968</a></td>
 </tr>
 </tbody></table>

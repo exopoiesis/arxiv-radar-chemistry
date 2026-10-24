@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2032 papers</span>
+  <span class="paper-count">2024 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12158,53 +12158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26011.html">Photoinduced Electronic Band Dynamics and Defect-mediated Surface Potential Evolution in PdSe$_2$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
 <td>Omar Abdul-Aziz et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26011">2510.26011</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17804.html">Incongruent Melting and Phase Diagram of SiC from Machine Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Yu Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17804">2502.17804</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.00547.html">&quot;Ensemblization&quot; of density functional theory</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Tim Gould et al.</td>
-<td><a href="http://arxiv.org/abs/2504.00547">2504.00547</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24147.html">Interplay between Cu diffusion and bonding anisotropy on the thermoelectric performance of double cation chalcohalides $CuBiSeX_{2} (X = Cl, Br)$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Manivannan Saminathan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24147">2510.24147</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24289.html">Quantum geometric magnetic monopole and two-phase superconductivity in CeRh$_2$As$_2$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Kosuke Nogaki et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24289">2510.24289</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24322.html">Non-equilibrium correlation effects in spin transport through the 2D ferromagnet Fe$_4$GeTe$_2$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Declan Nell et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24322">2510.24322</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24685.html">Flat bands in ultra-wide gap two-dimensional germanium dioxide</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Rafael Franco Ribeiro Reis et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24685">2510.24685</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24689.html">Bonding Character as a Descriptor for Huang-Rhys Factors in Optically Active Defects</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Fatimah Habis et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24689">2510.24689</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24952.html">Stabilisation of hBN/SiC Heterostructures with Vacancies and Transition-Metal Atoms</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Arsalan Hashemi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24952">2510.24952</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">408 papers</span>
+  <span class="paper-count">405 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2444,23 +2444,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26011.html">Photoinduced Electronic Band Dynamics and Defect-mediated Surface Potential Evolution in PdSe$_2$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Omar Abdul-Aziz et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26011">2510.26011</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24147.html">Interplay between Cu diffusion and bonding anisotropy on the thermoelectric performance of double cation chalcohalides $CuBiSeX_{2} (X = Cl, Br)$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Manivannan Saminathan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24147">2510.24147</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24289.html">Quantum geometric magnetic monopole and two-phase superconductivity in CeRh$_2$As$_2$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Kosuke Nogaki et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24289">2510.24289</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25028.html">Preliminary Demonstration of Diamond-GaN pn Diodes via Grafting</a></div></td>
-<td>Jie Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25028">2510.25028</a></td>
 </tr>
 </tbody></table>

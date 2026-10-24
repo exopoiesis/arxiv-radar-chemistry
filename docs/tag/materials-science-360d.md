@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">334 papers</span>
+  <span class="paper-count">332 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2006,17 +2006,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25380.html">Cross Learning between Electronic Structure Theories for Unifying Molecular, Surface, and Inorganic Crystal Foundation Force Fields</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="mlip-360d.html">mlip</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Ilyes Batatia et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25380">2510.25380</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.07297.html">Data Fusion of Deep Learned Molecular Embeddings for Property Prediction</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Robert J Appleton et al.</td>
-<td><a href="http://arxiv.org/abs/2504.07297">2504.07297</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26824.html">LeMat-Synth: a multi-modal toolbox to curate broad synthesis procedure databases from scientific literature</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
-<td>Magdalena Lederbauer et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26824">2510.26824</a></td>
 </tr>
 </tbody></table>

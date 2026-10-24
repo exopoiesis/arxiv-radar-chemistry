@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">298 papers</span>
+  <span class="paper-count">297 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1796,11 +1796,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25947.html">Revisiting Multilingual Data Mixtures in Language Model Pretraining</a></div></td>
 <td>Negar Foroutan et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25947">2510.25947</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24632.html">Reduced Basis Approach for Convection-Diffusion Equations with Non-Linear Boundary Reaction Conditions</a></div></td>
-<td>Sebastian Matera et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24632">2510.24632</a></td>
 </tr>
 </tbody></table>

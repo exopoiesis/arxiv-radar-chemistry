@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25328.html">Mode coupling theory analysis of water dynamics detected by dielectric spectroscopy</a></div></td>
 <td>Peter Lunkenheimer et al.</td>
 <td><a href="http://arxiv.org/abs/2610.25328">2610.25328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24418.html">Reticulating Local Dynamics in Three-Dimensional Covalent Organic Frameworks</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
-<td>Francesco Tavani et al.</td>
-<td><a href="http://arxiv.org/abs/2610.24418">2610.24418</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24654.html">Rovibrational dynamics in strongly-coupled gas-phase methane</a></div></td>
-<td>Jane C. Nelson et al.</td>
-<td><a href="http://arxiv.org/abs/2610.24654">2610.24654</a></td>
 </tr>
 </tbody></table>

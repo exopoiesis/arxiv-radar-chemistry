@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">216 papers</span>
+  <span class="paper-count">214 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1298,17 +1298,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00759.html">Nonlinear effects in light-ion stopping powers within real-time time-dependent density functional theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Alina Kononov et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00759">2511.00759</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25658.html">Optical excitations in nanographenes from the Bethe-Salpeter equation and time-dependent density functional theory: absorption spectra and spatial descriptors</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Maximilian Graml et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25658">2510.25658</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25865.html">Ultrafast Relaxation Dynamics of Inner-Shell Vacancies in Hydrated Pyrrole</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Kedong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25865">2510.25865</a></td>
 </tr>
 </tbody></table>

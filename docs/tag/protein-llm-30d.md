@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>protein-llm — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <strong>30d</strong> <a href="protein-llm-90d.html">90d</a> <a href="protein-llm-360d.html">360d</a> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37675.html">LEMON-ZEST: Evolution-Informed Tokenization for Efficient Protein Language Modeling</a></div></td>
 <td>Biswajit Banerjee et al.</td>
 <td><a href="http://arxiv.org/abs/2609.37675">2609.37675</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28921.html">PFArena: Benchmarking Language Models for Protein Modification</a></div></td>
-<td>Yawen Ouyang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.28921">2609.28921</a></td>
 </tr>
 </tbody></table>

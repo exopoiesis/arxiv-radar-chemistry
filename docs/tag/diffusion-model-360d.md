@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">429 papers</span>
+  <span class="paper-count">428 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2582,11 +2582,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26278.html">Distributional Multi-objective Black-box Optimization for Diffusion-model Inference-time Multi-Target Generation</a></div></td>
 <td>Kim Yong Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26278">2510.26278</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05535.html">Future of AI Models: A Computational perspective on Model collapse</a></div></td>
-<td>Trivikram Satharasi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05535">2511.05535</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1557 papers</span>
+  <span class="paper-count">1549 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9308,53 +9308,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26998.html">Stability and Dynamics of Sn-based Halide Perovskites: Insights from MACE-MP-0 and Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Thiago Puccinelli et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26998">2510.26998</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15225.html">Self-assembly of anisotropic particles on curved surfaces</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Gautam Bordia et al.</td>
-<td><a href="http://arxiv.org/abs/2502.15225">2502.15225</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19089.html">Improved initial colliding nuclei density profile method for QMD-type transport models</a></div></td>
-<td>Xilong Xiang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19089">2509.19089</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25098.html">Percolating Corrosion Pathways of Chemically Ordered NiCr Alloys in Molten Salts</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Hamdy Arkoub et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25098">2510.25098</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25107.html">Learning Hamiltonian flows from numerical integrators and examples</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Rui Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25107">2510.25107</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25439.html">Finite-Temperature Ferroelectric Phase Transitions from Machine-Learned Force Fields</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="phase-transition-360d.html">phase-transition</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Kristoffer Eggestad et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25439">2510.25439</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25620.html">Combined ab initio and experimental study of phosphorus-based anti-wear additives interacting with iron and iron oxide</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Francesca Benini et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25620">2510.25620</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25627.html">Heterogeneous Wettability Alters Methane Migration and Leakage in Shallow Aquifers</a></div></td>
-<td>Sabber Khandoozi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25627">2510.25627</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25707.html">Dual quantum locking: Dynamic coupling of hydrogen and water sublattices in hydrogen filled ice</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Loan Renaud et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25707">2510.25707</a></td>
 </tr>
 </tbody></table>

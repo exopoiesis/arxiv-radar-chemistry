@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,29 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25477.html">NEP-kappa 2.0: A unified framework for phonon transport and nonequilibrium thermalization with machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
 <td>Shixian Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.25477">2610.25477</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24514.html">Understanding compression-extension error asymmetry in universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
-<td>Hongwei Du et al.</td>
-<td><a href="http://arxiv.org/abs/2610.24514">2610.24514</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24616.html">SIESTA-QCOMP: Bridging Classical and Quantum Computing for Strongly Correlated Systems</a></div><div class="paper-tags"><a href="materials-science-7d.html">materials-science</a> · <a href="quantum-computing-7d.html">quantum-computing</a></div></td>
-<td>Yann Pouillon et al.</td>
-<td><a href="http://arxiv.org/abs/2610.24616">2610.24616</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24633.html">Theory of High-Temperature Fractional Chern Phases in Monolayer van der Waals Kagome Materials A$_2$T$_3$X$_4$</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Soomin Oh et al.</td>
-<td><a href="http://arxiv.org/abs/2610.24633">2610.24633</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24768.html">Epitaxial Displacement-etched GaAsSb Quantum Dots Emitting at Telecom Wavelengths</a></div></td>
-<td>Sadhvikas Addamane et al.</td>
-<td><a href="http://arxiv.org/abs/2610.24768">2610.24768</a></td>
 </tr>
 </tbody></table>

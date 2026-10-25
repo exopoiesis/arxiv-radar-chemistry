@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">231 papers</span>
+  <span class="paper-count">229 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1388,17 +1388,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27040.html">GeoPep: A geometry-aware masked language model for protein-peptide binding site prediction</a></div></td>
 <td>Dian Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2510.27040">2510.27040</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24670.html">Pearl: A Foundation Model for Placing Every Atom in the Right Location</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Genesis Research Team et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24670">2510.24670</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25132.html">EnzyControl: Adding Functional and Substrate-Specific Control for Enzyme Backbone Generation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Chao Song et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25132">2510.25132</a></td>
 </tr>
 </tbody></table>

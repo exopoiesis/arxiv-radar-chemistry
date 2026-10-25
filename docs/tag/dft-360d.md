@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2024 papers</span>
+  <span class="paper-count">2016 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12110,53 +12110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26998.html">Stability and Dynamics of Sn-based Halide Perovskites: Insights from MACE-MP-0 and Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Thiago Puccinelli et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26998">2510.26998</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.02319.html">Efficient Krylov methods for linear response in plane-wave electronic structure calculations</a></div></td>
-<td>Michael F. Herbst et al.</td>
-<td><a href="http://arxiv.org/abs/2505.02319">2505.02319</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25142.html">A Geometric Pathway for Tuning Ferroelectric Properties via Polar State Reconfiguration</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Hao-Cheng Thong et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25142">2510.25142</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25655.html">Spin-dependent anisotropic electron-phonon coupling in KTaO$_3$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Giulia Venditti et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25655">2510.25655</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25658.html">Optical excitations in nanographenes from the Bethe-Salpeter equation and time-dependent density functional theory: absorption spectra and spatial descriptors</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Maximilian Graml et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25658">2510.25658</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25865.html">Ultrafast Relaxation Dynamics of Inner-Shell Vacancies in Hydrated Pyrrole</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Kedong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25865">2510.25865</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25912.html">Evaluation of Structural Properties and Defect Energetics in Al$_x$Ga$_{1-x}$N Alloys</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Farshid Reza et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25912">2510.25912</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25938.html">Revisiting and Accelerating the Basin Hopping Algorithm for Lennard-Jones Clusters: Adaptive and Parallel Implementation in Python</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Oliver Carmona et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25938">2510.25938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26011.html">Photoinduced Electronic Band Dynamics and Defect-mediated Surface Potential Evolution in PdSe$_2$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Omar Abdul-Aziz et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26011">2510.26011</a></td>
 </tr>
 </tbody></table>

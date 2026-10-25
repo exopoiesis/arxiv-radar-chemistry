@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">371 papers</span>
+  <span class="paper-count">369 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2228,17 +2228,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27474.html">Spectral Neural Graph Sparsification</a></div></td>
 <td>Angelica Liguori et al.</td>
 <td><a href="http://arxiv.org/abs/2510.27474">2510.27474</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12437.html">A method for the systematic generation of graph XAI benchmarks via Weisfeiler-Leman coloring</a></div></td>
-<td>Michele Fontanesi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12437">2505.12437</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22094.html">Hierarchical Graph Networks for Accurate Weather Forecasting via Lightweight Training</a></div></td>
-<td>Thomas Bailie et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22094">2510.22094</a></td>
 </tr>
 </tbody></table>

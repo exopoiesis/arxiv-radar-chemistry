@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -320,17 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02858.html">Physics-Informed and Knowledge-Driven Generative AI for Autonomous Discovery of Porous Oxide Energy Materials: Opportunities and Challenges</a></div></td>
 <td>Dibakar Datta</td>
 <td><a href="http://arxiv.org/abs/2608.02858">2608.02858</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24274.html">Physics-Guided Generative AI for Property-Targeted 3D Porous Media Design</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Peng Wang</td>
-<td><a href="http://arxiv.org/abs/2607.24274">2607.24274</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25039.html">Citrine Informatics: Chemical &amp; Materials Development Platform</a></div></td>
-<td>Maxwell C. Venetos et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25039">2607.25039</a></td>
 </tr>
 </tbody></table>

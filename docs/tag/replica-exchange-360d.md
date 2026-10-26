@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>replica-exchange — 360d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="replica-exchange-7d.html">7d</a> <a href="replica-exchange-30d.html">30d</a> <a href="replica-exchange-90d.html">90d</a> <strong>360d</strong> <a href="replica-exchange-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,11 +152,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05026.html">Machine Learning Study of Surface Reconstructions of the Cu$_{2}$O(111) Surface</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Payal Wadhwa et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05026">2507.05026</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07433.html">Benchmarking Simulacra AI&#x27;s Quantum Accurate Synthetic Data Generation for Chemical Sciences</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Fabio Falcioni et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07433">2511.07433</a></td>
 </tr>
 </tbody></table>

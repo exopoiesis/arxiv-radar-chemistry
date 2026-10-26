@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>structure-prediction — 360d</h1>
-  <span class="paper-count">166 papers</span>
+  <span class="paper-count">164 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <strong>360d</strong> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -998,17 +998,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02128.html">DL4Proteins Jupyter Notebooks Teach how to use Artificial Intelligence for Biomolecular Structure Prediction and Design</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Michael Chungyoun et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02128">2511.02128</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26626.html">Stabilization of Metallic, Excitonic Insulator, and Superionic Phases in Helium-Rare Gas Compounds at Sub-Terapascal Pressures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Cong Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26626">2510.26626</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26886.html">MaterialsGalaxy: A Platform Fusing Experimental and Theoretical Data in Condensed Matter Physics</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Tiannian Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26886">2510.26886</a></td>
 </tr>
 </tbody></table>

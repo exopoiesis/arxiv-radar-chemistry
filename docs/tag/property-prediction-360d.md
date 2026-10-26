@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">236 papers</span>
+  <span class="paper-count">234 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1418,17 +1418,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01171.html">STELLAR-koff: A Transfer Learning Model for Protein-Ligand Dissociation Rate Constant Prediction Based on Interaction Landscape</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a></div></td>
 <td>Jingyuan Li</td>
 <td><a href="http://arxiv.org/abs/2511.01171">2511.01171</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15725.html">Graph Diffusion that can Insert and Delete</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Matteo Ninniri et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15725">2506.15725</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26100.html">Applications of Machine Learning in Polymer Materials: Property Prediction, Material Design, and Systematic Processes</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Hongtao Guo Shuai Li Shu Li</td>
-<td><a href="http://arxiv.org/abs/2510.26100">2510.26100</a></td>
 </tr>
 </tbody></table>

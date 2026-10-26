@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">309 papers</span>
+  <span class="paper-count">307 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1856,17 +1856,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27446.html">Modeling partially-ionized dense plasma using wavepacket molecular dynamics</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Daniel Plummer et al.</td>
 <td><a href="http://arxiv.org/abs/2510.27446">2510.27446</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02888.html">Acceleration of the CASINO quantum Monte Carlo software using graphics processing units and OpenACC</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>B. Thorpe et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02888">2507.02888</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07433.html">Benchmarking Simulacra AI&#x27;s Quantum Accurate Synthetic Data Generation for Chemical Sciences</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
-<td>Fabio Falcioni et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07433">2511.07433</a></td>
 </tr>
 </tbody></table>

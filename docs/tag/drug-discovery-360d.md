@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">499 papers</span>
+  <span class="paper-count">496 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2990,23 +2990,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00220.html">Iterative Foundation Model Fine-Tuning on Multiple Rewards</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Pouya M. Ghari et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00220">2511.00220</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05768.html">AANet: Virtual Screening under Structural Uncertainty via Alignment and Aggregation</a></div></td>
-<td>Wenyu Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05768">2506.05768</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26100.html">Applications of Machine Learning in Polymer Materials: Property Prediction, Material Design, and Systematic Processes</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Hongtao Guo Shuai Li Shu Li</td>
-<td><a href="http://arxiv.org/abs/2510.26100">2510.26100</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26231.html">DiSE: A diffusion probabilistic model for automatic structure elucidation of organic compounds</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Haochen Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26231">2510.26231</a></td>
 </tr>
 </tbody></table>

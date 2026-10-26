@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-computing — 360d</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">119 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <strong>360d</strong> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -728,11 +728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08315.html">BDD2Seq: Enabling Scalable Reversible-Circuit Synthesis via Graph-to-Sequence Learning</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a></div></td>
 <td>Mingkai Miao et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08315">2511.08315</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26688.html">FlowQ-Net: A Generative Framework for Automated Quantum Circuit Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Jun Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26688">2510.26688</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">331 papers</span>
+  <span class="paper-count">328 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1982,23 +1982,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04697.html">Colossal dielectric response of HfxZr1-xO2 nanoparticles</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Oleksandr S. Pylypchuk et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04697">2508.04697</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26058.html">A Review of AI-Driven Approaches for Nanoscale Heat Conduction and Radiation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ziqi Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26058">2510.26058</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26633.html">Omnipresent Yet Overlooked: Heat Kernels in Combinatorial Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
-<td>Colin Doumont et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26633">2510.26633</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26886.html">MaterialsGalaxy: A Platform Fusing Experimental and Theoretical Data in Condensed Matter Physics</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Tiannian Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26886">2510.26886</a></td>
 </tr>
 </tbody></table>

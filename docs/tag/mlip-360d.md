@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">572 papers</span>
+  <span class="paper-count">569 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3428,23 +3428,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01913.html">Delta-learned force fields for nonbonded interactions: Addressing the strength mismatch between covalent-nonbonded interaction for global models</a></div></td>
 <td>Leonardo Cázares-Trejo et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01913">2511.01913</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26058.html">A Review of AI-Driven Approaches for Nanoscale Heat Conduction and Radiation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ziqi Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26058">2510.26058</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26467.html">Atomistic Simulations of Oxide-Water Interfaces using Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Jan Elsner et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26467">2510.26467</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26693.html">Temperature dependent ferroelectricity in strained KTaO3 with machine learned force field</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Yu Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26693">2510.26693</a></td>
 </tr>
 </tbody></table>

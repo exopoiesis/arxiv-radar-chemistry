@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">516 papers</span>
+  <span class="paper-count">513 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3092,23 +3092,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00979.html">Intrinsic Moiré Higher-Order Topology Beyond Effective Moiré Lattice Models</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Xianliang Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00979">2511.00979</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04699.html">Stability of graphene hyperbolic pseudospheres under harsh conditions</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>T. P. C. Klaver et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04699">2510.04699</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26394.html">Investigation of the intrinsic hidden spin texture and spin-state segregation in centrosymmetric monolayer dichalcogenide: effectiveness of the electric-field approach</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Ameneh Deljouifar et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26394">2510.26394</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26662.html">Giant orbital Zeeman effects in a magnetic topological van der Waals interphase</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Tobias Wichmann et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26662">2510.26662</a></td>
 </tr>
 </tbody></table>

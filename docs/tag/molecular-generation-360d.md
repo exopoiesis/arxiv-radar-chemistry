@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-generation — 360d</h1>
-  <span class="paper-count">157 papers</span>
+  <span class="paper-count">155 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -944,17 +944,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02087.html">Energy Loss Functions for Physical Systems</a></div></td>
 <td>Sékou-Oumar Kaba et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02087">2511.02087</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.01074.html">Omni-Mol: Multitask Molecular Model for Any-to-any Modalities</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
-<td>Chengxin Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2502.01074">2502.01074</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15725.html">Graph Diffusion that can Insert and Delete</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Matteo Ninniri et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15725">2506.15725</a></td>
 </tr>
 </tbody></table>

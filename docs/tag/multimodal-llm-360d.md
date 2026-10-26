@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>multimodal-llm — 360d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">89 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <a href="multimodal-llm-90d.html">90d</a> <strong>360d</strong> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -548,11 +548,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17050.html">Towards Robust Evaluation of STEM Education: Leveraging MLLMs in Project-Based Learning</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
 <td>Xinyi Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17050">2505.17050</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.01074.html">Omni-Mol: Multitask Molecular Model for Any-to-any Modalities</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Chengxin Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2502.01074">2502.01074</a></td>
 </tr>
 </tbody></table>

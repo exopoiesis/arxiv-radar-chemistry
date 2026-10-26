@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">194 papers</span>
+  <span class="paper-count">192 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1166,17 +1166,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04697.html">Colossal dielectric response of HfxZr1-xO2 nanoparticles</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Oleksandr S. Pylypchuk et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04697">2508.04697</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26693.html">Temperature dependent ferroelectricity in strained KTaO3 with machine learned force field</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Yu Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26693">2510.26693</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26998.html">Stability and Dynamics of Sn-based Halide Perovskites: Insights from MACE-MP-0 and Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Thiago Puccinelli et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26998">2510.26998</a></td>
 </tr>
 </tbody></table>

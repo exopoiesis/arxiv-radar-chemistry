@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -914,17 +914,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00204.html">Transfer learning discovery of molecular modulators for perovskite solar cells</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Haoming Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00204">2511.00204</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.01074.html">Omni-Mol: Multitask Molecular Model for Any-to-any Modalities</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
-<td>Chengxin Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2502.01074">2502.01074</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26100.html">Applications of Machine Learning in Polymer Materials: Property Prediction, Material Design, and Systematic Processes</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Hongtao Guo Shuai Li Shu Li</td>
-<td><a href="http://arxiv.org/abs/2510.26100">2510.26100</a></td>
 </tr>
 </tbody></table>

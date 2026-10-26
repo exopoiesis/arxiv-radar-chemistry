@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1504 papers</span>
+  <span class="paper-count">1498 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9002,41 +9002,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00283.html">Ambient-Induced Selenium Segregation and Nanoparticle Formation in 2H-HfSe2: An Experimental and Theoretical Study</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Stefany P. Carvalho et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00283">2511.00283</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22402.html">Machine-Learned Potentials for Solvation Modeling</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Roopshree Banchode et al.</td>
-<td><a href="http://arxiv.org/abs/2505.22402">2505.22402</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02888.html">Acceleration of the CASINO quantum Monte Carlo software using graphics processing units and OpenACC</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>B. Thorpe et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02888">2507.02888</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26467.html">Atomistic Simulations of Oxide-Water Interfaces using Machine Learning Potentials</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Jan Elsner et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26467">2510.26467</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26626.html">Stabilization of Metallic, Excitonic Insulator, and Superionic Phases in Helium-Rare Gas Compounds at Sub-Terapascal Pressures</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Cong Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26626">2510.26626</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26693.html">Temperature dependent ferroelectricity in strained KTaO3 with machine learned force field</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Yu Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26693">2510.26693</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07433.html">Benchmarking Simulacra AI&#x27;s Quantum Accurate Synthetic Data Generation for Chemical Sciences</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
-<td>Fabio Falcioni et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07433">2511.07433</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">296 papers</span>
+  <span class="paper-count">293 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1772,23 +1772,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01903.html">Benchmarking Proton Tunneling Splittings with a Wavefunction-Based Double-Well Model: Application to the Formic Acid Dimer</a></div></td>
 <td>Krishna Kingkar Pathak</td>
 <td><a href="http://arxiv.org/abs/2511.01903">2511.01903</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26432.html">Reusability of Quantum Catalysts</a></div></td>
-<td>Haitao Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26432">2510.26432</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26467.html">Atomistic Simulations of Oxide-Water Interfaces using Machine Learning Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Jan Elsner et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26467">2510.26467</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01899.html">Quantum Tunnelling Across Hydrogen Bonds: Proton--Deuteron Isotope Effects from a Cornell-Type Potential Model</a></div></td>
-<td>Krishna Kingkar Pathak</td>
-<td><a href="http://arxiv.org/abs/2511.01899">2511.01899</a></td>
 </tr>
 </tbody></table>

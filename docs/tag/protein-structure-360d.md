@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">229 papers</span>
+  <span class="paper-count">228 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1382,11 +1382,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02128.html">DL4Proteins Jupyter Notebooks Teach how to use Artificial Intelligence for Biomolecular Structure Prediction and Design</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Michael Chungyoun et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02128">2511.02128</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27040.html">GeoPep: A geometry-aware masked language model for protein-peptide binding site prediction</a></div></td>
-<td>Dian Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27040">2510.27040</a></td>
 </tr>
 </tbody></table>

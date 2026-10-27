@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">254 papers</span>
+  <span class="paper-count">251 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1520,23 +1520,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01790.html">A Synthesizability-Guided Pipeline for Materials Discovery</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Thorben Prein et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01790">2511.01790</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23371.html">Towards a Generalizable AI for Materials Discovery: Validation through Immersion Coolant Screening</a></div></td>
-<td>Hyunseung Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23371">2510.23371</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27369.html">From the Rock Floor to the Cloud: A Systematic Survey of State-of-the-Art NLP in Battery Life Cycle</a></div></td>
-<td>Tosin Adewumi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27369">2510.27369</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00204.html">Transfer learning discovery of molecular modulators for perovskite solar cells</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Haoming Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00204">2511.00204</a></td>
 </tr>
 </tbody></table>

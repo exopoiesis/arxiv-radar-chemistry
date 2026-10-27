@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,11 +260,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36398.html">Where Should Physics Enter a Molecular Crystal Generator?</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Haocheng Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.36398">2609.36398</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32309.html">PhiFold: Towards Dynamic Protein Design with Physics-Structured Covariance Modeling</a></div><div class="paper-tags"><a href="protein-function-30d.html">protein-function</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Yutian Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.32309">2609.32309</a></td>
 </tr>
 </tbody></table>

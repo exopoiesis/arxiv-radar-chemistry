@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">460 papers</span>
+  <span class="paper-count">458 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2762,17 +2762,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03061.html">Modal Backflow Neural Quantum States for Anharmonic Vibrational Calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Lexin Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03061">2511.03061</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27294.html">Influence of Hydrogen-Incorporation on the Bulk Electronic Structure and Chemical Bonding in Palladium</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>L. J. Bannenberg et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27294">2510.27294</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27578.html">First-Principles Study of Transition Metal Doped in 2D Polyaramid for Novel Material Modelling</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Ravi Trivedi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27578">2510.27578</a></td>
 </tr>
 </tbody></table>

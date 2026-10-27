@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">150 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -896,23 +896,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04180.html">One Small Step with Fingerprints, One Giant Leap for De Novo Molecule Generation from Mass Spectra</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Neng Kai Nigel Neo et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04180">2508.04180</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27281.html">HiF-DTA: Hierarchical Feature Learning Network for Drug-Target Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Minghui Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27281">2510.27281</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27671.html">MolChord: Structure-Sequence Alignment for Protein-Guided Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Wei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27671">2510.27671</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00204.html">Transfer learning discovery of molecular modulators for perovskite solar cells</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Haoming Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00204">2511.00204</a></td>
 </tr>
 </tbody></table>

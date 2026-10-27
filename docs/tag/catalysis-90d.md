@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,11 +422,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02301.html">Equilibrium gigahertz acoustics reveals long-range confinement in liquids</a></div></td>
 <td>Ievgeniia Chaban et al.</td>
 <td><a href="http://arxiv.org/abs/2608.02301">2608.02301</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25743.html">Physical Mechanism of Vacuole Formation in Liquid Droplets</a></div></td>
-<td>Pranay Jaiswal et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25743">2607.25743</a></td>
 </tr>
 </tbody></table>

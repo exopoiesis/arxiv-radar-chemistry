@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2009 papers</span>
+  <span class="paper-count">2005 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12044,29 +12044,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00724.html">The stability and topological behaviors in lanthanide antiperovskite nitrides: a high-throughput study</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Shuxiang Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00724">2511.00724</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04697.html">Colossal dielectric response of HfxZr1-xO2 nanoparticles</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Oleksandr S. Pylypchuk et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04697">2508.04697</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.22486.html">Electric Field-Induced Kerr Rotation on Metallic Surfaces</a></div></td>
-<td>Farzad Mahfouzi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.22486">2510.22486</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27294.html">Influence of Hydrogen-Incorporation on the Bulk Electronic Structure and Chemical Bonding in Palladium</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>L. J. Bannenberg et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27294">2510.27294</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27578.html">First-Principles Study of Transition Metal Doped in 2D Polyaramid for Novel Material Modelling</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Ravi Trivedi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27578">2510.27578</a></td>
 </tr>
 </tbody></table>

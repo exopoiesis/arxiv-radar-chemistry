@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">369 papers</span>
+  <span class="paper-count">368 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2222,11 +2222,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09263.html">Can Classic GNNs Be Strong Baselines for Graph-level Tasks? Simple Architectures Meet Excellence</a></div></td>
 <td>Yuankai Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2502.09263">2502.09263</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27474.html">Spectral Neural Graph Sparsification</a></div></td>
-<td>Angelica Liguori et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27474">2510.27474</a></td>
 </tr>
 </tbody></table>

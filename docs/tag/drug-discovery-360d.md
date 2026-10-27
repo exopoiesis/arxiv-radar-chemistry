@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">496 papers</span>
+  <span class="paper-count">491 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2960,35 +2960,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15855.html">THFlow: A Temporally Hierarchical Flow Matching Framework for 3D Peptide Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Dengdeng Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2502.15855">2502.15855</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27130.html">AI Agents in Drug Discovery</a></div></td>
-<td>Srijit Seal et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27130">2510.27130</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27281.html">HiF-DTA: Hierarchical Feature Learning Network for Drug-Target Affinity Prediction</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Minghui Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27281">2510.27281</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27671.html">MolChord: Structure-Sequence Alignment for Protein-Guided Drug Design</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Wei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27671">2510.27671</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00204.html">Transfer learning discovery of molecular modulators for perovskite solar cells</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Haoming Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00204">2511.00204</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00220.html">Iterative Foundation Model Fine-Tuning on Multiple Rewards</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Pouya M. Ghari et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00220">2511.00220</a></td>
 </tr>
 </tbody></table>

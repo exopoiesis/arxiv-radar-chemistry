@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,11 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35499.html">Physics-Guided Conditional Diffusion Model for Rare Event Synthesis and Diagnosis for the Water-Gas Shift Reaction</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a></div></td>
 <td>Md Abrar Rafid Siddique et al.</td>
 <td><a href="http://arxiv.org/abs/2609.35499">2609.35499</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.32467.html">Bison: Cross-Dataset Learning for Unseen-Compound Perturbation Prediction</a></div></td>
-<td>Yunfan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.32467">2609.32467</a></td>
 </tr>
 </tbody></table>

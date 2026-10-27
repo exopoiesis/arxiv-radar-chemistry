@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">293 papers</span>
+  <span class="paper-count">291 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1760,17 +1760,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17050.html">Towards Robust Evaluation of STEM Education: Leveraging MLLMs in Project-Based Learning</a></div><div class="paper-tags"><a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
 <td>Xinyi Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17050">2505.17050</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27600.html">Effects of Model Reduction on Coherence and Information Transfer in Stochastic Biochemical Systems</a></div></td>
-<td>Juan David Marmolejo Lozano et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27600">2510.27600</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01903.html">Benchmarking Proton Tunneling Splittings with a Wavefunction-Based Double-Well Model: Application to the Formic Acid Dimer</a></div></td>
-<td>Krishna Kingkar Pathak</td>
-<td><a href="http://arxiv.org/abs/2511.01903">2511.01903</a></td>
 </tr>
 </tbody></table>

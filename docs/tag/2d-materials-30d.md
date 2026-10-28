@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36542.html">First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Yuhyun Cha et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36542">2610.36542</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26158.html">Nanowire-Assisted Epitaxial Lateral Overgrowth of Planar GaN(0001) on Diamond(100)</a></div></td>
 <td>Brijmohan Paramanik et al.</td>
@@ -206,11 +212,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35068.html">Electrolyte density, diffusivity and conductivity in graphene nanoconfinement predicted by separating interfacial from genuine confinement effects</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Haoyuan Quan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.35068">2609.35068</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33714.html">Placement-driven reversal of preferred spin alignment in monolayer hBN vacancy pairs</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Daniel Hashemi</td>
-<td><a href="http://arxiv.org/abs/2609.33714">2609.33714</a></td>
 </tr>
 </tbody></table>

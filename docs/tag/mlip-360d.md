@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">569 papers</span>
+  <span class="paper-count">572 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35204.html">mdRNAcat: A Molecular Dynamics RNA Catalog of REST2 Conformational Ensembles</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
+<td>Anton E. Dorn et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35204">2610.35204</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30591.html">Decoding Composition-Structure-Performance Relations in Sodium Layered Oxide Positive Electrode Materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a> · <a href="tmo-360d.html">tmo</a></div></td>
+<td>Yunyeong Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30591">2610.30591</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34203.html">MatOS: An Agent Operating System for Materials Research</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
+<td>Dingyang Lyu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34203">2610.34203</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31183.html">Unconstrained learning of equivariant atomistic properties</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a></div></td>
@@ -32,6 +50,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26701.html">Challenging Atomistic Foundation Models on Disordered Carbons</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Joseph Hart et al.</td>
 <td><a href="http://arxiv.org/abs/2610.26701">2610.26701</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27136.html">Ammonia-Hydrogen Phase Equilibria in Planetary Envelopes from First-Principles-Based Machine-Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Akash Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27136">2610.27136</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-18</td>
@@ -3422,11 +3446,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02714.html">A regularized Matched Interface and Boundary Method (MIB) for Solving Polarizable Multipole Poisson-Boltzmann model</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Xin Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02714">2511.02714</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01913.html">Delta-learned force fields for nonbonded interactions: Addressing the strength mismatch between covalent-nonbonded interaction for global models</a></div></td>
-<td>Leonardo Cázares-Trejo et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01913">2511.01913</a></td>
 </tr>
 </tbody></table>

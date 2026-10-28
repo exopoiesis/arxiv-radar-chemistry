@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32103.html">ReMedI: Inference-Time Refinement and Self-Distillation for Controllable Molecular Optimization</a></div><div class="paper-tags"><a href="molecular-llm-30d.html">molecular-llm</a></div></td>
+<td>Jia Yi Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32103">2610.32103</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32779.html">Computational De Novo Design of Miniprotein Candidate Neutralizers Targeting the IL-23 Cytokine Subunit p19</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Raghav Paladugu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32779">2610.32779</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33195.html">Agent-guided epitope excision enables economical de novo binder design</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Jun W. Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33195">2610.33195</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33315.html">MLIPDiff: Guiding Denoising Diffusion Models for Structure-Based Drug Design via Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Yiyan Liao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33315">2610.33315</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27762.html">CrystalAR: Autoregressive Modeling for Symmetric Crystal Generation</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
@@ -152,23 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34921.html">Drug-Target Interaction Prediction via Hierarchical Sequential Cross-Attention over Chemical and Protein Language Models</a></div></td>
 <td>Khadidja Henni et al.</td>
 <td><a href="http://arxiv.org/abs/2609.34921">2609.34921</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33407.html">Let CSP Be Your ANCHOR: Adaptive Crystal Search over Frozen Structure Priors</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Emma Lei Hovmand et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33407">2609.33407</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33722.html">BOReFT: Manifold Steering of Language Models for Black-box Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a></div></td>
-<td>Dhruv Agarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33722">2609.33722</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34001.html">Assay-Aware BindingDB: Curating Experimental Context for Binding Affinity Prediction</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Ming-Hsiu Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.34001">2609.34001</a></td>
 </tr>
 </tbody></table>

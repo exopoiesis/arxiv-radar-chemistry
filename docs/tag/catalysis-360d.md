@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">291 papers</span>
+  <span class="paper-count">290 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1754,11 +1754,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03517.html">U2F: Encouraging SWE-Agent to Seize Novelty without Losing Feasibility</a></div></td>
 <td>Wencheng Ye et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03517">2511.03517</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17050.html">Towards Robust Evaluation of STEM Education: Leveraging MLLMs in Project-Based Learning</a></div><div class="paper-tags"><a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
-<td>Xinyi Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17050">2505.17050</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">491 papers</span>
+  <span class="paper-count">494 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32103.html">ReMedI: Inference-Time Refinement and Self-Distillation for Controllable Molecular Optimization</a></div><div class="paper-tags"><a href="molecular-llm-360d.html">molecular-llm</a></div></td>
+<td>Jia Yi Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32103">2610.32103</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32779.html">Computational De Novo Design of Miniprotein Candidate Neutralizers Targeting the IL-23 Cytokine Subunit p19</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td>Raghav Paladugu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32779">2610.32779</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33195.html">Agent-guided epitope excision enables economical de novo binder design</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Jun W. Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33195">2610.33195</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33315.html">MLIPDiff: Guiding Denoising Diffusion Models for Structure-Based Drug Design via Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Yiyan Liao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33315">2610.33315</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27762.html">CrystalAR: Autoregressive Modeling for Symmetric Crystal Generation</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
@@ -2954,11 +2978,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01006.html">None To Optima in Few Shots: Bayesian Optimization with MDP Priors</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
 <td>Diantong Li et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01006">2511.01006</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15855.html">THFlow: A Temporally Hierarchical Flow Matching Framework for 3D Peptide Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Dengdeng Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.15855">2502.15855</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>battery-materials — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <strong>90d</strong> <a href="battery-materials-360d.html">360d</a> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30591.html">Decoding Composition-Structure-Performance Relations in Sodium Layered Oxide Positive Electrode Materials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a> · <a href="tmo-90d.html">tmo</a></div></td>
+<td>Yunyeong Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30591">2610.30591</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34203.html">MatOS: An Agent Operating System for Materials Research</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
+<td>Dingyang Lyu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34203">2610.34203</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22394.html">Visualizing surface-reaction-driven chloride migration and cascading failure in sulfide solid electrolytes</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">338 papers</span>
+  <span class="paper-count">337 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2036,11 +2036,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20588.html">Excited-CAFQA: A classical simulation bootstrap for the variational estimation of molecular excited states</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
 <td>Bikrant Bhattacharyya et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20588">2509.20588</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16436.html">Taming quantum systems: A tutorial for using shortcuts-to-adiabaticity, quantum optimal control, and reinforcement learning</a></div></td>
-<td>Callum W. Duncan et al.</td>
-<td><a href="http://arxiv.org/abs/2501.16436">2501.16436</a></td>
 </tr>
 </tbody></table>

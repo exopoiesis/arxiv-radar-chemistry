@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">108 papers</span>
+  <span class="paper-count">107 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35204.html">mdRNAcat: A Molecular Dynamics RNA Catalog of REST2 Conformational Ensembles</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="replica-exchange-30d.html">replica-exchange</a></div></td>
+<td>Anton E. Dorn et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35204">2610.35204</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26280.html">Correlated detection of electrons and ions emitted from laser-induced nanoplasmas in doped helium nanodroplets in the single-shot single-cluster regime</a></div></td>
@@ -650,17 +656,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35380.html">Pressure-induced s,p-d electron redistribution accompanies structural transformation in amorphous Zr-Cu alloy under compression</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>P. Dziegielewski et al.</td>
 <td><a href="http://arxiv.org/abs/2609.35380">2609.35380</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33793.html">Charge Regulation Mediated Interaction of Amphoteric Nanoparticle Surfaces</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Saurav Tyagi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33793">2609.33793</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33804.html">MinkowskiPE: Minkowski Positional Encoding for Spatiotemporal Perception</a></div></td>
-<td>Yuhao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33804">2609.33804</a></td>
 </tr>
 </tbody></table>

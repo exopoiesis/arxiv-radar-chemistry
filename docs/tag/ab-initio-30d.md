@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36542.html">First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Yuhyun Cha et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36542">2610.36542</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30591.html">Decoding Composition-Structure-Performance Relations in Sodium Layered Oxide Positive Electrode Materials</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="mlip-30d.html">mlip</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a> · <a href="tmo-30d.html">tmo</a></div></td>
+<td>Yunyeong Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30591">2610.30591</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31183.html">Unconstrained learning of equivariant atomistic properties</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="gnn-30d.html">gnn</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Joseph W. Abbott et al.</td>
@@ -536,17 +548,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35722.html">Multilevel Plaquette-Space Sampling for Lattice Gauge Theories with Local Constraint Solves</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Ankur Singha et al.</td>
 <td><a href="http://arxiv.org/abs/2609.35722">2609.35722</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33776.html">Benchmark of First-Principles Titanium K-Edge X-Ray Absorption Spectral Simulations on Titanium-containing Oxides</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Chuntian Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33776">2609.33776</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33823.html">Democratizing Atomistic Simulation Workflows for the AI Era with the Quantum Accelerator</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Andrew S. Rosen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33823">2609.33823</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36542.html">First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Yuhyun Cha et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36542">2610.36542</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37360.html">Impact of Neutrino Trapping on the Equation of State and Structure of Hybrid Stars with 2SC Quark Matter</a></div></td>
+<td>Andrea Sabatucci et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37360">2610.37360</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26012.html">Methods of density functional theory in one dimension</a></div></td>
 <td>Thomas E. Baker et al.</td>
@@ -56,6 +68,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26732.html">Vacuum-Field Squeezing by Molecules in Optical Cavities: An Exact Bound and Linear-Response Theory</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
 <td>Kurt R. Brorsen</td>
 <td><a href="http://arxiv.org/abs/2610.26732">2610.26732</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27136.html">Ammonia-Hydrogen Phase Equilibria in Planetary Envelopes from First-Principles-Based Machine-Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>Akash Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27136">2610.27136</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-18</td>
@@ -12026,23 +12044,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00979.html">Intrinsic Moiré Higher-Order Topology Beyond Effective Moiré Lattice Models</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
 <td>Xianliang Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00979">2511.00979</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01881.html">Spin-phonon coupling and isotope-related pseudo-molecule vibrations in layered Cr$_2$Ge$_2$Te$_6$ ferromagnet</a></div></td>
-<td>Grzegorz Krasucki et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01881">2510.01881</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00327.html">Recent progress in global optimizations of covariant energy density functionals</a></div></td>
-<td>A. V. Afanasjev et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00327">2511.00327</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00724.html">The stability and topological behaviors in lanthanide antiperovskite nitrides: a high-throughput study</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Shuxiang Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00724">2511.00724</a></td>
 </tr>
 </tbody></table>

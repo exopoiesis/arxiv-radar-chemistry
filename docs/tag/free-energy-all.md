@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>free-energy — all</h1>
-  <span class="paper-count">635 papers</span>
+  <span class="paper-count">637 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <a href="free-energy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37597.html">The Acridine Polymorph Landscape: Characterization and Selective Control by Additives</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Adam Lahouari et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37597">2610.37597</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31183.html">Unconstrained learning of equivariant atomistic properties</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="gnn-all.html">gnn</a> · <a href="mlip-all.html">mlip</a></div></td>
 <td>Joseph W. Abbott et al.</td>
 <td><a href="http://arxiv.org/abs/2610.31183">2610.31183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29779.html">Mamba Quantum Eigensolver (MQE): A Selective State Space Model for Scalable Ground State Simulations in Quantum Chemistry</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
+<td>G. X. A. Petronilo et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29779">2610.29779</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-19</td>

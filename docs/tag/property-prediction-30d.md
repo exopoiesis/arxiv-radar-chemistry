@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>property-prediction — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <strong>30d</strong> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36084.html">Measuring trainable degrees of freedom in materials graph neural networks: a random-subspace intrinsic dimension analysis</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
 <td>Shehroz Ahmad Shoaib et al.</td>
 <td><a href="http://arxiv.org/abs/2609.36084">2609.36084</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33342.html">CalibHyper: Chance-Corrected Relational Hypergraphs for Few-Shot Molecular Property Prediction</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Linyu Li et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33342">2609.33342</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>crystal-structure — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <strong>30d</strong> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37597.html">The Acridine Polymorph Landscape: Characterization and Selective Control by Additives</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Adam Lahouari et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37597">2610.37597</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34029.html">TCSP3.0: Template-Based Crystal Structure Prediction with Coefficient-Preserving Element Substitution and Structural Diversity</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Ying Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34029">2610.34029</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27762.html">CrystalAR: Autoregressive Modeling for Symmetric Crystal Generation</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
@@ -110,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36398.html">Where Should Physics Enter a Molecular Crystal Generator?</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Haocheng Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.36398">2609.36398</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33407.html">Let CSP Be Your ANCHOR: Adaptive Crystal Search over Frozen Structure Priors</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Emma Lei Hovmand et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33407">2609.33407</a></td>
 </tr>
 </tbody></table>

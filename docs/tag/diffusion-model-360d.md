@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">425 papers</span>
+  <span class="paper-count">424 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33315.html">MLIPDiff: Guiding Denoising Diffusion Models for Structure-Based Drug Design via Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Yiyan Liao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33315">2610.33315</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23144.html">From GAN-Based Models to GPT-5: A Taxonomy-Guided Study of Human Performance in Detecting Deepfake Face Images</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
@@ -2552,17 +2558,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10687.html">Stable Part Diffusion 4D: Multi-View RGB and Kinematic Parts Video Generation</a></div></td>
 <td>Hao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10687">2509.10687</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06312.html">DMol: A Highly Efficient and Chemical Motif-Preserving Molecule Generation Platform</a></div></td>
-<td>Peizhi Niu et al.</td>
-<td><a href="http://arxiv.org/abs/2504.06312">2504.06312</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08271.html">SViM3D: Stable Video Material Diffusion for Single Image 3D Generation</a></div></td>
-<td>Andreas Engelhardt et al.</td>
-<td><a href="http://arxiv.org/abs/2510.08271">2510.08271</a></td>
 </tr>
 </tbody></table>

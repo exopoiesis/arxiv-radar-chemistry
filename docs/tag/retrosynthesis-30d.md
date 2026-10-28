@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32308.html">Solvent: Long-Horizon Reasoning for Multi-Step Retrosynthesis</a></div></td>
+<td>Yifei Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32308">2610.32308</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24744.html">ReTRACE: Feedback-Guided LLM Agent in a Chemistry Harness for Retrosynthesis Planning</a></div></td>
 <td>Jinxiang Xie et al.</td>
@@ -86,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35571.html">Representation Alignment as a Bottleneck in LLM-Based Retrosynthesis Planning</a></div></td>
 <td>Hyunwoo Yoo et al.</td>
 <td><a href="http://arxiv.org/abs/2609.35571">2609.35571</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33603.html">ViCoR: Reliable Molecular Structure Extraction via Spatially Aligned Verification and Executable Revision</a></div></td>
-<td>Yujian Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33603">2609.33603</a></td>
 </tr>
 </tbody></table>

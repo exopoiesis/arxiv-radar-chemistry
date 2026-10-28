@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <strong>30d</strong> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36266.html">Quantifying Teleportation Overhead in Distributed Unitary Coupled-Cluster Ansätze</a></div><div class="paper-tags"><a href="quantum-computing-30d.html">quantum-computing</a></div></td>
 <td>Grier M. Jones et al.</td>
 <td><a href="http://arxiv.org/abs/2609.36266">2609.36266</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33847.html">Performance vs Portability in Heterogeneous HPC Environments: Why Pre-execution Benchmarking is Required</a></div></td>
-<td>Mindaugas Macernis</td>
-<td><a href="http://arxiv.org/abs/2609.33847">2609.33847</a></td>
 </tr>
 </tbody></table>

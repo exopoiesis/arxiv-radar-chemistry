@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35204.html">mdRNAcat: A Molecular Dynamics RNA Catalog of REST2 Conformational Ensembles</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
+<td>Anton E. Dorn et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35204">2610.35204</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26280.html">Correlated detection of electrons and ions emitted from laser-induced nanoplasmas in doped helium nanodroplets in the single-shot single-cluster regime</a></div></td>
 <td>Keshav Sishodia et al.</td>
@@ -9230,11 +9236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01389.html">Raman Spectroscopy Insights into the Reorientational Dynamics of Polyanions in Solid Electrolytes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Jianghai Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01389">2511.01389</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04701.html">Influence of carbon nanocone structure on ultra-efficient water flow</a></div></td>
-<td>Bruno H. S. Mendonça et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04701">2511.04701</a></td>
 </tr>
 </tbody></table>

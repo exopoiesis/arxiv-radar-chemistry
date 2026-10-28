@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-representation — all</h1>
-  <span class="paper-count">285 papers</span>
+  <span class="paper-count">288 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37410.html">Accurate structural modelling of protein-glycan recognition with GlycoWeave</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
+<td>Huifeng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37410">2610.37410</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32490.html">A curated multi-endpoint drug-protein bioactivity dataset with construct-aware protein targets</a></div></td>
+<td>Lina Abou-Abbas et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32490">2610.32490</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29096.html">AMP Atlas: A Browser-Only Workbench for Antimicrobial Peptide Exploration and Interactive Helical-Wheel Design</a></div></td>
+<td>Truong-Son Hy</td>
+<td><a href="http://arxiv.org/abs/2610.29096">2610.29096</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25163.html">M-JEPA: Predictive Self-Supervised Learning for Molecular Graphs with Scaffold-Shift Evaluation on Tox21</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>

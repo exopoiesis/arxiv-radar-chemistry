@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-discovery — 30d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <strong>30d</strong> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36542.html">First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Yuhyun Cha et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36542">2610.36542</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36193.html">Learning the Chronology of Materials Discovery for Synthesizability Prediction</a></div></td>
+<td>Junkil Park et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36193">2610.36193</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34021.html">Deep Scientific Reasoning under Physical Constraints: Structure-Aware Spectrum Prediction</a></div></td>
+<td>Yingheng Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34021">2610.34021</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33310.html">Exploring Joint-Embedding Predictive Architectures for Self-Supervised Representation Learning of Powder X-ray Diffraction Patterns</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
+<td>Ming-Chiang Chang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33310">2610.33310</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29895.html">Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language Models</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
@@ -128,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34690.html">Symmetry-Aware Flow Matching for End-to-end Molecular Crystal Generation</a></div></td>
 <td>Wendi Cai et al.</td>
 <td><a href="http://arxiv.org/abs/2609.34690">2609.34690</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33342.html">CalibHyper: Chance-Corrected Relational Hypergraphs for Few-Shot Molecular Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
-<td>Linyu Li et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33342">2609.33342</a></td>
 </tr>
 </tbody></table>

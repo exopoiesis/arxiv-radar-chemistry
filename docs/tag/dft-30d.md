@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">133 papers</span>
+  <span class="paper-count">130 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36542.html">First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Yuhyun Cha et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36542">2610.36542</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37360.html">Impact of Neutrino Trapping on the Equation of State and Structure of Hybrid Stars with 2SC Quark Matter</a></div></td>
+<td>Andrea Sabatucci et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37360">2610.37360</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26012.html">Methods of density functional theory in one dimension</a></div></td>
@@ -56,6 +68,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26732.html">Vacuum-Field Squeezing by Molecules in Optical Cavities: An Exact Bound and Linear-Response Theory</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a></div></td>
 <td>Kurt R. Brorsen</td>
 <td><a href="http://arxiv.org/abs/2610.26732">2610.26732</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27136.html">Ammonia-Hydrogen Phase Equilibria in Planetary Envelopes from First-Principles-Based Machine-Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
+<td>Akash Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27136">2610.27136</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-18</td>
@@ -776,41 +794,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35925.html">Photoelectron and electron microscopy investigation of laboratory grown Mg-silicate space dust analogues</a></div></td>
 <td>Steffen Friis Holleufer et al.</td>
 <td><a href="http://arxiv.org/abs/2609.35925">2609.35925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33116.html">Unveiling Lattice Dynamics and a Hidden Structural Transition in the 2D Ferromagnet AgVP$_2$Se$_6$ via Raman Spectroscopy</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="phase-transition-30d.html">phase-transition</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Thi Hai Yen Pham et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33116">2609.33116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33617.html">Accelerating Quantum Simulations of Materials Through Parameter and Ansatz Transfer Strategies</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
-<td>Saurabh Shivpuje et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33617">2609.33617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33714.html">Placement-driven reversal of preferred spin alignment in monolayer hBN vacancy pairs</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
-<td>Daniel Hashemi</td>
-<td><a href="http://arxiv.org/abs/2609.33714">2609.33714</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33776.html">Benchmark of First-Principles Titanium K-Edge X-Ray Absorption Spectral Simulations on Titanium-containing Oxides</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Chuntian Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33776">2609.33776</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33797.html">Hall conductance of dilute electrolytes from odd stochastic density functional theory</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Yael Avni et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33797">2609.33797</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33934.html">Quantum-Computing Self-Consistent Kohn-Sham DFT: Plane-Wave-Orthonormalized Orbitals with a Dual-Basis Quantum Eigensolver</a></div></td>
-<td>Lazaro Calderin</td>
-<td><a href="http://arxiv.org/abs/2609.33934">2609.33934</a></td>
 </tr>
 </tbody></table>

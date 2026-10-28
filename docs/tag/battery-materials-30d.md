@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>battery-materials — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <strong>30d</strong> <a href="battery-materials-90d.html">90d</a> <a href="battery-materials-360d.html">360d</a> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30591.html">Decoding Composition-Structure-Performance Relations in Sodium Layered Oxide Positive Electrode Materials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a> · <a href="tmo-30d.html">tmo</a></div></td>
+<td>Yunyeong Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30591">2610.30591</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34203.html">MatOS: An Agent Operating System for Materials Research</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
+<td>Dingyang Lyu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34203">2610.34203</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22394.html">Visualizing surface-reaction-driven chloride migration and cascading failure in sulfide solid electrolytes</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
@@ -86,23 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35068.html">Electrolyte density, diffusivity and conductivity in graphene nanoconfinement predicted by separating interfacial from genuine confinement effects</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Haoyuan Quan et al.</td>
 <td><a href="http://arxiv.org/abs/2609.35068">2609.35068</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33617.html">Accelerating Quantum Simulations of Materials Through Parameter and Ansatz Transfer Strategies</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
-<td>Saurabh Shivpuje et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33617">2609.33617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33793.html">Charge Regulation Mediated Interaction of Amphoteric Nanoparticle Surfaces</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Saurav Tyagi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33793">2609.33793</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.33797.html">Hall conductance of dilute electrolytes from odd stochastic density functional theory</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Yael Avni et al.</td>
-<td><a href="http://arxiv.org/abs/2609.33797">2609.33797</a></td>
 </tr>
 </tbody></table>

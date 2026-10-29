@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-generation — all</h1>
-  <span class="paper-count">254 papers</span>
+  <span class="paper-count">256 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <a href="molecular-generation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32195.html">Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
+<td>Dongki Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32195">2610.32195</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24511.html">TopoCompile: Molecular Generation with Exact Global Count Constraints</a></div></td>
+<td>Xiang Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24511">2610.24511</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24806.html">Aptamers as a sandbox for lab-in-the-loop agentic molecular discovery</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>

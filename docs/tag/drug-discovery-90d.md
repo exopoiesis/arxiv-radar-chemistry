@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">82 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36280.html">EVA-Flow: Learning Shared Chemistry for Unified Environment-Aware Molecular Conformation Generation</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Bing Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36280">2610.36280</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32103.html">ReMedI: Inference-Time Refinement and Self-Distillation for Controllable Molecular Optimization</a></div><div class="paper-tags"><a href="molecular-llm-90d.html">molecular-llm</a></div></td>
@@ -40,10 +46,22 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2610.33315">2610.33315</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30815.html">xVGAE: A Hierarchical Variational Graph Autoencoder for Exchangeable Graphs</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Daniele Micheletti et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30815">2610.30815</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27762.html">CrystalAR: Autoregressive Modeling for Symmetric Crystal Generation</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
 <td>Ziqiao Meng et al.</td>
 <td><a href="http://arxiv.org/abs/2610.27762">2610.27762</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27001.html">HierDTA: Hierarchical Structure-Aware Representation Learning for Drug--Target Affinity Prediction</a></div></td>
+<td>Huangchao Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27001">2610.27001</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-17</td>
@@ -56,6 +74,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24806.html">Aptamers as a sandbox for lab-in-the-loop agentic molecular discovery</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Zachary Cutts et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24806">2610.24806</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24124.html">On the Selectivity of Generative Models in Structure-Based Drug Design</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Ella Miray Rajaonson et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24124">2610.24124</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-16</td>

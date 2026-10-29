@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-science — all</h1>
-  <span class="paper-count">783 papers</span>
+  <span class="paper-count">785 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -23,6 +23,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32754.html">Tensor Networks for Materials Simulation and Quantum Chemistry</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
+<td>Saeed S. Jahromi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32754">2610.32754</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33310.html">Exploring Joint-Embedding Predictive Architectures for Self-Supervised Representation Learning of Powder X-ray Diffraction Patterns</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
 <td>Ming-Chiang Chang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33310">2610.33310</a></td>
@@ -32,6 +38,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29895.html">Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language Models</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
 <td>Aravindan Kamatchi Sundaram et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29895">2610.29895</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26711.html">PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements</a></div></td>
+<td>Kaiwei Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.26711">2610.26711</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-19</td>

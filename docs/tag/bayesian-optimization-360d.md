@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31539.html">PYTHIA, a transferable machine learning framework for simultaneous defect and adsorption site optimization</a></div></td>
+<td>Ioannis Kouroudis et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31539">2610.31539</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22763.html">Acquisition Function-Guided Generation for Bayesian Optimization over Discrete Spaces</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Tommaso Ancilli et al.</td>
@@ -776,11 +782,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01745.html">An Open-Access Benchmark of Statistical and Machine-Learning Anomaly Detection Methods for Battery Applications</a></div></td>
 <td>Mei-Chin Pang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01745">2511.01745</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01006.html">None To Optima in Few Shots: Bayesian Optimization with MDP Priors</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Diantong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01006">2511.01006</a></td>
 </tr>
 </tbody></table>

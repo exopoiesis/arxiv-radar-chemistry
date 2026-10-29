@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>property-prediction — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <strong>30d</strong> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32195.html">Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
+<td>Dongki Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32195">2610.32195</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29589.html">Fragment-Level Graph Encoding for Interpretable Molecular Property Prediction</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
@@ -74,17 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01616.html">Can LLMs Reliably Annotate Bioassay Metadata to Improve Data Readiness?</a></div></td>
 <td>Laura van Weesep et al.</td>
 <td><a href="http://arxiv.org/abs/2610.01616">2610.01616</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34301.html">One Sequence, Many Decodings: CAGenMol-2 Recasts Drug Design as Masked Molecular Inference</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="molecular-llm-30d.html">molecular-llm</a></div></td>
-<td>Yanting Li et al.</td>
-<td><a href="http://arxiv.org/abs/2609.34301">2609.34301</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36084.html">Measuring trainable degrees of freedom in materials graph neural networks: a random-subspace intrinsic dimension analysis</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
-<td>Shehroz Ahmad Shoaib et al.</td>
-<td><a href="http://arxiv.org/abs/2609.36084">2609.36084</a></td>
 </tr>
 </tbody></table>

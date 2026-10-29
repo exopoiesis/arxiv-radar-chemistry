@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">333 papers</span>
+  <span class="paper-count">340 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,52 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35153.html">Temperature-dependent magnetic properties of the antiferromagnet Mn$_2$Au</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Jackson L. Ross et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35153">2610.35153</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35353.html">Direct observation of a spin-polarized surface Dirac gap in the antiferromagnetic topological insulator NdBi</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Yuto Fukushima et al.</td>
+<td><a href="http://arxiv.org/abs/2610.35353">2610.35353</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29111.html">SU(2)-Equivariant Spinor Message Passing for Molecular Magnetism</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Erh-Wei Sheng et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29111">2610.29111</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29324.html">Ab Initio Approach for Quantum Magnets with Coupled Cluster and Transcorrelation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Kristoffer Simula et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29324">2610.29324</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29386.html">First-principles modeling of ordering in Fe-rich Fe-Si alloys</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Daniil M. Khodachenko et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29386">2610.29386</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29858.html">Robust Anomalous Hall Effect in Epitaxial Cubic D0$_3$-Fe$_3$Ge Nanoplates Grown by Chemical Vapor Deposition</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Mingxuan Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.29858">2610.29858</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30010.html">Electronic, structural and magnetic properties of goldene nanoribbons</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Fabrício M. de Vasconcelos et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30010">2610.30010</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28844.html">Paramagnetic phase of MnTe$_2$: complete one phonon Raman spectrum</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Taras Palasyuk et al.</td>
+<td><a href="http://arxiv.org/abs/2610.28844">2610.28844</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-17</td>

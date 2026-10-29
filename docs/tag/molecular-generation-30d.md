@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32195.html">Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>Dongki Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32195">2610.32195</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24511.html">TopoCompile: Molecular Generation with Exact Global Count Constraints</a></div></td>
+<td>Xiang Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24511">2610.24511</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24806.html">Aptamers as a sandbox for lab-in-the-loop agentic molecular discovery</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
 <td>Zachary Cutts et al.</td>
@@ -110,17 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36683.html">MARCO: Multi-Round Agentic Reinforcement for Conditional Molecular Optimization</a></div></td>
 <td>Shicheng Fang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.36683">2609.36683</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.34491.html">M3OS: A Monte Carlo Graph Search-Orchestrated Multi-Agent LLM System for Evidence-Traced Molecular Optimization</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Junjie Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.34491">2609.34491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.35336.html">TMCS: Tool-Grounded Multi-Agent Reasoning for Compositional Chemical Problem Solving</a></div></td>
-<td>Shengqin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.35336">2609.35336</a></td>
 </tr>
 </tbody></table>

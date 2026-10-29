@@ -23,14 +23,14 @@ current_window: 7d
 </tr>
 <tr class="paper">
 <td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32754.html">Tensor Networks for Materials Simulation and Quantum Chemistry</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
+<td>Saeed S. Jahromi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32754">2610.32754</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33310.html">Exploring Joint-Embedding Predictive Architectures for Self-Supervised Representation Learning of Powder X-ray Diffraction Patterns</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a></div></td>
 <td>Ming-Chiang Chang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33310">2610.33310</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29895.html">Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language Models</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a></div></td>
-<td>Aravindan Kamatchi Sundaram et al.</td>
-<td><a href="http://arxiv.org/abs/2610.29895">2610.29895</a></td>
 </tr>
 </tbody></table>

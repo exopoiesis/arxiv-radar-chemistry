@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">494 papers</span>
+  <span class="paper-count">497 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36280.html">EVA-Flow: Learning Shared Chemistry for Unified Environment-Aware Molecular Conformation Generation</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Bing Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36280">2610.36280</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32103.html">ReMedI: Inference-Time Refinement and Self-Distillation for Controllable Molecular Optimization</a></div><div class="paper-tags"><a href="molecular-llm-360d.html">molecular-llm</a></div></td>
@@ -40,10 +46,22 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2610.33315">2610.33315</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30815.html">xVGAE: A Hierarchical Variational Graph Autoencoder for Exchangeable Graphs</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Daniele Micheletti et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30815">2610.30815</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27762.html">CrystalAR: Autoregressive Modeling for Symmetric Crystal Generation</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Ziqiao Meng et al.</td>
 <td><a href="http://arxiv.org/abs/2610.27762">2610.27762</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27001.html">HierDTA: Hierarchical Structure-Aware Representation Learning for Drug--Target Affinity Prediction</a></div></td>
+<td>Huangchao Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.27001">2610.27001</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-17</td>
@@ -56,6 +74,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24806.html">Aptamers as a sandbox for lab-in-the-loop agentic molecular discovery</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Zachary Cutts et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24806">2610.24806</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24124.html">On the Selectivity of Generative Models in Structure-Based Drug Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Ella Miray Rajaonson et al.</td>
+<td><a href="http://arxiv.org/abs/2610.24124">2610.24124</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-16</td>
@@ -2972,11 +2996,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01171.html">STELLAR-koff: A Transfer Learning Model for Protein-Ligand Dissociation Rate Constant Prediction Based on Interaction Landscape</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Jingyuan Li</td>
 <td><a href="http://arxiv.org/abs/2511.01171">2511.01171</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01006.html">None To Optima in Few Shots: Bayesian Optimization with MDP Priors</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
-<td>Diantong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01006">2511.01006</a></td>
 </tr>
 </tbody></table>

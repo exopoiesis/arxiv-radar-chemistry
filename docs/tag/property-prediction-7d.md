@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29589.html">Fragment-Level Graph Encoding for Interpretable Molecular Property Prediction</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a></div></td>
-<td>Rafael Lopes Almeida et al.</td>
-<td><a href="http://arxiv.org/abs/2610.29589">2610.29589</a></td>
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32195.html">Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery</a></div><div class="paper-tags"><a href="molecular-generation-7d.html">molecular-generation</a></div></td>
+<td>Dongki Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32195">2610.32195</a></td>
 </tr>
 </tbody></table>

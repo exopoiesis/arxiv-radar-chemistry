@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">497 papers</span>
+  <span class="paper-count">494 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2978,23 +2978,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21971.html">GRAM-DTI: adaptive multimodal representation learning for drug target interaction prediction</a></div></td>
 <td>Feng Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21971">2509.21971</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07189.html">AI-Guided Molecular Simulations in VR: Exploring Strategies for Imitation Learning in Hyperdimensional Molecular Systems</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Mohamed Dhouioui et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07189">2409.07189</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04180.html">One Small Step with Fingerprints, One Giant Leap for De Novo Molecule Generation from Mass Spectra</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Neng Kai Nigel Neo et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04180">2508.04180</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01171.html">STELLAR-koff: A Transfer Learning Model for Protein-Ligand Dissociation Rate Constant Prediction Based on Interaction Landscape</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Jingyuan Li</td>
-<td><a href="http://arxiv.org/abs/2511.01171">2511.01171</a></td>
 </tr>
 </tbody></table>

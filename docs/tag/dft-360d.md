@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2049 papers</span>
+  <span class="paper-count">2042 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12266,47 +12266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02708.html">Atomistic QM/Classical Modeling of Surface-Enhanced Infrared Absorption</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Sveva Sodomaco et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02708">2511.02708</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01134.html">Outstanding figure of merit at high temperature for DFT-based predicted double perovskite oxides, Ba2GaXO6 (X = V, Nb, Ta)</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>S. S. Saif et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01134">2511.01134</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01338.html">Robust structural superlubricity of twisted graphene bilayer and domain walls between commensurate moiré pattern domains from first-principles calculations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Irina V. Lebedeva et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01338">2511.01338</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01392.html">Pd/Cu single atom alloys for catalysis: from single crystalline to nanostructured model systems for highly selective butanol dehydrogenation</a></div></td>
-<td>Philipp Haugg et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01392">2511.01392</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01764.html">Comparison between first-principles supercell calculations of polarons and the ab initio polaron equations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Zhenbang Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01764">2511.01764</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01790.html">A Synthesizability-Guided Pipeline for Materials Discovery</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Thorben Prein et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01790">2511.01790</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01801.html">Superconductivity of bilayer two-orbital Hubbard model for La$_{3}$Ni$_{2}$O$_{7}$ under high pressure</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Wei-Yang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01801">2511.01801</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01961.html">Size-Consistent Adiabatic Connection Functionals via Orbital-Based Matrix Interpolation</a></div></td>
-<td>Kyle Bystrom et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01961">2511.01961</a></td>
 </tr>
 </tbody></table>

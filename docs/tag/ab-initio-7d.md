@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,47 +134,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33244.html">Cavity Loss in QED Coupled-Cluster Theory: Polariton Linewidths, Driven Steady States, and the Rabi Splitting</a></div></td>
 <td>Kurt R. Brorsen</td>
 <td><a href="http://arxiv.org/abs/2610.33244">2610.33244</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29711.html">\textit{Ab initio} no-core shell model calculations of the electric dipole polarizabilities and photoabsorption cross sections of the $A=3$ mirror nuclei</a></div></td>
-<td>H. T. Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.29711">2610.29711</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30930.html">Chiroptical Valleytronic in SnSe</a></div><div class="paper-tags"><a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Yiming Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30930">2610.30930</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31183.html">Unconstrained learning of equivariant atomistic properties</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a> · <a href="gnn-7d.html">gnn</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Joseph W. Abbott et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31183">2610.31183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31184.html">Anomalous polar chains in halide perovskites</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Erik Fransson et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31184">2610.31184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31727.html">Nonadiabatic vibrational dynamics of CO on Pt(111) studied with first-principles many-body perturbation theory</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Raúl Bombín et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31727">2610.31727</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31776.html">Minkowski metric signature as a statistical prediction of piecewise-flat quantum gravity</a></div></td>
-<td>Mihailo Djordjevic et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31776">2610.31776</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31976.html">Nanoscale origin of thermal anisotropy in monoclinic \texorpdfstring{$β$-Ga$_2$O$_3$}{beta-Ga2O3}</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Kai Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31976">2610.31976</a></td>
 </tr>
 </tbody></table>

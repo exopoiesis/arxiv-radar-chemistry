@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">417 papers</span>
+  <span class="paper-count">415 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2504,17 +2504,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03038.html">A Normalized Descriptor for Unbiased Screening of Second-Order Nonlinear Optical Materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Aubrey G. J. Nyiri et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03038">2511.03038</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01134.html">Outstanding figure of merit at high temperature for DFT-based predicted double perovskite oxides, Ba2GaXO6 (X = V, Nb, Ta)</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>S. S. Saif et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01134">2511.01134</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01764.html">Comparison between first-principles supercell calculations of polarons and the ab initio polaron equations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Zhenbang Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01764">2511.01764</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">527 papers</span>
+  <span class="paper-count">524 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3158,23 +3158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02708.html">Atomistic QM/Classical Modeling of Surface-Enhanced Infrared Absorption</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Sveva Sodomaco et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02708">2511.02708</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01338.html">Robust structural superlubricity of twisted graphene bilayer and domain walls between commensurate moiré pattern domains from first-principles calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Irina V. Lebedeva et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01338">2511.01338</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01699.html">A Compact Model for Polar Multiple-Channel Field Effect Transistors: A Case Study in III-V Nitride Semiconductors</a></div></td>
-<td>Aias Asteris et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01699">2511.01699</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01801.html">Superconductivity of bilayer two-orbital Hubbard model for La$_{3}$Ni$_{2}$O$_{7}$ under high pressure</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Wei-Yang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01801">2511.01801</a></td>
 </tr>
 </tbody></table>

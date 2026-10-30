@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-representation — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11582.html">Undetected Photon Spectroscopy in the Long-wave and Far Infrared</a></div></td>
 <td>Jinghan Dong et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11582">2610.11582</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37384.html">MoTIF-X: A Multimodal Tokenized Framework for Interpretable and Extensible Molecular Representation Learning</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
-<td>Linqing Mo et al.</td>
-<td><a href="http://arxiv.org/abs/2609.37384">2609.37384</a></td>
 </tr>
 </tbody></table>

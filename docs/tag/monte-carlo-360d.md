@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">312 papers</span>
+  <span class="paper-count">311 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1880,11 +1880,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03061.html">Modal Backflow Neural Quantum States for Anharmonic Vibrational Calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Lexin Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03061">2511.03061</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02085.html">SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents</a></div></td>
-<td>Jiaye Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02085">2508.02085</a></td>
 </tr>
 </tbody></table>

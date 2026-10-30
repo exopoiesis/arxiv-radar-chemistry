@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">331 papers</span>
+  <span class="paper-count">329 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1988,17 +1988,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04095.html">Competing Magnetic Phases in Li-Fe-Ge Kagome Systems</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Zhen Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04095">2508.04095</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.16800.html">Phys4DGen: Physics-Compliant 4D Generation with Multi-Material Composition Perception</a></div><div class="paper-tags"><a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
-<td>Jiajing Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2411.16800">2411.16800</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.19216.html">E2Former: An Efficient and Equivariant Transformer with Linear-Scaling Tensor Products</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Yunyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2501.19216">2501.19216</a></td>
 </tr>
 </tbody></table>

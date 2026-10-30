@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>electronic-structure — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <strong>30d</strong> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,23 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02540.html">libterachem.py: Modular development of electronic structure methods with graphical processing units</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Juncheng Harry Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.02540">2610.02540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36450.html">Orbital-engineered px,y-kagome lattice in a halogen monolayer</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Xulin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.36450">2609.36450</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36706.html">Probing the electronic structure of $\mathrm{UTe}_2$ with ARPES and high-energy spectroscopy</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Shin-ichi Fujimori</td>
-<td><a href="http://arxiv.org/abs/2609.36706">2609.36706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37075.html">Defect-controlled electrical and optical properties of CrN thin films: experiment and first-principles study</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>J. Bulíř et al.</td>
-<td><a href="http://arxiv.org/abs/2609.37075">2609.37075</a></td>
 </tr>
 </tbody></table>

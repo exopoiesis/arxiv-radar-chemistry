@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,47 +152,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32938.html">Vacancy-enhanced Li solid-solution anodes for solid-state batteries: computational screening enabling high critical current density</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="dft-7d.html">dft</a></div></td>
 <td>Arseniy S. Burov et al.</td>
 <td><a href="http://arxiv.org/abs/2610.32938">2610.32938</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30598.html">Strain-induced structural transformations in hexagonal monolayer boron nitride. A density functional study</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>O. Bystrenko et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30598">2610.30598</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30764.html">Universal Synthesis of Large-Area Hybrid Perovskite Monolayers Enabling Lithography-Free, Low-Static-Power Optoelectronics</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="crystal-structure-7d.html">crystal-structure</a></div></td>
-<td>Shankeerthan Kalyanasundaram et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30764">2610.30764</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30918.html">Thermal expansion mechanisms, heat transport, and band-gap renormalization in strongly anharmonic Rb$_2$SO$_4$, Rb$_2$Ca$_2$(SO$_4$)$_3$, and Ba$_3$Lu(BO$_3$)$_3$ from machine-learned interatomic potentials</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Ekaterina Spirande et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30918">2610.30918</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31084.html">Nitrogen vacancy cluster-mediated ferroelectric domain growth in wurtzite AlN</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Zijian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31084">2610.31084</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31157.html">Functional understanding of structural components in polypseudorotaxane gels</a></div></td>
-<td>Ella Sapsford et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31157">2610.31157</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31184.html">Anomalous polar chains in halide perovskites</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="crystal-structure-7d.html">crystal-structure</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Erik Fransson et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31184">2610.31184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31830.html">Unifying Low-Frequency Raman and Infrared Signatures across Perovskites</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a></div></td>
-<td>Ethan Berger et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31830">2610.31830</a></td>
 </tr>
 </tbody></table>

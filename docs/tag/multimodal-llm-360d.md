@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>multimodal-llm — 360d</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <a href="multimodal-llm-90d.html">90d</a> <strong>360d</strong> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -530,11 +530,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13647.html">Part-X-MLLM: Part-aware 3D Multimodal Large Language Model</a></div></td>
 <td>Chunshi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.13647">2511.13647</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.16800.html">Phys4DGen: Physics-Compliant 4D Generation with Multi-Material Composition Perception</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Jiajing Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2411.16800">2411.16800</a></td>
 </tr>
 </tbody></table>

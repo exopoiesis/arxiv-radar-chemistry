@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-generation — 360d</h1>
-  <span class="paper-count">157 papers</span>
+  <span class="paper-count">155 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -944,17 +944,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02769.html">STAR-VAE: Latent Variable Transformers for Scalable and Controllable Molecular Generation</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Bum Chul Kwon et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02769">2511.02769</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04180.html">One Small Step with Fingerprints, One Giant Leap for De Novo Molecule Generation from Mass Spectra</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Neng Kai Nigel Neo et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04180">2508.04180</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02087.html">Energy Loss Functions for Physical Systems</a></div></td>
-<td>Sékou-Oumar Kaba et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02087">2511.02087</a></td>
 </tr>
 </tbody></table>

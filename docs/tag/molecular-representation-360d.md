@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">150 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -908,11 +908,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.21422.html">ChemFM as a Scaling Law Guided Foundation Model Pre-trained on Informative Chemicals</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="property-prediction-360d.html">property-prediction</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
 <td>Feiyang Cai et al.</td>
 <td><a href="http://arxiv.org/abs/2410.21422">2410.21422</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04180.html">One Small Step with Fingerprints, One Giant Leap for De Novo Molecule Generation from Mass Spectra</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Neng Kai Nigel Neo et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04180">2508.04180</a></td>
 </tr>
 </tbody></table>

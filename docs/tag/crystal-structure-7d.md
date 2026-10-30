@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>crystal-structure — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,23 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33272.html">Autonomous atomistic-continuum coupling through uncertainty-aware active learning</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
 <td>Daniel Abdulah et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33272">2610.33272</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30764.html">Universal Synthesis of Large-Area Hybrid Perovskite Monolayers Enabling Lithography-Free, Low-Static-Power Optoelectronics</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Shankeerthan Kalyanasundaram et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30764">2610.30764</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31184.html">Anomalous polar chains in halide perovskites</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Erik Fransson et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31184">2610.31184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31830.html">Unifying Low-Frequency Raman and Infrared Signatures across Perovskites</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Ethan Berger et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31830">2610.31830</a></td>
 </tr>
 </tbody></table>

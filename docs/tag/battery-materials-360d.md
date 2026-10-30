@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>battery-materials — 360d</h1>
-  <span class="paper-count">197 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <strong>360d</strong> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1190,11 +1190,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00362.html">Cooperative Ion Conduction Enabled by Site Percolation in Random Substitutional Crystals</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Rikuya Ishikawa et al.</td>
 <td><a href="http://arxiv.org/abs/2505.00362">2505.00362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01389.html">Raman Spectroscopy Insights into the Reorientational Dynamics of Polyanions in Solid Electrolytes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Jianghai Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01389">2511.01389</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>band-gap — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,29 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32449.html">Interplay of Chemical Disorder, Vortex Pinning, and Electron Correlations in the Mechanically Robust Medium-Entropy Alloy Superconductor $\text{Nb}_{0.45}\text{Ta}_{0.25}\text{Ti}_{0.15}\text{Hf}_{0.15}$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
 <td>Pooja Chourasia et al.</td>
 <td><a href="http://arxiv.org/abs/2610.32449">2610.32449</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30598.html">Strain-induced structural transformations in hexagonal monolayer boron nitride. A density functional study</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>O. Bystrenko et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30598">2610.30598</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31084.html">Nitrogen vacancy cluster-mediated ferroelectric domain growth in wurtzite AlN</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Zijian Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31084">2610.31084</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31805.html">Low-energy collective electronic excitations in a gold monolayer</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Vyacheslav M. Silkin et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31805">2610.31805</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31976.html">Nanoscale origin of thermal anisotropy in monoclinic \texorpdfstring{$β$-Ga$_2$O$_3$}{beta-Ga2O3}</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Kai Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31976">2610.31976</a></td>
 </tr>
 </tbody></table>

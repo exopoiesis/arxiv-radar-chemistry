@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1577 papers</span>
+  <span class="paper-count">1574 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9458,23 +9458,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02699.html">Making PLUMED fly: a tutorial on optimizing performance</a></div></td>
 <td>Daniele Rapetti et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02699">2511.02699</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07189.html">AI-Guided Molecular Simulations in VR: Exploring Strategies for Imitation Learning in Hyperdimensional Molecular Systems</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Mohamed Dhouioui et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07189">2409.07189</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16246.html">Vibrational Spectra of Materials and Molecules from Partially-Adiabatic Elevated-Temperature Centroid Molecular Dynamics</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Jorge Castro et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16246">2508.16246</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01389.html">Raman Spectroscopy Insights into the Reorientational Dynamics of Polyanions in Solid Electrolytes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Jianghai Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01389">2511.01389</a></td>
 </tr>
 </tbody></table>

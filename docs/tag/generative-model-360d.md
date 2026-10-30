@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">483 papers</span>
+  <span class="paper-count">480 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2894,23 +2894,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02769.html">STAR-VAE: Latent Variable Transformers for Scalable and Controllable Molecular Generation</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Bum Chul Kwon et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02769">2511.02769</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26907.html">Generative diffusion modeling protocols for improving the Kikuchi pattern indexing in electron back-scatter diffraction</a></div></td>
-<td>Meghraj Prajapat et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26907">2510.26907</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01513.html">Example-Based Feature Painting on Textures</a></div></td>
-<td>Andrei-Timotei Ardelean et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01513">2511.01513</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02042.html">Quantum-Enhanced Generative Models for Rare Event Prediction</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>M. Z. Haider et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02042">2511.02042</a></td>
 </tr>
 </tbody></table>

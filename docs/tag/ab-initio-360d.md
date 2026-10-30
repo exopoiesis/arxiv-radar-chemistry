@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1533 papers</span>
+  <span class="paper-count">1527 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9176,41 +9176,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03061.html">Modal Backflow Neural Quantum States for Anharmonic Vibrational Calculations</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Lexin Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03061">2511.03061</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19728.html">Is Herbertsmithite far from an ideal antiferromagnet? Ab-initio answer including in-plane Dzyaloshinskii-Moriya interactions and coupling with extra-plane impurities</a></div></td>
-<td>Flaurent Heully-Alary et al.</td>
-<td><a href="http://arxiv.org/abs/2503.19728">2503.19728</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23910.html">New ab initio constrained extended Skyrme equations of state for simulations of neutron stars, supernovae and binary mergers: II. Thermal response in the suprasaturation density domain</a></div></td>
-<td>Adriana R. Raduta et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23910">2509.23910</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01389.html">Raman Spectroscopy Insights into the Reorientational Dynamics of Polyanions in Solid Electrolytes</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Jianghai Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01389">2511.01389</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01690.html">Unconventional relativistic spin polarization of electronic bands in an altermagnet</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>A. Dal Din et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01690">2511.01690</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01764.html">Comparison between first-principles supercell calculations of polarons and the ab initio polaron equations</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Zhenbang Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01764">2511.01764</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01844.html">Accurate and Efficient Emulation of Proton-Deuteron Scattering via the Reduced Basis Method and Active Learning</a></div></td>
-<td>Alex Gnech et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01844">2511.01844</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,23 +302,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01898.html">GEODE: Symmetry-Preserving Cartesian Diffusion for Crystal Generation</a></div></td>
 <td>Yuchen Lou et al.</td>
 <td><a href="http://arxiv.org/abs/2610.01898">2610.01898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36737.html">Reconstructing the Vocal Tract with Differentiable Acoustic Simulation</a></div></td>
-<td>Eric Ming Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.36737">2609.36737</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.36850.html">Rethinking Multimodal Fake News Detection in the Generative AI Era</a></div></td>
-<td>Wenbin Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.36850">2609.36850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.37158.html">GLASS: Global Latent Aggregation with Slot-based Set Decoding for Scalable All-Atom Crystal Generation</a></div><div class="paper-tags"><a href="mof-30d.html">mof</a></div></td>
-<td>Hendrik Kraß et al.</td>
-<td><a href="http://arxiv.org/abs/2609.37158">2609.37158</a></td>
 </tr>
 </tbody></table>

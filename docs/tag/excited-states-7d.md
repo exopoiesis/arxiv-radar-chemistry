@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>excited-states — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,17 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32456.html">Side-Chain Engineering Controls Molecular Packing and Vertical Electron Transport in Discrete n-Type NDI-T2 Oligomers</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>Zihao Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.32456">2610.32456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31400.html">Multireference Polarizable Embedding for Core-Level Spectroscopy in Aqueous Solution: XPS and XAS of Glycine</a></div></td>
-<td>Chiara Sepali et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31400">2610.31400</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31805.html">Low-energy collective electronic excitations in a gold monolayer</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Vyacheslav M. Silkin et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31805">2610.31805</a></td>
 </tr>
 </tbody></table>

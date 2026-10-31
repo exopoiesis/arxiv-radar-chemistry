@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40402.html">Characterizing Reaction Types through Linear Free-Energy Relationships in Cavities</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a></div></td>
+<td>Jillian G. Hoffstadt et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40402">2610.40402</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36542.html">First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a> · <a href="materials-discovery-7d.html">materials-discovery</a></div></td>
@@ -116,23 +122,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33879.html">Finite-temperature ab-initio-Informed Nuclear Equation-of-State Tables (FINEST): Nuclear matter uncertainties in core-collapse supernovae</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>Finia P. Jost et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33879">2610.33879</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32449.html">Interplay of Chemical Disorder, Vortex Pinning, and Electron Correlations in the Mechanically Robust Medium-Entropy Alloy Superconductor $\text{Nb}_{0.45}\text{Ta}_{0.25}\text{Ti}_{0.15}\text{Hf}_{0.15}$</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Pooja Chourasia et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32449">2610.32449</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32712.html">On the Spontaneous Structural Reconstructions of Chalcogen-Depleted MoS$_2$, MoSe$_2$, and Janus MoSSe Monolayers</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Bruno Ipaves et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32712">2610.32712</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33244.html">Cavity Loss in QED Coupled-Cluster Theory: Polariton Linewidths, Driven Steady States, and the Rabi Splitting</a></div></td>
-<td>Kurt R. Brorsen</td>
-<td><a href="http://arxiv.org/abs/2610.33244">2610.33244</a></td>
 </tr>
 </tbody></table>

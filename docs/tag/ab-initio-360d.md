@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1527 papers</span>
+  <span class="paper-count">1518 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40402.html">Characterizing Reaction Types through Linear Free-Energy Relationships in Cavities</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
+<td>Jillian G. Hoffstadt et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40402">2610.40402</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36542.html">First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
@@ -9116,65 +9122,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03303.html">Incorporating QM/MM molecular dynamics into the few-mode quantization approach for light-matter interactions in nanophotonic structures</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Ruth H. Tichauer et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03303">2511.03303</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16565.html">A charge-density machine-learning workflow for computing the infrared spectrum of molecules</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Suman Hazra et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16565">2507.16565</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04095.html">Competing Magnetic Phases in Li-Fe-Ge Kagome Systems</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Zhen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04095">2508.04095</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19106.html">Ab Initio Free Energy Surfaces for Coupled Ion-Electron Transfer</a></div><div class="paper-tags"><a href="string-method-360d.html">string-method</a></div></td>
-<td>Ethan Abraham et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19106">2510.19106</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02416.html">Hydrogen site-dependent physical properties of hydrous magnesium silicates: implications for water storage and transport in the mantle transition zone</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Zifan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02416">2511.02416</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02561.html">First-principles Prediction of Carrier Mobility in Semiconductor Nanowires Based on the Spatially Dependent Boltzmann Transport Equation</a></div></td>
-<td>Zirui He et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02561">2511.02561</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02609.html">Suppression of auxetic behavior in black phosphorus with sulfur substitution</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Hayden Groeschel et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02609">2511.02609</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02708.html">Atomistic QM/Classical Modeling of Surface-Enhanced Infrared Absorption</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Sveva Sodomaco et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02708">2511.02708</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02714.html">A regularized Matched Interface and Boundary Method (MIB) for Solving Polarizable Multipole Poisson-Boltzmann model</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Xin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02714">2511.02714</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03038.html">A Normalized Descriptor for Unbiased Screening of Second-Order Nonlinear Optical Materials</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Aubrey G. J. Nyiri et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03038">2511.03038</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03061.html">Modal Backflow Neural Quantum States for Anharmonic Vibrational Calculations</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Lexin Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03061">2511.03061</a></td>
 </tr>
 </tbody></table>

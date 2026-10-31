@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">76 papers</span>
+  <span class="paper-count">75 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -464,11 +464,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01062.html">Magnetic circular dichroism of THz modes and selection rules of Raman-active optical phonons in the polar altermagnet candidate \ce{Mn2Mo3O8}</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>F. Schilberth et al.</td>
 <td><a href="http://arxiv.org/abs/2608.01062">2608.01062</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00871.html">Non-relativistic spin splitting in a triangular metal-excess magnet Fe$_{1+δ}$Sb</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Chao-Chun Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2608.00871">2608.00871</a></td>
 </tr>
 </tbody></table>

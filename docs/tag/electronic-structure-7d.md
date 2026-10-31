@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>electronic-structure — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33838.html">First-Principles-Informed Modeling of Thermal Transport and Laser-Induced Heating in Ultrahigh-Temperature Carbides</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
 <td>Shivanand Yadav et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33838">2610.33838</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32449.html">Interplay of Chemical Disorder, Vortex Pinning, and Electron Correlations in the Mechanically Robust Medium-Entropy Alloy Superconductor $\text{Nb}_{0.45}\text{Ta}_{0.25}\text{Ti}_{0.15}\text{Hf}_{0.15}$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Pooja Chourasia et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32449">2610.32449</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32754.html">Tensor Networks for Materials Simulation and Quantum Chemistry</a></div><div class="paper-tags"><a href="materials-science-7d.html">materials-science</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
-<td>Saeed S. Jahromi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32754">2610.32754</a></td>
 </tr>
 </tbody></table>

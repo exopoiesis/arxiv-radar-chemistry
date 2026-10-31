@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>structure-prediction — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34029.html">TCSP3.0: Template-Based Crystal Structure Prediction with Coefficient-Preserving Element Substitution and Structural Diversity</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="generative-model-7d.html">generative-model</a></div></td>
 <td>Ying Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2610.34029">2610.34029</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33195.html">Agent-guided epitope excision enables economical de novo binder design</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="protein-structure-7d.html">protein-structure</a></div></td>
-<td>Jun W. Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2610.33195">2610.33195</a></td>
 </tr>
 </tbody></table>

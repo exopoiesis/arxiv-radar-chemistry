@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">585 papers</span>
+  <span class="paper-count">582 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3506,23 +3506,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03382.html">Development of a magnetic interatomic potential for cubic anti-ferromagnets: the case of NiO</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Ievgeniia Korniienko et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03382">2511.03382</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16565.html">A charge-density machine-learning workflow for computing the infrared spectrum of molecules</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Suman Hazra et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16565">2507.16565</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02630.html">Atom-centered electric multipole moments dynamically generated from QM/MM MD simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Andrea Levy et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02630">2511.02630</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02714.html">A regularized Matched Interface and Boundary Method (MIB) for Solving Polarizable Multipole Poisson-Boltzmann model</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Xin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02714">2511.02714</a></td>
 </tr>
 </tbody></table>

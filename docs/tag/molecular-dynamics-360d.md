@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1574 papers</span>
+  <span class="paper-count">1570 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9434,29 +9434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03615.html">pH-Responsive Glyphosate Adsorption on Hydroxylated Carbon Nanotubes: From Electronic Structure to Molecular Dynamics</a></div></td>
 <td>H. T. Silva et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03615">2511.03615</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16565.html">A charge-density machine-learning workflow for computing the infrared spectrum of molecules</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Suman Hazra et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16565">2507.16565</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02416.html">Hydrogen site-dependent physical properties of hydrous magnesium silicates: implications for water storage and transport in the mantle transition zone</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Zifan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02416">2511.02416</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02630.html">Atom-centered electric multipole moments dynamically generated from QM/MM MD simulations</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Andrea Levy et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02630">2511.02630</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02699.html">Making PLUMED fly: a tutorial on optimizing performance</a></div></td>
-<td>Daniele Rapetti et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02699">2511.02699</a></td>
 </tr>
 </tbody></table>

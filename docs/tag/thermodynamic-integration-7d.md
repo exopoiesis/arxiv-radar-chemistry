@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <a href="thermodynamic-integration-360d.html">360d</a> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34551.html">A thermodynamic correction layer for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="mlip-7d.html">mlip</a></div></td>
 <td>Sarath Menon et al.</td>
 <td><a href="http://arxiv.org/abs/2610.34551">2610.34551</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32449.html">Interplay of Chemical Disorder, Vortex Pinning, and Electron Correlations in the Mechanically Robust Medium-Entropy Alloy Superconductor $\text{Nb}_{0.45}\text{Ta}_{0.25}\text{Ti}_{0.15}\text{Hf}_{0.15}$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>Pooja Chourasia et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32449">2610.32449</a></td>
 </tr>
 </tbody></table>

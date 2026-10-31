@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2042 papers</span>
+  <span class="paper-count">2035 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12224,47 +12224,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03721.html">Magnetism and Peierls distortion in Dirac semimetal CaMnBi$_2$</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Aashish Sapkota et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03721">2511.03721</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05817.html">Quantum vortex dipole as a probe of the normal component distribution</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Andrea Barresi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05817">2507.05817</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04095.html">Competing Magnetic Phases in Li-Fe-Ge Kagome Systems</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Zhen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04095">2508.04095</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13468.html">Gold-Standard Chemical Database 137 (GSCDB137): A diverse set of accurate energy differences for assessing and developing density functionals</a></div></td>
-<td>Jiashu Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13468">2508.13468</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24156.html">eT 2.0: An efficient open-source molecular electronic structure program</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Sarai Dery Folkestad et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24156">2510.24156</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02159.html">Equivalence of charged and neutral density functional formulations for correcting the many-body self-interaction of polarons</a></div></td>
-<td>Stefano Falletta et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02159">2511.02159</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02609.html">Suppression of auxetic behavior in black phosphorus with sulfur substitution</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Hayden Groeschel et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02609">2511.02609</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02708.html">Atomistic QM/Classical Modeling of Surface-Enhanced Infrared Absorption</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Sveva Sodomaco et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02708">2511.02708</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>generative-model — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34029.html">TCSP3.0: Template-Based Crystal Structure Prediction with Coefficient-Preserving Element Substitution and Structural Diversity</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
 <td>Ying Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2610.34029">2610.34029</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31495.html">SABLE: Scalable Affine Bayesian Latent-space Exploration</a></div></td>
-<td>Erik Bodin et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31495">2610.31495</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38701.html">Sample-Based Quantum Diagonalization for Variable Molecular Geometries</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Matthieu Fortin-Deschenes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38701">2610.38701</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34864.html">Why Emission Spectral Profile of Diverse Fluoro-phores Look Alike with Thick Polymer Overlayers?</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Vinayak Kumar Tiwari et al.</td>
@@ -314,11 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05068.html">Effective single particle picture for anharmonic lattice dynamics: a Rosetta stone for electronic and ionic response</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Giovanni Caldarelli et al.</td>
 <td><a href="http://arxiv.org/abs/2608.05068">2608.05068</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00797.html">Ion stopping from bound and free electrons in plasmas: A channel-mixed RPA approach with average-atom orbitals</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Zachary A Johnson et al.</td>
-<td><a href="http://arxiv.org/abs/2608.00797">2608.00797</a></td>
 </tr>
 </tbody></table>

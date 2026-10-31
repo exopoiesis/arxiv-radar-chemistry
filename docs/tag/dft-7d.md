@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,35 +158,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33879.html">Finite-temperature ab-initio-Informed Nuclear Equation-of-State Tables (FINEST): Nuclear matter uncertainties in core-collapse supernovae</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
 <td>Finia P. Jost et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33879">2610.33879</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32449.html">Interplay of Chemical Disorder, Vortex Pinning, and Electron Correlations in the Mechanically Robust Medium-Entropy Alloy Superconductor $\text{Nb}_{0.45}\text{Ta}_{0.25}\text{Ti}_{0.15}\text{Hf}_{0.15}$</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Pooja Chourasia et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32449">2610.32449</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32456.html">Side-Chain Engineering Controls Molecular Packing and Vertical Electron Transport in Discrete n-Type NDI-T2 Oligomers</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Zihao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32456">2610.32456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32903.html">Rationalizing charge transfer: a single-molecule case study across three distinct surfaces</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
-<td>Benjamin Lowe et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32903">2610.32903</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32938.html">Vacancy-enhanced Li solid-solution anodes for solid-state batteries: computational screening enabling high critical current density</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Arseniy S. Burov et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32938">2610.32938</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33272.html">Autonomous atomistic-continuum coupling through uncertainty-aware active learning</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Daniel Abdulah et al.</td>
-<td><a href="http://arxiv.org/abs/2610.33272">2610.33272</a></td>
 </tr>
 </tbody></table>

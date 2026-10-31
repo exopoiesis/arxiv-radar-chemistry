@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>structure-prediction — 360d</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">163 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <strong>360d</strong> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -992,11 +992,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14781.html">Quantifying the Role of OpenFold Components in Protein Structure Prediction</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Tyler L. Hayes et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14781">2511.14781</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02416.html">Hydrogen site-dependent physical properties of hydrous magnesium silicates: implications for water storage and transport in the mantle transition zone</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Zifan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02416">2511.02416</a></td>
 </tr>
 </tbody></table>

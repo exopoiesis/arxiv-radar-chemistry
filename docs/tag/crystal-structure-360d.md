@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">261 papers</span>
+  <span class="paper-count">260 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1574,11 +1574,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00362.html">Cooperative Ion Conduction Enabled by Site Percolation in Random Substitutional Crystals</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Rikuya Ishikawa et al.</td>
 <td><a href="http://arxiv.org/abs/2505.00362">2505.00362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02416.html">Hydrogen site-dependent physical properties of hydrous magnesium silicates: implications for water storage and transport in the mantle transition zone</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Zifan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02416">2511.02416</a></td>
 </tr>
 </tbody></table>

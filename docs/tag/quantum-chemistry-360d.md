@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38701.html">Sample-Based Quantum Diagonalization for Variable Molecular Geometries</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
+<td>Matthieu Fortin-Deschenes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38701">2610.38701</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37483.html">StudDFT: A quantum chemistry program for educational and research purposes</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
 <td>Stanislav K. Ignatov</td>
@@ -2060,11 +2066,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03567.html">Efficient Implementation of the Spin-Free Renormalized Internally-Contracted Multireference Coupled Cluster Theory</a></div></td>
 <td>Kalman Szenes et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03567">2511.03567</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20588.html">Excited-CAFQA: A classical simulation bootstrap for the variational estimation of molecular excited states</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Bikrant Bhattacharyya et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20588">2509.20588</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>crystal-structure — 90d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <strong>90d</strong> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -356,11 +356,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02362.html">Superconducting ternary compounds Li-X-B (X=Mo, W) within the mild pressure range: First-principles predictions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Bangshuai Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.02362">2608.02362</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00773.html">A Large-scale Parallel Implementation of Quasi-Four-Component Relativistic Density Functional Theory with Numeric Atom-centered Orbitals</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Wentao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.00773">2608.00773</a></td>
 </tr>
 </tbody></table>

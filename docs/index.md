@@ -5,15 +5,39 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-10-30._
+_Updated 2026-10-31._
 
-**16708** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**16712** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.40249.html">Reaction precedents extend retrosynthetic prediction beyond training coverage</a></div><div class="paper-tags"><a href="tag/retrosynthesis-30d.html">retrosynthesis</a></div></td>
+<td>Jiaxing Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40249">2610.40249</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.40402.html">Characterizing Reaction Types through Linear Free-Energy Relationships in Cavities</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/catalysis-30d.html">catalysis</a></div></td>
+<td>Jillian G. Hoffstadt et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40402">2610.40402</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.38245.html">Verification-Guided Retrosynthesis: Reaction Feedback and Evidence Timing</a></div><div class="paper-tags"><a href="tag/retrosynthesis-30d.html">retrosynthesis</a></div></td>
+<td>Hongxuan Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38245">2610.38245</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.38701.html">Sample-Based Quantum Diagonalization for Variable Molecular Geometries</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/drug-discovery-30d.html">drug-discovery</a> · <a href="tag/excited-states-30d.html">excited-states</a> · <a href="tag/quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Matthieu Fortin-Deschenes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38701">2610.38701</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.35204.html">mdRNAcat: A Molecular Dynamics RNA Catalog of REST2 Conformational Ensembles</a></div><div class="paper-tags"><a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/replica-exchange-30d.html">replica-exchange</a></div></td>
@@ -169,29 +193,5 @@ _Updated 2026-10-30._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.32652.html">Low-variance estimators for nuclear quantum mean forces</a></div><div class="paper-tags"><a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Venkat Kapil</td>
 <td><a href="http://arxiv.org/abs/2610.32652">2610.32652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.34860.html">Semantic Atoms for Scalable Text Analysis in Data Analytics in the Era of LLM-Based Agents</a></div></td>
-<td>Jinxiang Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34860">2610.34860</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.34864.html">Why Emission Spectral Profile of Diverse Fluoro-phores Look Alike with Thick Polymer Overlayers?</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/excited-states-30d.html">excited-states</a></div></td>
-<td>Vinayak Kumar Tiwari et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34864">2610.34864</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.34996.html">Rigid Band Shift in Electron-Doped Kagome Metal</a></div><div class="paper-tags"><a href="tag/band-gap-30d.html">band-gap</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>M. Pinterić et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34996">2610.34996</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.35031.html">PatentAgentBench: Benchmarking LLM Agents with Professional Patent Task Suites</a></div></td>
-<td>Yijie Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35031">2610.35031</a></td>
 </tr>
 </tbody></table>

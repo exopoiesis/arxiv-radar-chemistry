@@ -21588,5 +21588,121 @@
    "Protein & Biomolecules"
   ],
   "updated": "2026-10-27"
+ },
+ "2610.38245": {
+  "abstract": "Retrosynthesis planning seeks synthesis routes from purchasable starting materials to a target molecule. Search over predicted reactions can connect a target to available materials, yet an infeasible reaction can invalidate the resulting route. Evaluating route quality only after search has finished cannot correct errors made during search. We introduce Verification-Guided Reflow (VGR), incorporating reaction verification as a decision action in AND/OR search. Verification results are represented as binary verdicts; queries are scheduled from the search structure, and acquired verdicts exclude reactions or adjust search priorities. We define verified solvability as the fraction of targets for which a complete route accepted stepwise by the verifier is found. On Retro190, feeding verification results into search increases verified solvability from 51.1% to 62.6% relative to route evaluation without feedback. Further controlled experiments show that earlier verification and immediate prioritization of accepted reactions each improve route discovery, yet combining them performs worse than either change alone. We therefore propose early pruning and delayed guidance: rejected reactions are pruned immediately, while accepted reactions gain search priority when processed as part of a complete candidate route. In a separate comparison with the verification scheduling rule fixed, this strategy increases verified solvability from 61.1% with immediate guidance to 71.1%, using fewer proposal calls and unique verifier queries.",
+  "authors": [
+   "Hongxuan Shi",
+   "Hankz Hankui Zhuo"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "12 pages, including appendices",
+  "first_author": "Hongxuan Shi",
+  "pdf_url": "http://arxiv.org/pdf/2610.38245",
+  "primary_category": "cs.AI",
+  "published": "2026-10-28",
+  "tags": [
+   "retrosynthesis"
+  ],
+  "title": "Verification-Guided Retrosynthesis: Reaction Feedback and Evidence Timing",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-10-28"
+ },
+ "2610.38701": {
+  "abstract": "Quantum and hybrid quantum-classical algorithms have the potential to improve the accuracy and scale of quantum chemistry and impact a broad range of applications such as drug discovery and catalysis. In particular, subspace methods such as sample-based quantum diagonalization (SQD) can already tackle classically challenging systems. However, practical algorithms that go beyond the computation of electronic ground and excited states are still scarce. Here, we introduce the variable-geometry sample-based quantum diagonalization (VGSQD) algorithm, which extends SQD to variable molecular geometries by reusing quantum samples from a reference geometry at displaced ones, thus significantly reducing quantum computational cost. Using circuits of up to 124 qubits on ibm-quebec, an IBM Heron r2 quantum processor, we determine the equilibrium geometry and energy of the weakly bound, strongly correlated beryllium dimer, as well as the water molecule. Finally, we extend VGSQD to chemical reactions and compute the minimum energy path and energy barrier of a hydrogen exchange reaction. The results are comparable with state-of-the-art classical methods such as CCSD(T) and DMRG. This work broadens the scope of quantum algorithms for chemistry, from energies to geometry optimization and reaction pathways, both essential for practical applications.",
+  "authors": [
+   "Matthieu Fortin-Deschenes",
+   "Ibrahim Shehzad"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Matthieu Fortin-Deschenes",
+  "pdf_url": "http://arxiv.org/pdf/2610.38701",
+  "primary_category": "quant-ph",
+  "published": "2026-10-28",
+  "tags": [
+   "catalysis",
+   "drug-discovery",
+   "excited-states",
+   "quantum-chemistry"
+  ],
+  "title": "Sample-Based Quantum Diagonalization for Variable Molecular Geometries",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-10-28"
+ },
+ "2610.40249": {
+  "abstract": "Reaction precedents guide retrosynthesis, but how far they can compensate for gaps in task-specific training coverage remains unclear. Using 2.71 million reactions, we restricted training and retrieval coverage by transformation or time, then expanded only the retrieval corpus with model parameters fixed. For transformations excluded from training, mean Top-1 accuracy increased from 13.0% to 58.0% on a historical test set and from 4.9% to 23.1% on a temporally held-out test set. For temporal coverage gaps, retrieval expansion enabled a model trained on records before 2017 to match or exceed a non-retrieval model trained on records before 2025 on both test sets. Without task-specific fine-tuning, precedents improved all 14 representative general-purpose models on both test sets and USPTO-50K; the strongest with precedents surpassed all eight representative specialized models. These findings show that inference-time reaction precedents can extend retrosynthetic prediction beyond task-specific training coverage without parameter updates.",
+  "authors": [
+   "Jiaxing Sun",
+   "Xuli Shen",
+   "Jiang Wu",
+   "Ruiyi Ding",
+   "Ruikang Zhang",
+   "Xiao An",
+   "Xibao Li",
+   "Yubin Wang",
+   "Xingjian Wei",
+   "Yinfan Wang",
+   "Yu Liu",
+   "Lingli Ge",
+   "Xi Xue",
+   "Xiaojian Wang",
+   "Lijun Wu",
+   "Chang-Yu Hsieh",
+   "Yuqiang Li",
+   "Bowen Zhou",
+   "Dahua Lin",
+   "Conghui He"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Jiaxing Sun",
+  "pdf_url": "http://arxiv.org/pdf/2610.40249",
+  "primary_category": "cs.AI",
+  "published": "2026-10-29",
+  "tags": [
+   "retrosynthesis"
+  ],
+  "title": "Reaction precedents extend retrosynthetic prediction beyond training coverage",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.40402": {
+  "abstract": "Polaritonic chemistry holds the promise of controlling chemical reactivity through confined light-matter interactions, yet how reactions respond inside optical cavities remains debated. Here, we take a more zoomed-out view, inspired by electrostatic catalysis. We extend nonempirical linear free-energy relationships to cavity-modified reactions and show that their behavior falls into four distinct reaction types set by simple response-crossing rules. Reactions can follow conventional Bell-Evans-Polanyi (BEP) or counterintuitive Opposite-BEP behavior regardless of cavity tuning, or switch between the two as the cavity frequency is varied. We establish this picture analytically and demonstrate it in the Shin Metiu model and in four molecular reactions treated with ab initio electronic-structure methods. Even at this deliberately coarse-grained level, cavity-modified reactivity already shows qualitatively different and strongly counterintuitive behavior, including reactions that switch character with cavity frequency. Yet this complexity can still be reduced to a simple competition between permanent-dipole and polarizability responses. This reaction-type classification therefore provides a new route to organize and anticipate cavity-modified reactivity.",
+  "authors": [
+   "Jillian G. Hoffstadt",
+   "Davis M. Welakuh",
+   "Norah M. Hoffmann"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Jillian G. Hoffstadt",
+  "pdf_url": "http://arxiv.org/pdf/2610.40402",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-29",
+  "tags": [
+   "ab-initio",
+   "catalysis"
+  ],
+  "title": "Characterizing Reaction Types through Linear Free-Energy Relationships in Cavities",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-10-29"
  }
 }

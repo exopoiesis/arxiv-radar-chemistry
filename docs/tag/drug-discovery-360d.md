@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">494 papers</span>
+  <span class="paper-count">491 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38701.html">Sample-Based Quantum Diagonalization for Variable Molecular Geometries</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Matthieu Fortin-Deschenes et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38701">2610.38701</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36280.html">EVA-Flow: Learning Shared Chemistry for Unified Environment-Aware Molecular Conformation Generation</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
@@ -2954,29 +2960,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03354.html">Generative Artificial Intelligence in Bioinformatics: A Systematic Review of Models, Applications, and Methodological Advances</a></div></td>
 <td>Riasad Alvi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.03354">2511.03354</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15971.html">REINFORCE-ING Chemical Language Models for Drug Discovery</a></div><div class="paper-tags"><a href="chemical-llm-360d.html">chemical-llm</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Morgan Thomas et al.</td>
-<td><a href="http://arxiv.org/abs/2501.15971">2501.15971</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19865.html">Scalable and Cost-Efficient de Novo Template-Based Molecular Generation</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Piotr Gaiński et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19865">2506.19865</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01486.html">Prior-Guided Flow Matching for Target-Aware Molecule Design with Learnable Atom Number</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Jingyuan Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01486">2509.01486</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21971.html">GRAM-DTI: adaptive multimodal representation learning for drug target interaction prediction</a></div></td>
-<td>Feng Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21971">2509.21971</a></td>
 </tr>
 </tbody></table>

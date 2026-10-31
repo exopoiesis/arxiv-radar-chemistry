@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 90d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <strong>90d</strong> <a href="thermodynamic-integration-360d.html">360d</a> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02106.html">Transient Ferromagnetism in Ultrafast Phase Transitions in Perovskites under XUV Irradiation: A Comparative Study of SrTiO3 and KTaO3</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Aldo Artimez Pena et al.</td>
 <td><a href="http://arxiv.org/abs/2608.02106">2608.02106</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00707.html">Conditional grain-graph diffusion for property-guided inverse design of polycrystalline microstructures</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Yuheng Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2608.00707">2608.00707</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">490 papers</span>
+  <span class="paper-count">486 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2930,29 +2930,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01244.html">Pressure-induced self-doping and Fermi surface reconstruction in UAs2</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Zhenchao Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.01244">2608.01244</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00512.html">{\it Ab initio} prediction of $d_{x^2-y^2}$-wave superconductivity in infinite-layer nickelates</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Guang-Yu Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2608.00512">2608.00512</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00773.html">A Large-scale Parallel Implementation of Quasi-Four-Component Relativistic Density Functional Theory with Numeric Atom-centered Orbitals</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="crystal-structure-90d.html">crystal-structure</a></div></td>
-<td>Wentao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.00773">2608.00773</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00797.html">Ion stopping from bound and free electrons in plasmas: A channel-mixed RPA approach with average-atom orbitals</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Zachary A Johnson et al.</td>
-<td><a href="http://arxiv.org/abs/2608.00797">2608.00797</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00871.html">Non-relativistic spin splitting in a triangular metal-excess magnet Fe$_{1+δ}$Sb</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Chao-Chun Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2608.00871">2608.00871</a></td>
 </tr>
 </tbody></table>

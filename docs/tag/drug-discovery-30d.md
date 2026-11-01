@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,17 +176,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03066.html">Explainable Molecular Structure Inference from GC--MS with Diffusion Models and LLM Reranking</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Changlin Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03066">2610.03066</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01773.html">CODesign: Consistency from Data to Trajectory in All-Atom Protein Binder Co-Design</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Yuanle Mo et al.</td>
-<td><a href="http://arxiv.org/abs/2610.01773">2610.01773</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01827.html">Scientific Discovery under Validation Congestion via Multi-Fidelity Pairwise Rankings</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="bayesian-optimization-30d.html">bayesian-optimization</a></div></td>
-<td>Kevin Tirta Wijaya et al.</td>
-<td><a href="http://arxiv.org/abs/2610.01827">2610.01827</a></td>
 </tr>
 </tbody></table>

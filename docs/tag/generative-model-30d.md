@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,35 +272,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03978.html">Learning Latent Protein Languages for Autoregressive Generation</a></div><div class="paper-tags"><a href="structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Mahdi Pourmirzaei et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03978">2610.03978</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01086.html">Multi-Scale Temporal Flows for Peptide Trajectory Generation</a></div></td>
-<td>Xichen Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2610.01086">2610.01086</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01315.html">EP-Flow: Disordered Crystal Structure Prediction without Site-Level Annotations</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Qiuliang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.01315">2610.01315</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01358.html">Fold&#x27;EM: Direct atomic structure inference from Cryo-EM particles</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="protein-structure-30d.html">protein-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Advaith Maddipatla et al.</td>
-<td><a href="http://arxiv.org/abs/2610.01358">2610.01358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01522.html">Langevin-Informed Transfer Learning: Replacing Target Samples by Black-Box Feedback</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Vladimir R. Kostic et al.</td>
-<td><a href="http://arxiv.org/abs/2610.01522">2610.01522</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01898.html">GEODE: Symmetry-Preserving Cartesian Diffusion for Crystal Generation</a></div></td>
-<td>Yuchen Lou et al.</td>
-<td><a href="http://arxiv.org/abs/2610.01898">2610.01898</a></td>
 </tr>
 </tbody></table>

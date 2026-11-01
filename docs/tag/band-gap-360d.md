@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">414 papers</span>
+  <span class="paper-count">411 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2480,23 +2480,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00430.html">Elastic and Strain--Tunable Electronic and Optical Properties of La2AlGaO6 Hybrid Perovskite: A First-Principles Study</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Chaithanya Purushottam Bhat et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00430">2511.00430</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.03563.html">Theory of unconventional magnetism in a Cu-based kagome metal</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Anja Wenger et al.</td>
-<td><a href="http://arxiv.org/abs/2411.03563">2411.03563</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02461.html">Ultrafast magnetic moment transfer and bandgap renormalization in monolayer FeCl$_2$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Yu-Hui Song et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02461">2511.02461</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03712.html">Intercalation induced quasi-freestanding layer in TiSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Turgut Yilmaz et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03712">2511.03712</a></td>
 </tr>
 </tbody></table>

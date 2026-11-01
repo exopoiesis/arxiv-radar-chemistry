@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">287 papers</span>
+  <span class="paper-count">285 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1724,17 +1724,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04468.html">Machine learning-driven elasticity prediction in advanced inorganic materials via convolutional neural networks</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Yujie Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04468">2511.04468</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03362.html">Construction of cubic nonlinear lattice free from umklapp processes</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Hiroki Ono et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03362">2511.03362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03450.html">Discovery of Slot Plasma Excitations in a AlGaN/GaN Plasmonic Crystal</a></div></td>
-<td>A. R. Khisameeva et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03450">2511.03450</a></td>
 </tr>
 </tbody></table>

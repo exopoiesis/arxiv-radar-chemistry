@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,35 +128,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34584.html">Methyl radicals dynamics on (100)--(2x1):H diamond surfaces based on refined variational transition state calculations of gas-surface reaction rate coefficients</a></div></td>
 <td>Emerick Y. Guillaume et al.</td>
 <td><a href="http://arxiv.org/abs/2610.34584">2610.34584</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33457.html">First-Principles Investigation of the Structural, Electronic, Optical, Elastic, and Thermoelectric Properties of X2MoSeO6 (X = K, Rb, Cs)</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Sha Ajharul Islam Forhat et al.</td>
-<td><a href="http://arxiv.org/abs/2610.33457">2610.33457</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33469.html">Charge state and hydration of vacancies in silicon and silicon carbide in contact with water: A grand-canonical first-principles stability map</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Abhirup Patra</td>
-<td><a href="http://arxiv.org/abs/2610.33469">2610.33469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33837.html">V-Representability Beyond Singular Times in Time-Dependent Density Functional Theory: The Hubbard Dimer Case</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Éric Cancès et al.</td>
-<td><a href="http://arxiv.org/abs/2610.33837">2610.33837</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33838.html">First-Principles-Informed Modeling of Thermal Transport and Laser-Induced Heating in Ultrahigh-Temperature Carbides</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Shivanand Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2610.33838">2610.33838</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33879.html">Finite-temperature ab-initio-Informed Nuclear Equation-of-State Tables (FINEST): Nuclear matter uncertainties in core-collapse supernovae</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Finia P. Jost et al.</td>
-<td><a href="http://arxiv.org/abs/2610.33879">2610.33879</a></td>
 </tr>
 </tbody></table>

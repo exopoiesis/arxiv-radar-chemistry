@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">486 papers</span>
+  <span class="paper-count">484 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2918,17 +2918,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02925.html">Symmetry-Guided Computational Screening of Two-Dimensional Altermagnets with ab initio Hubbard Corrections</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Anumita Bose et al.</td>
 <td><a href="http://arxiv.org/abs/2608.02925">2608.02925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01022.html">Spin-orbit-entangled frustrated magnetism in fcc Ba$_2$(Yb,Nd)NbO$_6$ double perovskites</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>S. M. Hossain et al.</td>
-<td><a href="http://arxiv.org/abs/2608.01022">2608.01022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01244.html">Pressure-induced self-doping and Fermi surface reconstruction in UAs2</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Zhenchao Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.01244">2608.01244</a></td>
 </tr>
 </tbody></table>

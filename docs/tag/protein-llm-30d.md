@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>protein-llm — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <strong>30d</strong> <a href="protein-llm-90d.html">90d</a> <a href="protein-llm-360d.html">360d</a> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,17 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03029.html">SoftGene: Protein Language Model-Enhanced Soft Prompting for Interpretable Gene Set Annotation</a></div></td>
 <td>Drew Ross et al.</td>
 <td><a href="http://arxiv.org/abs/2610.03029">2610.03029</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.00988.html">Auditable Algebraic Counting Field for Cryptic-Pocket Detection from Apo Structures</a></div></td>
-<td>Shan Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.00988">2610.00988</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02189.html">Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Jason X. Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.02189">2610.02189</a></td>
 </tr>
 </tbody></table>

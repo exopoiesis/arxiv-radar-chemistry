@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-space — 360d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <strong>360d</strong> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,11 +734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11626.html">Omics-scale polymer computational database transferable to real-world artificial intelligence applications</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Ryo Yoshida et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11626">2511.11626</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03371.html">Enhancing composition-based materials property prediction by cross-modal knowledge transfer</a></div><div class="paper-tags"><a href="chemical-llm-360d.html">chemical-llm</a> · <a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Ivan Rubtsov et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03371">2511.03371</a></td>
 </tr>
 </tbody></table>

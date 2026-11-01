@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">149 papers</span>
+  <span class="paper-count">148 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -902,11 +902,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07771.html">Quantum-centric machine learning for molecular dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Yanxian Tao et al.</td>
 <td><a href="http://arxiv.org/abs/2511.07771">2511.07771</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.21422.html">ChemFM as a Scaling Law Guided Foundation Model Pre-trained on Informative Chemicals</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="property-prediction-360d.html">property-prediction</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Feiyang Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2410.21422">2410.21422</a></td>
 </tr>
 </tbody></table>

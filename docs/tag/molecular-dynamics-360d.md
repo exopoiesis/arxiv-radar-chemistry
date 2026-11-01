@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1570 papers</span>
+  <span class="paper-count">1563 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9392,47 +9392,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05602.html">Gas Mixture Diffusion and Distribution in the Porous ZIF-90 Framework</a></div><div class="paper-tags"><a href="mof-360d.html">mof</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Ashok Yacham et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05602">2511.05602</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00362.html">Cooperative Ion Conduction Enabled by Site Percolation in Random Substitutional Crystals</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Rikuya Ishikawa et al.</td>
-<td><a href="http://arxiv.org/abs/2505.00362">2505.00362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20423.html">Shape-Determined Kinetic Pathways in 2D Solid-Solid Phase Transitions</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Ruijian Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20423">2506.20423</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03303.html">Incorporating QM/MM molecular dynamics into the few-mode quantization approach for light-matter interactions in nanophotonic structures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Ruth H. Tichauer et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03303">2511.03303</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03362.html">Construction of cubic nonlinear lattice free from umklapp processes</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Hiroki Ono et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03362">2511.03362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03382.html">Development of a magnetic interatomic potential for cubic anti-ferromagnets: the case of NiO</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Ievgeniia Korniienko et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03382">2511.03382</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03476.html">Structural characterization and bonding energy analysis for plasma-activated bonding of SiCN films: A reactive molecular dynamics study</a></div></td>
-<td>Juheon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03476">2511.03476</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03615.html">pH-Responsive Glyphosate Adsorption on Hydroxylated Carbon Nanotubes: From Electronic Structure to Molecular Dynamics</a></div></td>
-<td>H. T. Silva et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03615">2511.03615</a></td>
 </tr>
 </tbody></table>

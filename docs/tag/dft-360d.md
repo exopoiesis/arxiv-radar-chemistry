@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2035 papers</span>
+  <span class="paper-count">2028 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12182,47 +12182,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04606.html">Peculiarities in the infrared emission of PAH-C$_{60}$ adducts</a></div></td>
 <td>R. Barzaga et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04606">2511.04606</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22137.html">calcQPI: A versatile tool to simulate quasiparticle interference</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Peter Wahl et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22137">2507.22137</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02461.html">Ultrafast magnetic moment transfer and bandgap renormalization in monolayer FeCl$_2$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Yu-Hui Song et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02461">2511.02461</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03240.html">Mysterious Role of Cap Configuration in Single-Walled Carbon Nanotube Catalytic Growth</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Tianliang Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03240">2511.03240</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03301.html">Contactless Modulation of Intralayer and Interlayer Excitons in MoS2/WSe2 heterostructures with Acoustoelectric Fields</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Yueyi Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03301">2511.03301</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03382.html">Development of a magnetic interatomic potential for cubic anti-ferromagnets: the case of NiO</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ievgeniia Korniienko et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03382">2511.03382</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03712.html">Intercalation induced quasi-freestanding layer in TiSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Turgut Yilmaz et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03712">2511.03712</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03721.html">Magnetism and Peierls distortion in Dirac semimetal CaMnBi$_2$</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Aashish Sapkota et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03721">2511.03721</a></td>
 </tr>
 </tbody></table>

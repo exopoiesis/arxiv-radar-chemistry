@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">163 papers</span>
+  <span class="paper-count">158 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -962,35 +962,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04115.html">Distilling universal machine-learning potentials for moiré lattices across one million atoms</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="tmd-30d.html">tmd</a></div></td>
 <td>Thomas Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.04115">2610.04115</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01089.html">Charge and spin dynamics in spintronic THz emitters from Time-Dependent Density Functional Theory</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Ali Kefayati</td>
-<td><a href="http://arxiv.org/abs/2610.01089">2610.01089</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01624.html">Relativistic Hirshfeld atoms in a molecule: An information-theoretic view, with application to Drude oscillator dispersion models</a></div><div class="paper-tags"><a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Keegan Paice et al.</td>
-<td><a href="http://arxiv.org/abs/2610.01624">2610.01624</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01727.html">PyCDFT: A Python-scriptable library for analytical evaluation of orbital conceptual density (matrix) functional theory</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Bin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.01727">2610.01727</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02183.html">Single-Particle Spectral Estimation</a></div></td>
-<td>Adrian Chapman et al.</td>
-<td><a href="http://arxiv.org/abs/2610.02183">2610.02183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02599.html">TasteBench: Multimodal Benchmark for Sensory Prediction, from Molecules to Sustainable Foods</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Anna T. Thomas et al.</td>
-<td><a href="http://arxiv.org/abs/2610.02599">2610.02599</a></td>
 </tr>
 </tbody></table>

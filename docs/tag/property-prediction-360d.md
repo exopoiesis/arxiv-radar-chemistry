@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">233 papers</span>
+  <span class="paper-count">231 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1400,17 +1400,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04838.html">SPECTRA: Spectral Target-Aware Graph Augmentation for Imbalanced Molecular Property Regression</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Brenda Nogueira et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04838">2511.04838</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.21422.html">ChemFM as a Scaling Law Guided Foundation Model Pre-trained on Informative Chemicals</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
-<td>Feiyang Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2410.21422">2410.21422</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03371.html">Enhancing composition-based materials property prediction by cross-modal knowledge transfer</a></div><div class="paper-tags"><a href="chemical-llm-360d.html">chemical-llm</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Ivan Rubtsov et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03371">2511.03371</a></td>
 </tr>
 </tbody></table>

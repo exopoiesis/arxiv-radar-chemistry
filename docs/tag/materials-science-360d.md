@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">328 papers</span>
+  <span class="paper-count">327 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1976,11 +1976,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04483.html">Unveiling the Adsorption and Electronic Interactions of Drugs on 2D Graphsene: Insights from DFT and Machine Learning Approach</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Chaithanya Purushottam Bhat et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04483">2511.04483</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03124.html">Commutative Algebra Modeling in Materials Science -- A Case Study on Metal-Organic Frameworks (MOFs)</a></div><div class="paper-tags"><a href="mof-360d.html">mof</a></div></td>
-<td>Caleb Simiyu Khaemba et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03124">2511.03124</a></td>
 </tr>
 </tbody></table>

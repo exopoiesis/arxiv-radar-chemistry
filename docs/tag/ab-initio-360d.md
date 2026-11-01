@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1518 papers</span>
+  <span class="paper-count">1516 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9110,17 +9110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23064.html">LightPFP: A Lightweight Route to Ab Initio Accuracy at Scale</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Wenwen Li et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23064">2510.23064</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.03563.html">Theory of unconventional magnetism in a Cu-based kagome metal</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Anja Wenger et al.</td>
-<td><a href="http://arxiv.org/abs/2411.03563">2411.03563</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03303.html">Incorporating QM/MM molecular dynamics into the few-mode quantization approach for light-matter interactions in nanophotonic structures</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ruth H. Tichauer et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03303">2511.03303</a></td>
 </tr>
 </tbody></table>

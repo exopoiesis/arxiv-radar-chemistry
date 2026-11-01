@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">433 papers</span>
+  <span class="paper-count">430 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2594,23 +2594,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16471.html">Progressive Inference-Time Annealing of Diffusion Models for Sampling from Boltzmann Densities</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Tara Akhound-Sadegh et al.</td>
 <td><a href="http://arxiv.org/abs/2506.16471">2506.16471</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06853.html">DiffSpectra: Molecular Structure Elucidation from Spectra using Diffusion Models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Liang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06853">2507.06853</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10530.html">Flow matching for reaction pathway generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Ping Tuo et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10530">2507.10530</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03112.html">Accelerating inverse materials design using generative diffusion models with reinforcement learning</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Junwu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03112">2511.03112</a></td>
 </tr>
 </tbody></table>

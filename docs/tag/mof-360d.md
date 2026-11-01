@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mof — 360d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="mof-7d.html">7d</a> <a href="mof-30d.html">30d</a> <a href="mof-90d.html">90d</a> <strong>360d</strong> <a href="mof-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -338,11 +338,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05602.html">Gas Mixture Diffusion and Distribution in the Porous ZIF-90 Framework</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Ashok Yacham et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05602">2511.05602</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03124.html">Commutative Algebra Modeling in Materials Science -- A Case Study on Metal-Organic Frameworks (MOFs)</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Caleb Simiyu Khaemba et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03124">2511.03124</a></td>
 </tr>
 </tbody></table>

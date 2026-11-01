@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">491 papers</span>
+  <span class="paper-count">489 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2948,17 +2948,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05483.html">DGTN: Graph-Enhanced Transformer with Diffusive Attention Gating Mechanism for Enzyme DDG Prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Abigail Lin</td>
 <td><a href="http://arxiv.org/abs/2511.05483">2511.05483</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06853.html">DiffSpectra: Molecular Structure Elucidation from Spectra using Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Liang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06853">2507.06853</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03354.html">Generative Artificial Intelligence in Bioinformatics: A Systematic Review of Models, Applications, and Methodological Advances</a></div></td>
-<td>Riasad Alvi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03354">2511.03354</a></td>
 </tr>
 </tbody></table>

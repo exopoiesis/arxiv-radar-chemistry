@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-generation — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-generation-90d.html">90d</a> <a href="molecular-generation-360d.html">360d</a> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,17 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05431.html">PharmAgent: Constraint-Aware Search with Frozen Language Models for Molecular Optimization</a></div></td>
 <td>Nihui Shao et al.</td>
 <td><a href="http://arxiv.org/abs/2610.05431">2610.05431</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01947.html">Latent JEPA: Abstract Future Prediction for Latent Reasoning in Chemistry</a></div></td>
-<td>Xinjian Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.01947">2610.01947</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02186.html">Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry</a></div></td>
-<td>Yiming Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.02186">2610.02186</a></td>
 </tr>
 </tbody></table>

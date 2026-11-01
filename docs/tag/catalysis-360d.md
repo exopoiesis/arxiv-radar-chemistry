@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">299 papers</span>
+  <span class="paper-count">296 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1790,23 +1790,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05701.html">Exploring Anisotropic Effects in Magnetized Quark Matter</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>S. A. Ferraris et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05701">2511.05701</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03240.html">Mysterious Role of Cap Configuration in Single-Walled Carbon Nanotube Catalytic Growth</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Tianliang Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03240">2511.03240</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03513.html">Group 13 Metals as L-Type Ligands for Transition Metals</a></div></td>
-<td>Hellen Videa et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03513">2511.03513</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03517.html">U2F: Encouraging SWE-Agent to Seize Novelty without Losing Feasibility</a></div></td>
-<td>Wencheng Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03517">2511.03517</a></td>
 </tr>
 </tbody></table>

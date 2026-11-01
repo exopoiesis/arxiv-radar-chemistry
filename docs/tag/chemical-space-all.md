@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chemical-space — all</h1>
-  <span class="paper-count">217 papers</span>
+  <span class="paper-count">209 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <a href="chemical-space-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1268,53 +1268,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.03963.html">dZiner: Rational Inverse Design of Materials with AI Agents</a></div></td>
 <td>Mehrad Ansari et al.</td>
 <td><a href="http://arxiv.org/abs/2410.03963">2410.03963</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08628.html">Chemical-motif characterization of short-range order with E(3)-equivariant graph neural networks</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Killian Sheriff et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08628">2405.08628</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14040.html">PepINVENT: Generative peptide design beyond the natural amino acids</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="protein-ligand-all.html">protein-ligand</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Gökçe Geylan et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14040">2409.14040</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13851.html">Learning Ordering in Crystalline Materials with Symmetry-Aware Graph Neural Networks</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a></div></td>
-<td>Jiayu Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13851">2409.13851</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09702.html">GFlowNet Pretraining with Inexpensive Rewards</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Mohit Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09702">2409.09702</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13112.html">Nutmeg and SPICE: Models and Data for Biomolecular Machine Learning</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Peter Eastman et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13112">2406.13112</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11429.html">Searching for chemo-kinematic structures in the Milky Way halo with deep clustering algorithms</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Leda Berni</td>
-<td><a href="http://arxiv.org/abs/2409.11429">2409.11429</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.11568.html">On the Scalability of GNNs for Molecular Graphs</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="gnn-all.html">gnn</a></div></td>
-<td>Maciej Sypetkowski et al.</td>
-<td><a href="http://arxiv.org/abs/2404.11568">2404.11568</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04418.html">Charting new regions of Cobalt&#x27;s chemical space with maximally large magnetic anisotropy: A computational high-throughput study</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Lorenzo A. Mariano et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04418">2409.04418</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>excited-states — all</h1>
-  <span class="paper-count">421 papers</span>
+  <span class="paper-count">410 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2474,71 +2474,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.04294.html">Spectral Densities, Structured Noise and Ensemble Averaging within Open Quantum Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Yannick Marcel Holtkamp et al.</td>
 <td><a href="http://arxiv.org/abs/2410.04294">2410.04294</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17000.html">Ensemble density functional theory of ground and excited energy levels</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Emmanuel Fromager</td>
-<td><a href="http://arxiv.org/abs/2409.17000">2409.17000</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03850.html">Strong-field effects in the photo-induced dissociation of the hydrogen molecule on a silver nanoshell</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Natalia E. Koval et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03850">2406.03850</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15160.html">Electrical Conductivity of Warm Dense Hydrogen from Ohm&#x27;s Law and Time-Dependent Density Functional Theory</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Kushal Ramakrishna et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15160">2409.15160</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14042.html">Recurrent Neural Networks for Prediction of Electronic Excitation Dynamics</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Ethan P. Shapera et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14042">2409.14042</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11182.html">Subspace-Search Quantum Imaginary Time Evolution for Excited State Computations</a></div></td>
-<td>Cameron Cianci et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11182">2407.11182</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00009.html">Linear response and resonances in adiabatic time-dependent density functional theory</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Mi-Song Dupuy et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00009">2408.00009</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12238.html">Exploring Ground and Excited States via Single Reference Coupled-Cluster Theory and Algebraic Geometry</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Svala Sverrisdóttir et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12238">2405.12238</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01442.html">Rotational and Near-IR Spectra of PbF: Characterization of the Coupled $X_1\,^2Π_{1/2}$ and $X_2\,^2Π_{3/2}$ States</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Sean Jackson et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01442">2406.01442</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02440.html">Saturable absorption in highly excited silicon and its suppression at the surface</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Shunsuke Yamada et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02440">2409.02440</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14278.html">Fragment quantum embedding using the Householder transformation: a multi-state extension based on ensembles</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Filip Cernatic et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14278">2407.14278</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01033.html">Simulating strong-field electron-hole dynamics in solids probed by attosecond transient absorption spectroscopy</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Stefano M. Cavaletto et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01033">2409.01033</a></td>
 </tr>
 </tbody></table>

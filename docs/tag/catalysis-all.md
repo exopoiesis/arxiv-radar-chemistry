@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalysis — all</h1>
-  <span class="paper-count">590 papers</span>
+  <span class="paper-count">577 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3476,83 +3476,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01650.html">Accessing Numerical Energy Hessians with Graph Neural Network Potentials and Their Application in Heterogeneous Catalysis</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
 <td>Brook Wander et al.</td>
 <td><a href="http://arxiv.org/abs/2410.01650">2410.01650</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17249.html">Semiconducting Electrides Derived From Sodalite: A First-principles Study</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="photocatalysis-all.html">photocatalysis</a></div></td>
-<td>Chang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17249">2409.17249</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03850.html">Strong-field effects in the photo-induced dissociation of the hydrogen molecule on a silver nanoshell</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a></div></td>
-<td>Natalia E. Koval et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03850">2406.03850</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13373.html">LLMs Still Can&#x27;t Plan; Can LRMs? A Preliminary Evaluation of OpenAI&#x27;s o1 on PlanBench</a></div></td>
-<td>Karthik Valmeekam et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13373">2409.13373</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13560.html">Advancing single-atom catalysts: engineered metal-organic platforms on surfaces</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
-<td>Amogh Kinikar et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13560">2409.13560</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13851.html">Learning Ordering in Crystalline Materials with Symmetry-Aware Graph Neural Networks</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a></div></td>
-<td>Jiayu Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13851">2409.13851</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11037.html">A High-Dimensional Neural Network Potential for Co$_3$O$_4$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Amir Omranpour et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11037">2409.11037</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09393.html">Scalable Reshaping of Diamond Particles via Programmable Nanosculpting</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Tongtong Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09393">2409.09393</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08192.html">Reversible Electron-Beam Patterning of Colloidal Nanoparticles at Fluid Interfaces</a></div></td>
-<td>Jonathan G. Raybin et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08192">2409.08192</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05986.html">Group-IV Pentaoctite: A New 2D Material Family</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Vanessa D. Kegler et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05986">2409.05986</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07531.html">Identifying sea and valence quarks in a magnetically driven catalysis</a></div></td>
-<td>Daniel Kosoi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07531">2409.07531</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06145.html">Performance of Exchange-Correlation Approximations to Density-Functional Theory for Rare-earth Oxides</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
-<td>Mary Kathleen Caucci et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06145">2409.06145</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06103.html">A Modular and Extensible CHARMM-Compatible Model for All-Atom Simulation of Polypeptoids</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Alex Berlaga et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06103">2409.06103</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04209.html">Deuteron, triton, helium-3 and hypertriton production in relativistic heavy-ion collisions via stochastic multi-particle reactions</a></div></td>
-<td>Martha Ege et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04209">2409.04209</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-generation — all</h1>
-  <span class="paper-count">256 papers</span>
+  <span class="paper-count">252 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <a href="molecular-generation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1526,29 +1526,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02198.html">G2T-LLM: Graph-to-Tree Text Encoding for Molecule Generation with Fine-Tuned Large Language Models</a></div></td>
 <td>Zhaoning Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2410.02198">2410.02198</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19740.html">When Molecular GAN Meets Byte-Pair Encoding</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Huidong Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19740">2409.19740</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15645.html">Quantum Machine Learning in Drug Discovery: Applications in Academia and Pharmaceutical Industries</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="property-prediction-all.html">property-prediction</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Anthony M. Smaldone et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15645">2409.15645</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09183.html">Quantum-inspired Reinforcement Learning for Synthesizable Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Dannong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09183">2409.09183</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07786.html">XMOL: Explainable Multi-property Optimization of Molecules</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Aye Phyu Phyu Aung et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07786">2409.07786</a></td>
 </tr>
 </tbody></table>

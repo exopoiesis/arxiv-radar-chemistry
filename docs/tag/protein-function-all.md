@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-function — all</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">82 papers</span>
   <nav class="window-nav"><a href="protein-function-7d.html">7d</a> <a href="protein-function-30d.html">30d</a> <a href="protein-function-90d.html">90d</a> <a href="protein-function-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -506,17 +506,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14142.html">Geometric Self-Supervised Pretraining on 3D Protein Structures using Subgraphs</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
 <td>Michail Chatzianastasis et al.</td>
 <td><a href="http://arxiv.org/abs/2406.14142">2406.14142</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17726.html">Recent advances in interpretable machine learning using structure-based protein representations</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Luiz Felipe Vecchietti et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17726">2409.17726</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00610.html">ProteinRPN: Towards Accurate Protein Function Prediction with Graph-Based Region Proposals</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Shania Mitra et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00610">2409.00610</a></td>
 </tr>
 </tbody></table>

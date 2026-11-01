@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-ligand — all</h1>
-  <span class="paper-count">317 papers</span>
+  <span class="paper-count">306 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <a href="protein-ligand-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1850,71 +1850,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06841.html">CompassDock: Comprehensive Accurate Assessment Approach for Deep Learning-Based Molecular Docking in Inference and Fine-Tuning</a></div></td>
 <td>Ahmet Sarigun et al.</td>
 <td><a href="http://arxiv.org/abs/2406.06841">2406.06841</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10584.html">Manifold-Constrained Nucleus-Level Denoising Diffusion Model for Structure-Based Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Shengchao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10584">2409.10584</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.20227.html">Assessing interaction recovery of predicted protein-ligand poses</a></div></td>
-<td>David Errington et al.</td>
-<td><a href="http://arxiv.org/abs/2409.20227">2409.20227</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19520.html">Generalized Protein Pocket Generation with Prior-Informed Flow Matching</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
-<td>Zaixi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19520">2409.19520</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16486.html">To Explore the Potential Inhibitors against Multitarget Proteins of COVID 19 using In Silico Study</a></div></td>
-<td>Imra Aqeel</td>
-<td><a href="http://arxiv.org/abs/2409.16486">2409.16486</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14040.html">PepINVENT: Generative peptide design beyond the natural amino acids</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Gökçe Geylan et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14040">2409.14040</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12603.html">Self-Organizing Maps of Unbiased Ligand-Target Binding Pathways and Kinetics</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Lara Callea et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12603">2409.12603</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12995.html">Improving generalisability of 3D binding affinity models in low data regimes</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="gnn-all.html">gnn</a></div></td>
-<td>Julia Buhmann et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12995">2409.12995</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10964.html">Active learning for energy-based antibody optimization and enhanced screening</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a></div></td>
-<td>Kairi Furui et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10964">2409.10964</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11187.html">Allium Vegetables Intake and Digestive System Cancer Risk: A Study Based on Mendelian Randomization, Network Pharmacology and Molecular Docking</a></div></td>
-<td>Shuhao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11187">2409.11187</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16298.html">BetterBodies: Reinforcement Learning guided Diffusion for Antibody Sequence Design</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="generative-model-all.html">generative-model</a> · <a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
-<td>Yannick Vogt et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16298">2409.16298</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04737.html">CrysAtom: Distributed Representation of Atoms for Crystal Property Prediction</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="gnn-all.html">gnn</a> · <a href="property-prediction-all.html">property-prediction</a> · <a href="protein-structure-all.html">protein-structure</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Shrimon Mukherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04737">2409.04737</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>string-method — all</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="string-method-7d.html">7d</a> <a href="string-method-30d.html">30d</a> <a href="string-method-90d.html">90d</a> <a href="string-method-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07751.html">ArcaNN: automated enhanced sampling generation of training sets for chemically reactive machine learning interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Rolf David et al.</td>
 <td><a href="http://arxiv.org/abs/2407.07751">2407.07751</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06428.html">Spectral Map for Slow Collective Variables, Markovian Dynamics, and Transition State Ensembles</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Jakub Rydzewski</td>
-<td><a href="http://arxiv.org/abs/2409.06428">2409.06428</a></td>
 </tr>
 </tbody></table>

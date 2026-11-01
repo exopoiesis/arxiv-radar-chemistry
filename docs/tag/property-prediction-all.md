@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>property-prediction — all</h1>
-  <span class="paper-count">442 papers</span>
+  <span class="paper-count">436 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2630,41 +2630,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00432.html">Scalable Multi-Task Transfer Learning for Molecular Property Prediction</a></div></td>
 <td>Chanhui Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2410.00432">2410.00432</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16645.html">Task Addition in Multi-Task Learning by Geometrical Alignment</a></div></td>
-<td>Soorin Yim et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16645">2409.16645</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15645.html">Quantum Machine Learning in Drug Discovery: Applications in Academia and Pharmaceutical Industries</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="molecular-generation-all.html">molecular-generation</a> · <a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Anthony M. Smaldone et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15645">2409.15645</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.05278.html">Dumpling GNN: Hybrid GNN Enables Better ADC Payload Activity Prediction Based on Chemical Structure</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Shengjie Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2410.05278">2410.05278</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08580.html">Molecular Graph Representation Learning via Structural Similarity Information</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Chengyu Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08580">2409.08580</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02263.html">FreeCG: Free the Design Space of Clebsch-Gordan Transform for Machine Learning Force Fields</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Shihao Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02263">2407.02263</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04737.html">CrysAtom: Distributed Representation of Atoms for Crystal Property Prediction</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="gnn-all.html">gnn</a> · <a href="protein-ligand-all.html">protein-ligand</a> · <a href="protein-structure-all.html">protein-structure</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Shrimon Mukherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04737">2409.04737</a></td>
 </tr>
 </tbody></table>

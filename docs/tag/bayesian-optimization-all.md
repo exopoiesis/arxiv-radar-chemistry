@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-optimization — all</h1>
-  <span class="paper-count">238 papers</span>
+  <span class="paper-count">230 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <a href="bayesian-optimization-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1394,53 +1394,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02717.html">Measurements with Noise: Bayesian Optimization for Co-optimizing Noise and Property Discovery in Automated Experiments</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
 <td>Boris N. Slautin et al.</td>
 <td><a href="http://arxiv.org/abs/2410.02717">2410.02717</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17881.html">Crystal-LSBO: Automated Design of De Novo Crystals with Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Onur Boyar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17881">2405.17881</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16204.html">AUGUR, A flexible and efficient optimization algorithm for identification of optimal adsorption sites</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Ioannis Kouroudis et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16204">2409.16204</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15391.html">Supply Risk-Aware Alloy Discovery and Design</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
-<td>Mrinalini Mulukutla et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15391">2409.15391</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12919.html">Swine Diet Design using Multi-objective Regionalized Bayesian Optimization</a></div></td>
-<td>Gabriel D. Uribe-Guerra et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12919">2409.12919</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12295.html">SANE: Strategic Autonomous Non-Smooth Exploration for Multiple Optima Discovery in Multi-modal and Non-differentiable Black-box Functions</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Arpan Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12295">2409.12295</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11368.html">Manipulating Two-Photon Absorption of Molecules through Efficient Optimization of Entangled Light</a></div></td>
-<td>Sajal Kumar Giri et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11368">2409.11368</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09192.html">Automated design of nonreciprocal thermal emitters via Bayesian optimization</a></div></td>
-<td>Bach Do et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09192">2409.09192</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07190.html">Applying Multi-Fidelity Bayesian Optimization in Chemistry: Open Challenges and Major Considerations</a></div></td>
-<td>Edmund Judge et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07190">2409.07190</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-discovery — all</h1>
-  <span class="paper-count">437 papers</span>
+  <span class="paper-count">431 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2600,41 +2600,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01641.html">A method for the automatic generation of a minimal basis set of structural templates for material phase-space exploration</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
 <td>Caja Annweiler et al.</td>
 <td><a href="http://arxiv.org/abs/2410.01641">2410.01641</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.20351.html">Approaching upper bounds to resonant nonlinear optical susceptibilities with inverse-designed quantum wells</a></div></td>
-<td>Hao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2409.20351">2409.20351</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15391.html">Supply Risk-Aware Alloy Discovery and Design</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a></div></td>
-<td>Mrinalini Mulukutla et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15391">2409.15391</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15290.html">Question Answering models for information extraction from perovskite materials science literature</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>M. Sipilä et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15290">2405.15290</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06145.html">Performance of Exchange-Correlation Approximations to Density-Functional Theory for Rare-earth Oxides</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Mary Kathleen Caucci et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06145">2409.06145</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06756.html">Beyond designer&#x27;s knowledge: Generating materials design hypotheses via large language models</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a></div></td>
-<td>Quanliang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06756">2409.06756</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05556.html">SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
-<td>Alireza Ghafarollahi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05556">2409.05556</a></td>
 </tr>
 </tbody></table>

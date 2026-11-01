@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>tmo — all</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="tmo-7d.html">7d</a> <a href="tmo-30d.html">30d</a> <a href="tmo-90d.html">90d</a> <a href="tmo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -170,23 +170,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.07439.html">Engineering Interfacial Charge Transfer through Modulation Doping for 2D Electronics</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="tmd-all.html">tmd</a></div></td>
 <td>Raagya Arora et al.</td>
 <td><a href="http://arxiv.org/abs/2410.07439">2410.07439</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15649.html">Resolving the Valence of Iron Oxides by Resonant Photoemission Spectroscopy</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Hao Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15649">2409.15649</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03253.html">SpinMultiNet: Neural Network Potential Incorporating Spin Degrees of Freedom with Multi-Task Learning</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-science-all.html">materials-science</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Koki Ueno et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03253">2409.03253</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05565.html">Exploring the role of nonlocal Coulomb interactions in perovskite transition metal oxides</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Indukuru Ramesh Reddy et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05565">2407.05565</a></td>
 </tr>
 </tbody></table>

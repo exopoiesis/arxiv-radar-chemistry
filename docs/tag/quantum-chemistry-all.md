@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-chemistry — all</h1>
-  <span class="paper-count">697 papers</span>
+  <span class="paper-count">678 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4082,119 +4082,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00686.html">Experimental demonstration of Robust Amplitude Estimation on near-term quantum devices for chemistry applications</a></div></td>
 <td>Alexander Kunitsa et al.</td>
 <td><a href="http://arxiv.org/abs/2410.00686">2410.00686</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17033.html">Susceptibility Formulation of Density Matrix Perturbation Theory</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>Anders M. N. Niklasson et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17033">2409.17033</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14018.html">Spatial Signatures of Electron Correlation in Least-Squares Tensor Hyper-Contraction</a></div></td>
-<td>Chao Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14018">2409.14018</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12015.html">All-in-one foundational models learning across quantum chemical levels</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Yuxinxin Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12015">2409.12015</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10184.html">Advanced perturbation scheme for efficient polarizability computations</a></div></td>
-<td>Anoop Ajaya Kumar Nair et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10184">2409.10184</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13112.html">Nutmeg and SPICE: Models and Data for Biomolecular Machine Learning</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Peter Eastman et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13112">2406.13112</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07847.html">C3-VQA: Cryogenic Counter-based Co-processor for Variational Quantum Algorithms</a></div></td>
-<td>Yosuke Ueno et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07847">2409.07847</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08079.html">Low-Energy Magnetic States of Tb Adatom on Graphene</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Monirul Shaikh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08079">2409.08079</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07211.html">Ab initio Calculations for Astrochemistry</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
-<td>Francesca Tonolo et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07211">2409.07211</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.18303.html">Evaluating a quantum-classical quantum Monte Carlo algorithm with Matchgate shadows</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Benchen Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.18303">2404.18303</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12238.html">Exploring Ground and Excited States via Single Reference Coupled-Cluster Theory and Algebraic Geometry</a></div><div class="paper-tags"><a href="excited-states-all.html">excited-states</a></div></td>
-<td>Svala Sverrisdóttir et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12238">2405.12238</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05777.html">Quantum Resources for Pure Thermal Shadows</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
-<td>Arnav Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05777">2409.05777</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03964.html">Benchmarking Basis Sets for Density Functional Theory Thermochemistry Calculations: Why unpolarised basis sets and the polarised 6-311G family should be avoided</a></div></td>
-<td>Samuel J. Pitman et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03964">2409.03964</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03994.html">On the Specialisation of Gaussian Basis Sets for Core-Dependent Properties</a></div></td>
-<td>Robbie T. Ireland et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03994">2409.03994</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04015.html">Comprehensive reevaluation of acetaldehyde chemistry and the underlying uncertainties</a></div></td>
-<td>Xinrui Ren et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04015">2409.04015</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02730.html">Complete and Efficient Covariants for 3D Point Configurations with Application to Learning Molecular Quantum Properties</a></div></td>
-<td>Hartmut Maennel et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02730">2409.02730</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.09624.html">Physically motivated improvements of Variational Quantum Eigensolvers</a></div><div class="paper-tags"><a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Nonia Vaquero-Sabater et al.</td>
-<td><a href="http://arxiv.org/abs/2403.09624">2403.09624</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07047.html">Photo-induced dynamics with continuous and discrete quantum baths</a></div></td>
-<td>Zhaoxuan Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07047">2406.07047</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01307.html">Experimental and computational study of ethanolamine ices at astrochemical conditions</a></div></td>
-<td>R Ramachandran et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01307">2409.01307</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01436.html">Dynamic Jahn-Teller effect in the strong spin-orbit coupling regime</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Ivica Zivkovic et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01436">2409.01436</a></td>
 </tr>
 </tbody></table>

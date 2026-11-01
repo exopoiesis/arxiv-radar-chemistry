@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>thermal-properties — all</h1>
-  <span class="paper-count">612 papers</span>
+  <span class="paper-count">597 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <a href="thermal-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3596,95 +3596,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01311.html">Phonon coherence and minimum thermal conductivity in disordered superlattice</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Xin Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2410.01311">2410.01311</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17807.html">Ab-initio study of quantum oscillation in altermagnetic and nonmagnetic phases of RuO$_2$</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Yingliang Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17807">2407.17807</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10380.html">Thermolectricity in irradiated bilayer graphene flakes</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Cynthia Ihuoma Osuala et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10380">2409.10380</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16039.html">Machine-learning potential for phonon transport in AlN with defects in multiple charge states</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
-<td>Ying Dou et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16039">2409.16039</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15160.html">Electrical Conductivity of Warm Dense Hydrogen from Ohm&#x27;s Law and Time-Dependent Density Functional Theory</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a></div></td>
-<td>Kushal Ramakrishna et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15160">2409.15160</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04097.html">Resonant phonons: Localization in a structurally ordered crystal</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="materials-science-all.html">materials-science</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Albert Beardo et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04097">2406.04097</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10355.html">Lattice Thermal Conductivity of Sun-Graphyne from Reverse Nonequilibrium Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Isaac de Macêdo Felix et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10355">2409.10355</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07282.html">Low-Temperature Electron Transport in [110] and [100] Silicon Nanowires: A DFT - Monte Carlo study</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Daryoush Shiri et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07282">2409.07282</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07357.html">Development of large scale CVD grown two dimensional materials for field-effect transistors, thermally-driven neuromorphic memory, and spintronics applications</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="tmd-all.html">tmd</a></div></td>
-<td>Sameer Kumar Mallik</td>
-<td><a href="http://arxiv.org/abs/2409.07357">2409.07357</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09148.html">Tuning the thermal conductivity of Si membrane using nanopillars: from crystalline to amorphous pillars</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Lina Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.09148">2404.09148</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13515.html">Quantum Emission from Coupled Spin Pairs in Hexagonal Boron Nitride</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a></div></td>
-<td>Song Li et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13515">2408.13515</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05216.html">Lead-free room-temperature ferroelectric thermal conductivity switch using anisotropies in thermal conductivities</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Lucile Féger et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05216">2409.05216</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04763.html">Chalcogenide Metasurfaces Enabling Ultra-Wideband Detectors from Visible to Mid-infrared</a></div></td>
-<td>Shutao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04763">2409.04763</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04219.html">Nano-size nature of the $α$-FAPbI$_3$ by means of large-scale ab initio simulations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Virginia Carnevali et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04219">2409.04219</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04531.html">Nonperturbative Nonlinear Transport in a Floquet-Weyl Semimetal</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Matthew W. Day et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04531">2409.04531</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01846.html">Achieving ultra-high anisotropy in thermal conductivity of plastic crystal through megapascal pressure of hot pressing</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Zhipeng Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01846">2409.01846</a></td>
 </tr>
 </tbody></table>

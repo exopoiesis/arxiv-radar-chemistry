@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mof — all</h1>
-  <span class="paper-count">91 papers</span>
+  <span class="paper-count">89 papers</span>
   <nav class="window-nav"><a href="mof-7d.html">7d</a> <a href="mof-30d.html">30d</a> <a href="mof-90d.html">90d</a> <a href="mof-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -548,17 +548,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.14911.html">Photoinduced Spin Centers in Photocatalytic Metal-Organic Framework UiO-66</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="photocatalysis-all.html">photocatalysis</a></div></td>
 <td>Anastasiia Kultaeva et al.</td>
 <td><a href="http://arxiv.org/abs/2404.14911">2404.14911</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04430.html">Highly efficient path-integral molecular dynamics simulations with GPUMD using neuroevolution potentials: Case studies on thermal properties of materials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="materials-science-all.html">materials-science</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Penghua Ying et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04430">2409.04430</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07039.html">Combining Brillouin spectroscopy and machine learned interatomic potentials to probe mechanical properties of metal organic frameworks</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
-<td>Florian P. Lindner et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07039">2409.07039</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-structure — all</h1>
-  <span class="paper-count">500 papers</span>
+  <span class="paper-count">492 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <a href="protein-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2966,53 +2966,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00523.html">Building a simple oscillator based Ising machine for research and education</a></div></td>
 <td>Bernd Ulmann et al.</td>
 <td><a href="http://arxiv.org/abs/2410.00523">2410.00523</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17726.html">Recent advances in interpretable machine learning using structure-based protein representations</a></div><div class="paper-tags"><a href="protein-function-all.html">protein-function</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Luiz Felipe Vecchietti et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17726">2409.17726</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17839.html">Large Deviation Minimisers for Stochastic Partial Differential Equations with Degenerate Noise</a></div></td>
-<td>Paolo Bernuzzi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17839">2409.17839</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.12413.html">Dynamic PDB: A New Dataset and a SE(3) Model Extension by Integrating Dynamic Behaviors and Physical Properties in Protein Structures</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Ce Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.12413">2408.12413</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.17241.html">Leveraging Deep Generative Model For Computational Protein Design And Optimization</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Boqiao Lai</td>
-<td><a href="http://arxiv.org/abs/2408.17241">2408.17241</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08022.html">De novo design of high-affinity protein binders with AlphaProteo</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Vinicius Zambaldi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08022">2409.08022</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06428.html">Spectral Map for Slow Collective Variables, Markovian Dynamics, and Transition State Ensembles</a></div><div class="paper-tags"><a href="string-method-all.html">string-method</a></div></td>
-<td>Jakub Rydzewski</td>
-<td><a href="http://arxiv.org/abs/2409.06428">2409.06428</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04737.html">CrysAtom: Distributed Representation of Atoms for Crystal Property Prediction</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="gnn-all.html">gnn</a> · <a href="property-prediction-all.html">property-prediction</a> · <a href="protein-ligand-all.html">protein-ligand</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
-<td>Shrimon Mukherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04737">2409.04737</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00610.html">ProteinRPN: Towards Accurate Protein Function Prediction with Graph-Based Region Proposals</a></div><div class="paper-tags"><a href="protein-function-all.html">protein-function</a></div></td>
-<td>Shania Mitra et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00610">2409.00610</a></td>
 </tr>
 </tbody></table>

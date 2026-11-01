@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>structure-prediction — all</h1>
-  <span class="paper-count">309 papers</span>
+  <span class="paper-count">304 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1838,35 +1838,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01784.html">OmniGenBench: Automating Large-scale in-silico Benchmarking for Genomic Foundation Models</a></div></td>
 <td>Heng Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2410.01784">2410.01784</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17726.html">Recent advances in interpretable machine learning using structure-based protein representations</a></div><div class="paper-tags"><a href="protein-function-all.html">protein-function</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Luiz Felipe Vecchietti et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17726">2409.17726</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16333.html">Predicting Distance matrix with large language models</a></div></td>
-<td>Jiaxing Yang</td>
-<td><a href="http://arxiv.org/abs/2409.16333">2409.16333</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12080.html">Design of Ligand-Binding Proteins with Atomic Flow Matching</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
-<td>Junqi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12080">2409.12080</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.17241.html">Leveraging Deep Generative Model For Computational Protein Design And Optimization</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Boqiao Lai</td>
-<td><a href="http://arxiv.org/abs/2408.17241">2408.17241</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04737.html">CrysAtom: Distributed Representation of Atoms for Crystal Property Prediction</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="gnn-all.html">gnn</a> · <a href="property-prediction-all.html">property-prediction</a> · <a href="protein-ligand-all.html">protein-ligand</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
-<td>Shrimon Mukherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04737">2409.04737</a></td>
 </tr>
 </tbody></table>

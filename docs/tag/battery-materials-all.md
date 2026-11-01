@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>battery-materials — all</h1>
-  <span class="paper-count">338 papers</span>
+  <span class="paper-count">330 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <a href="battery-materials-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1994,53 +1994,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.14689.html">Excess Density as a Descriptor for Electrolyte Solvent Design</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Celia Kelly et al.</td>
 <td><a href="http://arxiv.org/abs/2410.14689">2410.14689</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16712.html">Atomic insight into Li$^+$ ion transport in amorphous electrolytes Li$_x$AlO$_y$Cl$_{3+x-2y}$ (0.5 $\leq$ x $\leq$ 1.5, 0.25 $\leq$ y $\leq$ 0.75)</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Yang Qifan et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16712">2409.16712</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15800.html">MGNN: Moment Graph Neural Network for Universal Molecular Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="gnn-all.html">gnn</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Jian Chang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15800">2409.15800</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16677.html">First-principles study of strain behavior in iron-based fluorides of tungsten bronze type as cathode materials for alkali-ion batteries</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
-<td>A. F. Baumann et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16677">2406.16677</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10008.html">Integrating Experiment with Theory to Determine the Structure of Electrode-Electrolyte Interfaces</a></div><div class="paper-tags"><a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Lalith Krishna Samanth Bonagiri et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10008">2409.10008</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09690.html">First Principles Insight into Antiperovskite c-Na3HS Solid State Electrolyte</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Sananya Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09690">2409.09690</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06756.html">Beyond designer&#x27;s knowledge: Generating materials design hypotheses via large language models</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a></div></td>
-<td>Quanliang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06756">2409.06756</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05590.html">Transferability of datasets between Machine-Learning Interaction Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Samuel P. Niblett et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05590">2409.05590</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10458.html">Predicting doping strategies for ternary nickel-cobalt-manganese cathode materials to enhance battery performance using graph neural networks</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Zirui Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10458">2407.10458</a></td>
 </tr>
 </tbody></table>

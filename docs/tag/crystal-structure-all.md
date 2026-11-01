@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>crystal-structure — all</h1>
-  <span class="paper-count">533 papers</span>
+  <span class="paper-count">515 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3104,113 +3104,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01641.html">A method for the automatic generation of a minimal basis set of structural templates for material phase-space exploration</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
 <td>Caja Annweiler et al.</td>
 <td><a href="http://arxiv.org/abs/2410.01641">2410.01641</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.20512.html">Uncertainty-Informed Screening for Safer Solvents Used in the Synthesis of Perovskite via Language Models</a></div></td>
-<td>Arpan Mukherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2409.20512">2409.20512</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17881.html">Crystal-LSBO: Automated Design of De Novo Crystals with Latent Space Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="drug-discovery-all.html">drug-discovery</a></div></td>
-<td>Onur Boyar et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17881">2405.17881</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19124.html">Generative deep learning for the inverse design of materials</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
-<td>Teng Long et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19124">2409.19124</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17570.html">Wavelength-dependent anisotropic light-matter interaction in 2D ferroelectric In2Se3</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Divya Jangra et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17570">2409.17570</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16775.html">On the band gap variation in CH$_3$NH$_3$Pb(I$_{1-x}$Br$_x$)$_3$</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Sergei M. Butorin</td>
-<td><a href="http://arxiv.org/abs/2409.16775">2409.16775</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17412.html">Linear dichroism of the optical properties of SnS and SnSe van der Waals crystals</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Agata K. Tołłoczko et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17412">2409.17412</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13066.html">Strain Effects in SrHfO$_{3}$ Films Grown by Hybrid Molecular Beam Epitaxy</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Patrick T. Gemperline et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13066">2409.13066</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18544.html">Predicted High-Pressure Hot Superconductivity in Li$_2$CaH$_{16}$ and Li$_2$CaH$_{17}$ Phases that Resemble the Type-II Clathrate Structure</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Morgan Redington et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18544">2405.18544</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16677.html">First-principles study of strain behavior in iron-based fluorides of tungsten bronze type as cathode materials for alkali-ion batteries</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="battery-materials-all.html">battery-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>A. F. Baumann et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16677">2406.16677</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09524.html">First-principles study of structural, electronic and optical properties of non-toxic RbBaX$_3$ (X = F, Cl, Br, I) perovskites under hydrostatic pressure</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a></div></td>
-<td>Pranti Saha et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09524">2409.09524</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15290.html">Question Answering models for information extraction from perovskite materials science literature</a></div><div class="paper-tags"><a href="materials-discovery-all.html">materials-discovery</a> · <a href="materials-science-all.html">materials-science</a></div></td>
-<td>M. Sipilä et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15290">2405.15290</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04727.html">Powder Diffraction Crystal Structure Determination Using Generative Models</a></div></td>
-<td>Qi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04727">2409.04727</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04800.html">FePd2Te2: An Anisotropic Two-Dimensional Ferromagnet with One-Dimensional Fe Chains</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Bingxian Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04800">2409.04800</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04219.html">Nano-size nature of the $α$-FAPbI$_3$ by means of large-scale ab initio simulations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
-<td>Virginia Carnevali et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04219">2409.04219</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01671.html">Boron Isotope Effects on Raman Scattering in Bulk BN, BP, and BAs: A Density-Functional Theory Study</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Nima Ghafari Cherati et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01671">2409.01671</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.00865.html">Scalable Crystal Structure Relaxation Using an Iteration-Free Deep Generative Model with Uncertainty Quantification</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="materials-science-all.html">materials-science</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>Ziduo Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2404.00865">2404.00865</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01436.html">Dynamic Jahn-Teller effect in the strong spin-orbit coupling regime</a></div><div class="paper-tags"><a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Ivica Zivkovic et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01436">2409.01436</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01450.html">Unveiling the impact of organic cation passivation on structural and optoelectronic properties of two-dimensional perovskites thin films</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Israel C. Ribeiro et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01450">2409.01450</a></td>
 </tr>
 </tbody></table>

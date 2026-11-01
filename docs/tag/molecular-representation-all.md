@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-representation — all</h1>
-  <span class="paper-count">288 papers</span>
+  <span class="paper-count">283 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1712,35 +1712,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12056.html">Learning Molecular Representation in a Cell</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
 <td>Gang Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2406.12056">2406.12056</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12295.html">SANE: Strategic Autonomous Non-Smooth Exploration for Multiple Optima Discovery in Multi-modal and Non-differentiable Black-box Functions</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="bayesian-optimization-all.html">bayesian-optimization</a></div></td>
-<td>Arpan Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12295">2409.12295</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10370.html">Uncovering the Mechanism of Hepatotoxiciy of PFAS Targeting L-FABP Using GCN and Computational Modeling</a></div></td>
-<td>Lucas Jividen et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10370">2409.10370</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09702.html">GFlowNet Pretraining with Inexpensive Rewards</a></div><div class="paper-tags"><a href="chemical-space-all.html">chemical-space</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a></div></td>
-<td>Mohit Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09702">2409.09702</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08580.html">Molecular Graph Representation Learning via Structural Similarity Information</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
-<td>Chengyu Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08580">2409.08580</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00046.html">Rethinking Molecular Design: Integrating Latent Variable and Auto-Regressive Models for Goal Directed Generation</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a></div></td>
-<td>Heath Arthur-Loui et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00046">2409.00046</a></td>
 </tr>
 </tbody></table>

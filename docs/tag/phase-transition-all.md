@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-transition — all</h1>
-  <span class="paper-count">433 papers</span>
+  <span class="paper-count">429 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <a href="phase-transition-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2588,29 +2588,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08876.html">Covariant Jacobi-Legendre expansion for total energy calculations within the projector-augmented-wave formalism</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="mlip-all.html">mlip</a></div></td>
 <td>Bruno Focassio et al.</td>
 <td><a href="http://arxiv.org/abs/2408.08876">2408.08876</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19123.html">IceCoder: Identification of Ice phases in molecular simulation using variational autoencoder</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Dibyendu Maity et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19123">2409.19123</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14424.html">The interplay between liquid-liquid and ferroelectric phase transitions in supercooled water</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Maria Grazia Izzo et al.</td>
-<td><a href="http://arxiv.org/abs/2405.14424">2405.14424</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13390.html">Hydrogen under Pressure as a Benchmark for Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Thomas Bischoff et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13390">2409.13390</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07659.html">Tuned ionic mobility by Ultrafast-laser pulses in Black Silicon</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="materials-science-all.html">materials-science</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Christelle Inès K. Mebou et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07659">2409.07659</a></td>
 </tr>
 </tbody></table>

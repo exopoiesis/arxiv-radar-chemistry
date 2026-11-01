@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>active-learning — all</h1>
-  <span class="paper-count">243 papers</span>
+  <span class="paper-count">238 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <a href="active-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1442,35 +1442,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.03484.html">Accelerating Structure Prediction of Molecular Crystals using Actively Trained Moment Tensor Potential</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="mlip-all.html">mlip</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
 <td>Nikita Rybin et al.</td>
 <td><a href="http://arxiv.org/abs/2410.03484">2410.03484</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14042.html">Recurrent Neural Networks for Prediction of Electronic Excitation Dynamics</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a></div></td>
-<td>Ethan P. Shapera et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14042">2409.14042</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10964.html">Active learning for energy-based antibody optimization and enhanced screening</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
-<td>Kairi Furui et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10964">2409.10964</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11808.html">Accelerating the Training and Improving the Reliability of Machine-Learned Interatomic Potentials for Strongly Anharmonic Materials through Active Learning</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Kisung Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11808">2409.11808</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12295.html">SANE: Strategic Autonomous Non-Smooth Exploration for Multiple Optima Discovery in Multi-modal and Non-differentiable Black-box Functions</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>
-<td>Arpan Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12295">2409.12295</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14928.html">Targeting the partition function of chemically disordered materials with a generative approach based on inverse variational autoencoders</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Maciej J. Karcz et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14928">2408.14928</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electrocatalysis — all</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <a href="electrocatalysis-90d.html">90d</a> <a href="electrocatalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -356,23 +356,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06136.html">Electrodeposition of amorphous molybdenum sulfo-selenide as a low-cost catalyst</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a></div></td>
 <td>Lee Kendall et al.</td>
 <td><a href="http://arxiv.org/abs/2410.06136">2410.06136</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14116.html">Unveiling High Selectivity Origin of Pt-Bi Catalysts for Alkaline Methanol Electrooxidation via CO-free pathway</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Lecheng Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14116">2409.14116</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10008.html">Integrating Experiment with Theory to Determine the Structure of Electrode-Electrolyte Interfaces</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Lalith Krishna Samanth Bonagiri et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10008">2409.10008</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07320.html">Development of an embedded-atom method potential of Ni-Mo alloys for electrocatalysis / surface compositional studies</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Ambesh Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07320">2409.07320</a></td>
 </tr>
 </tbody></table>

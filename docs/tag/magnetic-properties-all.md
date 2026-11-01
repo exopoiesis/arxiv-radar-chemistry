@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>magnetic-properties — all</h1>
-  <span class="paper-count">727 papers</span>
+  <span class="paper-count">708 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4262,119 +4262,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00851.html">Layer-dependent magnetic property in a superconducting quintuple-layer nickelate La6Ni5O12</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
 <td>Terri Yoon et al.</td>
 <td><a href="http://arxiv.org/abs/2410.00851">2410.00851</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10754.html">Electronic and magnetic properties of graphene-fluorographene nanoribbons: Controllable semiconductor-metal transition</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>R. M. Guzmán-Arellano et al.</td>
-<td><a href="http://arxiv.org/abs/2406.10754">2406.10754</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.20228.html">High-field ultrasound study of elastic constants and possible magnetic symmetry transformations in UO2</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>E. A. Tereshina-Chitrova et al.</td>
-<td><a href="http://arxiv.org/abs/2409.20228">2409.20228</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17796.html">Interplay between surface Dirac and Rashba states specific for topologically nontrivial van der Waals superlattices</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
-<td>I. A. Shvets et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17796">2409.17796</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18322.html">Kekulé distortions in graphene on cadmium sulfide</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Yonatan Betancur-Ocampo et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18322">2409.18322</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07181.html">A new analytic approach to infer the cosmic-ray ionization rate in hot molecular cores from HCO$^+$, N$_2$H$^+$, and CO observations</a></div></td>
-<td>Gan Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07181">2409.07181</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14370.html">Machine Learning algorithms for optimization of magnetocaloric effect in all-d-metal Heusler alloys</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
-<td>Danil Baigutlin et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14370">2409.14370</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14544.html">Simulating Schwinger model dynamics with quasi-one-dimensional qubit arrays</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>Alessio Lerose</td>
-<td><a href="http://arxiv.org/abs/2409.14544">2409.14544</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12509.html">Modulating Anisotropic Magnetism of Layered CuCrP$_{2}$S$_{6}$ Single Crystal via Selenium Substitution</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>I. S. Eid et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12509">2409.12509</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12526.html">CoF3: a g-wave Altermagnet</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Meysam Bagheri Tagani</td>
-<td><a href="http://arxiv.org/abs/2409.12526">2409.12526</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12270.html">Electronic and magnetic properties of (NdNiO$_3$)/(La$_{2/3}$Sr$_{1/3}$MnO$_3$) superlattices: a DFT+U perspective</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Henrique M. M. Cardoso et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12270">2409.12270</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09936.html">The tuning of para- and diamagnetic cavity photon excitations in a square array of quantum dots in a magnetic field</a></div><div class="paper-tags"><a href="dft-all.html">dft</a></div></td>
-<td>Vidar Gudmundsson et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09936">2409.09936</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09524.html">First-principles study of structural, electronic and optical properties of non-toxic RbBaX$_3$ (X = F, Cl, Br, I) perovskites under hydrostatic pressure</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Pranti Saha et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09524">2409.09524</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07910.html">Controllable magnetic anisotropy and ferroelasticity in superconducting FeSe monolayer with surface fluorine adsorption</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>
-<td>Yueqiao Qu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07910">2409.07910</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08079.html">Low-Energy Magnetic States of Tb Adatom on Graphene</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Monirul Shaikh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08079">2409.08079</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08125.html">Unexpected changes in the band structure within AFM1 state of CeBi</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Yevhen Kushnirenko et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08125">2409.08125</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06145.html">Performance of Exchange-Correlation Approximations to Density-Functional Theory for Rare-earth Oxides</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="catalysis-all.html">catalysis</a> · <a href="dft-all.html">dft</a> · <a href="materials-discovery-all.html">materials-discovery</a></div></td>
-<td>Mary Kathleen Caucci et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06145">2409.06145</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02835.html">Exploring nonlinear Rashba effect and spin Hall conductivity in Janus MXenes W2COX (X = S, Se, Te)</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a></div></td>
-<td>Arjyama Bordoloi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02835">2409.02835</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02726.html">Molecular spin-probe sensing of H-mediated changes in Co nanomagnets</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
-<td>A. Fétida et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02726">2409.02726</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01436.html">Dynamic Jahn-Teller effect in the strong spin-orbit coupling regime</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
-<td>Ivica Zivkovic et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01436">2409.01436</a></td>
 </tr>
 </tbody></table>

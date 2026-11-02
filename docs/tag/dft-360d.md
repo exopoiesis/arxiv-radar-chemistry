@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2028 papers</span>
+  <span class="paper-count">2019 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12128,59 +12128,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05763.html">Controllable Superconductivity in Suspended van der Waals Materials</a></div><div class="paper-tags"><a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Ruihuan Fang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05763">2511.05763</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.18828.html">Moiré band theory for M-valley twisted transition metal dichalcogenides</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Chao Lei et al.</td>
-<td><a href="http://arxiv.org/abs/2411.18828">2411.18828</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.22078.html">Interplay between inversion and translation symmetries in trigonal PtBi$_2$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Santiago Palumbo et al.</td>
-<td><a href="http://arxiv.org/abs/2503.22078">2503.22078</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18531.html">Lithium and Vanadium Intercalation into Bilayer V2Se2O: Ferrimagnetic-Ferroelastic Multiferroics and Anomalous and Spin Transport</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Long Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18531">2506.18531</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23064.html">LightPFP: A Lightweight Route to Ab Initio Accuracy at Scale</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Wenwen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23064">2510.23064</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27608.html">Boron Nitride Nanotubes as Efficient Surface Absorbers for Air Pollutant Gas Molecules: Insights from Density Functional Theory</a></div></td>
-<td>Chaithanya Purushottam Bhat et al.</td>
-<td><a href="http://arxiv.org/abs/2510.27608">2510.27608</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00430.html">Elastic and Strain--Tunable Electronic and Optical Properties of La2AlGaO6 Hybrid Perovskite: A First-Principles Study</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Chaithanya Purushottam Bhat et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00430">2511.00430</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04483.html">Unveiling the Adsorption and Electronic Interactions of Drugs on 2D Graphsene: Insights from DFT and Machine Learning Approach</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Chaithanya Purushottam Bhat et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04483">2511.04483</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04513.html">Band Alignment Tuning from Charge Transfer in Epitaxial SrIrO$_3$/SrCoO$_3$ Superlattices</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Jibril Ahammad et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04513">2511.04513</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04606.html">Peculiarities in the infrared emission of PAH-C$_{60}$ adducts</a></div></td>
-<td>R. Barzaga et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04606">2511.04606</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1563 papers</span>
+  <span class="paper-count">1559 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9368,29 +9368,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11626.html">Omics-scale polymer computational database transferable to real-world artificial intelligence applications</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Ryo Yoshida et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11626">2511.11626</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23064.html">LightPFP: A Lightweight Route to Ab Initio Accuracy at Scale</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Wenwen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23064">2510.23064</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04266.html">Revealing the innate sub-nanometer porous structure of carbon nanomembranes with molecular dynamics simulations and highly charged ion spectroscopy</a></div></td>
-<td>Filip Vuković et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04266">2511.04266</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04423.html">Dust Collisions in Protoplanetary Disks: Atomic Simulations of the Surface Free Energy</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>L. S. Morrissey et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04423">2511.04423</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05602.html">Gas Mixture Diffusion and Distribution in the Porous ZIF-90 Framework</a></div><div class="paper-tags"><a href="mof-360d.html">mof</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Ashok Yacham et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05602">2511.05602</a></td>
 </tr>
 </tbody></table>

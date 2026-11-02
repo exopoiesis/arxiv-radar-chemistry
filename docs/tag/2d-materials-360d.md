@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">520 papers</span>
+  <span class="paper-count">517 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3116,23 +3116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04936.html">Intrinsic Fracture Nonreciprocity at the Nanoscale</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Siwei Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04936">2511.04936</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.18828.html">Moiré band theory for M-valley twisted transition metal dichalcogenides</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Chao Lei et al.</td>
-<td><a href="http://arxiv.org/abs/2411.18828">2411.18828</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04483.html">Unveiling the Adsorption and Electronic Interactions of Drugs on 2D Graphsene: Insights from DFT and Machine Learning Approach</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Chaithanya Purushottam Bhat et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04483">2511.04483</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04513.html">Band Alignment Tuning from Charge Transfer in Epitaxial SrIrO$_3$/SrCoO$_3$ Superlattices</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Jibril Ahammad et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04513">2511.04513</a></td>
 </tr>
 </tbody></table>

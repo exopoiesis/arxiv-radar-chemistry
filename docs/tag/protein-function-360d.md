@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-function — 360d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="protein-function-7d.html">7d</a> <a href="protein-function-30d.html">30d</a> <a href="protein-function-90d.html">90d</a> <strong>360d</strong> <a href="protein-function-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,11 +224,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06752.html">Multi-Scale Protein Structure Modelling with Geometric Graph U-Nets</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Chang Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06752">2512.06752</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04040.html">Enhancing Multimodal Protein Function Prediction Through Dual-Branch Dynamic Selection with Reconstructive Pre-Training</a></div></td>
-<td>Xiaoling Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04040">2511.04040</a></td>
 </tr>
 </tbody></table>

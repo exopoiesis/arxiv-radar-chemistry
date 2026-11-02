@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">411 papers</span>
+  <span class="paper-count">409 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2468,17 +2468,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05335.html">Influence of Bi Alloying on GaAs Valence Band Structure</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Joshua J. P. Cooper et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05335">2511.05335</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.22078.html">Interplay between inversion and translation symmetries in trigonal PtBi$_2$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Santiago Palumbo et al.</td>
-<td><a href="http://arxiv.org/abs/2503.22078">2503.22078</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00430.html">Elastic and Strain--Tunable Electronic and Optical Properties of La2AlGaO6 Hybrid Perovskite: A First-Principles Study</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Chaithanya Purushottam Bhat et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00430">2511.00430</a></td>
 </tr>
 </tbody></table>

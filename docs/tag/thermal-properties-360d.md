@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">285 papers</span>
+  <span class="paper-count">283 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1712,17 +1712,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06069.html">Strain-Tunable Spin Filtering and Valley Splitting Coexisting with Anomalous Hall Effect in 2D Half-Metallic VSe2/VN Heterostructure: Toward a Unified Spintronic-Valleytronic Platform</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Vivek Chowdhury et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06069">2511.06069</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18531.html">Lithium and Vanadium Intercalation into Bilayer V2Se2O: Ferrimagnetic-Ferroelastic Multiferroics and Anomalous and Spin Transport</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Long Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18531">2506.18531</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04468.html">Machine learning-driven elasticity prediction in advanced inorganic materials via convolutional neural networks</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Yujie Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04468">2511.04468</a></td>
 </tr>
 </tbody></table>

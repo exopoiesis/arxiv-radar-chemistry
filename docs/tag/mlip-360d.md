@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">580 papers</span>
+  <span class="paper-count">577 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3476,23 +3476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06551.html">Machine learning intermolecular transfer integrals with compact atomic cluster representations</a></div></td>
 <td>Keerati Keeratikarn et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06551">2511.06551</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05188.html">Systematic global structure search of bismuth-based binary systems under pressure using machine learning potentials</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Hayato Wakai et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05188">2511.05188</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05337.html">Fine-Tuning Unifies Foundational Machine-learned Interatomic Potential Architectures at ab initio Accuracy</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jonas Hänseroth et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05337">2511.05337</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05398.html">Bayesian learning for accurate and robust biomolecular force fields</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Vojtech Kostal et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05398">2511.05398</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>free-energy — 90d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">58 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <strong>90d</strong> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02277.html">Atom-Wise Allocation of Message-Passing Scale for Molecular Property Prediction</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
+<td>Regina Qianru Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02277">2611.02277</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36647.html">Designing Geared Molecular Rotors in Flexible Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="metadynamics-90d.html">metadynamics</a> · <a href="mof-90d.html">mof</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>

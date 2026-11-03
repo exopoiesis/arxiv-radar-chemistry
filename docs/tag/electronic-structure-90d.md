@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">109 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -668,17 +668,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07811.html">Probing $P,T$-Symmetry Violation with Optically Trapped Asymmetric Top Molecules</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Yuxi Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.07811">2608.07811</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03347.html">Alloy engineering of excitonic properties in TMD monolayers</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Eirini Katsipoulaki et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03347">2608.03347</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03478.html">Anisotropic Phonon Heat Flow and Thermoelectric Response in Tetragonal GeS$_2$ and GeSe$_2$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Neeraj Kulhari et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03478">2608.03478</a></td>
 </tr>
 </tbody></table>

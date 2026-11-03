@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">466 papers</span>
+  <span class="paper-count">465 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2804,11 +2804,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06069.html">Strain-Tunable Spin Filtering and Valley Splitting Coexisting with Anomalous Hall Effect in 2D Half-Metallic VSe2/VN Heterostructure: Toward a Unified Spintronic-Valleytronic Platform</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Vivek Chowdhury et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06069">2511.06069</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04936.html">Intrinsic Fracture Nonreciprocity at the Nanoscale</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Siwei Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04936">2511.04936</a></td>
 </tr>
 </tbody></table>

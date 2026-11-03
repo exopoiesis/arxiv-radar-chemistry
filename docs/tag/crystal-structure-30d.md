@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>crystal-structure — 30d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <strong>30d</strong> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,17 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12771.html">Dynamic Chemical Changes of Ti3C2Tx MXenes in Halide Perovskite Precursor Environments</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>Kirill Sobolev et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12771">2610.12771</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04193.html">Molecular Crystal Structure Prediction from Conditional Flow on the Unit Cells</a></div><div class="paper-tags"><a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Qiang Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04193">2610.04193</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04510.html">ManifoldCache: Training-Free Diffusion Acceleration via Constraint Manifold Caching</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Prashant Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04510">2610.04510</a></td>
 </tr>
 </tbody></table>

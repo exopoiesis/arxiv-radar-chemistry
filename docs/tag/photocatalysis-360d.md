@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>photocatalysis — 360d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="photocatalysis-7d.html">7d</a> <a href="photocatalysis-30d.html">30d</a> <a href="photocatalysis-90d.html">90d</a> <strong>360d</strong> <a href="photocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,11 +218,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13556.html">First Principles study of Photocatalytic Water Splitting in BO Monolayer: Effect of Strain and Surface Functionalization</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Soumendra Kumar Das et al.</td>
 <td><a href="http://arxiv.org/abs/2511.13556">2511.13556</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05668.html">Single-Atom Photocatalysts on TiO2 : Insights from X-ray Absorption Spectroscopy</a></div></td>
-<td>Yingying Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05668">2511.05668</a></td>
 </tr>
 </tbody></table>

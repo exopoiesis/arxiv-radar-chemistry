@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1515 papers</span>
+  <span class="paper-count">1511 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9080,29 +9080,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06069.html">Strain-Tunable Spin Filtering and Valley Splitting Coexisting with Anomalous Hall Effect in 2D Half-Metallic VSe2/VN Heterostructure: Toward a Unified Spintronic-Valleytronic Platform</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Vivek Chowdhury et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06069">2511.06069</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.12098.html">Dzyaloshinskii-Moriya interaction chirality reversal with ferromagnetic thickness</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Capucine Gueneau et al.</td>
-<td><a href="http://arxiv.org/abs/2501.12098">2501.12098</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20665.html">Impact of ground-state correlations on the multipole response of nuclei: Ab initio calculations of moment operators</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Andrea Porro et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20665">2507.20665</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05337.html">Fine-Tuning Unifies Foundational Machine-learned Interatomic Potential Architectures at ab initio Accuracy</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jonas Hänseroth et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05337">2511.05337</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05398.html">Bayesian learning for accurate and robust biomolecular force fields</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Vojtech Kostal et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05398">2511.05398</a></td>
 </tr>
 </tbody></table>

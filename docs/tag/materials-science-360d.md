@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">324 papers</span>
+  <span class="paper-count">321 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1940,23 +1940,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10673.html">Large language models in materials science and the need for open-source approaches</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Fengxu Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10673">2511.10673</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06265.html">Large language models as uncertainty-calibrated optimizers for experimental discovery</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Bojana Ranković et al.</td>
-<td><a href="http://arxiv.org/abs/2504.06265">2504.06265</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05178.html">LeMat-Bulk: aggregating, and de-duplicating quantum chemistry materials databases</a></div></td>
-<td>Martin Siron et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05178">2511.05178</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11626.html">Omics-scale polymer computational database transferable to real-world artificial intelligence applications</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ryo Yoshida et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11626">2511.11626</a></td>
 </tr>
 </tbody></table>

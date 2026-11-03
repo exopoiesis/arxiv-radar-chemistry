@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">409 papers</span>
+  <span class="paper-count">408 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2462,11 +2462,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07194.html">Domain Walls and Defects in Ferroelectric Inorganic Halide Perovskites CsGeX$_3$ (X = Cl, Br, I)</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Kristoffer Eggestad et al.</td>
 <td><a href="http://arxiv.org/abs/2511.07194">2511.07194</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05335.html">Influence of Bi Alloying on GaAs Valence Band Structure</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Joshua J. P. Cooper et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05335">2511.05335</a></td>
 </tr>
 </tbody></table>

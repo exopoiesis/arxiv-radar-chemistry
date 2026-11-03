@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">480 papers</span>
+  <span class="paper-count">472 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2846,53 +2846,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05305.html">Cooperative adsorption and diffusion trapping induced by AlF3 intercalation in graphite</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="battery-materials-90d.html">battery-materials</a></div></td>
 <td>H. Betancourt-Infante et al.</td>
 <td><a href="http://arxiv.org/abs/2608.05305">2608.05305</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02968.html">Optical properties of Ag, Au, and Cu from first principles</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Xiao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02968">2608.02968</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03308.html">Bias Tunable Transport Modulation and Gas Selectivity in Layered BiOI: A DFT NEGF Study</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Jemal Yimer Damte et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03308">2608.03308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03347.html">Alloy engineering of excitonic properties in TMD monolayers</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Eirini Katsipoulaki et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03347">2608.03347</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03478.html">Anisotropic Phonon Heat Flow and Thermoelectric Response in Tetragonal GeS$_2$ and GeSe$_2$</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Neeraj Kulhari et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03478">2608.03478</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03663.html">Microscopic Statistical Calculation of Nuclear Level Density Based on Relativistic Density Functional Theory</a></div></td>
-<td>Zi-Cheng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03663">2608.03663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03680.html">Machine Learning Bandgap Prediction of Nanoporous Graphenes with Water</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Sneha Mittal et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03680">2608.03680</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03805.html">Physics-Informed Machine Learning for Refractory Alloy Design</a></div><div class="paper-tags"><a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Blaise Awola Ayirizia et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03805">2608.03805</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04219.html">First-principles predictions of carrier mobility with record accuracy using GW perturbation theory</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Nick Pant et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04219">2608.04219</a></td>
 </tr>
 </tbody></table>

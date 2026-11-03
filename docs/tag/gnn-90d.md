@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">65 papers</span>
+  <span class="paper-count">64 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02277.html">Atom-Wise Allocation of Message-Passing Scale for Molecular Property Prediction</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Regina Qianru Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02277">2611.02277</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37222.html">Magnetic crystal generation with site-resolved magnetic moments via Gaussian-mixture retargeting and finite-budget yield prediction</a></div></td>
@@ -392,17 +398,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11261.html">Temperature-Driven Sequential Modeling for the Prediction of Annual Power Conversion Efficiency Profiles of Organic Photovoltaic Materials: Douala Case Study</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Steve Cabrel Teguia Kouam et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11261">2608.11261</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03287.html">A Unified Graph Neural Network Framework for Non-Equilibrium Carrier and Lattice Dynamics Driven by Electric Fields</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jia-Wen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03287">2608.03287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04257.html">Geometry-Informed Parameter-Efficient Fine-Tuning of Pre-trained Molecular GNNs for Blood-Brain Barrier Permeability Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Marco Vieto Vega et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04257">2608.04257</a></td>
 </tr>
 </tbody></table>

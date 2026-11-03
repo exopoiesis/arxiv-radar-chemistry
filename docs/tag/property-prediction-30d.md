@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01512.html">Abstention Spends Its Budget on Local Label Variance More Than on Novelty: Auditing Conformal Calibration and Selective Prediction under Molecular Scaffold Shift</a></div></td>
+<td>Arnav Srivastava et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01512">2611.01512</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32195.html">Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
 <td>Dongki Kim et al.</td>
@@ -62,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08400.html">Atom-JEPA: Joint-Embedding Predictive Architecture for 3D Atomistic Systems</a></div></td>
 <td>Kasper Helverskov Petersen et al.</td>
 <td><a href="http://arxiv.org/abs/2610.08400">2610.08400</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04588.html">Variational Quantum Attention for Molecular Graph Learning</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="gnn-30d.html">gnn</a></div></td>
-<td>Yu-Cheng Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04588">2610.04588</a></td>
 </tr>
 </tbody></table>

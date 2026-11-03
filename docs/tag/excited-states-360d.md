@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">217 papers</span>
+  <span class="paper-count">216 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1310,11 +1310,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08714.html">Collisional stopping power of ions in warm dense matter</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Lucas Babati et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08714">2511.08714</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20665.html">Impact of ground-state correlations on the multipole response of nuclei: Ab initio calculations of moment operators</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Andrea Porro et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20665">2507.20665</a></td>
 </tr>
 </tbody></table>

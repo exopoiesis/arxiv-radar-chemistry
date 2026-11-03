@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>excited-states — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,17 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38701.html">Sample-Based Quantum Diagonalization for Variable Molecular Geometries</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="drug-discovery-7d.html">drug-discovery</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
 <td>Matthieu Fortin-Deschenes et al.</td>
 <td><a href="http://arxiv.org/abs/2610.38701">2610.38701</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34864.html">Why Emission Spectral Profile of Diverse Fluoro-phores Look Alike with Thick Polymer Overlayers?</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Vinayak Kumar Tiwari et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34864">2610.34864</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35728.html">Critical velocity and dissipation mechanism in finite superfluid $^4$He nanodroplets</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Keshav Sishodia et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35728">2610.35728</a></td>
 </tr>
 </tbody></table>

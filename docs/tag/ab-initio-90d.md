@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">349 papers</span>
+  <span class="paper-count">340 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2054,59 +2054,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05305.html">Cooperative adsorption and diffusion trapping induced by AlF3 intercalation in graphite</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a></div></td>
 <td>H. Betancourt-Infante et al.</td>
 <td><a href="http://arxiv.org/abs/2608.05305">2608.05305</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01266.html">Why Ammoniated Lithium Borohydrides Liquefy and Resolidify?</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
-<td>Qian Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.01266">2608.01266</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02968.html">Optical properties of Ag, Au, and Cu from first principles</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Xiao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02968">2608.02968</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03287.html">A Unified Graph Neural Network Framework for Non-Equilibrium Carrier and Lattice Dynamics Driven by Electric Fields</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jia-Wen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03287">2608.03287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03308.html">Bias Tunable Transport Modulation and Gas Selectivity in Layered BiOI: A DFT NEGF Study</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Jemal Yimer Damte et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03308">2608.03308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03523.html">The New High-entropy Compound RhMnFeCoGe4 with Cubic Non-centrosymmetric B20 Structure</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>V. A. Sidorov et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03523">2608.03523</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03680.html">Machine Learning Bandgap Prediction of Nanoporous Graphenes with Water</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Sneha Mittal et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03680">2608.03680</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03686.html">Finite-spectrum Lorentz integral transform calculation of the $^{4}$He photoabsorption cross section in the no-core shell model</a></div></td>
-<td>P. Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03686">2608.03686</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03748.html">Constructing Effective Interactions via Projection-Based Inversion</a></div></td>
-<td>Hang Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.03748">2608.03748</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04219.html">First-principles predictions of carrier mobility with record accuracy using GW perturbation theory</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Nick Pant et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04219">2608.04219</a></td>
 </tr>
 </tbody></table>

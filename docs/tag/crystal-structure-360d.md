@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">257 papers</span>
+  <span class="paper-count">255 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1544,17 +1544,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06166.html">Bridging the Synthesizability Gap in Perovskites by Combining Computations, Literature Data, and PU Learning</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Rushik Desai et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06166">2510.06166</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.12098.html">Dzyaloshinskii-Moriya interaction chirality reversal with ferromagnetic thickness</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Capucine Gueneau et al.</td>
-<td><a href="http://arxiv.org/abs/2501.12098">2501.12098</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05188.html">Systematic global structure search of bismuth-based binary systems under pressure using machine learning potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Hayato Wakai et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05188">2511.05188</a></td>
 </tr>
 </tbody></table>

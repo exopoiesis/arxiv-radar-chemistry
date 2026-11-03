@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,29 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37606.html">A unified coarse-grained neural network potential for the dynamics of biomolecular complexes</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
 <td>Antonio Mirarchi et al.</td>
 <td><a href="http://arxiv.org/abs/2610.37606">2610.37606</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32652.html">Low-variance estimators for nuclear quantum mean forces</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
-<td>Venkat Kapil</td>
-<td><a href="http://arxiv.org/abs/2610.32652">2610.32652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35164.html">Accelerating SO(2)-Equivariant Materials Models through Low-Precision Emulation</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Denghui Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35164">2610.35164</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35653.html">Retention-constrained fine-tuning of a pre-trained aluminium MACE potential for non-equilibrium defect dynamics and plasticity</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Yue Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35653">2610.35653</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35991.html">Theoretical study of high-order harmonic generation in solids based on deep-learning methods</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Wen-Feng Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35991">2610.35991</a></td>
 </tr>
 </tbody></table>

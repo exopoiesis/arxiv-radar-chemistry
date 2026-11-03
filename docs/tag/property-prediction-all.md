@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>property-prediction — all</h1>
-  <span class="paper-count">436 papers</span>
+  <span class="paper-count">437 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01512.html">Abstention Spends Its Budget on Local Label Variance More Than on Novelty: Auditing Conformal Calibration and Selective Prediction under Molecular Scaffold Shift</a></div></td>
+<td>Arnav Srivastava et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01512">2611.01512</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32195.html">Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery</a></div><div class="paper-tags"><a href="molecular-generation-all.html">molecular-generation</a></div></td>

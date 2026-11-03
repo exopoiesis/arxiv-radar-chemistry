@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gnn — all</h1>
-  <span class="paper-count">746 papers</span>
+  <span class="paper-count">747 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02277.html">Atom-Wise Allocation of Message-Passing Scale for Molecular Property Prediction</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
+<td>Regina Qianru Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02277">2611.02277</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37222.html">Magnetic crystal generation with site-resolved magnetic moments via Gaussian-mixture retargeting and finite-budget yield prediction</a></div></td>

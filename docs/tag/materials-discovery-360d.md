@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">251 papers</span>
+  <span class="paper-count">250 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1514,11 +1514,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10673.html">Large language models in materials science and the need for open-source approaches</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Fengxu Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10673">2511.10673</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05750.html">From Quantum Annealing to Alloy Discovery: Towards Accelerated Design of High-Entropy Alloys</a></div></td>
-<td>Diego Ibarra-Hoyos et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05750">2511.05750</a></td>
 </tr>
 </tbody></table>

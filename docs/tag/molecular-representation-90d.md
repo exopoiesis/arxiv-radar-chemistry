@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-representation — 90d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,11 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05336.html">Physics-Based Molecular Fingerprints from Spectral Graph Theory Provide Efficient Geometry-Aware Measures of Chemical Similarity</a></div></td>
 <td>Jacob W. Toney et al.</td>
 <td><a href="http://arxiv.org/abs/2608.05336">2608.05336</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04257.html">Geometry-Informed Parameter-Efficient Fine-Tuning of Pre-trained Molecular GNNs for Blood-Brain Barrier Permeability Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Marco Vieto Vega et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04257">2608.04257</a></td>
 </tr>
 </tbody></table>

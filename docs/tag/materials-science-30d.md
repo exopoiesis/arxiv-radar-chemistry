@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-science — 30d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <strong>30d</strong> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,11 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07296.html">Mapping E-textiles Design Pain Points and Generative AI Opportunities: Insights from Workshops in Shanghai and Winchester</a></div></td>
 <td>Zhuchenyang Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.07296">2610.07296</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04161.html">MOSAIC: Addressing Space for Local, Steerable, and Scalable Atomistic Generation</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Ishan Nadkarni et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04161">2610.04161</a></td>
 </tr>
 </tbody></table>

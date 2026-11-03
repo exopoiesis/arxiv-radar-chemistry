@@ -1,0 +1,82 @@
+{
+ "2611.01512": {
+  "abstract": "Selective prediction with split conformal calibration promises a post-hoc fix for molecular property prediction: abstain on the least reliable compounds, ideally out-of-distribution chemistry, and the retained set becomes trustworthy without retraining. We audit this recipe for a gradient-boosted fingerprint model on lipophilicity (regression) and BBBP (classification) under a Bemis-Murcko scaffold split, holding the fitted model and evaluation molecules fixed while varying only the calibration fold (18 replicates). (i) On lipophilicity, coverage depends on calibration provenance: calibrating on held-out training-scaffold molecules falls below nominal (PICP 0.841 at a 0.90 target), while novel-scaffold calibration recovers it (0.904); on BBBP, coverage stays above nominal in every regime. (ii) For split conformalized quantile regression (CQR) the conformal correction is a constant, so conformalization does not change what is abstained on. (iii) The abstention score (CQR width; effectively ensemble variance on BBBP) tracks local label variance more than chemical novelty: controlling for local label variance largely explains away the novelty association (partial Spearman 0.067 and 0.047). (iv) At a fixed assay budget, gating on interval width or ensemble variance never improves hit precision over ranking by point prediction, at the pre-specified operating point or across 20 exploratory settings; a plain novelty gate shows small, uncorrected gains at the smallest budgets. (v) In an exploratory analysis, exact conformal selection exceeds its false discovery rate target under training-scaffold calibration (0.303 at q=0.2) and is consistent with it under novel-scaffold calibration, contributing a data-driven batch size rather than a better ranking. Conformalization earns its keep through guarantees whose validity hinges on calibration provenance, not by choosing what to abstain on.",
+  "authors": [
+   "Arnav Srivastava",
+   "Krishna Kassetty"
+  ],
+  "categories": [
+   "cs.LG",
+   "stat.ML"
+  ],
+  "comment": "12 pages, 4 figures, 6 tables",
+  "first_author": "Arnav Srivastava",
+  "pdf_url": "http://arxiv.org/pdf/2611.01512",
+  "primary_category": "cs.LG",
+  "published": "2026-11-01",
+  "tags": [
+   "property-prediction"
+  ],
+  "title": "Abstention Spends Its Budget on Local Label Variance More Than on Novelty: Auditing Conformal Calibration and Selective Prediction under Molecular Scaffold Shift",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-11-01"
+ },
+ "2611.01709": {
+  "abstract": "Data imbalance frequently occurs in QSAR modeling, yet most studies focus on classification tasks, and few address regression tasks, as it is challenging to determine which regions of the data are sparse or dense. Data-level and algorithm-level imbalance-handling strategies can have different effects on model performance. In this study, we systematically compare various strategies across GCN and fingerprint-based machine learning models. To evaluate model performance more meaningfully, we partitioned the target region into several subregions based on both domain knowledge and data distribution. We focused on the region of greatest practical interest. Our results demonstrate that selecting models based on this interest-region metric leads to more reliable performance than using the total region metric. We also observed that different imbalance-handling strategies can have divergent effects depending on the model type. These findings highlight the importance of region-aware evaluation in regression QSAR modeling and provide practical guidance for selecting appropriate strategies for imbalanced datasets.",
+  "authors": [
+   "Ming-Yen Sung",
+   "Hsin Liu",
+   "Tung-Sheng Cho",
+   "Cheng-Wei Lee",
+   "Yufeng J. Tseng"
+  ],
+  "categories": [
+   "cs.LG",
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Ming-Yen Sung",
+  "pdf_url": "http://arxiv.org/pdf/2611.01709",
+  "primary_category": "cs.LG",
+  "published": "2026-11-01",
+  "tags": [],
+  "title": "Comparative Strategies for Handling Imbalanced QSAR Regression: A Case Study on hERG Activity Prediction",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-11-01"
+ },
+ "2611.02277": {
+  "abstract": "Molecular properties depend on chemical structure at different ranges, from local polar groups governing solvation to extended substructures shaping bioactivity, yet graph neural networks usually fix one propagation scale for every atom. We present PRISM (Per-atom Routing over Intermediate States of Message Passing), in which each atom's encoded features produce a bounded scalar that positions a unimodal distribution over retained message-passing states and matching circular-fingerprint radii. Because one coordinate translates the whole profile, allocated depth responds to the routing scalar in closed form: at fixed temperature it is nondecreasing, its sensitivity scales with the profile variance, and it saturates in the clipped regions. Beyond providing closed-form analyzability, this constrained one-parameter profile matches or significantly outperforms parameter-matched, unconstrained node-wise gates and Jumping Knowledge attention. Under scaffold partitions with equal tuning budgets against eight graph, fingerprint, and geometric baselines, PRISM trained from scratch without three-dimensional coordinates achieves the lowest mean error on aqueous solubility and hydration free energy and strong accuracy on BACE and BBBP. As a general layer-combination rule, PRISM transfers directly to GCN, GIN, and GAT backbones, reducing hydration free energy error by up to 29% relative to last-layer readout. Applied to a pre-trained GIN, it improves on last-layer readout on four of six endpoints and gives the lowest lipophilicity error overall. In trained models, allocated depth differs systematically between atom types in a task-dependent way, and permuting profiles among a molecule's atoms raises prediction error on several endpoints, so the rule acts as a learned counterpart of atom typing.",
+  "authors": [
+   "Regina Qianru Zhang",
+   "Honggang Wen",
+   "Zongru Li",
+   "Jinsong Ouyang",
+   "Zhiqin Chu",
+   "Pietro Liò",
+   "Xiaofeng Liu",
+   "Siu-Ming Yiu"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Regina Qianru Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2611.02277",
+  "primary_category": "cs.LG",
+  "published": "2026-11-01",
+  "tags": [
+   "free-energy",
+   "gnn"
+  ],
+  "title": "Atom-Wise Allocation of Message-Passing Scale for Molecular Property Prediction",
+  "topics": [
+   "Molecular Representation & Learning",
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-11-01"
+ }
+}

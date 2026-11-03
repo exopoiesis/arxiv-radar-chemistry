@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">331 papers</span>
+  <span class="paper-count">329 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1988,17 +1988,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06712.html">Compression-induced magnetic obstructed atomic insulator and spin singlet state in antiferromagnetic KV2Se2O</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Liucheng Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06712">2511.06712</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05701.html">Exploring Anisotropic Effects in Magnetized Quark Matter</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>S. A. Ferraris et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05701">2511.05701</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05738.html">Exchange field induced symmetry breaking in quantum hexaborides</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>D. Rivera et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05738">2511.05738</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">296 papers</span>
+  <span class="paper-count">292 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1766,29 +1766,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06467.html">Facile Salt-Assisted Hydrothermal Synthesis of Nanodiamonds from CHO Precursors: Atomic-Scale Mechanistic Insights</a></div></td>
 <td>Soumya Pratap Tripathy et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06467">2511.06467</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.06265.html">Large language models as uncertainty-calibrated optimizers for experimental discovery</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Bojana Ranković et al.</td>
-<td><a href="http://arxiv.org/abs/2504.06265">2504.06265</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20115.html">Holographic flavour and neural networks</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Veselin G. Filev</td>
-<td><a href="http://arxiv.org/abs/2506.20115">2506.20115</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05305.html">Spin covalent chemistry of carbon</a></div></td>
-<td>E. F. Sheka</td>
-<td><a href="http://arxiv.org/abs/2511.05305">2511.05305</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05701.html">Exploring Anisotropic Effects in Magnetized Quark Matter</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>S. A. Ferraris et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05701">2511.05701</a></td>
 </tr>
 </tbody></table>

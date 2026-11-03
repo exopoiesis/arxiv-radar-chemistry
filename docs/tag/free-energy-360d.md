@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02277.html">Atom-Wise Allocation of Message-Passing Scale for Molecular Property Prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
+<td>Regina Qianru Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02277">2611.02277</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36647.html">Designing Geared Molecular Rotors in Flexible Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="metadynamics-360d.html">metadynamics</a> · <a href="mof-360d.html">mof</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Konstantin Stracke et al.</td>
@@ -1940,11 +1946,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20721.html">Melting Points and Formation Free Energies of Carbon Compounds with Sodalite Structure</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Kazuhiro Sano et al.</td>
 <td><a href="http://arxiv.org/abs/2502.20721">2502.20721</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20115.html">Holographic flavour and neural networks</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Veselin G. Filev</td>
-<td><a href="http://arxiv.org/abs/2506.20115">2506.20115</a></td>
 </tr>
 </tbody></table>

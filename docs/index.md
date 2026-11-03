@@ -5,15 +5,33 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-11-02._
+_Updated 2026-11-03._
 
-**16289** chemistry-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**16292** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.01512.html">Abstention Spends Its Budget on Local Label Variance More Than on Novelty: Auditing Conformal Calibration and Selective Prediction under Molecular Scaffold Shift</a></div><div class="paper-tags"><a href="tag/property-prediction-30d.html">property-prediction</a></div></td>
+<td>Arnav Srivastava et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01512">2611.01512</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.01709.html">Comparative Strategies for Handling Imbalanced QSAR Regression: A Case Study on hERG Activity Prediction</a></div></td>
+<td>Ming-Yen Sung et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01709">2611.01709</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02277.html">Atom-Wise Allocation of Message-Passing Scale for Molecular Property Prediction</a></div><div class="paper-tags"><a href="tag/free-energy-30d.html">free-energy</a> · <a href="tag/gnn-30d.html">gnn</a></div></td>
+<td>Regina Qianru Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02277">2611.02277</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.40249.html">Reaction precedents extend retrosynthetic prediction beyond training coverage</a></div><div class="paper-tags"><a href="tag/retrosynthesis-30d.html">retrosynthesis</a></div></td>
@@ -175,23 +193,5 @@ _Updated 2026-11-02._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37606.html">A unified coarse-grained neural network potential for the dynamics of biomolecular complexes</a></div><div class="paper-tags"><a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Antonio Mirarchi et al.</td>
 <td><a href="http://arxiv.org/abs/2610.37606">2610.37606</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37656.html">Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops</a></div><div class="paper-tags"><a href="tag/protein-structure-30d.html">protein-structure</a></div></td>
-<td>Aakash Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37656">2610.37656</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.30591.html">Decoding Composition-Structure-Performance Relations in Sodium Layered Oxide Positive Electrode Materials</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/battery-materials-30d.html">battery-materials</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/thermodynamic-integration-30d.html">thermodynamic-integration</a> · <a href="tag/tmo-30d.html">tmo</a></div></td>
-<td>Yunyeong Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30591">2610.30591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.32652.html">Low-variance estimators for nuclear quantum mean forces</a></div><div class="paper-tags"><a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Venkat Kapil</td>
-<td><a href="http://arxiv.org/abs/2610.32652">2610.32652</a></td>
 </tr>
 </tbody></table>

@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02277.html">Atom-Wise Allocation of Message-Passing Scale for Molecular Property Prediction</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a></div></td>
+<td>Regina Qianru Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02277">2611.02277</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37222.html">Magnetic crystal generation with site-resolved magnetic moments via Gaussian-mixture retargeting and finite-budget yield prediction</a></div></td>
 <td>Wen-Chuang Shang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.37222">2610.37222</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35164.html">Accelerating SO(2)-Equivariant Materials Models through Low-Precision Emulation</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Denghui Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35164">2610.35164</a></td>
 </tr>
 </tbody></table>

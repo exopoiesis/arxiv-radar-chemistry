@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04202.html">Accurate representation of the continuum orbital in a Gaussian basis set: application to Auger decay rates</a></div></td>
+<td>Dibyendu Mahato et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04202">2611.04202</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04694.html">Quantum Simulation of Electronic Structure using Quantum Density Functional Theory on a Programmable Integrated Photonic Circuit</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
+<td>Giovanni Adriano et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04694">2611.04694</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01389.html">A GPU-Accelerated and Geometry-Aware Quantum-Classical Framework for Optimized PES Scans with CUDA-Q</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Panayiotis Christou et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01389">2611.01389</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38701.html">Sample-Based Quantum Diagonalization for Variable Molecular Geometries</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
 <td>Matthieu Fortin-Deschenes et al.</td>
@@ -386,23 +404,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07354.html">Beyond the Four-Decade DIIS Default:Auxiliary-Curvature Acceleration of Self-Consistent-Field Calculations</a></div></td>
 <td>Peng Bao et al.</td>
 <td><a href="http://arxiv.org/abs/2608.07354">2608.07354</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05314.html">Machine learning for sample-based quantum diagonalization: generative configuration recovery and the classical-simulability frontier</a></div></td>
-<td>Nicolás Bonilla Vargas</td>
-<td><a href="http://arxiv.org/abs/2608.05314">2608.05314</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05463.html">Structured Tensor Approximation from Lateral Slice Sampling via Basis and Manifold Priors</a></div></td>
-<td>Jeongmin Chae et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05463">2608.05463</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06415.html">Ground-State Energy Estimation of HeH$^{+}$, ArH$^{+}$, and H$_2$O via Sample-Based Quantum Diagonalization</a></div></td>
-<td>Jubin Park et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06415">2608.06415</a></td>
 </tr>
 </tbody></table>

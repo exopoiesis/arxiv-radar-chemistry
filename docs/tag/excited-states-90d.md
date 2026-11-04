@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>excited-states — 90d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <strong>90d</strong> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04694.html">Quantum Simulation of Electronic Structure using Quantum Density Functional Theory on a Programmable Integrated Photonic Circuit</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
+<td>Giovanni Adriano et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04694">2611.04694</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38701.html">Sample-Based Quantum Diagonalization for Variable Molecular Geometries</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
@@ -302,23 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08095.html">Nonadiabatic Molecular Dynamics on Real-time Excited-State Surfaces via Machine Learning Hamiltonians</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
 <td>Changwei Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.08095">2608.08095</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04638.html">The Frequency-Dependent Spin Contribution to the Magnetoelectric Tensor of Cr$_2$O$_3$: A First-Principles Study</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Torsten Geirsson et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04638">2608.04638</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04662.html">Time-resolved THz Stark spectroscopy of molecules in water</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Elnaz Zyaee et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04662">2608.04662</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05068.html">Effective single particle picture for anharmonic lattice dynamics: a Rosetta stone for electronic and ionic response</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Giovanni Caldarelli et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05068">2608.05068</a></td>
 </tr>
 </tbody></table>

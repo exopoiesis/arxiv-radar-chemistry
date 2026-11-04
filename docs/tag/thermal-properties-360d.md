@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04558.html">Machine-Learning Molecular Dynamics Reveals Grotthuss Transport in Concentrated Electrolytes</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Øystein Gullbrekken et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04558">2611.04558</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02202.html">Thermodynamic Underpinnings Affecting Compressive and Tensile Plasticity in Refractory Compositionally Complex Alloys</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Eric A. Lass et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02202">2611.02202</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36501.html">Spin-Charge Conversion in an Epitaxial Kagome Flat-Band Metal</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Wenyi Zhou et al.</td>
@@ -1700,17 +1712,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06561.html">Thermal conductivity of commodity polymers under high pressures</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Otavio Higino Moura de Alencar et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06561">2511.06561</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.20721.html">Melting Points and Formation Free Energies of Carbon Compounds with Sodalite Structure</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kazuhiro Sano et al.</td>
-<td><a href="http://arxiv.org/abs/2502.20721">2502.20721</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06069.html">Strain-Tunable Spin Filtering and Valley Splitting Coexisting with Anomalous Hall Effect in 2D Half-Metallic VSe2/VN Heterostructure: Toward a Unified Spintronic-Valleytronic Platform</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Vivek Chowdhury et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06069">2511.06069</a></td>
 </tr>
 </tbody></table>

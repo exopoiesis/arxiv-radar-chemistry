@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03767.html">Quantifying out-of-distribution data severity with Wasserstein distances: benchmarking large language models for alloy property prediction</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>YuJie Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03767">2611.03767</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30591.html">Decoding Composition-Structure-Performance Relations in Sodium Layered Oxide Positive Electrode Materials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="mlip-30d.html">mlip</a> · <a href="tmo-30d.html">tmo</a></div></td>
 <td>Yunyeong Choi et al.</td>
@@ -80,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08762.html">Small Distortions, Big Polarization: Tetragonal BaTiO3 Nanoparticles for High-Performance Piezoelectric Nanogenerators</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Shivshankar Jokare et al.</td>
 <td><a href="http://arxiv.org/abs/2610.08762">2610.08762</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05057.html">Onset of a quantum Fisher-Selke sequence in the transverse-field ANNNI model and its bilayer</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Tuan-Vu Truong et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05057">2610.05057</a></td>
 </tr>
 </tbody></table>

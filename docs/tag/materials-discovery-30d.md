@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-discovery — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <strong>30d</strong> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02584.html">Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Adam M. Krajewski et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02584">2611.02584</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02906.html">Site-orbit masked twin-branch Transformer for symmetry-constrained crystal generation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Junchi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02906">2611.02906</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03767.html">Quantifying out-of-distribution data severity with Wasserstein distances: benchmarking large language models for alloy property prediction</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
+<td>YuJie Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03767">2611.03767</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36542.html">First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
@@ -104,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08296.html">OxiGen: Oxidation-State-Aware Crystal Generation</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Dylan John et al.</td>
 <td><a href="http://arxiv.org/abs/2610.08296">2610.08296</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04866.html">Phenomenon-first problem formulation with language models in metal-organic frameworks</a></div><div class="paper-tags"><a href="mof-30d.html">mof</a></div></td>
-<td>Jihan Kim</td>
-<td><a href="http://arxiv.org/abs/2610.04866">2610.04866</a></td>
 </tr>
 </tbody></table>

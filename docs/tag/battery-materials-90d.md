@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04558.html">Machine-Learning Molecular Dynamics Reveals Grotthuss Transport in Concentrated Electrolytes</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Øystein Gullbrekken et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04558">2611.04558</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02617.html">Collective dipole effects amplify field-driven ion transport in amorphous Li$_3$PO$_4$</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Haruka Doyu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02617">2611.02617</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30591.html">Decoding Composition-Structure-Performance Relations in Sodium Layered Oxide Positive Electrode Materials</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a> · <a href="tmo-90d.html">tmo</a></div></td>
 <td>Yunyeong Choi et al.</td>
@@ -338,17 +350,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06895.html">Local Structure Dictates Ionic Transport and Mechanical Properties in Glassy Solid Electrolytes for Lithium Batteries</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Yong Li et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06895">2608.06895</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04690.html">Raman Signatures of Lithium Ion Dynamics in LLZO Garnet Electrolytes: Atomistic Insights from MD-Raman Calculations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Takeru Miyagawa et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04690">2608.04690</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05305.html">Cooperative adsorption and diffusion trapping induced by AlF3 intercalation in graphite</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>H. Betancourt-Infante et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05305">2608.05305</a></td>
 </tr>
 </tbody></table>

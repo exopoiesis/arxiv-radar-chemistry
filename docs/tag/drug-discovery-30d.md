@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03832.html">El Agente Fármaco: A Scalable AI Scientist for Drug Discovery</a></div></td>
+<td>Marcel Müller et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03832">2611.03832</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03963.html">ProteoCraft: Protein Design as Proposal-Verification Search</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Fang Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03963">2611.03963</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38701.html">Sample-Based Quantum Diagonalization for Variable Molecular Geometries</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
@@ -152,11 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07340.html">CausalBind: Causal Modeling and Learning for Protein-Molecule Virtual Screening</a></div></td>
 <td>Loka Li et al.</td>
 <td><a href="http://arxiv.org/abs/2610.07340">2610.07340</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05397.html">Efficient Graph Generation via Direct Prediction and Flow Matching</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Susie Lu</td>
-<td><a href="http://arxiv.org/abs/2610.05397">2610.05397</a></td>
 </tr>
 </tbody></table>

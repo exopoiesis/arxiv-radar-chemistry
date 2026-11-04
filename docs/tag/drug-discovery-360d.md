@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03832.html">El Agente Fármaco: A Scalable AI Scientist for Drug Discovery</a></div></td>
+<td>Marcel Müller et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03832">2611.03832</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03963.html">ProteoCraft: Protein Design as Proposal-Verification Search</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td>Fang Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03963">2611.03963</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38701.html">Sample-Based Quantum Diagonalization for Variable Molecular Geometries</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Matthieu Fortin-Deschenes et al.</td>
@@ -2912,17 +2924,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06269.html">LLM$^3$-DTI: A Large Language Model and Multi-modal data co-powered framework for Drug-Target Interaction prediction</a></div></td>
 <td>Yuhao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06269">2511.06269</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05904.html">The Role and Mechanism of Deep Statistical Machine Learning In Biological Target Screening and Immune Microenvironment Regulation of Asthma</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Pengwei Zhu</td>
-<td><a href="http://arxiv.org/abs/2511.05904">2511.05904</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06143.html">Enhancing Robustness of Graph Neural Networks through p-Laplacian</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Anuj Kumar Sirohi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06143">2511.06143</a></td>
 </tr>
 </tbody></table>

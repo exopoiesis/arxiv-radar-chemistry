@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">408 papers</span>
+  <span class="paper-count">409 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02317.html">Defect Chemistry of Hafnia-Based Ferroelectrics under Oxide-Electrode Constraints</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Sehyeok Jeon et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02317">2611.02317</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36468.html">Beyond Geometry: Hole-Edge Atomic Configuration as a Design Variable in Graphyne Kirigami</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>

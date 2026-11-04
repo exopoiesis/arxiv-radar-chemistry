@@ -16,6 +16,24 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02317.html">Defect Chemistry of Hafnia-Based Ferroelectrics under Oxide-Electrode Constraints</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Sehyeok Jeon et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02317">2611.02317</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02403.html">Machine-Learned Interatomic Potential for the Mo-S-Al-O System</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Emir Bilgili et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02403">2611.02403</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01502.html">Theoretical Prediction of Superconducting 2D Hydrogenated Janus V2CSH and Nb2CSH MXenes</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Jubair Hossan Abir et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01502">2611.01502</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36468.html">Beyond Geometry: Hole-Edge Atomic Configuration as a Design Variable in Graphyne Kirigami</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Guilherme B. Kanegae et al.</td>
@@ -236,23 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07203.html">Contact-Governed Macroscopic Signatures of Strain-Induced Valley Sorting in MoS$_2$ Field-Effect Transistors</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="tmd-30d.html">tmd</a></div></td>
 <td>Suhas Suresh Bharadwaj</td>
 <td><a href="http://arxiv.org/abs/2610.07203">2610.07203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05057.html">Onset of a quantum Fisher-Selke sequence in the transverse-field ANNNI model and its bilayer</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Tuan-Vu Truong et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05057">2610.05057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05363.html">Sliding and stacking thin homo-monolayers from energy landscapes and combinatorics</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Jose D. Mella et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05363">2610.05363</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05496.html">Density Functional Theory for 2D Transition-Metal Dichalcogenides with Extended Hubbard Parameters</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>Xue Li et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05496">2610.05496</a></td>
 </tr>
 </tbody></table>

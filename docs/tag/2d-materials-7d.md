@@ -16,21 +16,21 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36468.html">Beyond Geometry: Hole-Edge Atomic Configuration as a Design Variable in Graphyne Kirigami</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Guilherme B. Kanegae et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36468">2610.36468</a></td>
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02317.html">Defect Chemistry of Hafnia-Based Ferroelectrics under Oxide-Electrode Constraints</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a></div></td>
+<td>Sehyeok Jeon et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02317">2611.02317</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36542.html">First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="materials-discovery-7d.html">materials-discovery</a></div></td>
-<td>Yuhyun Cha et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36542">2610.36542</a></td>
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02403.html">Machine-Learned Interatomic Potential for the Mo-S-Al-O System</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Emir Bilgili et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02403">2611.02403</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37095.html">First-Principles Investigation of Irida-Graphane: A Wide-Band-Gap Semiconductor Derived from Irida-Graphene</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Djardiel S. Gomes et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37095">2610.37095</a></td>
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01502.html">Theoretical Prediction of Superconducting 2D Hydrogenated Janus V2CSH and Nb2CSH MXenes</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Jubair Hossan Abir et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01502">2611.01502</a></td>
 </tr>
 </tbody></table>

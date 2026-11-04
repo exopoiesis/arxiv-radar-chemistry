@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">360 papers</span>
+  <span class="paper-count">358 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2162,17 +2162,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02803.html">A Graph Laplacian Eigenvector-based Pre-training Method for Graph Neural Networks</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Howard Dai et al.</td>
 <td><a href="http://arxiv.org/abs/2509.02803">2509.02803</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.03170.html">GraphCliff: Short-Long Range Gating for Subtle Differences but Critical Changes</a></div></td>
-<td>Hajung Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2511.03170">2511.03170</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06143.html">Enhancing Robustness of Graph Neural Networks through p-Laplacian</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Anuj Kumar Sirohi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06143">2511.06143</a></td>
 </tr>
 </tbody></table>

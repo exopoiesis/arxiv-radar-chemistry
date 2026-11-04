@@ -5,9 +5,9 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-11-03._
+_Updated 2026-11-04._
 
-**16292** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**16355** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -15,183 +15,183 @@ _Updated 2026-11-03._
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.01512.html">Abstention Spends Its Budget on Local Label Variance More Than on Novelty: Auditing Conformal Calibration and Selective Prediction under Molecular Scaffold Shift</a></div><div class="paper-tags"><a href="tag/property-prediction-30d.html">property-prediction</a></div></td>
-<td>Arnav Srivastava et al.</td>
-<td><a href="http://arxiv.org/abs/2611.01512">2611.01512</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02174.html">Beyond Unit-Circle Eigenvalues: Invariant Bases for Stable State Space Dynamics</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jiaqian Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02174">2611.02174</a></td>
 </tr>
 <tr class="paper">
-<td>2026-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.01709.html">Comparative Strategies for Handling Imbalanced QSAR Regression: A Case Study on hERG Activity Prediction</a></div></td>
-<td>Ming-Yen Sung et al.</td>
-<td><a href="http://arxiv.org/abs/2611.01709">2611.01709</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.03183.html">Auto-Research Agent on MSA Organization to Improve Protein-Protein Complex Structure Prediction</a></div><div class="paper-tags"><a href="tag/protein-structure-30d.html">protein-structure</a> · <a href="tag/structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Zilu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03183">2611.03183</a></td>
 </tr>
 <tr class="paper">
-<td>2026-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02277.html">Atom-Wise Allocation of Message-Passing Scale for Molecular Property Prediction</a></div><div class="paper-tags"><a href="tag/free-energy-30d.html">free-energy</a> · <a href="tag/gnn-30d.html">gnn</a></div></td>
-<td>Regina Qianru Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.02277">2611.02277</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04121.html">Bicarbonate/carbonic acid equilibria in aqueous solutions: Conformational Dynamics, Ion-Pair Speciation, and Free Energy Landscapes from Ab Initio Molecular Dynamics and Metadynamics</a></div><div class="paper-tags"><a href="tag/free-energy-30d.html">free-energy</a> · <a href="tag/metadynamics-30d.html">metadynamics</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Prabhat Prakash et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04121">2611.04121</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.40249.html">Reaction precedents extend retrosynthetic prediction beyond training coverage</a></div><div class="paper-tags"><a href="tag/retrosynthesis-30d.html">retrosynthesis</a></div></td>
-<td>Jiaxing Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2610.40249">2610.40249</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04202.html">Accurate representation of the continuum orbital in a Gaussian basis set: application to Auger decay rates</a></div><div class="paper-tags"><a href="tag/quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Dibyendu Mahato et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04202">2611.04202</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.40402.html">Characterizing Reaction Types through Linear Free-Energy Relationships in Cavities</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/catalysis-30d.html">catalysis</a></div></td>
-<td>Jillian G. Hoffstadt et al.</td>
-<td><a href="http://arxiv.org/abs/2610.40402">2610.40402</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04287.html">Predicting protein structures at any folding stage from sequence</a></div><div class="paper-tags"><a href="tag/protein-structure-30d.html">protein-structure</a></div></td>
+<td>Lisheng Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04287">2611.04287</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.38245.html">Verification-Guided Retrosynthesis: Reaction Feedback and Evidence Timing</a></div><div class="paper-tags"><a href="tag/retrosynthesis-30d.html">retrosynthesis</a></div></td>
-<td>Hongxuan Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.38245">2610.38245</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04382.html">Beyond Compression Ratio: High-Throughput KV Compression for Disaggregated LLM Serving</a></div></td>
+<td>Junhong Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04382">2611.04382</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.38701.html">Sample-Based Quantum Diagonalization for Variable Molecular Geometries</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/drug-discovery-30d.html">drug-discovery</a> · <a href="tag/excited-states-30d.html">excited-states</a> · <a href="tag/quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Matthieu Fortin-Deschenes et al.</td>
-<td><a href="http://arxiv.org/abs/2610.38701">2610.38701</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04402.html">TT-SCHA for Thermodynamics of Binary Alloys</a></div><div class="paper-tags"><a href="tag/free-energy-30d.html">free-energy</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Boian S. Alexandrov et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04402">2611.04402</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.35204.html">mdRNAcat: A Molecular Dynamics RNA Catalog of REST2 Conformational Ensembles</a></div><div class="paper-tags"><a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/replica-exchange-30d.html">replica-exchange</a></div></td>
-<td>Anton E. Dorn et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35204">2610.35204</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04433.html">Movable Antenna Aided Robust Wireless Transmission: From Model-Based Optimization to Scalable Reinforcement Learning</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Jinshuo Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04433">2611.04433</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.36468.html">Beyond Geometry: Hole-Edge Atomic Configuration as a Design Variable in Graphyne Kirigami</a></div><div class="paper-tags"><a href="tag/2d-materials-30d.html">2d-materials</a> · <a href="tag/band-gap-30d.html">band-gap</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Guilherme B. Kanegae et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36468">2610.36468</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04558.html">Machine-Learning Molecular Dynamics Reveals Grotthuss Transport in Concentrated Electrolytes</a></div><div class="paper-tags"><a href="tag/battery-materials-30d.html">battery-materials</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Øystein Gullbrekken et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04558">2611.04558</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.36493.html">AC-JEPA: Anchored Cross-Modal Joint Embedding Predictive Architecture for Visual-to-Symbolic Translation</a></div></td>
-<td>Chaofei Hong et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36493">2610.36493</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04652.html">Statistically Robust Characterization of Polaron and Bipolaron Intrinsic Traps in Amorphous Silica Reveals the Role of Network Flexibility in Electron Localisation</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Robin Delhomme et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04652">2611.04652</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.36501.html">Spin-Charge Conversion in an Epitaxial Kagome Flat-Band Metal</a></div><div class="paper-tags"><a href="tag/band-gap-30d.html">band-gap</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/electronic-structure-30d.html">electronic-structure</a> · <a href="tag/thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Wenyi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36501">2610.36501</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04681.html">Small-data physics-informed ML model for magnetic exchange based on chemical composition and structure</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
+<td>Brice Kengni Zanguim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04681">2611.04681</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.36542.html">First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers</a></div><div class="paper-tags"><a href="tag/2d-materials-30d.html">2d-materials</a> · <a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Yuhyun Cha et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36542">2610.36542</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04694.html">Quantum Simulation of Electronic Structure using Quantum Density Functional Theory on a Programmable Integrated Photonic Circuit</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/electronic-structure-30d.html">electronic-structure</a> · <a href="tag/excited-states-30d.html">excited-states</a> · <a href="tag/quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Giovanni Adriano et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04694">2611.04694</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.36647.html">Designing Geared Molecular Rotors in Flexible Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="tag/free-energy-30d.html">free-energy</a> · <a href="tag/metadynamics-30d.html">metadynamics</a> · <a href="tag/mof-30d.html">mof</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Konstantin Stracke et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36647">2610.36647</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04809.html">RAHC: Rule-Augmented Hyper-Relational Knowledge Graph Completion for Materials Synthesis</a></div><div class="paper-tags"><a href="tag/retrosynthesis-30d.html">retrosynthesis</a></div></td>
+<td>Jiawei Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04809">2611.04809</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.36654.html">Edhivo: An AI-Native Platform for Scalable Assessment and Instant Feedback in Higher Education</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a></div></td>
-<td>Moraish Kapoor et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36654">2610.36654</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04811.html">NightIQA: A Comprehensive Dataset and Benchmark for MLLM-Based Nighttime Image Quality Assessment</a></div><div class="paper-tags"><a href="tag/multimodal-llm-30d.html">multimodal-llm</a></div></td>
+<td>Yiding Tian et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04811">2611.04811</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37020.html">The constrained molecular dynamics (CMD) to obtain spatio-temporal memory functions of viscoelastic liquids: stability analysis of equations of motion</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Olivier Benzerara et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37020">2610.37020</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04907.html">Cool Graphs: Active Property Search Towards Quantum Nano-Refrigerators</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Sofia Blyufer et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04907">2611.04907</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37081.html">OpenGray: a benchmark for evaluating the decisions of radiotherapy planning agents</a></div></td>
-<td>Humza Nusrat et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37081">2610.37081</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.05055.html">Ablating Design Choices for Protein Ensemble Generators Across Structural Regimes</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/protein-llm-30d.html">protein-llm</a> · <a href="tag/structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Eoin Quinn et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05055">2611.05055</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37095.html">First-Principles Investigation of Irida-Graphane: A Wide-Band-Gap Semiconductor Derived from Irida-Graphene</a></div><div class="paper-tags"><a href="tag/2d-materials-30d.html">2d-materials</a> · <a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/band-gap-30d.html">band-gap</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Djardiel S. Gomes et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37095">2610.37095</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.05132.html">High-Resolution Quantitative MRI Using Contrast-Domain Multiscale Energy (MuSE) Regularization</a></div></td>
+<td>Rushdi Rusho et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05132">2611.05132</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37120.html">Easier parameter scans with hmcdj</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Alexis Verney-Provatas et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37120">2610.37120</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.05180.html">Analog signal processing, storage, and demultiplexing via in-materia wave-based computing</a></div><div class="paper-tags"><a href="tag/phase-transition-30d.html">phase-transition</a></div></td>
+<td>Saeed Behboodi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05180">2611.05180</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37152.html">Cu intercalation and field-driven filament formation in vertically aligned MoS$_2$ memristors</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Touko Lehenkari et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37152">2610.37152</a></td>
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.05207.html">Multi-Objective Generative Optimization via Expected Hypervolume Fine-Tuning</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Juan Guevara et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05207">2611.05207</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37193.html">Phase Separation in a Mixture System of Active and Passive Particles</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Reo Arakaki et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37193">2610.37193</a></td>
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02317.html">Defect Chemistry of Hafnia-Based Ferroelectrics under Oxide-Electrode Constraints</a></div><div class="paper-tags"><a href="tag/2d-materials-30d.html">2d-materials</a> · <a href="tag/band-gap-30d.html">band-gap</a> · <a href="tag/dft-30d.html">dft</a></div></td>
+<td>Sehyeok Jeon et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02317">2611.02317</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37202.html">3D-SceneQ: Empowering 3D LLM With Query-Guided Adaptive Pruning and Multi-Modal Feature Enhancement</a></div><div class="paper-tags"><a href="tag/materials-science-30d.html">materials-science</a></div></td>
-<td>Yongqi Shan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37202">2610.37202</a></td>
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02403.html">Machine-Learned Interatomic Potential for the Mo-S-Al-O System</a></div><div class="paper-tags"><a href="tag/2d-materials-30d.html">2d-materials</a> · <a href="tag/dft-30d.html">dft</a></div></td>
+<td>Emir Bilgili et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02403">2611.02403</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37222.html">Magnetic crystal generation with site-resolved magnetic moments via Gaussian-mixture retargeting and finite-budget yield prediction</a></div><div class="paper-tags"><a href="tag/gnn-30d.html">gnn</a></div></td>
-<td>Wen-Chuang Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37222">2610.37222</a></td>
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02571.html">Organizational Learning in Materials Discovery Campaigns: Which Databases, Calculations, and Agent Teams Pay Off</a></div><div class="paper-tags"><a href="tag/mlip-30d.html">mlip</a></div></td>
+<td>Kinston Ackölf et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02571">2611.02571</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37360.html">Impact of Neutrino Trapping on the Equation of State and Structure of Hybrid Stars with 2SC Quark Matter</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a></div></td>
-<td>Andrea Sabatucci et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37360">2610.37360</a></td>
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02584.html">Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Adam M. Krajewski et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02584">2611.02584</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37410.html">Accurate structural modelling of protein-glycan recognition with GlycoWeave</a></div><div class="paper-tags"><a href="tag/molecular-representation-30d.html">molecular-representation</a> · <a href="tag/protein-structure-30d.html">protein-structure</a></div></td>
-<td>Huifeng Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37410">2610.37410</a></td>
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02606.html">Nonadiabatic molecular dynamics simulation with external field</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/crystal-structure-30d.html">crystal-structure</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Chengji Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02606">2611.02606</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37483.html">StudDFT: A quantum chemistry program for educational and research purposes</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/free-energy-30d.html">free-energy</a> · <a href="tag/quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Stanislav K. Ignatov</td>
-<td><a href="http://arxiv.org/abs/2610.37483">2610.37483</a></td>
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02617.html">Collective dipole effects amplify field-driven ion transport in amorphous Li$_3$PO$_4$</a></div><div class="paper-tags"><a href="tag/battery-materials-30d.html">battery-materials</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Haruka Doyu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02617">2611.02617</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37489.html">Molecular shape controls dipolar correlations in polar liquids</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Marceau Hénot</td>
-<td><a href="http://arxiv.org/abs/2610.37489">2610.37489</a></td>
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02681.html">HistoTx: Early fusion of H&amp;E images and spatial transcriptomics at varying spatial transcriptomics resolution with self-supervised learning</a></div></td>
+<td>Alice Driessen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02681">2611.02681</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37581.html">Water at the molecular frontier</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a></div></td>
-<td>Mischa Bonn et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37581">2610.37581</a></td>
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02711.html">Human-Supervised Artificial Intelligence Researchers in Electric Power Systems: Knowledge, Physics, Simulation, and Governance for Large Language Models</a></div></td>
+<td>Xiangrui Meng et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02711">2611.02711</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37586.html">On-the-fly Estimation of Quantum-Corrected Thermodynamics in LAMMPS</a></div><div class="paper-tags"><a href="tag/free-energy-30d.html">free-energy</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Robert Ramji et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37586">2610.37586</a></td>
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02723.html">Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. VI. Surface diffusion on a nonmetal-terminated surface</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
+<td>Pawel Strak et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02723">2611.02723</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37597.html">The Acridine Polymorph Landscape: Characterization and Selective Control by Additives</a></div><div class="paper-tags"><a href="tag/crystal-structure-30d.html">crystal-structure</a> · <a href="tag/free-energy-30d.html">free-energy</a> · <a href="tag/structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Adam Lahouari et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37597">2610.37597</a></td>
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02735.html">Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. VII. Step kinetics</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
+<td>Pawel Strak et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02735">2611.02735</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.37606.html">A unified coarse-grained neural network potential for the dynamics of biomolecular complexes</a></div><div class="paper-tags"><a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Antonio Mirarchi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37606">2610.37606</a></td>
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02826.html">RxnMiner: A Multimodal Agent for Structured Reaction Data Extraction from Chemistry Figures</a></div><div class="paper-tags"><a href="tag/retrosynthesis-30d.html">retrosynthesis</a></div></td>
+<td>Jinbo Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02826">2611.02826</a></td>
 </tr>
 </tbody></table>

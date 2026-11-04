@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>2d-materials — 90d</h1>
-  <span class="paper-count">116 papers</span>
+  <span class="paper-count">117 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <strong>90d</strong> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02317.html">Defect Chemistry of Hafnia-Based Ferroelectrics under Oxide-Electrode Constraints</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Sehyeok Jeon et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02317">2611.02317</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02403.html">Machine-Learned Interatomic Potential for the Mo-S-Al-O System</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Emir Bilgili et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02403">2611.02403</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01502.html">Theoretical Prediction of Superconducting 2D Hydrogenated Janus V2CSH and Nb2CSH MXenes</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Jubair Hossan Abir et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01502">2611.01502</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36468.html">Beyond Geometry: Hole-Edge Atomic Configuration as a Design Variable in Graphyne Kirigami</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -698,17 +716,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06309.html">Metal-Coordination Effects on the Stability and ORR/OER Activity of Layered Organometallic Single-Atom Catalysts: A Theoretical Study</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a></div></td>
 <td>Pedro H. Souza et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06309">2608.06309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04742.html">Atomic Scale Ordering of Sulfur Vacancies Enhances Charge Transport in Monolayer MoS$_2$</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Alessandro Pecchia et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04742">2608.04742</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04813.html">Growth and characterization of GaN/Ga2O3 Nanowire Heterostructures for Ultraviolet Optoelectronics</a></div></td>
-<td>Edgars Butanovs et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04813">2608.04813</a></td>
 </tr>
 </tbody></table>

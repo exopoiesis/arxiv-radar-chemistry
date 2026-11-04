@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electronic-structure — all</h1>
-  <span class="paper-count">879 papers</span>
+  <span class="paper-count">881 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04694.html">Quantum Simulation of Electronic Structure using Quantum Density Functional Theory on a Programmable Integrated Photonic Circuit</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
+<td>Giovanni Adriano et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04694">2611.04694</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02085.html">Unoccupied spin texture of ordered Bi films on vicinal Ge substrates</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
+<td>F. Goto et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02085">2611.02085</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36501.html">Spin-Charge Conversion in an Epitaxial Kagome Flat-Band Metal</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">340 papers</span>
+  <span class="paper-count">345 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,72 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04681.html">Small-data physics-informed ML model for magnetic exchange based on chemical composition and structure</a></div></td>
+<td>Brice Kengni Zanguim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04681">2611.04681</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02584.html">Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Adam M. Krajewski et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02584">2611.02584</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02606.html">Nonadiabatic molecular dynamics simulation with external field</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Chengji Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02606">2611.02606</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02723.html">Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. VI. Surface diffusion on a nonmetal-terminated surface</a></div></td>
+<td>Pawel Strak et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02723">2611.02723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02735.html">Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. VII. Step kinetics</a></div></td>
+<td>Pawel Strak et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02735">2611.02735</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02906.html">Site-orbit masked twin-branch Transformer for symmetry-constrained crystal generation</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Junchi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02906">2611.02906</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03628.html">Active-subspace learning reveals dominant parameter directions in nuclear observables</a></div></td>
+<td>Tom Plies et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03628">2611.03628</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04008.html">Triboelectric nanogenerators across length scales: linking materials, multiscale modelling and applications</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>MD Tanzib Ehsan Sanglap et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04008">2611.04008</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01458.html">Convergence of many-body truncations in the in-medium similarity renormalization group</a></div></td>
+<td>L. H. Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01458">2611.01458</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01646.html">Atomistic Insights into MOCVD Growth of GaAs using a Closed Loop Autonomous System Combining Directed Reinforcement Learning and Kinetic Monte Carlo Simulations</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Hrishi V. Harsora et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01646">2611.01646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02085.html">Unoccupied spin texture of ordered Bi films on vicinal Ge substrates</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
+<td>F. Goto et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02085">2611.02085</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40402.html">Characterizing Reaction Types through Linear Free-Energy Relationships in Cavities</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
@@ -2018,41 +2084,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06468.html">Interference between multiple photoionization pathways in chiral molecules: Converging continuum results in Gaussian bases</a></div></td>
 <td>Muhammad Sakhi et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06468">2608.06468</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04638.html">The Frequency-Dependent Spin Contribution to the Magnetoelectric Tensor of Cr$_2$O$_3$: A First-Principles Study</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Torsten Geirsson et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04638">2608.04638</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04690.html">Raman Signatures of Lithium Ion Dynamics in LLZO Garnet Electrolytes: Atomistic Insights from MD-Raman Calculations</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Takeru Miyagawa et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04690">2608.04690</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04834.html">From populations to absolute binding affinities in molecular simulations: exact volumetric terms and practical estimators</a></div><div class="paper-tags"><a href="string-method-90d.html">string-method</a></div></td>
-<td>Davide Mandelli et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04834">2608.04834</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04979.html">Delocalized Coupled-Cluster Theory for Polaron Structure and Dynamics</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Hamlin Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04979">2608.04979</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05130.html">Tetrahedral linkage as an intrinsic measure of glycan antifreeze behavior</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Aakash Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05130">2608.05130</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05305.html">Cooperative adsorption and diffusion trapping induced by AlF3 intercalation in graphite</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>H. Betancourt-Infante et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05305">2608.05305</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mlip — 90d</h1>
-  <span class="paper-count">116 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <strong>90d</strong> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04558.html">Machine-Learning Molecular Dynamics Reveals Grotthuss Transport in Concentrated Electrolytes</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Øystein Gullbrekken et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04558">2611.04558</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02571.html">Organizational Learning in Materials Discovery Campaigns: Which Databases, Calculations, and Agent Teams Pay Off</a></div></td>
+<td>Kinston Ackölf et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02571">2611.02571</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03154.html">PaddleMaterials: An End-to-End Deep Learning Toolkit for Materials Science</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Xuwei Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03154">2611.03154</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03276.html">FACTO: fast atom-centered tensor operator for accurate and efficient foundational machine-learned interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Siyuan Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03276">2611.03276</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03499.html">Shadow Molecular Dynamics for General Nonlinear Flexible-Charge Models</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Jos Thomas et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03499">2611.03499</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03892.html">Isothermal-Isobaric Molecular Dynamics with a Foundation Interatomic Potential in LAMMPS across NVIDIA and Intel GPUs</a></div></td>
+<td>Xiaoli Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03892">2611.03892</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35204.html">mdRNAcat: A Molecular Dynamics RNA Catalog of REST2 Conformational Ensembles</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="replica-exchange-90d.html">replica-exchange</a></div></td>
@@ -698,17 +734,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07081.html">Local lattice dynamics of hcp zinc from EXAFS and machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Vitalijs Dimitrijevs et al.</td>
 <td><a href="http://arxiv.org/abs/2608.07081">2608.07081</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04806.html">An Exchange-Correlation Functional for Fast and Accurate Modeling of Ferroelectric Perovskites</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="phase-transition-90d.html">phase-transition</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Owain T. Beynon et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04806">2608.04806</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05388.html">Next Generation of Ultra-Coarse-Graining: Self-Consistent Inference of Critical Internal States</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Weizhi Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05388">2608.05388</a></td>
 </tr>
 </tbody></table>

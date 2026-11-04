@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>active-learning — 90d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <strong>90d</strong> <a href="active-learning-360d.html">360d</a> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04907.html">Cool Graphs: Active Property Search Towards Quantum Nano-Refrigerators</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Sofia Blyufer et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04907">2611.04907</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36654.html">Edhivo: An AI-Native Platform for Scalable Assessment and Instant Feedback in Higher Education</a></div></td>

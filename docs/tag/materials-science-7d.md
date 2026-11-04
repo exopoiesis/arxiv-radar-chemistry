@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>materials-science — 7d</h1>
-  <span class="paper-count">1 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,9 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37202.html">3D-SceneQ: Empowering 3D LLM With Query-Guided Adaptive Pruning and Multi-Modal Feature Enhancement</a></div></td>
-<td>Yongqi Shan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37202">2610.37202</a></td>
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03617.html">Tracing the Scientific Discovery Capacity of LLMs to Their Training Data</a></div></td>
+<td>Arda Uzunoglu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03617">2611.03617</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04008.html">Triboelectric nanogenerators across length scales: linking materials, multiscale modelling and applications</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>MD Tanzib Ehsan Sanglap et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04008">2611.04008</a></td>
 </tr>
 </tbody></table>

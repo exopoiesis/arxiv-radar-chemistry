@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05207.html">Multi-Objective Generative Optimization via Expected Hypervolume Fine-Tuning</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Juan Guevara et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05207">2611.05207</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36280.html">EVA-Flow: Learning Shared Chemistry for Unified Environment-Aware Molecular Conformation Generation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Bing Yan et al.</td>
@@ -842,11 +848,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.13173.html">Going With the Flow: Normalizing Flows for Gaussian Process Regression under Hierarchical Shrinkage Priors</a></div></td>
 <td>Peter Knaus</td>
 <td><a href="http://arxiv.org/abs/2501.13173">2501.13173</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05904.html">The Role and Mechanism of Deep Statistical Machine Learning In Biological Target Screening and Immune Microenvironment Regulation of Asthma</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Pengwei Zhu</td>
-<td><a href="http://arxiv.org/abs/2511.05904">2511.05904</a></td>
 </tr>
 </tbody></table>

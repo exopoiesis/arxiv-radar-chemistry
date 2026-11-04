@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02584.html">Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Adam M. Krajewski et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02584">2611.02584</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02906.html">Site-orbit masked twin-branch Transformer for symmetry-constrained crystal generation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Junchi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02906">2611.02906</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03767.html">Quantifying out-of-distribution data severity with Wasserstein distances: benchmarking large language models for alloy property prediction</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>YuJie Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03767">2611.03767</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36542.html">First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
@@ -332,11 +350,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05957.html">ASE2SPRKKR: a unified Python framework integrating the Spin-Polarized Relativistic Korringa-Kohn-Rostoker method into the Atomic Simulation Environment</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Ridha Eddhib et al.</td>
 <td><a href="http://arxiv.org/abs/2608.05957">2608.05957</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04651.html">Active Learning Guided Design Space Refinement for Scalable Multi-Objective Bayesian Optimization in Materials Discovery</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
-<td>Alexandros Ntagiantas et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04651">2608.04651</a></td>
 </tr>
 </tbody></table>

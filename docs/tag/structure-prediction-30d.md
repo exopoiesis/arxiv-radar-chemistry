@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>structure-prediction — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <strong>30d</strong> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03183.html">Auto-Research Agent on MSA Organization to Improve Protein-Protein Complex Structure Prediction</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Zilu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03183">2611.03183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05055.html">Ablating Design Choices for Protein Ensemble Generators Across Structural Regimes</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-llm-30d.html">protein-llm</a></div></td>
+<td>Eoin Quinn et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05055">2611.05055</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02906.html">Site-orbit masked twin-branch Transformer for symmetry-constrained crystal generation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
+<td>Junchi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02906">2611.02906</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37597.html">The Acridine Polymorph Landscape: Characterization and Selective Control by Additives</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
@@ -104,17 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09388.html">Bottom-Up Prediction of Amorphous Poly(1,3-dioxolane) using Ab Initio Reactive Machine-Learning Force Fields</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
 <td>Yizhi Song et al.</td>
 <td><a href="http://arxiv.org/abs/2610.09388">2610.09388</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04850.html">PIT-GCL: Protein Interaction using Topological Graph Contrastive Learning</a></div></td>
-<td>Jae Won Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04850">2610.04850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07037.html">Inference-Time Projection for Physically Valid Biomolecular Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="protein-structure-30d.html">protein-structure</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td> Qurat-ul-ain et al.</td>
-<td><a href="http://arxiv.org/abs/2610.07037">2610.07037</a></td>
 </tr>
 </tbody></table>

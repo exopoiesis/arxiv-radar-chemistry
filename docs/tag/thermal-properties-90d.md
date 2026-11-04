@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>thermal-properties — 90d</h1>
-  <span class="paper-count">63 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <strong>90d</strong> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04558.html">Machine-Learning Molecular Dynamics Reveals Grotthuss Transport in Concentrated Electrolytes</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Øystein Gullbrekken et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04558">2611.04558</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02202.html">Thermodynamic Underpinnings Affecting Compressive and Tensile Plasticity in Refractory Compositionally Complex Alloys</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Eric A. Lass et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02202">2611.02202</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36501.html">Spin-Charge Conversion in an Epitaxial Kagome Flat-Band Metal</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
@@ -374,23 +386,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07097.html">Net and Hidden Spin-Valley Locking Enable Ultrahigh Hole Mobility in Covalent Bulk WN$_2$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Rong-Tian Pang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.07097">2608.07097</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04637.html">Structural and dynamical behavior of methane-water systems under nanoconfinement</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>José Torres-Arenas et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04637">2608.04637</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04662.html">Time-resolved THz Stark spectroscopy of molecules in water</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Elnaz Zyaee et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04662">2608.04662</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05068.html">Effective single particle picture for anharmonic lattice dynamics: a Rosetta stone for electronic and ionic response</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Giovanni Caldarelli et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05068">2608.05068</a></td>
 </tr>
 </tbody></table>

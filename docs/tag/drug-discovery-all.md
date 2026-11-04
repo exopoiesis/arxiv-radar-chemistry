@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>drug-discovery — all</h1>
-  <span class="paper-count">1027 papers</span>
+  <span class="paper-count">1029 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03832.html">El Agente Fármaco: A Scalable AI Scientist for Drug Discovery</a></div></td>
+<td>Marcel Müller et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03832">2611.03832</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03963.html">ProteoCraft: Protein Design as Proposal-Verification Search</a></div><div class="paper-tags"><a href="protein-structure-all.html">protein-structure</a></div></td>
+<td>Fang Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03963">2611.03963</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38701.html">Sample-Based Quantum Diagonalization for Variable Molecular Geometries</a></div><div class="paper-tags"><a href="catalysis-all.html">catalysis</a> · <a href="excited-states-all.html">excited-states</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>

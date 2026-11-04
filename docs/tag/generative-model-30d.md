@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05055.html">Ablating Design Choices for Protein Ensemble Generators Across Structural Regimes</a></div><div class="paper-tags"><a href="protein-llm-30d.html">protein-llm</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Eoin Quinn et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05055">2611.05055</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05207.html">Multi-Objective Generative Optimization via Expected Hypervolume Fine-Tuning</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a></div></td>
+<td>Juan Guevara et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05207">2611.05207</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02906.html">Site-orbit masked twin-branch Transformer for symmetry-constrained crystal generation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Junchi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02906">2611.02906</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34029.html">TCSP3.0: Template-Based Crystal Structure Prediction with Coefficient-Preserving Element Substitution and Structural Diversity</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
@@ -224,17 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06614.html">FREA: A Multi-Source Expert Benchmark for Reaction Feasibility Verification</a></div><div class="paper-tags"><a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
 <td>Botao Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.06614">2610.06614</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05397.html">Efficient Graph Generation via Direct Prediction and Flow Matching</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="drug-discovery-30d.html">drug-discovery</a></div></td>
-<td>Susie Lu</td>
-<td><a href="http://arxiv.org/abs/2610.05397">2610.05397</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.05518.html">What Does Fréchet Distance Measure? A Directional Decomposition</a></div></td>
-<td>Yunghee Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2610.05518">2610.05518</a></td>
 </tr>
 </tbody></table>

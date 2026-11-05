@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,72 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05810.html">Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>J. Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05810">2611.05810</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05815.html">Sympathetic Cooling of Ionic Fullerenes with Ultracold Atoms to Millikelvin Temperatures</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
+<td>Saajid Chowdhury et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05815">2611.05815</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05946.html">Temperature-Dependent Ion Dynamics in Argyrodite Superionic Conductor Li$_{6}$PS$_{5}$Cl with Fine-Tuned MACE Foundation Model</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
+<td>Jack Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05946">2611.05946</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06122.html">Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Allex Kan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06122">2611.06122</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06157.html">Neural Stochastic Forecasting for Lateral Molecular Diffusion Simulations</a></div></td>
+<td>Jacob Ede Levine et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06157">2611.06157</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06240.html">Hyperbolic Nanocavities for Single-Molecule Vibrational Strong Coupling</a></div></td>
+<td>Stavros Athanasiou et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06240">2611.06240</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06277.html">An All-Atom Model of the Resorcinol-Formaldehyde Aerogel Skeleton from DFT and Molecular Dynamics: Validation and Iron Incorporation</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Shoeb Athar et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06277">2611.06277</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06363.html">Discrete Backbone Elasticity and Curvature-Dependent Torsion Statistics in Proteins</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Yiquan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06363">2611.06363</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06575.html">Exact periodic electrostatics for latent-charge machine-learning potentials</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
+<td>Eslam Ibrahim</td>
+<td><a href="http://arxiv.org/abs/2611.06575">2611.06575</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06614.html">Explicit pore pre-conditioning and inverse design of amorphous nanoporous carbon</a></div></td>
+<td>Matteo Alberghini et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06614">2611.06614</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06663.html">Anomalous thermal transport in isotope-enriched germanium carbide</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Wenjiang Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06663">2611.06663</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02174.html">Beyond Unit-Circle Eigenvalues: Invariant Bases for Stable State Space Dynamics</a></div></td>
@@ -44,6 +110,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04652.html">Statistically Robust Characterization of Polaron and Bipolaron Intrinsic Traps in Amorphous Silica Reveals the Role of Network Flexibility in Electron Localisation</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>Robin Delhomme et al.</td>
 <td><a href="http://arxiv.org/abs/2611.04652">2611.04652</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05752.html">Shock-driven Jetting at HMX Crystal Surface Asperities</a></div></td>
+<td>Ethan Holbrook et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05752">2611.05752</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-02</td>

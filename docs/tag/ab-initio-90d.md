@@ -16,10 +16,34 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05865.html">Symmetry-guided algorithms for variational quantum optimization</a></div></td>
+<td>Eunjin In et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05865">2611.05865</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06122.html">Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Allex Kan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06122">2611.06122</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06833.html">Quantum Spin Wave Theory with Multi-Spin Interactions for Magnetic Materials Modeling</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Andrey Rybakov et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06833">2611.06833</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04681.html">Small-data physics-informed ML model for magnetic exchange based on chemical composition and structure</a></div></td>
 <td>Brice Kengni Zanguim et al.</td>
 <td><a href="http://arxiv.org/abs/2611.04681">2611.04681</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05654.html">DefectSkills: Guiding AI agents through first-principles calculations for point defects in semiconductors and insulators</a></div></td>
+<td>Zhenkun Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05654">2611.05654</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-02</td>
@@ -2060,29 +2084,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07811.html">Probing $P,T$-Symmetry Violation with Optically Trapped Asymmetric Top Molecules</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Yuxi Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.07811">2608.07811</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05918.html">Jsymm: A Python package for symmetry analysis of exchange tensors in magnetic Hamiltonians</a></div></td>
-<td>A. S. Sergeev et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05918">2608.05918</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05957.html">ASE2SPRKKR: a unified Python framework integrating the Spin-Polarized Relativistic Korringa-Kohn-Rostoker method into the Atomic Simulation Environment</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Ridha Eddhib et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05957">2608.05957</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06138.html">A platform for nuclear symmetry-violation searches with laser-coolable molecules carrying spinful nuclei</a></div></td>
-<td>Tatsam Garg et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06138">2608.06138</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06468.html">Interference between multiple photoionization pathways in chiral molecules: Converging continuum results in Gaussian bases</a></div></td>
-<td>Muhammad Sakhi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06468">2608.06468</a></td>
 </tr>
 </tbody></table>

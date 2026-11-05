@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>multimodal-llm — all</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <a href="multimodal-llm-90d.html">90d</a> <a href="multimodal-llm-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06433.html">DreamRealm: Exploring and Materializing Hallucination Worlds for Trustworthy Vision-Language Models</a></div></td>
+<td>Benlei Cui et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06433">2611.06433</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06911.html">BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories</a></div></td>
+<td>Fei Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06911">2611.06911</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04811.html">NightIQA: A Comprehensive Dataset and Benchmark for MLLM-Based Nighttime Image Quality Assessment</a></div></td>

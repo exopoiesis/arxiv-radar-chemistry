@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06363.html">Discrete Backbone Elasticity and Curvature-Dependent Torsion Statistics in Proteins</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Yiquan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06363">2611.06363</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05055.html">Ablating Design Choices for Protein Ensemble Generators Across Structural Regimes</a></div><div class="paper-tags"><a href="protein-llm-30d.html">protein-llm</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
@@ -224,23 +230,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08922.html">Searching for hot water world candidates with CHEOPS: II. A low-density super-Earth orbiting the K dwarf TOI-2211</a></div></td>
 <td>J. A. Egger et al.</td>
 <td><a href="http://arxiv.org/abs/2610.08922">2610.08922</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06190.html">Bridging the Evidence-to-Execution Gap:A Reflective Agent for Multi-Objective Peptide Design</a></div></td>
-<td>Haosen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.06190">2610.06190</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06468.html">Latent Flow Matching for Molecular Graph Generation</a></div></td>
-<td>Mathis Goupillon et al.</td>
-<td><a href="http://arxiv.org/abs/2610.06468">2610.06468</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06614.html">FREA: A Multi-Source Expert Benchmark for Reaction Feasibility Verification</a></div><div class="paper-tags"><a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
-<td>Botao Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.06614">2610.06614</a></td>
 </tr>
 </tbody></table>

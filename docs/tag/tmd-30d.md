@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06740.html">Photonic and Electronic Interaction of TMD-Hybridized ZnO Nanowire Lasers</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Moritz Willems et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06740">2611.06740</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35547.html">High-efficiency solid-state electrochemical thermal switching through phonon engineering of 2D materials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Harry Mclean et al.</td>
@@ -38,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11212.html">Light-induced interlayer spacing dynamics via orbital phonon coupling</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
 <td>Wenwen Mao et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11212">2610.11212</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07203.html">Contact-Governed Macroscopic Signatures of Strain-Induced Valley Sorting in MoS$_2$ Field-Effect Transistors</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="diffusion-model-30d.html">diffusion-model</a></div></td>
-<td>Suhas Suresh Bharadwaj</td>
-<td><a href="http://arxiv.org/abs/2610.07203">2610.07203</a></td>
 </tr>
 </tbody></table>

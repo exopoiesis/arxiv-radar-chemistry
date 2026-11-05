@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-science — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <strong>30d</strong> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06833.html">Quantum Spin Wave Theory with Multi-Spin Interactions for Magnetic Materials Modeling</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Andrey Rybakov et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06833">2611.06833</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03617.html">Tracing the Scientific Discovery Capacity of LLMs to Their Training Data</a></div></td>
@@ -128,17 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09783.html">Electronic Properties of Ladder-Type Phenylenes Studied by Thermally-Assisted-Occupation Density Functional Theory</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Tsu-Hsuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.09783">2610.09783</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06448.html">A Practical Introduction to VQE: Methods, Challenges, and Applications in Physics and Chemistry</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Jannis Ehrlich et al.</td>
-<td><a href="http://arxiv.org/abs/2610.06448">2610.06448</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07296.html">Mapping E-textiles Design Pain Points and Generative AI Opportunities: Insights from Workshops in Shanghai and Winchester</a></div></td>
-<td>Zhuchenyang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.07296">2610.07296</a></td>
 </tr>
 </tbody></table>

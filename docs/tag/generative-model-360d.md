@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06363.html">Discrete Backbone Elasticity and Curvature-Dependent Torsion Statistics in Proteins</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Yiquan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06363">2611.06363</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05055.html">Ablating Design Choices for Protein Ensemble Generators Across Structural Regimes</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Eoin Quinn et al.</td>
@@ -2858,11 +2864,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07158.html">Guiding Generative Models to Uncover Diverse and Novel Crystals via Reinforcement Learning</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Hyunsoo Park et al.</td>
 <td><a href="http://arxiv.org/abs/2511.07158">2511.07158</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06259.html">Breaking the Modality Barrier: Generative Modeling for Accurate Molecule Retrieval from Mass Spectra</a></div></td>
-<td>Yiwen Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06259">2511.06259</a></td>
 </tr>
 </tbody></table>

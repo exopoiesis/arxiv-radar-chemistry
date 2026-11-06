@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07947.html">ChemE-as-Code: An Open-Source Platform for Agentic AI in Chemical Engineering</a></div></td>
+<td>Artur M. Schweidtmann</td>
+<td><a href="http://arxiv.org/abs/2611.07947">2611.07947</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05800.html">Time-resolved infrared spectroscopy with entangled photons and visible-light detection</a></div></td>
 <td>Jasleen Kaur et al.</td>
@@ -38,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01410.html">Energy Transfer and Strong Coupling in Plasmonic Systems</a></div></td>
 <td>Janak Bhandari et al.</td>
 <td><a href="http://arxiv.org/abs/2611.01410">2611.01410</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40402.html">Characterizing Reaction Types through Linear Free-Energy Relationships in Cavities</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Jillian G. Hoffstadt et al.</td>
-<td><a href="http://arxiv.org/abs/2610.40402">2610.40402</a></td>
 </tr>
 </tbody></table>

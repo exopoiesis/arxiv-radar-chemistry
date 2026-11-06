@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08065.html">Key role of orbital exchange in CoO magnetism</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Leonid V. Pourovskii et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08065">2611.08065</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06833.html">Quantum Spin Wave Theory with Multi-Spin Interactions for Magnetic Materials Modeling</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Andrey Rybakov et al.</td>
@@ -1994,11 +2000,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08725.html">Hybrid Atomistic-Parametric Decoherence Model for Molecular Spin Qubits</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Katy Aruachan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08725">2511.08725</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06712.html">Compression-induced magnetic obstructed atomic insulator and spin singlet state in antiferromagnetic KV2Se2O</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Liucheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06712">2511.06712</a></td>
 </tr>
 </tbody></table>

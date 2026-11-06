@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07354.html">MIKU: Material Invariance and Knowledge Unification for PBR Generation</a></div></td>
+<td>Yajie Bao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07354">2611.07354</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08434.html">DiffSequence-Q: Diffusion Design with Quantum Assistance for Biologically Active Proteins</a></div></td>
+<td>Ke-Xin Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08434">2611.08434</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33981.html">Tau creates spatially moving hotspots of amyloid-$β$ secondary nucleation: a reaction-diffusion model</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a></div></td>
 <td>Andrey V. Kuznetsov</td>
@@ -176,17 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12340.html">Ambient Discrete Diffusion: Using the Wrong Data at the Right Time for Data Efficient Learning</a></div></td>
 <td>Julian Kleutgens et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12340">2610.12340</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08296.html">OxiGen: Oxidation-State-Aware Crystal Generation</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Dylan John et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08296">2610.08296</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08652.html">Steering Diffusion Models to Rare Events with Sequential Monte Carlo</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Aavash Subedi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08652">2610.08652</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">422 papers</span>
+  <span class="paper-count">423 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07354.html">MIKU: Material Invariance and Knowledge Unification for PBR Generation</a></div></td>
+<td>Yajie Bao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07354">2611.07354</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08434.html">DiffSequence-Q: Diffusion Design with Quantum Assistance for Biologically Active Proteins</a></div></td>
+<td>Ke-Xin Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08434">2611.08434</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33981.html">Tau creates spatially moving hotspots of amyloid-$β$ secondary nucleation: a reaction-diffusion model</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
@@ -2540,11 +2552,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08065.html">Dynamic Diffusion Schrödinger Bridge in Astrophysical Observational Inversions</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Ye Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08065">2506.08065</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07158.html">Guiding Generative Models to Uncover Diverse and Novel Crystals via Reinforcement Learning</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Hyunsoo Park et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07158">2511.07158</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1572 papers</span>
+  <span class="paper-count">1570 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Aleksandra Deptuch et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07723.html">Static Recovery Is Not Dynamic Stability: Dynamics-Aware Benchmarking of Protein Motif Scaffolding</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="protein-function-360d.html">protein-function</a></div></td>
+<td>Emile de Bruyn et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07723">2611.07723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08024.html">Heat Transport Mechanisms in MOF-5</a></div><div class="paper-tags"><a href="mof-360d.html">mof</a></div></td>
+<td>Zezhu Zeng et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08024">2611.08024</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05810.html">Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
@@ -80,6 +98,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06663.html">Anomalous thermal transport in isotope-enriched germanium carbide</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Wenjiang Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2611.06663">2611.06663</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07200.html">A High-Dimensional Lab-Frame Model of Markovian Dynamics in Alanine Dipeptide</a></div></td>
+<td>Jesse M. Hall et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07200">2611.07200</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-03</td>
@@ -9410,41 +9434,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09566.html">Nanobubble size controls gas hydrate nucleation in supercooled water</a></div></td>
 <td>Ramkhelavan Kanaujiya et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09566">2511.09566</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.09370.html">Two-dimensional Indium Oxide at the Epitaxial Graphene/SiC Interface: Synthesis, Structure, Properties, and Devices</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Furkan Turker et al.</td>
-<td><a href="http://arxiv.org/abs/2504.09370">2504.09370</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16796.html">Extending Quantum Computing through Subspace, Embedding and Classical Molecular Dynamics Techniques</a></div></td>
-<td>Thomas M. Bickley et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16796">2505.16796</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04930.html">Wetting Transparency of Graphene: A macroscopic Window but Nanoscopic Mirror</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Yongkang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04930">2511.04930</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06800.html">Polarization-Magnetization Coupling in Visible Light Ferroelectric Double Perovskites</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Sathiyamoorthy Buvaneswaran et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06800">2511.06800</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07279.html">From Fresh to Salty: How Ions Modulate Solvent-Mediated Interactions between Grafted Silica Nanoparticles in Water</a></div></td>
-<td>Yuvraj Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07279">2511.07279</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07406.html">Entangled Schrödinger Bridge Matching</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Sophia Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07406">2511.07406</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07719.html">Graph Symbolic Distillation: Decoding Graph Data into Interpretable Formulas across Materials and Chemistry</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="gnn-30d.html">gnn</a></div></td>
+<td>Yuxuan Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07719">2611.07719</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07848.html">Contrasting fate of holes introduced by Fe or In in kagome metal CoSn</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Véronique Brouet et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07848">2611.07848</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02317.html">Defect Chemistry of Hafnia-Based Ferroelectrics under Oxide-Electrode Constraints</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>Sehyeok Jeon et al.</td>
@@ -176,17 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09719.html">Ab-initio Investigation on h-Be3N2 Monolayer for Photocatalytic Hydrogen Evolution Reaction and Oxygen Evolution Reaction</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="photocatalysis-30d.html">photocatalysis</a></div></td>
 <td>Karan Patel et al.</td>
 <td><a href="http://arxiv.org/abs/2610.09719">2610.09719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08249.html">Extraction of different electronic contributions to transport properties of transition metals from first principles</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>I. S. Galtsov et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08249">2610.08249</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08356.html">Incoherent Spectral Weight Emerging from a Van Hove Singularity in a Kagome Metal</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>C. -y. Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08356">2610.08356</a></td>
 </tr>
 </tbody></table>

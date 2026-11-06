@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">145 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Aleksandra Deptuch et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07723.html">Static Recovery Is Not Dynamic Stability: Dynamics-Aware Benchmarking of Protein Motif Scaffolding</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-function-30d.html">protein-function</a></div></td>
+<td>Emile de Bruyn et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07723">2611.07723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08024.html">Heat Transport Mechanisms in MOF-5</a></div><div class="paper-tags"><a href="mof-30d.html">mof</a></div></td>
+<td>Zezhu Zeng et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08024">2611.08024</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05810.html">Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
@@ -80,6 +98,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06663.html">Anomalous thermal transport in isotope-enriched germanium carbide</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Wenjiang Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2611.06663">2611.06663</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07200.html">A High-Dimensional Lab-Frame Model of Markovian Dynamics in Alanine Dipeptide</a></div></td>
+<td>Jesse M. Hall et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07200">2611.07200</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-03</td>
@@ -854,35 +878,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12518.html">Looking Under the Streetlight: Evaluation in Generative Molecular Dynamics</a></div></td>
 <td>Simon Olsson et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12518">2610.12518</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08013.html">Defect-limited thermal transport in AlN using pretrained machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Minseok Moon et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08013">2610.08013</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08298.html">Design Principles for Programmable Topological Soft Networks</a></div></td>
-<td>Andrea Bonato et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08298">2610.08298</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08613.html">Grain-boundary segregation delays the onset of plastic flow in nanocrystalline Fe-18Cr-12Ni</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Ashwinee Kumar</td>
-<td><a href="http://arxiv.org/abs/2610.08613">2610.08613</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08652.html">Steering Diffusion Models to Rare Events with Sequential Monte Carlo</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Aavash Subedi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08652">2610.08652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09106.html">Angular Momentum Fluctuations Induced by Phonon-Rotation Coupling Govern Nuclear Spin Relaxation in a Molecular Rotator Phase</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Yanan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09106">2610.09106</a></td>
 </tr>
 </tbody></table>

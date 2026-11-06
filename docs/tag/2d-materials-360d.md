@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07844.html">Half-integer quantum anomalous Hall effect in MnBi$_2$Te$_4$ via non-magnetic extension</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Igor P. Rusinov et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07844">2611.07844</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06740.html">Photonic and Electronic Interaction of TMD-Hybridized ZnO Nanowire Lasers</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a></div></td>
 <td>Moritz Willems et al.</td>
 <td><a href="http://arxiv.org/abs/2611.06740">2611.06740</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05100.html">Exploring the World of Lipids with Machine-Learned Coarse-Grained Models</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
+<td>Aldo S. Pasos-Trejo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05100">2611.05100</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-02</td>
@@ -3116,17 +3128,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08350.html">Revealing the Hidden Third Dimension of Point Defects in Two-Dimensional MXenes</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Grace Guinan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08350">2511.08350</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.09370.html">Two-dimensional Indium Oxide at the Epitaxial Graphene/SiC Interface: Synthesis, Structure, Properties, and Devices</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Furkan Turker et al.</td>
-<td><a href="http://arxiv.org/abs/2504.09370">2504.09370</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04930.html">Wetting Transparency of Graphene: A macroscopic Window but Nanoscopic Mirror</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yongkang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04930">2511.04930</a></td>
 </tr>
 </tbody></table>

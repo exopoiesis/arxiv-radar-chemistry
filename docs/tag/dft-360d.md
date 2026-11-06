@@ -16,6 +16,36 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Aleksandra Deptuch et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07848.html">Contrasting fate of holes introduced by Fe or In in kagome metal CoSn</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
+<td>Véronique Brouet et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07848">2611.07848</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08049.html">When Molecular Dimerization Induces Magnetic Bi-Stability at the Metal-Organic Interface</a></div></td>
+<td>Rouzhaji Tuerhong et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08049">2611.08049</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08051.html">First-order condensation and meniscus pinning in finite open wedges</a></div></td>
+<td>Jiří Janek et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08051">2611.08051</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08065.html">Key role of orbital exchange in CoO magnetism</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Leonid V. Pourovskii et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08065">2611.08065</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06122.html">Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Allex Kan et al.</td>
@@ -32,6 +62,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06740.html">Photonic and Electronic Interaction of TMD-Hybridized ZnO Nanowire Lasers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="tmd-360d.html">tmd</a></div></td>
 <td>Moritz Willems et al.</td>
 <td><a href="http://arxiv.org/abs/2611.06740">2611.06740</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07172.html">Formamide formation on forsterite and Mg(OH)$_2\cdot$H$_2$O</a></div></td>
+<td>Dario Campisi</td>
+<td><a href="http://arxiv.org/abs/2611.07172">2611.07172</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-03</td>
@@ -12134,41 +12170,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08718.html">Polaron and Strain Effects on Ion Migration in WO$_3$</a></div></td>
 <td>Matthäus Siebenhofer et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08718">2511.08718</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.09370.html">Two-dimensional Indium Oxide at the Epitaxial Graphene/SiC Interface: Synthesis, Structure, Properties, and Devices</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Furkan Turker et al.</td>
-<td><a href="http://arxiv.org/abs/2504.09370">2504.09370</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06166.html">Bridging the Synthesizability Gap in Perovskites by Combining Computations, Literature Data, and PU Learning</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Rushik Desai et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06166">2510.06166</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06712.html">Compression-induced magnetic obstructed atomic insulator and spin singlet state in antiferromagnetic KV2Se2O</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Liucheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06712">2511.06712</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07034.html">Sedimentation profiles and phase stacking diagrams in polydisperse hard rounded rectangle fluids</a></div></td>
-<td>Tobias Eckert et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07034">2511.07034</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07194.html">Domain Walls and Defects in Ferroelectric Inorganic Halide Perovskites CsGeX$_3$ (X = Cl, Br, I)</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Kristoffer Eggestad et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07194">2511.07194</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07284.html">Oxygen vacancies in vanadium dioxide: A DFT$+V$ study</a></div></td>
-<td>Oskar Leibnitz et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07284">2511.07284</a></td>
 </tr>
 </tbody></table>

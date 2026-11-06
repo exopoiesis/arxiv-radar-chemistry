@@ -1754,6 +1754,33 @@
   ],
   "updated": "2026-11-03"
  },
+ "2611.05100": {
+  "abstract": "Lipid bilayers are central to cellular organization and function, yet their atomistic modelling remains constrained by its high computational cost. While coarse-grained (CG) models can overcome this bottleneck, they are limited in accuracy due to the use of simplified functional forms based on molecular mechanics. Using a hybrid functional form combining physics-based terms with a graph neural network, we present implicit-solvent, machine-learned CG models for POPC. When trained on single-lipid data, the model recovers the atomistic conformational landscape. By adding short atomistic simulations of a small flat bilayer to the training data and combining force matching with a denoising objective, we train a model that accurately reproduces bilayer structure and dynamics, in closer agreement with the atomistic reference than existing models, like Martini3 and DryMartini. Beyond its training data, the model stabilizes curved geometries, including vesicles, and captures complex cooperative phenomena such as bilayer and vesicle self-assembly and pore sealing. While limitations remain, particularly regarding chemical transferability, our results establish machine-learned coarse-grained potentials as a promising path towards robust and accurate CG models of lipids and membranes.",
+  "authors": [
+   "Aldo S. Pasos-Trejo",
+   "Daniel P. Ramirez-Echemendia",
+   "Daniel Conde-Torres",
+   "D. Peter Tieleman",
+   "Cecilia Clementi"
+  ],
+  "categories": [
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Aldo S. Pasos-Trejo",
+  "pdf_url": "http://arxiv.org/pdf/2611.05100",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-11-03",
+  "tags": [
+   "2d-materials",
+   "gnn"
+  ],
+  "title": "Exploring the World of Lipids with Machine-Learned Coarse-Grained Models",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-11-03"
+ },
  "2611.05132": {
   "abstract": "Quantitative MRI methods can offer tissue parameter maps (e.g. T1) that are comparable across scanners, sessions and subjects, together with multiple contrast-weighted images from a single scan. However, most data are acquired at 1 mm, which limits their use in neurodegenerative diseases that affect fine brain structures. We introduce, to our knowledge, the first diffusion-model-based reconstruction for quantitative MRI at 0.5 mm isotropic resolution from scans of less than 5 minutes, which has eightfold smaller voxel volume than clinical protocols. The key idea is to apply the prior to the synthesized contrast images rather than to the subspace coefficients. The prior is then independent of the temporal basis and the sequence, which improves generalization and allows a 2-D multiscale energy (MuSE) model trained on grayscale CelebA face images to be used without any MRI training data. The explicit energy makes reconstruction MAP estimation by a step-size-free majorize-minimize algorithm that regularizes a rotating subset of contrasts along different axes, which makes 3-D multi-contrast reconstruction tractable. For 3-D radial MPnRAGE at 7 T in 4.3 min, MuSE reduced the phantom NRMSE from 0.133 (CG-SENSE) and 0.091 (L1-wavelet) to 0.074 and the WM T1 interquartile range from 117 and 47 ms to 38 ms, and it was demonstrated in vivo at 7 T.",
   "authors": [
@@ -2243,6 +2270,33 @@
   ],
   "updated": "2026-11-04"
  },
+ "2611.06255": {
+  "abstract": "Reward alignment for diffusion- and flow-based generative models is often formulated over stochastic trajectories, making it less suitable for few-step deterministic generators. Initial noise optimization provides a trajectory-free alternative, but existing gradient-free methods require costly per-sample search at inference. We introduce LeNO (Learning Noise Optimization), which amortizes reward-guided initial noise optimization into a learned residual transport while keeping the pretrained generator frozen. LeNO learns an anchor-conditioned distribution over noise corrections using Local GRPO and scalar rewards, eliminating iterative test-time optimization. For Gaussian initial noise with norm-preserving projection, we derive a tractable upper bound on the KL divergence between the corrected noise distribution and the original prior, providing a principled regularization objective. We evaluate LeNO on few-step text-to-image and protein structure generation, including expensive black-box designability rewards. Across both domains, LeNO improves target rewards with a single noise correction at inference while largely preserving generation quality and diversity.",
+  "authors": [
+   "Hongeun Kim",
+   "Jeongsol Kim",
+   "Jong Chul Ye"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Hongeun Kim",
+  "pdf_url": "http://arxiv.org/pdf/2611.06255",
+  "primary_category": "cs.LG",
+  "published": "2026-11-04",
+  "tags": [
+   "generative-model",
+   "protein-structure"
+  ],
+  "title": "Learning Noise Optimization for Reward Alignment in Few-Step Generative Models",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-11-04"
+ },
  "2611.06277": {
   "abstract": "Resorcinol-formaldehyde (RF) aerogels are lightweight, ultra-porous thermal superinsulators whose complex amorphous structure has not yet been described at the all-atom level. Here, we build an all-atom model of the RF aerogel skeleton by combining density functional theory (DFT) and classical molecular dynamics (MD), validate it against experimental infrared and density measurements, and use it to study the incorporation of iron dopants. The RF base unit was optimized with Gaussian, DMol$^{3}$ and SIESTA, and its calculated infrared spectrum agreed with experiment. Comparing classical force fields with DFT for branched systems of two to four base units (140-278 atoms) led to the choice of COMPASS II. A 15,012-atom system of 54 branched RF units, not cross-linked to each other, aggregated into a single cluster in the canonical (NVT) ensemble and reached an equilibrium density of 1.296 g.cm$^{-3}$ in the isobaric-isothermal (NPT) ensemble, in agreement with the experimental skeletal density (1.3 g.cm$^{-3}$). Then, 5 wt$\\%$ iron (109 atoms) was added to the equilibrated structure: during 1 ns of NPT simulation, the fraction of iron atoms embedded in the skeleton rose from 63$\\%$ to 71$\\%$, and the Fe-C radial distribution function peaked at 3 Å. The model thus provides an experimentally supported starting point for screening fillers and dopants in RF gels, with prospective application to their thermoelectric functionalization, which we have previously demonstrated experimentally with basalt and PANOX fibres. Future extensions could address skeleton properties relevant to thermal insulation and the pyrolysis of RF gels into carbon and metal-doped carbon aerogels.",
   "authors": [
@@ -2295,6 +2349,7 @@
   ],
   "title": "Discrete Backbone Elasticity and Curvature-Dependent Torsion Statistics in Proteins",
   "topics": [
+   "Generative Design & Molecule Optimization",
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-11-04"
@@ -2533,5 +2588,647 @@
    "Large Language Models & Materials"
   ],
   "updated": "2026-11-04"
+ },
+ "2611.07172": {
+  "abstract": "Context. Formamide formation in the Universe has been the subject of debate due to its importance as a precursor to amino acids and RNA. Current studies focus on the gas-phase and icy grain formation routes. However, formamide formation on bare silicate surfaces or hydrated Mg-bearing molecular models remains largely unexplored in environments relevant to protoplanetary disks. Aims. This study presents a quantum-chemical investigation of formamide formation on an Mg center and a silicate surface. $Mg(OH)_2\\cdot H_2O$ and the bare (010) forsterite ($Mg_2SiO_4$) surface, used as an analog of a bare dust-grain surface, may promote formamide formation via $NH_2$ addition to $H_2CO$. Methods. I employed density functional theory (DFT) to study the addition of $NH_2$ to $H_2CO$ with an isolated $Mg(OH)_2\\cdot H_2O$ molecular model and on the forsterite (010) surface. First, I benchmarked various theoretical methodologies. I then examined the ability of $Mg(OH)_2\\cdot H_2O$ and the forsterite (010) surface to promote formamide formation. Finally, for the case with an entrance barrier, I computed unimolecular rate constants and half-lives to assess its kinetic behavior. Results. $Mg(OH)_2\\cdot H_2O$ promotes proton transfer within the $NH_2$-$CH_2O$ intermediate via the O-H group coordinated with Mg following $NH_2$ addition to $H_2CO$, whereas on the forsterite, a barrier-less addition pathway is found when $NH_2$ is initially physisorbed close to the formaldehyde center, followed by proton transfer leading to formamide formation. Conclusions. The Mg-bearing model systems considered here can promote rapid proton transfer following $NH_2$ addition to $H_2CO$. For the $Mg(OH)_2\\cdot H_2O$ model, the reaction step from the pre-reactive complex is predicted to occur on nanosecond timescales at temperatures approaching 300 K. The present work provides kinetic data for astrochemical models.",
+  "authors": [
+   "Dario Campisi"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "physics.chem-ph"
+  ],
+  "comment": "18 pages, 10 figures. Accepted for publication in Astronomy & Astrophysics",
+  "first_author": "Dario Campisi",
+  "pdf_url": "http://arxiv.org/pdf/2611.07172",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-11-04",
+  "tags": [
+   "dft"
+  ],
+  "title": "Formamide formation on forsterite and Mg(OH)$_2\\cdot$H$_2$O",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.07200": {
+  "abstract": "We present a high-dimensional coarse-grained model of alanine dipeptide that explicitly incorporates global translation and rotation alongside internal conformational dynamics. Using atomistic molecular dynamics trajectories, we construct a 10-bead Markovian Langevin model with a 24-dimensional internal potential of mean force and a full matrix of site-specific friction coefficients. The equilibrium landscape is represented by a Gaussian mixture model, while a rotational-entropy correction accounts for the coupling between internal conformation and global molecular motion. Friction coefficients are obtained using a generalized Einstein relation based on time-correlation functions. We show that the rotational-entropy correction is essential for obtaining a physically admissible friction matrix and significantly affects the inferred dynamics. Without fitting to coarse-grained dynamical observables, the resulting model reproduces a broad range of atomistic auto- and cross-correlation functions. The result is a compact and interpretable dynamical representation of the entire peptide at the chosen CG resolution, which explicitly preserves distinctions between energetic and dissipative coupling over a wide range of motions, including those between conformational fluctuations and global translational and rotational diffusion.",
+  "authors": [
+   "Jesse M. Hall",
+   "Marina G. Guenza"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "Main body 7 pages, Supplemental Information 26 pages",
+  "first_author": "Jesse M. Hall",
+  "pdf_url": "http://arxiv.org/pdf/2611.07200",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-04",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "A High-Dimensional Lab-Frame Model of Markovian Dynamics in Alanine Dipeptide",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.07210": {
+  "abstract": "Neural audio autoencoders, a deep learning method for sound synthesis, are increasingly popular in AI-enhanced NIMEs. It is timely to explore as a community how this technological opportunity has opened a domain of design in NIME. This paper focuses on one compelling technique of using autoencoders for sound synthesis: navigating their latent space as a generative sound space. We introduce Latent Terrain, a Max/MSP tool package designed to tailor latent spaces into corpus-based sound spaces for NIMEs. We describe the rationale and development process of Latent Terrain to offer insights into the use of autoencoders in a material-oriented crafting space of musical interface design. We deliver an annotated portfolio resulting from a collaborative artistic exploration of Latent Terrain with four NIME makers, to showcase the design possibilities opened by autoencoders. We reflect on our practice-based account to discuss the challenges and opportunities of enabling neural audio autoencoders as design materials for AI-enhanced NIMEs.",
+  "authors": [
+   "Shuoyang Jasper Zheng",
+   "Keigo Yoshida",
+   "Nico García-Peguinho",
+   "Jiatong Liu",
+   "Dan Hearn",
+   "Anna Xambó Sedó",
+   "Nick Bryan-Kinns"
+  ],
+  "categories": [
+   "cs.SD"
+  ],
+  "comment": "In Proceedings of the International Conference on New Interfaces for Musical Expression 2026",
+  "first_author": "Shuoyang Jasper Zheng",
+  "pdf_url": "http://arxiv.org/pdf/2611.07210",
+  "primary_category": "cs.SD",
+  "published": "2026-11-04",
+  "tags": [],
+  "title": "Latent Terrain: Adapting Neural Audio Autoencoders as Design Materials in NIME",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-11-04"
+ },
+ "2611.07354": {
+  "abstract": "High-quality material generation for physically based rendering (PBR) remains challenging because datasets and synthesis pipelines lack standardized representations. Differences in material definitions, rendering conventions, and parameterizations lead to unstable and physically implausible results. We propose MIKU, a unified framework for standardized PBR asset representation and physically consistent material generation across diverse 3D content domains. Its core is a unified processing pipeline that standardizes the workflow from data preprocessing to final texture synthesis, maintaining consistent geometry and texture representations. A normalization scheme harmonizes heterogeneous material parameterizations in a common representation space, enabling robust cross-dataset training and inference. Building on this formulation, we train a novel physically aware diffusion model for PBR texture generation within a two-stage multi-view synthesis framework. First, geometry-aware albedo generation synthesizes multi-view albedo maps under explicit geometric guidance to ensure cross-view appearance consistency. Second, metallic-roughness generation uses the diffusion model to predict physically plausible roughness and metallic maps conditioned on the generated albedo and unified representation. Trained end-to-end on standardized data, the model learns to generate materials that respect category-level material priors and semantic part boundaries. By decoupling representation standardization from appearance synthesis, MIKU substantially improves material generation stability and physical consistency. Extensive experiments demonstrate state-of-the-art texture quality and semantic consistency across object parts, advancing automated material generation for 3D content creation.",
+  "authors": [
+   "Yajie Bao",
+   "Jiaye Fu",
+   "Youtian Lin",
+   "Shuang Wu",
+   "Jiachen Qian",
+   "Feihu Zhang",
+   "Xun Cao",
+   "Yao Yao"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "The Project Page is: https://github.com/DreamTechAI/MIKU. The Paper is published in SIGGRAPH Asia 2026 (TOG)",
+  "first_author": "Yajie Bao",
+  "pdf_url": "http://arxiv.org/pdf/2611.07354",
+  "primary_category": "cs.CV",
+  "published": "2026-11-05",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "MIKU: Material Invariance and Knowledge Unification for PBR Generation",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.07410": {
+  "abstract": "Symmetry governs the organization of physical structures, while symmetry breaking reveals their transformations. In geometric deep learning, symmetry imposes rank constraints on equivariant representations, limiting the expressive capacity of equivariant graph neural networks (GNNs). Here we show that these constraints can instead be exploited: the singular-value spectra of equivariant representations provide a unified fingerprint of structural symmetry. We introduce spectral symmetry fingerprints (SymFP), which enable discrete point-group identification through rank-template matching and continuous symmetry analysis by quantifying spectral energy beyond target rank constraints. SymFP is orientation invariant and architecture agnostic, enabling a parameter-free GNN implementation. Its spectra can be reused across multiple target groups, and the resulting leakage scores satisfy subgroup monotonicity. Across synthetic structures, molecules, coordination complexes and large biological assemblies, SymFP accurately identifies point groups, tracks controlled symmetry breaking and reveals local and degree-resolved symmetry changes that can be obscured by global geometric measures. These results establish the spectral structure of equivariant representations as a general framework for characterizing symmetry across physical systems.",
+  "authors": [
+   "Jiacheng Cen",
+   "Anyi Li",
+   "Ning Lin",
+   "Zihe Wang",
+   "Ji-Rong Wen",
+   "Wenbing Huang"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci",
+   "math-ph",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Jiacheng Cen",
+  "pdf_url": "http://arxiv.org/pdf/2611.07410",
+  "primary_category": "cs.LG",
+  "published": "2026-11-05",
+  "tags": [
+   "gnn"
+  ],
+  "title": "Spectral symmetry fingerprints in equivariant representations",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.07609": {
+  "abstract": "The interstellar reddening (extinction or absorption) is caused mainly by the dust grains of different sizes and compounds. All astrophysical observations are somehow affected by this effect, depending on the wavelength and location of the observed object. Different methods and techniques have been developed over the last nearly one hundred years to determine the reddening and to map the solar neighbourhood. The members of open clusters are a consistent population of stars formed together with a homogeneous metallicity. Therefore, the reddening can be estimated in a statistical way, avoiding all problems of single stars and spectral-energy-distribution fitting, for example. Other than for most available works, we can also use more massive upper main-sequence stars for the analysis. We used classical colour-colour diagrams (also known as the Q-method) for (B-V), (BP-RP), (U-B), (U-BP), (U-RP), and (U-G) to determine consistent mean reddening values and their errors. The corresponding standard lines for the fitting are independent of the age and metallicity. We determined colour excesses for 5377 Galactic open clusters covering Galactocentric distances from two to twenty kpc, respectively. The derived values were checked with existing dust and extinction maps. In general, we found good agreement. The solar neighbourhood of +-1500 pc shows a very patchy structure of the dust composition. Our results lay the foundations for constructing a new map of the reddening (dust) distribution and estimating clusters' metallicities by isochrone fitting, keeping the distances and reddening values fixed.",
+  "authors": [
+   "Ernst Paunzen",
+   "Teja Begari"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "astro-ph.IM",
+   "astro-ph.SR"
+  ],
+  "comment": "11 pages, 9 figures, 1 table, submitted to A&A",
+  "first_author": "Ernst Paunzen",
+  "pdf_url": "http://arxiv.org/pdf/2611.07609",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-11-05",
+  "tags": [],
+  "title": "A Large-Sample Study of Interstellar Reddening in Galactic Star Clusters",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.07623": {
+  "abstract": "The molecular dynamics and glass-forming behavior of 4-cyano-3-fluorophenyl 4-butylbenzoate (4CFPB) liquid crystal was investigated by broadband dielectric spectroscopy in anodic aluminum oxide cylindrical nanopores of 35 and 73 nm diameter. The primary $α$-relaxation was analyzed using the Vogel-Fulcher-Tammann (VFT) and Mauro-Yue-Ellison-Gupta-Allan (MYEGA) models. Confinement reduces the glass transition temperature from 217 K in bulk to 208-210 K, while preserving the super-Arrhenius character of the $α$-relaxation and a fragility index of approximately 60. Unlike in previously studied 6 and 8 nm pores, the secondary $β$-relaxation remains detectable, with possible intramolecular contributions examined by density functional theory calculations. Next to the pore-size-dependent changes in molecular dynamics and glass transition temperature, cold crystallization is not observed. These findings highlight the distinct effects of geometrical confinement on molecular relaxation, glass formation, and crystallization kinetics.",
+  "authors": [
+   "Aleksandra Deptuch",
+   "Eugeniusz Rajewski",
+   "Ewa Juszyńska-Gałązka"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Aleksandra Deptuch",
+  "pdf_url": "http://arxiv.org/pdf/2611.07623",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-05",
+  "tags": [
+   "dft",
+   "molecular-dynamics"
+  ],
+  "title": "Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.07719": {
+  "abstract": "Graph data provide a natural representation of the interconnected structures and interactions underlying many chemical and materials systems. Graph neural networks (GNNs) can learn complex relationships from such data, yet translating these representations into interpretable descriptors and scientific insights remains challenging. Here we introduce graph symbolic distillation (GSD), a framework for decoding graph data into interpretable symbolic formulas. GSD identifies task-relevant message-passing architectures and distills their learned transformations while preserving graph connectivity and aggregation operations. Across three case studies spanning bulk materials, molecules, and surfaces, GSD not only recovers expert-defined descriptors from elementary node and edge features, but also reveals relationships emerging from their organization in complex graphs: extremal local geometric descriptors for band gap variations in $γ$-CsPbI$_3$, a local polarity--size relationship underlying hydration free energy, and site-specific electronic--connectivity coupling in multidentate adsorption. GSD thus provides a general route from graph data to interpretable descriptors and new, testable scientific insights.",
+  "authors": [
+   "Yuxuan Yao",
+   "Harald Oberhofer",
+   "Karsten Reuter",
+   "Wenbin Xu"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Yuxuan Yao",
+  "pdf_url": "http://arxiv.org/pdf/2611.07719",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-05",
+  "tags": [
+   "band-gap",
+   "free-energy",
+   "gnn"
+  ],
+  "title": "Graph Symbolic Distillation: Decoding Graph Data into Interpretable Formulas across Materials and Chemistry",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.07723": {
+  "abstract": "Protein motif scaffolding benchmarks assess whether generative models can build scaffolds around functionally important residues. Their conclusions depend on which motifs are tested and which criteria define success. Existing benchmarks typically use small hand-curated motif sets and static refolding criteria, but protein function often depends on conformational ensembles and transitions. Here, we address both benchmark scope and success criteria. We introduce BILBY-PRO, a systematically derived benchmark of structurally conserved functional motifs from PROSITE-linked experimental structures, comprising 220 cases from 174 PROSITE motif-pattern entries. Evaluating six recent scaffold-generation models reveals distinct patterns in target coverage and unique-solution yield: RFDiffusion and Proteina solve more targets, whereas ESM3 produces more unique successful scaffolds on the targets it solves. We further introduce BILBY-MD, a reference-based all-atom molecular dynamics evaluation framework. Applied to statically solved designs from the original MotifBench benchmark, it compares motif drift, scaffold drift, motif-contact preservation, and motif-dihedral free-energy landscapes against reference simulations. Of 55 statically solved model-problem pairs, 31 satisfy our MD-supported criterion and only 8 pass all checks. Compact, self-contained motifs are often MD-supported, whereas interface-like or context-dependent motifs fail more frequently. Static refolding success therefore provides useful evidence of local motif recovery but does not establish dynamical fidelity of the full scaffold. BILBY highlights three complementary axes of motif-scaffolding evaluation: target coverage, unique-solution yield, and MD-supported dynamical fidelity.",
+  "authors": [
+   "Emile de Bruyn",
+   "Moritz Schäffler",
+   "Jannik Schneider",
+   "Sebastian R. Schmidt",
+   "Chanwoong Hwang",
+   "Aleena Siji",
+   "Utkarsh Upadhyay",
+   "Stefan Bauer",
+   "Alexander Schug",
+   "Stefan Kesselheim",
+   "Artur Yakimovich",
+   "Alina Bazarova"
+  ],
+  "categories": [
+   "cs.LG",
+   "q-bio.BM"
+  ],
+  "comment": "Accepted at NeurIPS 2026 (Evaluations & Datasets Track). 23 pages, 10 figures, including supplementary material. The first three authors contributed equally. BILBY-PRO dataset: https://huggingface.co/datasets/HFMI-PROFOUND/BILBY-PRO ; BILBY-MD code: https://github.com/PROFOUND-HFMI/BILBY-MD",
+  "first_author": "Emile de Bruyn",
+  "pdf_url": "http://arxiv.org/pdf/2611.07723",
+  "primary_category": "cs.LG",
+  "published": "2026-11-05",
+  "tags": [
+   "generative-model",
+   "molecular-dynamics",
+   "protein-function"
+  ],
+  "title": "Static Recovery Is Not Dynamic Stability: Dynamics-Aware Benchmarking of Protein Motif Scaffolding",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.07757": {
+  "abstract": "Enzyme function annotation and the identification of candidate enzymes for a given reaction are essential steps in connecting genomic information to biochemical reaction networks. However, existing methods rely on sequence or structural similarity or on training with known enzyme--reaction pairs, making it difficult to integrate biochemical evidence across large candidate spaces; they also struggle with retrieval tasks involving enzyme families whose members are highly similar. Here, we introduce RIVER (Reaction--enzyme Inference via Evidence-guided Retrieval), a multi-agent framework for bidirectional enzyme--reaction retrieval that identifies potentially catalyzed reactions for a given enzyme and ranks candidate enzymes for a given reaction. RIVER coordinates large language models, specialized biochemical computational tools, and external knowledge resources to assemble evidence at multiple levels, including reaction chemistry, protein sequences and domains, catalytic mechanisms, and database annotations. Dedicated validation modules further examine evidence gaps and potential conflicts and rerank candidates using traceable evidence records. On public benchmarks, RIVER achieves the highest success rates in both enzyme retrieval and enzyme annotation. In family-specific enzyme retrieval, RIVER outperforms the evaluated baselines on the selected datasets and metrics. In Escherichia coli enzyme retrieval tasks constructed from recent literature, RIVER achieves the best retrieval results with closed-source and open-source model configurations, substantially outperforming closed-source general-purpose and biology-specialized multi-agent systems, including Claude Code, Codex, and Phylo Max. These results suggest that evidence-guided multi-agent retrieval can prioritize biochemically supported enzyme--reaction relationships, providing a basis for subsequent experimental validation.",
+  "authors": [
+   "Yifan Chang",
+   "Yunze Li",
+   "Feifei Jiang",
+   "Juntao Wu",
+   "Xin Chen",
+   "Han Hu",
+   "Yucheng Wu",
+   "Wei Tang",
+   "Mingqian Ma",
+   "Wanli Ouyang",
+   "Kaipeng Zhang",
+   "Lei Bai",
+   "Hongting Tang",
+   "Feiran Li",
+   "Yuchen Ren"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Yifan Chang",
+  "pdf_url": "http://arxiv.org/pdf/2611.07757",
+  "primary_category": "cs.AI",
+  "published": "2026-11-05",
+  "tags": [],
+  "title": "RIVER: Evidence-guided multi-agent retrieval for enzyme--reaction discovery",
+  "topics": [
+   "Large Language Models & Materials",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.07844": {
+  "abstract": "Within an ab-initio approach, we study the electronic structure and Hall response of the antiferromagnetic topological insulator film of MnBi$_2$Te$_4$ in contact with non-magnetic GeBi$_2$Te$_4$ (Bi$_2$Te$_3$) overlayer. The proposed junction design eliminates the exchange splitting one of the Dirac cones of the MnBi$_2$Te$_4$ (0001) thus manifesting a half-integer quantum anomalous Hall phase. The described recipe allows to enlarge temperature of the effect observation, enriches the diversity of topological properties of the MnBi$_2$Te$_4$ compound and is appropriate for other layered antiferromagnetic topological insulators. Applying the proposed heterostructure design, the half-quantized Hall phase can be established with employing other overlayer and magnetic topological insulator films.",
+  "authors": [
+   "Igor P. Rusinov",
+   "Tatiana V. Menshchikova",
+   "Evgueni V. Chulkov"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Igor P. Rusinov",
+  "pdf_url": "http://arxiv.org/pdf/2611.07844",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-05",
+  "tags": [
+   "2d-materials",
+   "ab-initio",
+   "electronic-structure"
+  ],
+  "title": "Half-integer quantum anomalous Hall effect in MnBi$_2$Te$_4$ via non-magnetic extension",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.07848": {
+  "abstract": "CoSn is a kagome metal with well-defined flat bands 0.2 eV below the Fermi level EF. Moving them across EF would offer a rare opportunity to investigate their impact on electronic properties. Using angle-resolved photoemission spectroscopy (ARPES) and X-ray absorption at the Co K-edge, we examine two routes to introduce holes in this compound, through Co/Fe or Sn/In substitutions. Substituting In for Sn produces an almost rigid upward shift of the bands toward EF, as expected for hole doping, whereas substituting Fe for Co leads to an unexpected downward shift. Density functional theory calculations reproduce these opposite trends and trace the unusual behavior of Fe to its local magnetic moment. The moment keeps the hole on the Fe impurity and imposes an attractive electrostatic potential on neighboring Co atoms. Overall, both substitutions bring weakly dispersing states close to EF, the flat bands of the Co kagome lattice upon In substitution and partly localized states around magnetic Fe impurities upon Fe substitution.",
+  "authors": [
+   "Véronique Brouet",
+   "Laure Thomarat",
+   "Patrick Le Fèvre",
+   "Ethan Saiman",
+   "Jean-Pascal Rueff",
+   "Oleg Rubel",
+   "Victor Balédent",
+   "François Bertran"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": "5 pages manuscript + 17 pages SI",
+  "first_author": "Véronique Brouet",
+  "pdf_url": "http://arxiv.org/pdf/2611.07848",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-11-05",
+  "tags": [
+   "band-gap",
+   "dft"
+  ],
+  "title": "Contrasting fate of holes introduced by Fe or In in kagome metal CoSn",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.07864": {
+  "abstract": "Understanding how the properties of the visible Universe depend on the parameters of the Standard Model of particle physics requires \\emph{ab initio} theoretical computations. To that end, we investigate the quark-mass dependence of low-energy nucleon-nucleon scattering in the deuteron and dineutron channels. We perform lattice-QCD calculations at pion masses $M_π\\approx 200$ and $280$ MeV and compare their results to phenomenology at the physical point and to a previous calculation at $M_π\\approx 710$ MeV. Scattering amplitudes, phase shifts, and threshold parameters are determined from finite-volume spectra using quantization conditions that explicitly incorporate long-distance effects from one-pion exchange. We analyze the pion-mass dependence of scattering lengths and effective ranges using chiral effective field theory with Weinberg and Kaplan-Savage-Wise power countings. From this, we estimate the pion-mass derivatives of the inverse scattering lengths and binding momentum, at the physical point. Both power countings indicate that the deuteron unbinds near $M_π\\approx 220$ MeV.",
+  "authors": [
+   "Jorge Baeza-Ballesteros",
+   "André Baião-Raposo",
+   "Davide Laudicina",
+   "Malcolm Lazarow",
+   "Thomas R. Richardson",
+   "Miguel Salg",
+   "John Bulava",
+   "Jeremy R. Green",
+   "Andrew Hanlon",
+   "Renwick J. Hudspith",
+   "Daniel Mohler",
+   "Colin Morningstar",
+   "Amy Nicholson",
+   "Fernando Romero-López",
+   "André Walker-Loud",
+   "Hartmut Wittig"
+  ],
+  "categories": [
+   "hep-lat",
+   "hep-ph",
+   "nucl-th"
+  ],
+  "comment": "6 pages + appendices. 3 figures. 1+3 tables",
+  "first_author": "Jorge Baeza-Ballesteros",
+  "pdf_url": "http://arxiv.org/pdf/2611.07864",
+  "primary_category": "hep-lat",
+  "published": "2026-11-05",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Quark-mass dependence of two-nucleon scattering",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.07947": {
+  "abstract": "ChemE-as-Code provides an open-source environment in which AI agents built on large language models (LLMs) can carry out chemical engineering work and engineers can check it. Its calculation tools range from catalysis through process simulation to plant layout, HAZOP and life cycle assessment, and skills tell a general-purpose agent how to use them. Engineering files are linked, machine-readable and versioned in Git; calculations run outside the LLM, each value records its origin, and automated checks report inconsistencies and out-of-date results by file and line. In an illustrative ammonia case, agents developed a written task into a preliminary basic-engineering package (simulation files, P&IDs, layout, HAZOP, datasheets, relief) for USD 224 of API cost in the design sessions. Planted faults and engineering changes show that the checks find what their rules cover and miss the rest, so they guide human review rather than replace it. No independent engineer has reviewed the design.",
+  "authors": [
+   "Artur M. Schweidtmann"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "28 pages, 4 figures, 5 tables; Supporting Information (28 pages) appended. Submitted to AIChE Journal. Code and data: https://github.com/ChemE-as-Code",
+  "first_author": "Artur M. Schweidtmann",
+  "pdf_url": "http://arxiv.org/pdf/2611.07947",
+  "primary_category": "cs.AI",
+  "published": "2026-11-05",
+  "tags": [
+   "catalysis"
+  ],
+  "title": "ChemE-as-Code: An Open-Source Platform for Agentic AI in Chemical Engineering",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.07998": {
+  "abstract": "It is well established that molecular substructures can contribute unequally to chemical and physical properties, with specific motifs or side chains often playing dominant roles. Fragment-based representations have therefore emerged as an effective strategy for incorporating chemically meaningful inductive biases, as exemplified by molecular fingerprints and fragment-based attention mechanisms. However, many existing fragmentation-based machine learning methods rely on predefined chemical rules, which may yield suboptimal fragmentation for previously unseen or chemically unfamiliar structures and often overlook the importance of multiscale molecular representations. To address these limitations, we formulate molecular fragmentation as a radius-constrained optimization problem inspired by the k-center formulation, where the number of clusters is not fixed a priori but emerges from the specified radius, and propose a geometry-based fragmentation method that partitions arbitrary molecular or material structures using largely geometric information, without relying on predefined chemical fragmentation rules. The method provides flexible control over fragment size, enabling the construction of multiscale fragment representations for scale-adaptive modeling. Building on this framework, we develop a geometric fragment-based attention mechanism that integrates multiscale structural information and incorporate it into a multimodal machine learning model combining p-SMILES representations with three-dimensional (3D) conformational information. Experiments on a benchmark polymer dataset show that incorporating 3D conformational information improves prediction accuracy for several properties over models based exclusively on p-SMILES representations. Explainable artificial intelligence analyses further provide insights into the physical relevance of the learned representations.",
+  "authors": [
+   "Makoto Takamoto",
+   "Chaitanya Sampara",
+   "Viktor Zaverkin",
+   "Daniel Oñoro-Rubio",
+   "Mathias Niepert"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph"
+  ],
+  "comment": "29 pages, 8 figures, accepted for publication in ACS Omega",
+  "first_author": "Makoto Takamoto",
+  "pdf_url": "http://arxiv.org/pdf/2611.07998",
+  "primary_category": "cs.LG",
+  "published": "2026-11-05",
+  "tags": [
+   "molecular-representation"
+  ],
+  "title": "Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.08024": {
+  "abstract": "We find that MOF-5 supports both long-lived phonons and linker vibrations whose split spectra signal a breakdown of the phonon quasiparticle approximation. Combining mode-projected molecular dynamics spectra with spectral Wigner heat transport, we resolve two contrasting transport channels: low-frequency particle-like phonon propagation decreases strongly from 200 to 500 K, whereas wave-like phonon coherence remains nearly constant and supplies about half the intrinsic conductivity at 500 K. A phenomenological extrinsic scattering model provides a plausible explanation for the discrepancy between calculated and measured conductivities in terms of both its magnitude and temperature dependence. We also identify signatures of phonon quasiparticle breakdown in the linker vibrations of ZIF-8 and HKUST-1, indicating that this feature extends to other metal-organic frameworks.",
+  "authors": [
+   "Zezhu Zeng",
+   "Xia Liang",
+   "Hengtai Zheng",
+   "Aron Walsh",
+   "David E. Manolopoulos"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "7 pages, 3 figures",
+  "first_author": "Zezhu Zeng",
+  "pdf_url": "http://arxiv.org/pdf/2611.08024",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-05",
+  "tags": [
+   "mof",
+   "molecular-dynamics"
+  ],
+  "title": "Heat Transport Mechanisms in MOF-5",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.08049": {
+  "abstract": "We present a method to create metal-organic dimer complexes by on-surface assembly on a metal substrate using low-temperature scanning tunneling microscopy (STM) and spectroscopy (STS). We demonstrate that a dimer of Mn-Phthalocyanine (MnPc)2 on a Ag(111) surface can be switched between two stable configurations upon a small conformational change controlled by STM manipulation. By means of density-functional theory calculations, it is found that the two conformations correspond to an antiferromagnetic (AFM) and a ferromagnetic (FM) state respectively. Directly coordinated Mn atoms of the dimer lead to an AFM-coupling whereas indirectly coordinated (shifted) Mn atoms lead to a FM-coupling. Rarely seen in a molecular- dimers with transition-metal atoms, the FM-AFM-FM transition is thus readily on-surface accessible. Furthermore, the two configurations of the switch are easily identified by their Kondo states, opening interesting routes in terms of both, writing (FM versus AFM states) and reading. These results pave the experimental route toward dimer-based materials with complex magnetic structures of potential interest for application in spintronics, logics and computing.",
+  "authors": [
+   "Rouzhaji Tuerhong",
+   "Franck Ngassam",
+   "Mebarek Alouani",
+   "Jean-Pierre Bucher"
+  ],
+  "categories": [
+   "cond-mat.mes-hall"
+  ],
+  "comment": "41 pages (including SI)",
+  "first_author": "Rouzhaji Tuerhong",
+  "pdf_url": "http://arxiv.org/pdf/2611.08049",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-11-05",
+  "tags": [
+   "dft"
+  ],
+  "title": "When Molecular Dimerization Induces Magnetic Bi-Stability at the Metal-Organic Interface",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.08051": {
+  "abstract": "We study first-order condensation in finite open wedges using classical density functional theory (DFT) and compare the resulting microscopic phase behaviour with recent macroscopic predictions. Two geometries are considered: a symmetric wedge formed by two identical inclined walls and an asymmetric wedge formed by a vertical and an inclined wall. The DFT calculations confirm the two condensed morphologies predicted for the symmetric wedge and the three morphologies predicted for the asymmetric wedge and their emergence depending on the wedge size, opening angle, and wall contact angle. Under partial-wetting conditions, the microscopic phase boundaries are in nearly perfect quantitative agreement with the macroscopic predictions, including reentrant changes between pinned and depinned meniscus configurations and the appearance of the semi-double-pinned state in the asymmetric wedge. Under complete-wetting conditions, the DFT phase diagrams retain the topology predicted by the macroscopic theory, but the single-pinned region is systematically enlarged. This shift is attributed to adsorbed liquid films, which reduce the effective width available to the gas and thereby increase the effective aspect ratio of the confinement.",
+  "authors": [
+   "Jiří Janek",
+   "Miriam Magočiová",
+   "Alexandr Malijevský"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mes-hall",
+   "cond-mat.other",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Jiří Janek",
+  "pdf_url": "http://arxiv.org/pdf/2611.08051",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-05",
+  "tags": [
+   "dft"
+  ],
+  "title": "First-order condensation and meniscus pinning in finite open wedges",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.08065": {
+  "abstract": "Co ions in the antiferromagnetic phase of CoO are known to possess a substantial orbital moment, making this material promising for orbitronic applications. However, intersite exchange interactions involving these orbital degrees of freedom remain poorly quantified, and their role in CoO magnetism is unclear. Here, we derive a full low-energy effective Hamiltonian for CoO, including orbital exchange terms, using an ab initio force-theorem approach based on DFT+dynamical mean-field theory. We find sizable orbital interactions, with quadrupolar orbital exchange emerging as the dominant nearest-neighbor term. The collinear antiferromagnetic order obtained from the effective Hamiltonian features magnetic moments tilted away from the pseudocubic <001> direction and an orbital contribution amounting to about one-third of the total moment, in agreement with experimental estimates. We show that the moment tilting originates from the combined effect of orbital and spin-orbital exchange interactions. The same interactions also produce a prominent splitting of the lowest excitation band. By directly modeling the inelastic neutron scattering (INS) intensity, we further show that the characteristic column-like structures previously observed in CoO INS provide a clear fingerprint of orbital exchange. We also discuss possible impact of our findings for further advances in the field of complex collective excitations, their transport properties and applications in the realm of orbitronics.",
+  "authors": [
+   "Leonid V. Pourovskii",
+   "Yuriy Mokrousov"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "12 pages + 6 pages of Supplementary",
+  "first_author": "Leonid V. Pourovskii",
+  "pdf_url": "http://arxiv.org/pdf/2611.08065",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-11-05",
+  "tags": [
+   "ab-initio",
+   "dft",
+   "magnetic-properties",
+   "thermal-properties"
+  ],
+  "title": "Key role of orbital exchange in CoO magnetism",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.08218": {
+  "abstract": "The rapid democratization of biotechnology, enhanced by large language models (LLMs) and agentic software, is eroding longstanding barriers that have limited biosynthesis planning to experts. We present BioBulbul, an agentic system that couples LLMs with open-source biodesign tools for retrobiosynthesis, enzyme selection, gene cluster design, and DNA assembly planning. Using simple natural language prompts, BioBulbul autonomously generates plausible biosynthesis pathways and corresponding gene cluster sequences for several known small molecule toxins, demonstrating that non-experts could feasibly access them using an agentic system. Our red-teaming experiments confirm the technical viability of LLM-driven toxin biosynthesis while highlighting three principal barriers: scarcity of open-source biodesign tools, limited structured enzymatic reaction data, and the complexity of many small molecule toxin pathways. We argue that these barriers are likely to diminish within a decade, expanding the biological threat landscape. To mitigate emerging risks, we recommend expanding DNA synthesis screening to include chokepoint enzymes, extending chemical supplier controls to precursor compounds, establishing continuous AI-assisted threat surveillance pipelines, and developing robust LLM guardrails. Coordinated investment across government, industry, and AI developers is essential to safeguard against the misuse of agentic biosynthesis planning.",
+  "authors": [
+   "Nicholas Roehner",
+   "Bryan Bartley",
+   "Jacob Beal",
+   "Caitlin Jagla",
+   "Troy Timmerman",
+   "Kemper Talley"
+  ],
+  "categories": [
+   "q-bio.OT"
+  ],
+  "comment": "10 pages, 2 figures",
+  "first_author": "Nicholas Roehner",
+  "pdf_url": "http://arxiv.org/pdf/2611.08218",
+  "primary_category": "q-bio.OT",
+  "published": "2026-11-05",
+  "tags": [],
+  "title": "Building Barricades: Red-Teaming Agentic Biosynthesis Planning",
+  "topics": [
+   "Large Language Models & Materials",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.08249": {
+  "abstract": "Diffusion-based molecular docking requires learning a corrective score field across a broad corruption distribution, yet individual pose errors can differ substantially in their structural consequences. This creates a post-training conflict between preserving broad score-field coverage and concentrating supervision on corrections that appear more relevant to docking geometry. Using DiffDock, a fixed-budget study compares broad continuation with torsional supervision focused on Cartesian consequence or conditional target consistency, and with a broad/focused mixture. Evaluation separates fixed score fidelity, generated-pose quality, best-of-10 sampling capacity, and confidence-selected Top-1 docking performance. At <5 Angstrom, broad continuation had the highest mean Top-1 success among trained policies, and focused or mixed supervision showed no consistent advantage under the tested budget. The starting model had better fixed score fidelity, whereas the evaluated broad-continuation model had higher mean Top-1 success with the same aggregate best-of-10 recovery. Focusing supervision on structurally consequential or more consistently specified corrections did not consistently improve returned-pose success over broad continuation.",
+  "authors": [
+   "Michael Brown",
+   "Maryam Rahimimovassagh",
+   "Mehdi Yazdani-Jahromi",
+   "Sanjeda Sara Jennifer",
+   "Ivan Garibay"
+  ],
+  "categories": [
+   "cs.LG",
+   "q-bio.BM"
+  ],
+  "comment": "17 pages, 5 figures; accepted at the NeurIPS 2026 AI4DD Workshop",
+  "first_author": "Michael Brown",
+  "pdf_url": "http://arxiv.org/pdf/2611.08249",
+  "primary_category": "cs.LG",
+  "published": "2026-11-05",
+  "tags": [
+   "protein-ligand"
+  ],
+  "title": "Geometric Relevance Is Not Sufficient: Evaluating Focused Post-Training Supervision in Diffusion Docking",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.08420": {
+  "abstract": "Molecular representations such as fingerprints and learned embeddings play a central role in cheminformatics and small-molecule machine learning. They serve as the primary input for a diverse array of tasks, including clustering, dataset splitting, and virtual screening, yet their evaluation is often limited to downstream model performance on narrow benchmark tasks. We carried out a systematic investigation of the quality of molecular representations, finding that none of the state-of-the-art molecular embedding models capture graph structure, 3D shape, or ADMET endpoint similarity better than fingerprints or physicochemical descriptors. However, classical fingerprints also revealed their own material limitations. For example, we show that depending on the representation, between 225M and $\\sim$4B molecules have non-unique representations in the 10.8B Enamine REAL database, with implications for virtual screening. Our findings provide an insight into the current limitations of molecular representations, outlining future research directions for the development of more robust encodings of small molecules.",
+  "authors": [
+   "Acer Blake",
+   "Fergus Imrie",
+   "Charlotte M. Deane"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Acer Blake",
+  "pdf_url": "http://arxiv.org/pdf/2611.08420",
+  "primary_category": "cs.LG",
+  "published": "2026-11-05",
+  "tags": [
+   "drug-discovery",
+   "molecular-representation"
+  ],
+  "title": "On the limitations of molecular representations",
+  "topics": [
+   "Molecular Representation & Learning",
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.08434": {
+  "abstract": "Designing protein sequences that satisfy both secondary structure requirements and solubility targets remains challenging. We present DiffSequence-Q, a hybrid multinomial diffusion model conditioned on secondary structure at each residue and a continuous solubility target. To introduce quantum auxiliary supervision during training, we employ a quantum neural network (QNN) or quantum Kolmogorov-Arnold network (QKAN) as an auxiliary solubility prediction head over shared Transformer representations. The auxiliary prediction loss is jointly optimized with the diffusion objective, allowing quantum auxiliary supervision to influence the learned denoising model. Once trained, protein sequences are generated entirely through classical reverse diffusion. On the CATH benchmark, DiffSequence-Q achieved the highest secondary structure recovery among the four evaluated models for complete sequence generation. Evaluation with a separately trained solubility prediction model showed that the best QNN and QKAN configurations achieved mean predicted solubility scores 14.0% and 22.7% higher than the multilayer perceptron (MLP) baseline, respectively. Experimental characterization further demonstrated biological activity across three distinct protein families. Selected defensins exhibited pronounced inhibitory activity against Aspergillus niger, while xylanases and short-chain dehydrogenases exhibited substantial enzymatic activity. Together, these results support DiffSequence-Q as a framework for integrating structural requirements and solubility targets in protein generation, with experimentally demonstrated biological activity.",
+  "authors": [
+   "Ke-Xin Tang",
+   "Zhen-Qiang Weng",
+   "Kai Yan",
+   "Yao-Yao Lu",
+   "Yu-Ze Zhu",
+   "Hang Song",
+   "Jun-Jie He",
+   "Jie-Cheng Yang",
+   "Xiang Zhao",
+   "Lin Yang",
+   "Xian-Min Jin"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Ke-Xin Tang",
+  "pdf_url": "http://arxiv.org/pdf/2611.08434",
+  "primary_category": "quant-ph",
+  "published": "2026-11-05",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "DiffSequence-Q: Diffusion Design with Quantum Assistance for Biologically Active Proteins",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-11-05"
  }
 }

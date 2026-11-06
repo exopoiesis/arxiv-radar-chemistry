@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">232 papers</span>
+  <span class="paper-count">231 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1400,11 +1400,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08028.html">Generalizable Insights for Graph Transformers in Theory and Practice</a></div></td>
 <td>Timo Stoll et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08028">2511.08028</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07087.html">Direct Molecular Polarizability Prediction with SO(3) Equivariant Local Frame GNNs</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Jean Philip Filling et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07087">2511.07087</a></td>
 </tr>
 </tbody></table>

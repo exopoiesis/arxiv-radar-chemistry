@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Aleksandra Deptuch et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07723.html">Static Recovery Is Not Dynamic Stability: Dynamics-Aware Benchmarking of Protein Motif Scaffolding</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a> · <a href="protein-function-7d.html">protein-function</a></div></td>
+<td>Emile de Bruyn et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07723">2611.07723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08024.html">Heat Transport Mechanisms in MOF-5</a></div><div class="paper-tags"><a href="mof-7d.html">mof</a></div></td>
+<td>Zezhu Zeng et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08024">2611.08024</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05810.html">Atomic-Scale Phonon Engineering for Enhanced Thermal Transport in Wafer-Scale-Bonded $β$-Ga$_{2}$O$_{3}$/SiC Heterostructures</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
@@ -80,6 +98,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06663.html">Anomalous thermal transport in isotope-enriched germanium carbide</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
 <td>Wenjiang Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2611.06663">2611.06663</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07200.html">A High-Dimensional Lab-Frame Model of Markovian Dynamics in Alanine Dipeptide</a></div></td>
+<td>Jesse M. Hall et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07200">2611.07200</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-03</td>

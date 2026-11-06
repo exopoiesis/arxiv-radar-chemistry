@@ -16,6 +16,24 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07844.html">Half-integer quantum anomalous Hall effect in MnBi$_2$Te$_4$ via non-magnetic extension</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
+<td>Igor P. Rusinov et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07844">2611.07844</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07864.html">Quark-mass dependence of two-nucleon scattering</a></div></td>
+<td>Jorge Baeza-Ballesteros et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07864">2611.07864</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08065.html">Key role of orbital exchange in CoO magnetism</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Leonid V. Pourovskii et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08065">2611.08065</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05865.html">Symmetry-guided algorithms for variational quantum optimization</a></div></td>
 <td>Eunjin In et al.</td>
@@ -650,23 +668,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10900.html">Ab Initio Investigation of Excited States and Absorption Spectra of Small Mercury Clusters (Hg$_{2-5}$)</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
 <td>Michal Novotný et al.</td>
 <td><a href="http://arxiv.org/abs/2610.10900">2610.10900</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08020.html">Learning consistent molecular mechanics force fields from first principles</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
-<td>Berkay Günes et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08020">2610.08020</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08249.html">Extraction of different electronic contributions to transport properties of transition metals from first principles</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>I. S. Galtsov et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08249">2610.08249</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09106.html">Angular Momentum Fluctuations Induced by Phonon-Rotation Coupling Govern Nuclear Spin Relaxation in a Molecular Rotator Phase</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Yanan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09106">2610.09106</a></td>
 </tr>
 </tbody></table>

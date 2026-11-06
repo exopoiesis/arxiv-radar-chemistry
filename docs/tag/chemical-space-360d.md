@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>chemical-space — 360d</h1>
-  <span class="paper-count">119 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <strong>360d</strong> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -722,11 +722,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12602.html">SynLlama: Generating Synthesizable Molecules and Their Analogs with Large Language Models</a></div><div class="paper-tags"><a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
 <td>Kunyang Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2503.12602">2503.12602</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06930.html">De Novo Design of SIK3 Inhibitors via Feedback-Driven Fine-Tuning of Seq2Seq-VAE</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>ShahZeb Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06930">2511.06930</a></td>
 </tr>
 </tbody></table>

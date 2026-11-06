@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">257 papers</span>
+  <span class="paper-count">256 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1550,11 +1550,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08330.html">Machine-learning interatomic potential for AlN for epitaxial simulation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Nicholas Taormina et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08330">2511.08330</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06166.html">Bridging the Synthesizability Gap in Perovskites by Combining Computations, Literature Data, and PU Learning</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Rushik Desai et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06166">2510.06166</a></td>
 </tr>
 </tbody></table>

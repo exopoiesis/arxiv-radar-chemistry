@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>catalysis — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <strong>30d</strong> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07947.html">ChemE-as-Code: An Open-Source Platform for Agentic AI in Chemical Engineering</a></div></td>
+<td>Artur M. Schweidtmann</td>
+<td><a href="http://arxiv.org/abs/2611.07947">2611.07947</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05800.html">Time-resolved infrared spectroscopy with entangled photons and visible-light detection</a></div></td>
@@ -152,23 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12749.html">Corrugated Niobene: Stability, Mechanical and Electronic Properties from First-Principles Calculations</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>Willian O. Santos et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12749">2610.12749</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07862.html">A self-learning scientific agent for X-ray diffraction</a></div></td>
-<td>Bin Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.07862">2610.07862</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07918.html">Layered spin-crossover metal-organic frameworks for light-induced control of two-dimensional quantum materials</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="mof-30d.html">mof</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Carla Boix-Constant et al.</td>
-<td><a href="http://arxiv.org/abs/2610.07918">2610.07918</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08509.html">Exact Catalysis Cannot Overcome the Gaussian-Steering Barrier for Remote Wigner Negativity</a></div></td>
-<td>Sudip Chakrabarty</td>
-<td><a href="http://arxiv.org/abs/2610.08509">2610.08509</a></td>
 </tr>
 </tbody></table>

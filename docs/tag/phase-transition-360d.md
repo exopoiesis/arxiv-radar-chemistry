@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">189 papers</span>
+  <span class="paper-count">188 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1142,11 +1142,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09236.html">Phase transformations in metastable $β$ Zr15Nb alloy revealed by in-situ methods</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Anna Veverková et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09236">2511.09236</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06712.html">Compression-induced magnetic obstructed atomic insulator and spin singlet state in antiferromagnetic KV2Se2O</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Liucheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06712">2511.06712</a></td>
 </tr>
 </tbody></table>

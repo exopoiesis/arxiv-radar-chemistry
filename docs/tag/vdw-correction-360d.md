@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vdw-correction — 360d</h1>
-  <span class="paper-count">142 papers</span>
+  <span class="paper-count">140 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <strong>360d</strong> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -854,17 +854,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10140.html">Emergent electronic insulating states in a one-dimensional moiré superlattice</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Jianfeng Bi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10140">2511.10140</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08069.html">Repulsive Inverse-Distance Interatomic Interaction from Many-Body Quantum Electrodynamics</a></div></td>
-<td>Loris Di Cairano et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08069">2511.08069</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08324.html">Sliding properties of Transition Metal Dichalcogenide bilayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Pier Luigi Silvestrelli et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08324">2511.08324</a></td>
 </tr>
 </tbody></table>

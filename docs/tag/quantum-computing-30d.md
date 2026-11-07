@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-computing — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <strong>30d</strong> <a href="quantum-computing-90d.html">90d</a> <a href="quantum-computing-360d.html">360d</a> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18942.html">A quantum-assisted latent surrogate model for Bayesian inversion of heterogeneous material properties on NISQ hardware</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Dewangga Alfarisy et al.</td>
 <td><a href="http://arxiv.org/abs/2610.18942">2610.18942</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10254.html">Benchmarking Modular Optimization Strategies for Parameterized Quantum Circuits</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Carla Cotea et al.</td>
-<td><a href="http://arxiv.org/abs/2610.10254">2610.10254</a></td>
 </tr>
 </tbody></table>

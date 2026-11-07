@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">256 papers</span>
+  <span class="paper-count">255 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1544,11 +1544,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11889.html">Effects of Yttrium Doping on Oxygen Conductivity in Ba(Fe, Co, Zr, Y)O_{3-δ} Cathode Materials for Proton Ceramic Fuel Cells</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Chiyoung Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11889">2511.11889</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08330.html">Machine-learning interatomic potential for AlN for epitaxial simulation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Nicholas Taormina et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08330">2511.08330</a></td>
 </tr>
 </tbody></table>

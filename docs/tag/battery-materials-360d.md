@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>battery-materials — 360d</h1>
-  <span class="paper-count">197 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <strong>360d</strong> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1190,11 +1190,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09521.html">Role of Wadsley Defects and Cation Disorder to Enhance MoNb12O33 Diffusion</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>CJ Sturgill et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09521">2511.09521</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07249.html">A Fast, Accurate, and Reactive Equivariant Foundation Potential</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Tsz Wai Ko et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07249">2511.07249</a></td>
 </tr>
 </tbody></table>

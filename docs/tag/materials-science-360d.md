@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">323 papers</span>
+  <span class="paper-count">321 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1940,17 +1940,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11697.html">Benchmarking GNNs for OOD Materials Property Prediction with Uncertainty Quantification</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Liqin Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11697">2511.11697</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04892.html">Quantum transport in nitrogen-doped nanoporous graphenes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Gaetano Calogero et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04892">2507.04892</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08079.html">Deep Inverse Shading: Consistent Albedo and Surface Detail Recovery via Generative Refinement</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Jiacheng Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08079">2511.08079</a></td>
 </tr>
 </tbody></table>

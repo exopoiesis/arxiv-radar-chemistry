@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">466 papers</span>
+  <span class="paper-count">463 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2792,23 +2792,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09436.html">First-Principles Investigation of Surface-Induced Effects on the Properties of Divacancy Qubits in 3C-SiC</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Rosario G. Viglione et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09436">2511.09436</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07602.html">Ferromagnetic CrBr$_3$-Induced Graphene Spintronics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>S. K. Behera et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07602">2407.07602</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04892.html">Quantum transport in nitrogen-doped nanoporous graphenes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Gaetano Calogero et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04892">2507.04892</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07771.html">Quantum-centric machine learning for molecular dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Yanxian Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07771">2511.07771</a></td>
 </tr>
 </tbody></table>

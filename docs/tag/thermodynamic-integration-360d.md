@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 360d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <strong>360d</strong> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -818,11 +818,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.04545.html">Ab initio calculations of overlap integrals for $μ\to e$ conversion in nuclei</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Matthias Heinz et al.</td>
 <td><a href="http://arxiv.org/abs/2412.04545">2412.04545</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08350.html">Revealing the Hidden Third Dimension of Point Defects in Two-Dimensional MXenes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Grace Guinan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08350">2511.08350</a></td>
 </tr>
 </tbody></table>

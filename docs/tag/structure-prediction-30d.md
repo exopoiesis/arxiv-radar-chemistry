@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>structure-prediction — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <strong>30d</strong> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12522.html">MolP2SBench: Do LLMs Really Reason from Molecular Properties to Structure?</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Yuhang Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12522">2610.12522</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09388.html">Bottom-Up Prediction of Amorphous Poly(1,3-dioxolane) using Ab Initio Reactive Machine-Learning Force Fields</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Yizhi Song et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09388">2610.09388</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">481 papers</span>
+  <span class="paper-count">478 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2882,23 +2882,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05738.html">Learning conformational ensembles of proteins based on backbone geometry</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Nicolas Wolf et al.</td>
 <td><a href="http://arxiv.org/abs/2503.05738">2503.05738</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15939.html">Hallucinations in AlphaFold3 for Intrinsically Disordered Proteins with disorder in Biological Process Residues</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Shreya Gopalan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15939">2510.15939</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08080.html">Hierarchical Structure-Property Alignment for Data-Efficient Molecular Generation and Editing</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Ziyu Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08080">2511.08080</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08217.html">MADD: Multi-Agent Drug Discovery Orchestra</a></div></td>
-<td>Gleb V. Solovev et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08217">2511.08217</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">296 papers</span>
+  <span class="paper-count">294 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1778,17 +1778,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09869.html">Potential-Programmed Operando Ensembles Govern Nitrate Electroreduction</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
 <td>Xue-Chun Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09869">2511.09869</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04892.html">Quantum transport in nitrogen-doped nanoporous graphenes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Gaetano Calogero et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04892">2507.04892</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07249.html">A Fast, Accurate, and Reactive Equivariant Foundation Potential</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Tsz Wai Ko et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07249">2511.07249</a></td>
 </tr>
 </tbody></table>

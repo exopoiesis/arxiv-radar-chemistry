@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1522 papers</span>
+  <span class="paper-count">1517 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9116,35 +9116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09787.html">Molecular Dynamics Simulation of Hydrodynamic Transport Coefficients in Plasmas</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Briggs Damman et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09787">2511.09787</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16897.html">CaF+CaF interactions in the ground and excited electronic states: implications for collisional losses</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Dibyendu Sardar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16897">2506.16897</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07771.html">Quantum-centric machine learning for molecular dynamics</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Yanxian Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07771">2511.07771</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08131.html">On the Role of Interlayer Electrons on the Frictional Behavior of Two-Dimensional Electrides</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jingcheng Qi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08131">2511.08131</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08141.html">Suppression of magnetism in Co$_3$Sn$_2$S$_2$ under external pressure</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>A. Chmeruk et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08141">2511.08141</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08324.html">Sliding properties of Transition Metal Dichalcogenide bilayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Pier Luigi Silvestrelli et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08324">2511.08324</a></td>
 </tr>
 </tbody></table>

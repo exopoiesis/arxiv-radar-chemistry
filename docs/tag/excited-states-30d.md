@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>excited-states — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <strong>30d</strong> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,17 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11212.html">Light-induced interlayer spacing dynamics via orbital phonon coupling</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="tmd-30d.html">tmd</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
 <td>Wenwen Mao et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11212">2610.11212</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09389.html">Accelerating dynamic polarizability calculations of organic molecules using equivariant graph neural networks</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="gnn-30d.html">gnn</a></div></td>
-<td>Houssam Metni et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09389">2610.09389</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10900.html">Ab Initio Investigation of Excited States and Absorption Spectra of Small Mercury Clusters (Hg$_{2-5}$)</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Michal Novotný et al.</td>
-<td><a href="http://arxiv.org/abs/2610.10900">2610.10900</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">481 papers</span>
+  <span class="paper-count">477 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2876,29 +2876,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08875.html">Large Amplitude Collective Motion and Dissipation in the Ground State and the First Isomeric Wells in the Neutron-Induced Fission of $^{235}$U</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
 <td>Ibrahim Abdurrahman et al.</td>
 <td><a href="http://arxiv.org/abs/2608.08875">2608.08875</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07884.html">Metastability limit of pristine 2D noble metals with high-energy facet: dominance of the Bell-Evans-Polanyi principle</a></div></td>
-<td>Xiaoliang Zhong</td>
-<td><a href="http://arxiv.org/abs/2608.07884">2608.07884</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07997.html">Predicting large-supercell defect formation energies from machine-learning charge density models trained on small supercells</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a></div></td>
-<td>Junjie Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2608.07997">2608.07997</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08137.html">Cubic-Equivariant Neural Density Functional Theory for Three-Dimensional Lattice Fluids</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Jens Weimar et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08137">2608.08137</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08152.html">Denoising Diffusion Monte Carlo Electron Densities with Physically Informed Variance Stabilization: From Fourier Filters to 3D UNETs</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Kenneth O. Berard et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08152">2608.08152</a></td>
 </tr>
 </tbody></table>

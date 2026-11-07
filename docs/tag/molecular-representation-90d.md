@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-representation — 90d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,11 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13341.html">Simulation-to-real transfer learning for infrared spectroscopic chemical sensing and analysis from molecules to complex samples</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Yusen Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13341">2608.13341</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08099.html">A comparative study of sum-connectivity and product-connectivity Gourava indices for benzenoid hydrocarbons</a></div></td>
-<td>Nagesh H. M et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08099">2608.08099</a></td>
 </tr>
 </tbody></table>

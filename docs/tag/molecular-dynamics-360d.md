@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1570 papers</span>
+  <span class="paper-count">1563 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9392,47 +9392,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09787.html">Molecular Dynamics Simulation of Hydrodynamic Transport Coefficients in Plasmas</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Briggs Damman et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09787">2511.09787</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07771.html">Quantum-centric machine learning for molecular dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-representation-360d.html">molecular-representation</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Yanxian Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2511.07771">2511.07771</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08131.html">On the Role of Interlayer Electrons on the Frictional Behavior of Two-Dimensional Electrides</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Jingcheng Qi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08131">2511.08131</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08144.html">Prediction of the three-phase coexistence line of the ethane hydrate from molecular simulation</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Paula Gómez-Álvarez et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08144">2511.08144</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08264.html">Effect of W in Cu-Zr-W thin films: Molecular dynamics simulations and experimental verification</a></div></td>
-<td>Hassan Ataalite et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08264">2511.08264</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08350.html">Revealing the Hidden Third Dimension of Point Defects in Two-Dimensional MXenes</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Grace Guinan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08350">2511.08350</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08725.html">Hybrid Atomistic-Parametric Decoherence Model for Molecular Spin Qubits</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Katy Aruachan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08725">2511.08725</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09566.html">Nanobubble size controls gas hydrate nucleation in supercooled water</a></div></td>
-<td>Ramkhelavan Kanaujiya et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09566">2511.09566</a></td>
 </tr>
 </tbody></table>

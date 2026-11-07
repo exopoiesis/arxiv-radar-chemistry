@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">73 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -446,11 +446,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11062.html">Accelerated Discovery of Materials with Extreme Work Functions through Uncertainty-Aware Multi-Fidelity Screening</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Jun Meng et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11062">2608.11062</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08050.html">Oxygen Reduction Reaction on Platinum Nanocatalysts Produces Long-Lived, Hysteretic Oxygenated Adsorbates</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a></div></td>
-<td>Jaehyeon Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08050">2608.08050</a></td>
 </tr>
 </tbody></table>

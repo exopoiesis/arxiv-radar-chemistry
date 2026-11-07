@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>free-energy — 30d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <strong>30d</strong> <a href="free-energy-90d.html">90d</a> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -170,17 +170,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12743.html">Predicted state-to-state collisional rate coefficients from neural networks</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
 <td>Lisán David Cabrera-González et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12743">2610.12743</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10879.html">MD-LLM-2: A Transferable Language Model of Molecular Dynamics with Physical Conditioning and Explicit Path Probabilities</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Mhd Hussein Murtada et al.</td>
-<td><a href="http://arxiv.org/abs/2610.10879">2610.10879</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10900.html">Ab Initio Investigation of Excited States and Absorption Spectra of Small Mercury Clusters (Hg$_{2-5}$)</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Michal Novotný et al.</td>
-<td><a href="http://arxiv.org/abs/2610.10900">2610.10900</a></td>
 </tr>
 </tbody></table>

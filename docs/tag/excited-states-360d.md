@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">217 papers</span>
+  <span class="paper-count">215 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1304,17 +1304,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08889.html">Unraveling Geometric-phase at Conical Intersection by Cavity-enhanced Two-dimensional Electronic Spectroscopy</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Yang-Cheng Ye et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08889">2511.08889</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16897.html">CaF+CaF interactions in the ground and excited electronic states: implications for collisional losses</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Dibyendu Sardar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16897">2506.16897</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08714.html">Collisional stopping power of ions in warm dense matter</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Lucas Babati et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08714">2511.08714</a></td>
 </tr>
 </tbody></table>

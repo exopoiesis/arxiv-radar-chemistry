@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2026 papers</span>
+  <span class="paper-count">2018 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12122,53 +12122,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09751.html">Structure of Antiphase boundaries in Ni-M-Ga: multiscale modelling</a></div></td>
 <td>Jan Zemen et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09751">2511.09751</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07602.html">Ferromagnetic CrBr$_3$-Induced Graphene Spintronics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>S. K. Behera et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07602">2407.07602</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19807.html">Intrinsic defect intolerance in the ultra-pure metal PtSn$_4$</a></div></td>
-<td>Samikshya Sahu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19807">2509.19807</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08141.html">Suppression of magnetism in Co$_3$Sn$_2$S$_2$ under external pressure</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>A. Chmeruk et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08141">2511.08141</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08324.html">Sliding properties of Transition Metal Dichalcogenide bilayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Pier Luigi Silvestrelli et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08324">2511.08324</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08330.html">Machine-learning interatomic potential for AlN for epitaxial simulation</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Nicholas Taormina et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08330">2511.08330</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08366.html">Finite-range pairing in nuclear density functional theory</a></div></td>
-<td>Sudhanva Lalit et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08366">2511.08366</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08714.html">Collisional stopping power of ions in warm dense matter</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Lucas Babati et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08714">2511.08714</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08718.html">Polaron and Strain Effects on Ion Migration in WO$_3$</a></div></td>
-<td>Matthäus Siebenhofer et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08718">2511.08718</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">519 papers</span>
+  <span class="paper-count">514 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3098,35 +3098,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10849.html">High Mobility Multiple-Channel AlScN/GaN Heterostructures</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Aias Asteris et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10849">2511.10849</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07602.html">Ferromagnetic CrBr$_3$-Induced Graphene Spintronics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>S. K. Behera et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07602">2407.07602</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04892.html">Quantum transport in nitrogen-doped nanoporous graphenes</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Gaetano Calogero et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04892">2507.04892</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08131.html">On the Role of Interlayer Electrons on the Frictional Behavior of Two-Dimensional Electrides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jingcheng Qi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08131">2511.08131</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08324.html">Sliding properties of Transition Metal Dichalcogenide bilayers</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Pier Luigi Silvestrelli et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08324">2511.08324</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08350.html">Revealing the Hidden Third Dimension of Point Defects in Two-Dimensional MXenes</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Grace Guinan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08350">2511.08350</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">476 papers</span>
+  <span class="paper-count">473 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2852,23 +2852,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08065.html">Dynamic Diffusion Schrödinger Bridge in Astrophysical Observational Inversions</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Ye Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08065">2506.08065</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15056.html">ElastoGen: 4D Generative Elastodynamics</a></div></td>
-<td>Yutao Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2405.15056">2405.15056</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08079.html">Deep Inverse Shading: Consistent Albedo and Surface Detail Recovery via Generative Refinement</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Jiacheng Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08079">2511.08079</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08315.html">BDD2Seq: Enabling Scalable Reversible-Circuit Synthesis via Graph-to-Sequence Learning</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Mingkai Miao et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08315">2511.08315</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">283 papers</span>
+  <span class="paper-count">280 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1694,23 +1694,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10849.html">High Mobility Multiple-Channel AlScN/GaN Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
 <td>Aias Asteris et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10849">2511.10849</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09236.html">Phase transformations in metastable $β$ Zr15Nb alloy revealed by in-situ methods</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Anna Veverková et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09236">2511.09236</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09786.html">Plasma hydrodynamics from mean force kinetic theory</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jarett LeVan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09786">2511.09786</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09787.html">Molecular Dynamics Simulation of Hydrodynamic Transport Coefficients in Plasmas</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Briggs Damman et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09787">2511.09787</a></td>
 </tr>
 </tbody></table>

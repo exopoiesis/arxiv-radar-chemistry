@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">309 papers</span>
+  <span class="paper-count">307 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1856,17 +1856,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13768.html">Study of Quantum Confinement inside a Viral Capsid</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Elso Drigo Filho et al.</td>
 <td><a href="http://arxiv.org/abs/2511.13768">2511.13768</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09413.html">A scalable kinetic Monte Carlo platform enabling comprehensive simulations of charge transport dynamics in polymer-based memristive systems</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Gerliz M. Gutiérrez-Finol et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09413">2511.09413</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11697.html">Benchmarking GNNs for OOD Materials Property Prediction with Uncertainty Quantification</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Liqin Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11697">2511.11697</a></td>
 </tr>
 </tbody></table>

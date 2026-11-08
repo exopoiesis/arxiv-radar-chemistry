@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">148 papers</span>
+  <span class="paper-count">142 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -866,41 +866,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14392.html">Atoms that Matter: Largest Materials Datasets Are 99% Redundant, and Local Chemistry Can Guide the Required 1%</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Evgeny Moerman et al.</td>
 <td><a href="http://arxiv.org/abs/2610.14392">2610.14392</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11212.html">Light-induced interlayer spacing dynamics via orbital phonon coupling</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a> · <a href="tmd-30d.html">tmd</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
-<td>Wenwen Mao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11212">2610.11212</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11562.html">Multipolar fluctuations in localized $4f^2$-electron systems from dynamical mean-field theory: application to $\mathrm{PrCdNi}_4$</a></div></td>
-<td>Koki Numa et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11562">2610.11562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12132.html">A structure-preserving neural density functional for the ions of a polymer electrolyte</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Liyao Lyu</td>
-<td><a href="http://arxiv.org/abs/2610.12132">2610.12132</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12749.html">Corrugated Niobene: Stability, Mechanical and Electronic Properties from First-Principles Calculations</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="catalysis-30d.html">catalysis</a></div></td>
-<td>Willian O. Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12749">2610.12749</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12771.html">Dynamic Chemical Changes of Ti3C2Tx MXenes in Halide Perovskite Precursor Environments</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="crystal-structure-30d.html">crystal-structure</a></div></td>
-<td>Kirill Sobolev et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12771">2610.12771</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12799.html">Drude, Where&#x27;s My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Artur Lyssenko et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12799">2610.12799</a></td>
 </tr>
 </tbody></table>

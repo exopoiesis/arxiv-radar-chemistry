@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-science — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <strong>30d</strong> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,23 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14239.html">Benchmarking machine-learning interatomic potentials using classical force fields</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="gnn-30d.html">gnn</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Johannes Sandberg et al.</td>
 <td><a href="http://arxiv.org/abs/2610.14239">2610.14239</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11454.html">Zatom-2: Multitask Pretraining on Atomistic Data for Generative Modeling across Domains</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Miruna Cretu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11454">2610.11454</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11549.html">$C_4$-Equivariant Flow Matching on Anisotropic Power-Diagram Graphs for Microstructure Generation</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="gnn-30d.html">gnn</a></div></td>
-<td>Dawid Lipinski et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11549">2610.11549</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11910.html">Comprehensive study of massively overlapping cascades in common elemental metals</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Aslak Fellman et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11910">2610.11910</a></td>
 </tr>
 </tbody></table>

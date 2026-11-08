@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2018 papers</span>
+  <span class="paper-count">2013 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12092,35 +12092,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10791.html">Enhanced sensitivity to variations of fundamental constants in highly charged molecules from analytic perturbation theory</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Carsten Zülch et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10791">2511.10791</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20630.html">MLIP Arena: Advancing Fairness and Transparency in Machine Learning Interatomic Potentials via an Open, Accessible Benchmark Platform</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Yuan Chiang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20630">2509.20630</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09346.html">A Molecular Density Functional Theory of aqueous electrolytic solution</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Guillaume Jeanmairet et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09346">2511.09346</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09436.html">First-Principles Investigation of Surface-Induced Effects on the Properties of Divacancy Qubits in 3C-SiC</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Rosario G. Viglione et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09436">2511.09436</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09521.html">Role of Wadsley Defects and Cation Disorder to Enhance MoNb12O33 Diffusion</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>CJ Sturgill et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09521">2511.09521</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09751.html">Structure of Antiphase boundaries in Ni-M-Ga: multiscale modelling</a></div></td>
-<td>Jan Zemen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09751">2511.09751</a></td>
 </tr>
 </tbody></table>

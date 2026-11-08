@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">423 papers</span>
+  <span class="paper-count">422 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2546,11 +2546,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10508.html">Parallel and GPU accelerated code for phase-field and reaction-diffusion simulations</a></div></td>
 <td>Steven A. Silber et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10508">2511.10508</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08065.html">Dynamic Diffusion Schrödinger Bridge in Astrophysical Observational Inversions</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Ye Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08065">2506.08065</a></td>
 </tr>
 </tbody></table>

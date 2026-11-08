@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">329 papers</span>
+  <span class="paper-count">328 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1982,11 +1982,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11260.html">Electronic and magnetic properties of light rare-earth cubic Laves compounds derived from XMCD experiments</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Vilde G. S. Lunde et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11260">2511.11260</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08849.html">Molecular Dynamics Simulations of Temperature Relaxation in Non-Neutral Plasmas Relevant to Antimatter Experiments</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>James C. Welch et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08849">2511.08849</a></td>
 </tr>
 </tbody></table>

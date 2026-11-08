@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">103 papers</span>
+  <span class="paper-count">99 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -608,29 +608,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13922.html">Spin Migration in the Argon Dimer</a></div></td>
 <td>Stefanos Carlström et al.</td>
 <td><a href="http://arxiv.org/abs/2610.13922">2610.13922</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11046.html">$\boldsymbol{\textit{Ab initio}}$ $nα$ scattering using the Efros method</a></div></td>
-<td>Mamoon A. Sharaf et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11046">2610.11046</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11838.html">Magnon band splitting without altermagnetism in CuF2</a></div></td>
-<td>Ioannis Rousochatzakis et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11838">2610.11838</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11878.html">Benchmarking Universal Machine-Learning Interatomic Potentials for Temperature-Dependent Elasticity of Binary and High-Entropy Refractory Carbides</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Miroslav Lebeda et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11878">2610.11878</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12743.html">Predicted state-to-state collisional rate coefficients from neural networks</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Lisán David Cabrera-González et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12743">2610.12743</a></td>
 </tr>
 </tbody></table>

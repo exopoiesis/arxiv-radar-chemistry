@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">322 papers</span>
+  <span class="paper-count">321 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1940,11 +1940,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13294.html">A Hybrid Physics-Driven Neural Network Force Field for Liquid Electrolytes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Junmin Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2511.13294">2511.13294</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08889.html">Unraveling Geometric-phase at Conical Intersection by Cavity-enhanced Two-dimensional Electronic Spectroscopy</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yang-Cheng Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08889">2511.08889</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">473 papers</span>
+  <span class="paper-count">470 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2834,23 +2834,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10165.html">EPO: Diverse and Realistic Protein Ensemble Generation via Energy Preference Optimization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Yuancheng Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10165">2511.10165</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.06108.html">Inferring Higher-Order Couplings with Neural Networks</a></div></td>
-<td>Aurélien Decelle et al.</td>
-<td><a href="http://arxiv.org/abs/2501.06108">2501.06108</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05738.html">Learning conformational ensembles of proteins based on backbone geometry</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Nicolas Wolf et al.</td>
-<td><a href="http://arxiv.org/abs/2503.05738">2503.05738</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08065.html">Dynamic Diffusion Schrödinger Bridge in Astrophysical Observational Inversions</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Ye Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08065">2506.08065</a></td>
 </tr>
 </tbody></table>

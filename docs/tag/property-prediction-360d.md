@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">230 papers</span>
+  <span class="paper-count">229 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1388,11 +1388,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11769.html">Socrates-Mol: Self-Oriented Cognitive Reasoning through Autonomous Trial-and-Error with Empirical-Bayesian Screening for Molecules</a></div></td>
 <td>Xiangru Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11769">2511.11769</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11697.html">Benchmarking GNNs for OOD Materials Property Prediction with Uncertainty Quantification</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Liqin Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11697">2511.11697</a></td>
 </tr>
 </tbody></table>

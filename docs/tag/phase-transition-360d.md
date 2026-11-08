@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-transition — 360d</h1>
-  <span class="paper-count">188 papers</span>
+  <span class="paper-count">187 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <a href="phase-transition-30d.html">30d</a> <a href="phase-transition-90d.html">90d</a> <strong>360d</strong> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1136,11 +1136,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10623.html">Uniaxial strain tuning of polar lattice vibrations in KTaO$_3$ and SrTiO$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>I. Khayr et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10623">2511.10623</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09236.html">Phase transformations in metastable $β$ Zr15Nb alloy revealed by in-situ methods</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Anna Veverková et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09236">2511.09236</a></td>
 </tr>
 </tbody></table>

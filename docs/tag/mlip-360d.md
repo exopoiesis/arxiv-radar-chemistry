@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">587 papers</span>
+  <span class="paper-count">585 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3524,17 +3524,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10561.html">Maximizing Efficiency of Dataset Compression for Machine Learning Potentials With Information Theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Benjamin Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10561">2511.10561</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14398.html">Improved Treatment of 1-4 interactions in Force Fields for Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Aalim S. Abdullah et al.</td>
-<td><a href="http://arxiv.org/abs/2504.14398">2504.14398</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20630.html">MLIP Arena: Advancing Fairness and Transparency in Machine Learning Interatomic Potentials via an Open, Accessible Benchmark Platform</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Yuan Chiang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20630">2509.20630</a></td>
 </tr>
 </tbody></table>

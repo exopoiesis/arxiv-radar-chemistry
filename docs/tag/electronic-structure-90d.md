@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">110 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -662,17 +662,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11301.html">Quetzalcoatlite as a Disorder-Free Platform for Chiral Magnetism and Frustration</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Aleksandar Razpopov et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11301">2608.11301</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08474.html">Unified open-boundary electrostatics in real-space density functional theory</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Rajat Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08474">2608.08474</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08784.html">Self-consistent double-hybrid density functional theory via one-body second-order Møller-Plesset perturbation theory and projection-based embedding</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Huy Gia Bui et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08784">2608.08784</a></td>
 </tr>
 </tbody></table>

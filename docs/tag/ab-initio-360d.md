@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1517 papers</span>
+  <span class="paper-count">1513 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9092,29 +9092,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10791.html">Enhanced sensitivity to variations of fundamental constants in highly charged molecules from analytic perturbation theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Carsten Zülch et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10791">2511.10791</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.04545.html">Ab initio calculations of overlap integrals for $μ\to e$ conversion in nuclei</a></div><div class="paper-tags"><a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Matthias Heinz et al.</td>
-<td><a href="http://arxiv.org/abs/2412.04545">2412.04545</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14398.html">Improved Treatment of 1-4 interactions in Force Fields for Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Aalim S. Abdullah et al.</td>
-<td><a href="http://arxiv.org/abs/2504.14398">2504.14398</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08890.html">Mobile chemical cage: Revealing the origin of anomalous lithium diffusion in liquid $Li_{17}Pb_{83}$ alloy</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Sensen Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08890">2511.08890</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09787.html">Molecular Dynamics Simulation of Hydrodynamic Transport Coefficients in Plasmas</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Briggs Damman et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09787">2511.09787</a></td>
 </tr>
 </tbody></table>

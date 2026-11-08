@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">228 papers</span>
+  <span class="paper-count">227 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1376,11 +1376,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10440.html">Completion of partial structures using Patterson maps with the CrysFormer machine learning model</a></div></td>
 <td>Tom Pan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10440">2511.10440</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09183.html">Measuring irreversibility in stochastic systems by categorizing single-molecule displacements</a></div></td>
-<td>Alvaro Lanza et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09183">2511.09183</a></td>
 </tr>
 </tbody></table>

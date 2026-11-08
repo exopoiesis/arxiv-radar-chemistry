@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -338,35 +338,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14392.html">Atoms that Matter: Largest Materials Datasets Are 99% Redundant, and Local Chemistry Can Guide the Required 1%</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="dft-30d.html">dft</a></div></td>
 <td>Evgeny Moerman et al.</td>
 <td><a href="http://arxiv.org/abs/2610.14392">2610.14392</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11689.html">Mode-selective electron-phonon coupling drives charge density waves in the kagome metals YRu$_3$Si$_2$ and LaRu$_3$Si$_2$</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Wenqian Tu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11689">2610.11689</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11878.html">Benchmarking Universal Machine-Learning Interatomic Potentials for Temperature-Dependent Elasticity of Binary and High-Entropy Refractory Carbides</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Miroslav Lebeda et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11878">2610.11878</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11910.html">Comprehensive study of massively overlapping cascades in common elemental metals</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Aslak Fellman et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11910">2610.11910</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12151.html">Specialized machine learning force fields for materials dynamics</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
-<td>Yue Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12151">2610.12151</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12799.html">Drude, Where&#x27;s My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Artur Lyssenko et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12799">2610.12799</a></td>
 </tr>
 </tbody></table>

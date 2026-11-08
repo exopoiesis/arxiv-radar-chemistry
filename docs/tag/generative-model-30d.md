@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -212,17 +212,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Shivang Agarwal et al.</td>
 <td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11454.html">Zatom-2: Multitask Pretraining on Atomistic Data for Generative Modeling across Domains</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Miruna Cretu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11454">2610.11454</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11549.html">$C_4$-Equivariant Flow Matching on Anisotropic Power-Diagram Graphs for Microstructure Generation</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Dawid Lipinski et al.</td>
-<td><a href="http://arxiv.org/abs/2610.11549">2610.11549</a></td>
 </tr>
 </tbody></table>

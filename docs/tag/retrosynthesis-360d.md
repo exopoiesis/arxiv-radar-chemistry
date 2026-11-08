@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>retrosynthesis — 360d</h1>
-  <span class="paper-count">95 papers</span>
+  <span class="paper-count">94 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <a href="retrosynthesis-30d.html">30d</a> <a href="retrosynthesis-90d.html">90d</a> <strong>360d</strong> <a href="retrosynthesis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -578,11 +578,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10504.html">Retrosynthesis Planning via Worst-path Policy Optimisation in Tree-structured MDPs</a></div></td>
 <td>Mianchu Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10504">2509.10504</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12602.html">SynLlama: Generating Synthesizable Molecules and Their Analogs with Large Language Models</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a></div></td>
-<td>Kunyang Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12602">2503.12602</a></td>
 </tr>
 </tbody></table>

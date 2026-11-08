@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">477 papers</span>
+  <span class="paper-count">472 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2846,35 +2846,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09375.html">Effective one-body interactions due to the presence of a liquid-vapor interface</a></div></td>
 <td>Melih Gül et al.</td>
 <td><a href="http://arxiv.org/abs/2608.09375">2608.09375</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08415.html">Thermo-mechanical Characterization of 2D hexagonal Boron Phosphide (h-BP)</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Zahabul Islam</td>
-<td><a href="http://arxiv.org/abs/2608.08415">2608.08415</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08454.html">Finite-Temperature Spin-Adapted ROKS and TDDFT</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a> · <a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
-<td>Xiaoyu Zhang</td>
-<td><a href="http://arxiv.org/abs/2608.08454">2608.08454</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08474.html">Unified open-boundary electrostatics in real-space density functional theory</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Rajat Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08474">2608.08474</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08784.html">Self-consistent double-hybrid density functional theory via one-body second-order Møller-Plesset perturbation theory and projection-based embedding</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Huy Gia Bui et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08784">2608.08784</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08875.html">Large Amplitude Collective Motion and Dissipation in the Ground State and the First Isomeric Wells in the Neutron-Induced Fission of $^{235}$U</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Ibrahim Abdurrahman et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08875">2608.08875</a></td>
 </tr>
 </tbody></table>

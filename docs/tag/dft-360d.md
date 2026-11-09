@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2013 papers</span>
+  <span class="paper-count">2009 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08851.html">Conformationally frustrated epitaxy at heteromolecular interface</a></div></td>
+<td>Jakub Planer et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08851">2611.08851</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08986.html">Native point defects in rock-salt and wurtzite MnSe: formation energies across the growth window and spin splitting in the A-type order</a></div></td>
+<td>Tomás Rojas Solorzano et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08986">2611.08986</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -44,6 +56,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08065.html">Key role of orbital exchange in CoO magnetism</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Leonid V. Pourovskii et al.</td>
 <td><a href="http://arxiv.org/abs/2611.08065">2611.08065</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08678.html">Jackknife-conformal uncertainty for linear ACE potentials: calibrated forces and silicon properties compared with Bayesian and POPS baselines</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
+<td>James R. Kermode</td>
+<td><a href="http://arxiv.org/abs/2611.08678">2611.08678</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-04</td>
@@ -12050,47 +12068,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11524.html">The Interoperability Challenge in DFT Workflows Across Implementations</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>S. K. Steensen et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11524">2511.11524</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15190.html">Energy Underprediction from Symmetry in Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Wei Nong et al.</td>
-<td><a href="http://arxiv.org/abs/2507.15190">2507.15190</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06513.html">Sub-nanosecond structural dynamics of the martensitic transformation in Ni-Mn-Ga</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yuru Ge et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06513">2509.06513</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09899.html">Beyond Born-Oppenheimer Time-Dependent Density Functional Theory</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Chen Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09899">2511.09899</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09974.html">Chiral orbital/spin textures and Edelstein effects in monolayer Janus TMDs</a></div><div class="paper-tags"><a href="tmd-360d.html">tmd</a></div></td>
-<td>Pratik Sahu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09974">2511.09974</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10140.html">Emergent electronic insulating states in a one-dimensional moiré superlattice</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Jianfeng Bi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10140">2511.10140</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10561.html">Maximizing Efficiency of Dataset Compression for Machine Learning Potentials With Information Theory</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Benjamin Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10561">2511.10561</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10791.html">Enhanced sensitivity to variations of fundamental constants in highly charged molecules from analytic perturbation theory</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Carsten Zülch et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10791">2511.10791</a></td>
 </tr>
 </tbody></table>

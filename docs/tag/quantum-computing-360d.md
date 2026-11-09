@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09659.html">Quantum Integration Software Suite For HPC-Quantum Computing Workflows</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Mateusz Meller et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09659">2611.09659</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36268.html">Towards Quantum Computation of Bulk FeO</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Daniel Staros et al.</td>
@@ -740,11 +746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22460.html">Towards Practical Quantum Phase Estimation: A Modular, Scalable, and Adaptive Approach</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Alok Shukla et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22460">2507.22460</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14786.html">Hybrid Quantum-Classical Machine Learning with PennyLane: A Comprehensive Guide for Computational Research</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Sidney Shapiro</td>
-<td><a href="http://arxiv.org/abs/2511.14786">2511.14786</a></td>
 </tr>
 </tbody></table>

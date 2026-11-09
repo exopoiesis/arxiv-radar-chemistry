@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">227 papers</span>
+  <span class="paper-count">226 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08696.html">Hybrid Quantum-Classical Annealing for Protein Side-Chain Optimization: A Feasibility Study</a></div></td>
+<td>Valeria B. C. Visani et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08696">2611.08696</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06255.html">Learning Noise Optimization for Reward Alignment in Few-Step Generative Models</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
@@ -1364,17 +1370,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13916.html">Structural Flexibility of the TCF7L2-DNA Complex with the Type 2 Diabetes SNP rs7903146</a></div></td>
 <td>Karthik Venuturimilli et al.</td>
 <td><a href="http://arxiv.org/abs/2511.13916">2511.13916</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10056.html">From Static Structures to Ensembles: Studying and Harnessing Protein Structure Tokenization</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Zijing Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10056">2511.10056</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10440.html">Completion of partial structures using Patterson maps with the CrysFormer machine learning model</a></div></td>
-<td>Tom Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10440">2511.10440</a></td>
 </tr>
 </tbody></table>

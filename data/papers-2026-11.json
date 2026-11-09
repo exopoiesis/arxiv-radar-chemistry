@@ -3230,5 +3230,579 @@
    "Protein & Biomolecules"
   ],
   "updated": "2026-11-05"
+ },
+ "2611.08678": {
+  "abstract": "Machine-learned interatomic potentials are misspecified, so Bayesian posterior variances understate their errors. For linear atomic cluster expansion (ACE) potentials we derive calibrated uncertainties from one misspecification-robust parameter covariance, the delete-one-configuration jackknife. Scaled by one conformal quantile from a held-out part of the training set, it gives per-atom force uncertainties close to their target coverage on held-out silicon data and on cracks left out of the fit; screw dislocations left out are under-covered by the smaller of the two models. With one scale fitted to the forces of a held-out test split, the same parameter distribution is propagated to 21 properties of silicon, from elastic constants to defect and surface energies, by implicit differentiation through each relaxation and by committees, and is tested against density functional theory (DFT) without tuning on any property. For a smaller and a larger model the intervals cover most properties, and the larger model's are about 4 times tighter. The Bayesian posterior with one calibrated scale has the wrong shape: it covers fewer properties and has far lower joint evidence. Pointwise optimal parameter sets (POPS), once their hypercube is numerically defined, performs comparably on the properties, but its per-atom force regions are not calibrated to a target (0.95 and 0.84 at a nominal 0.90). Where the jackknife fails is relaxed point defects, whose training cells are all hot snapshots: a bias that every configuration shares is invisible to a jackknife, but it can be measured from the training labels, and as a discrepancy term, devised after the property results were seen, it brings the coverage close to nominal.",
+  "authors": [
+   "James R. Kermode"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "25 pages, 9 figures, 15 tables",
+  "first_author": "James R. Kermode",
+  "pdf_url": "http://arxiv.org/pdf/2611.08678",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-05",
+  "tags": [
+   "dft",
+   "mlip"
+  ],
+  "title": "Jackknife-conformal uncertainty for linear ACE potentials: calibrated forces and silicon properties compared with Bayesian and POPS baselines",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.08696": {
+  "abstract": "Hybrid quantum-classical annealing solvers are moving from research laboratories toward industrial use, but their advantage over classical optimization appears to be confined to a narrow class of problems. A recent systematic benchmark of the D-Wave hybrid solver against industry-leading classical solvers, across several classes of optimization problems, found it to be most competitive on binary quadratic programs, while noting that few industrial problems take this form. Therefore, identifying real-world industrial problems that can be modeled with this structure is a key challenge. We propose protein side-chain optimization, a core step of computational protein design, as one of these problems: it is natively a binary quadratic program, and its application context requires pools of low-energy solutions, which annealers naturally return. In this feasibility study, we test whether the competitiveness of the hybrid solver against industry-leading classical solvers extends to this problem. On 40 instances derived from 20 experimentally determined protein structures with up to about 200 amino acids and 2000 binary variables, we compare the results achieved with a hybrid solver, run for 5 seconds, against those of the commercial solver Gurobi, run for 10 seconds, 1000 seconds, and 4 hours. The hybrid solver reaches the certified optimum whenever one is available, matches Gurobi's performance on smaller instances, and outperforms it on larger instances, finding lower-energy solutions. These results show that the competitiveness of the hybrid solver on binary quadratic programs, so far observed only on a synthetic benchmark, extends to a real-world problem. This motivates comparisons with classical heuristics specific to protein side-chain optimization.",
+  "authors": [
+   "Valeria B. C. Visani",
+   "Simone Reale",
+   "Alfonso Gautieri",
+   "Elisabetta Di Nitto"
+  ],
+  "categories": [
+   "cs.ET",
+   "q-bio.BM",
+   "quant-ph"
+  ],
+  "comment": "5 pages, 1 figure",
+  "first_author": "Valeria B. C. Visani",
+  "pdf_url": "http://arxiv.org/pdf/2611.08696",
+  "primary_category": "cs.ET",
+  "published": "2026-11-05",
+  "tags": [
+   "protein-structure"
+  ],
+  "title": "Hybrid Quantum-Classical Annealing for Protein Side-Chain Optimization: A Feasibility Study",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.08788": {
+  "abstract": "Graph generation has shown tremendous effectiveness in modeling complex scientific tasks ranging from molecule generation to optimized circuit design. Most recent advancements have developed models that learn to denoise noisy graphs using either discrete diffusion or flow matching. However, discrete graph diffusion scales quadratically with the number of nodes, making it difficult to use such models on larger graphs. On the other hand, latent graph generation instead seeks to denoise noisy graph latents, which scale better to more nodes due to their lower dimension. However, in practice, latent graph generation models lag behind their discrete counterparts in performance. We study this problem, finding that it is caused by the unequal distribution of that different latent dimensions have on graph reconstruction. the impact. We observe that the vast majority of impact is contained in only a smaller number of latent dimensions. Since equal emphasis is placed on reconstructing the entire latent in the loss function, existing models are optimized to reconstruct information irrelevant to the downstream task. To tackle this problem, we propose Latent Importance Reweighting ({\\bf LIR)} which weights each latent dimensions via it's importance to final graph reconstruction. Importance is calculated as the relative influence of a single latent unit on graph reconstruction, which is represented via the Jacobian of the decoder relative to the latent. Our method is model-agnostic and requires no additional model parameters or hyperparameters. Experiments show that LIR can boost performance and lead to faster training convergence when applied to two different autoencoders on various benchmark datasets. Code: https://github.com/biraaj/GraphGenLatentReweight",
+  "authors": [
+   "Biraaj Rout",
+   "Jay Revolinsky",
+   "Han Liu",
+   "Harry Shomer"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Biraaj Rout",
+  "pdf_url": "http://arxiv.org/pdf/2611.08788",
+  "primary_category": "cs.LG",
+  "published": "2026-11-05",
+  "tags": [],
+  "title": "Not All Latents Are Equal: Importance-Weighted Latent Graph Generation",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.08851": {
+  "abstract": "Precise control of molecular heteroepitaxy offers a route to multilayer architectures with well-defined interfaces. However, the role of intramolecular flexibility in epitaxial matching remains insufficiently understood. Here, we investigate the heteroepitaxy of intact 1,3,5-tris(4-carboxyphenyl)benzene (BTB) on a molecular $δ$-layer composed of fully deprotonated BTB molecules on Ag(111). Combining scanning tunneling microscopy, low-energy electron microscopy and diffraction, X-ray photoelectron spectroscopy, and density functional theory, we identify the key interactions controlling molecular packing and epitaxial growth. We show that intermolecular bonding motifs are preserved on the molecular template, but their lattice parameters and molecular conformations change as compared to a silver surface. Individual molecules exhibit distinct appearances in scanning tunneling microscopy, consistent with site-dependent conformational variations identified by theory. Our calculations reveal that the competition between molecule-substrate interactions and conformational energy produces different compromise geometries, resulting in conformational frustration at the epitaxial interface. Crucially, constraining BTB into a planar geometry changes the preferred lateral adsorption positions, demonstrating that molecular flexibility directly modifies the energetic preferences for epitaxial registry. Comparison with more rigid molecular overlayers further supports this interpretation. Our findings reveal that molecular flexibility contributes to epitaxial matching by allowing unfavorable molecule-substrate interactions to be compensated by energetically favorable conformations while preserving the intermolecular network.",
+  "authors": [
+   "Jakub Planer",
+   "Pavel Procházka",
+   "Tomáš Krajňák",
+   "Veronika Stará",
+   "Daniela Hrubá",
+   "Zdeněk Endstrasser",
+   "Tomáš Skála",
+   "Jan Čechal"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Jakub Planer",
+  "pdf_url": "http://arxiv.org/pdf/2611.08851",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-06",
+  "tags": [
+   "dft"
+  ],
+  "title": "Conformationally frustrated epitaxy at heteromolecular interface",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.08986": {
+  "abstract": "Manganese selenide grows both as rock-salt $α$-MnSe, a type-II antiferromagnet, and as metastable wurtzite w-MnSe, whose magnetic order has not been measured. We compute the neutral Mn and Se vacancies and the two antisites of both polymorphs with density functional theory plus a linear-response Hubbard $U$, between the Se-rich limit bounded by MnSe$_2$ and the Mn-rich limit set by the measured formation enthalpy. In $α$-MnSe the Mn vacancy is lowest over most of the window (0.92 eV under Se-rich conditions), consistent with its p-type conduction. In w-MnSe, the Se antisite is lowest under Se-rich conditions, narrowly in the A-type order and clearly in the stripe order, and the Se vacancy is lowest under Mn-rich conditions. The Se vacancy has nearly the same formation energy in both polymorphs, whereas defects that change the number of Mn atoms differ by 0.4-1.1 eV, although DFT+$U$ places wurtzite below rock salt, contrary to experiment. A spin-degenerate stripe order lies 14 meV per formula unit below the altermagnetic A-type order of w-MnSe, and the formation energies shift between these orders by up to 0.24 eV, most for the Mn vacancy. Three of the four defects leave an uncompensated moment of 3-5 $μ_\\mathrm{B}$. In the A-type order, band unfolding shows that the sign-reversing splitting of the most strongly split band, about 230 meV and 3 eV below the valence-band maximum, keeps its peak height within the 8% scatter of the analysis at 3% defects, while points on its shoulders move by up to about 70 meV. Band-edge states are not resolved.",
+  "authors": [
+   "Tomás Rojas Solorzano",
+   "Dale Igram"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "36 pages, 4 figures, 17 tables, including Supplementary Material",
+  "first_author": "Tomás Rojas Solorzano",
+  "pdf_url": "http://arxiv.org/pdf/2611.08986",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-06",
+  "tags": [
+   "dft"
+  ],
+  "title": "Native point defects in rock-salt and wurtzite MnSe: formation energies across the growth window and spin splitting in the A-type order",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.08995": {
+  "abstract": "Large language models are increasingly used to resolve consumer complaints, and the way complainants write varies with age, education and socioeconomic status (SES). We audit three remedy-decision systems using sociolinguistic rewrites of US consumer financial complaints that are instructed to preserve every fact: two generative LLMs that return a single label (GPT-4o-mini and GPT-5-mini) and a probabilistic \"System One\" model that returns a distribution over remedies (Jev). Using pre-registered hypotheses tested once on held-out complaints, we separate two phenomena that single-label audits conflate. At the group scale, older, college-educated and higher-SES styles receive slightly more generous remedies; these effects replicate but are small, with every monetary-remedy gap within 0.5 percentage points. At the individual scale, two style versions of the same complaint receive different monetary decisions 2.6-6.3% of the time. In a variance-component analysis of the probabilistic model, persona components shared across the two rewrite models account for about 1.6% of within-complaint variation. The persona gaps are associated mainly with delivery (vocabulary, grammar, politeness) rather than content. Positive controls show that all three systems respond 49-387 times more strongly to remedy-relevant facts than to style. Rewriting every complaint into one standard style reduced GPT-4o-mini's education and SES gaps by 94% and 87% while retaining fact sensitivity, but reversed two of the probabilistic model's gaps and did not make individual decisions more stable. Independent LLM auditors flagged material fact changes in 3.3% and 11.7% of rewrites, and instability persisted among unflagged rewrites. Fairness audits of LLM decision systems should report group disparities and individual instability as separate outcomes.",
+  "authors": [
+   "Colin Priest"
+  ],
+  "categories": [
+   "cs.CY",
+   "cs.AI",
+   "cs.CL"
+  ],
+  "comment": "29 pages, 7 figures. Code, prompts and pre-registrations: https://github.com/colinpriest/llm-jev-linguistic-profiling",
+  "first_author": "Colin Priest",
+  "pdf_url": "http://arxiv.org/pdf/2611.08995",
+  "primary_category": "cs.CY",
+  "published": "2026-11-06",
+  "tags": [],
+  "title": "Same Facts, Different Remedy: Linguistic Profiling and Arbitrariness in LLM and System One Decisions",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09013": {
+  "abstract": "Large language models (LLMs) have shown promise in scientific discovery, yet systematically accumulating and refining reusable scientific knowledge remains challenging. Existing approaches primarily improve LLM-based problem solving through parameter optimization or feedback-driven refinement of prompts, programs, and solution trajectories, leaving acquired expertise either embedded in model weights or scattered across iterative problem-solving processes. As a result,knowledge is difficult to systematically inspect, evaluate, and refine. We propose KnowEvo, a framework that treats externalized knowledge itself as the optimization target. Our key insight is that scientific knowledge is inherently modular: multiple interacting mechanisms jointly determine the design outcomes. This makes knowledge evolution fundamentally challenging, as improvements cannot be attributed to individual components in isolation. To address this, KnowEvo represents knowledge as executable expertise blocks and organizes their refinements into strategy mutation trees, enabling structured exploration over a combinatorial knowledge space. The framework combines a Thompson-style forward allocation strategy that adaptively distributes evaluation budgets across strategy variants with a backward revision process, in which a code agent operates in an isolated sandbox to translate rollout evidence into localized program updates. This design enables persistent accumulation, evaluation, and refinement of mechanistic expertise across iterative experimentation. We evaluate KnowEvo on protein optimization tasks including stability and solubility. Results show that knowledge evolution consistently improves over initial strategy blocks and outperforms monolithic program evolution and prior LLM-guided evolution baselines across metrics such as pass@k, MRR, MAP,and NDCG@5. Code is available at https://github.com/recynie/KnowEvo.",
+  "authors": [
+   "Zijie Xing",
+   "Xingyue Liu",
+   "Runze Wang",
+   "Luoming Hu",
+   "Yanming Shen"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Accepted by NeurIPS 2026",
+  "first_author": "Zijie Xing",
+  "pdf_url": "http://arxiv.org/pdf/2611.09013",
+  "primary_category": "cs.LG",
+  "published": "2026-11-06",
+  "tags": [],
+  "title": "KnowEvo: Knowledge Evolution for Protein Optimization",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09025": {
+  "abstract": "Electric-field-driven polarization switching in sliding ferroelectrics depends on how local interlayer motion is accommodated by the surrounding structure. Yet the relationship between sliding, domain-wall (DW) propagation, and collective domain evolution under changing vector fields remains unclear. Here, we show that local symmetry governs the coupling between field-induced forces and interlayer sliding, while DW connectivity determines how local motion contributes to net domain conversion. These effects are examined across three structural scales, from monodomains and isolated DWs to reconstructed moire networks. We investigate bilayer hexagonal boron nitride (h-BN) using molecular dynamics with a machine-learning interatomic potential that incorporates field-dependent electric enthalpy. An initially monodomain bilayer switches through directional wrinkling and interlayer sliding, while the barrier along a constrained flat path remains finite. Pre-existing DWs propagate with velocities governed by their shear and tensile character, and an additional in-plane field tunes wall velocity and width according to its orientation. In reconstructed triangular moire networks, shared junctions and boundary curvature mediate domain evolution and recovery after field removal or reversal. Most strikingly, a rotating in-plane field translates the layers and displaces the moiré nodes by approximately 1 AA yet leaves the AB/BA domain-area ratio without detectable change, because threefold connectivity cancels the contributions of individual walls. We term this response polarization-silent sliding. These results distinguish local sliding, DW translation, and net domain conversion as different responses to electric fields and establish how local structural symmetry and DW connectivity shape their selective control.",
+  "authors": [
+   "Yinan Wang",
+   "Teruyasu Mizoguchi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yinan Wang",
+  "pdf_url": "http://arxiv.org/pdf/2611.09025",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-06",
+  "tags": [
+   "2d-materials",
+   "molecular-dynamics"
+  ],
+  "title": "Symmetry-Gated Sliding: Decoupling Interlayer Translation from Polarization Reversal in Boron Nitride Ferroelectrics",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09142": {
+  "abstract": "Diffusion models have recently emerged as a powerful paradigm for generating 3D molecules. Despite showing remarkable promise, they learn atomic distributions implicitly from data, without explicitly encoding physicochemical rules into their generative dynamics. Consequently, generated samples can be statistically plausible yet chemically invalid. To address this problem, we propose Sequential Neuro-Symbolic Constrained Diffusion (SensDiff), a framework that integrates symbolic rules into generative modeling, enabling the model to internalize scientific priors during training. Central to SensDiff is the observation that the diffusion trajectory of 3D molecule generation exhibits a coarse-to-fine evolution: valid molecules arise by first mitigating macroscopic geometric conflicts and then refining structures toward microscopic chemical consistency through iterative denoising. Accordingly, SensDiff mirrors this dynamic by sequentially enforcing constraints with adaptive weighting during training, progressively steering generation toward valid molecular geometries. Moreover, SensDiff translates domain knowledge into interpretable generative controls, grounding opaque neural denoising in scientific principles. Experiments on molecular benchmarks and real-world constrained generation tasks confirm that SensDiff consistently improves chemical validity while adhering to physicochemical rules and user-specified targets. The code is publicly available at https://github.com/WanyuGroup/NeurIPS2026_SensDiff.",
+  "authors": [
+   "Zhuoran Li",
+   "Xu Sun",
+   "Chang Wen Chen",
+   "Wanyu Lin"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Zhuoran Li",
+  "pdf_url": "http://arxiv.org/pdf/2611.09142",
+  "primary_category": "cs.LG",
+  "published": "2026-11-06",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "Learning Generative Dynamics for 3D Molecule Generation via Sequential Neuro-Symbolic Constraints",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09235": {
+  "abstract": "Controllable molecule generation is crucial for diverse scientific applications, such as drug discovery and materials design. While large language models (LLMs) show great promise, their dense and entangled representations impede precise control over the generation of molecules with bespoke substructures or properties. To address this, we propose Sparse Representation Editing (SpaRE), an interpretability-driven framework for fine-grained and precise control in LLM-based molecule generation. The crux of SpaRE is to learn an overcomplete sparse feature space that disentangles LLM representations into a compact set of latent features corresponding to chemically meaningful concepts. Within this space, we can directly manipulate these concept-aligned latent features to achieve (1) local control, by generating target atoms and functional groups at specified positions; and (2) global control, by customizing the overall structural and physicochemical properties within defined ranges. In this way, our framework advances interpretability from post-hoc analysis to actionable generative control. Experiments show that SpaRE can generate chemically desirable molecules under complex constraints in real-world scenarios, while offering mechanistic insights for quantitative structure-property analysis. The code and demo are available at https://github.com/WanyuGroup/ICML2026_SpaRE.",
+  "authors": [
+   "Zhuoran Li",
+   "Xu Sun",
+   "Chang Wen Chen",
+   "Wanyu Lin"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Zhuoran Li",
+  "pdf_url": "http://arxiv.org/pdf/2611.09235",
+  "primary_category": "cs.LG",
+  "published": "2026-11-06",
+  "tags": [
+   "drug-discovery"
+  ],
+  "title": "Controllable Molecule Generation via Sparse Representation Editing: An Interpretability-Driven Perspective",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09377": {
+  "abstract": "Accurate prediction of enzyme kinetic parameters can support enzyme engineering and metabolic modeling by complementing experimental characterization. Existing prediction methods often pool residue-level protein features before combining them with substrate features. Such substrate-independent pooling cannot adapt residue weighting to the substrate during aggregation, potentially diluting information relevant to a specific enzyme-substrate pair. Since the contributions of individual residues to catalysis can depend on the substrate, substrate-conditioned aggregation offers a way to emphasize residue features relevant to the prediction. We introduce KineCouple, which uses substrate queries and residue-level keys and values in cross-attention, allowing the substrate to guide residue selection before aggregation. The model preserves the global protein representation and adds a gated correction defined as the difference between the conditioned readout and a uniform readout. ProtT5 and MolT5 remain frozen, and separate models predict kcat and Km on a logarithmic scale. In pooled out-of-fold predictions on the CataPro benchmarks, KineCouple reduces kcat RMSE from 1.333 to 1.330 and increases PCC from 0.492 to 0.496 relative to reproduced CataPro. For Km, RMSE decreases from 0.998 to 0.997 and PCC increases from 0.633 to 0.634. Spearman correlation also improves for both tasks.",
+  "authors": [
+   "Chun Kang",
+   "Yunbo Zhang",
+   "Fanhu Zeng",
+   "Jian Liu",
+   "Siwei Deng",
+   "Lei Sha"
+  ],
+  "categories": [
+   "cs.AI",
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Chun Kang",
+  "pdf_url": "http://arxiv.org/pdf/2611.09377",
+  "primary_category": "cs.AI",
+  "published": "2026-11-06",
+  "tags": [
+   "catalysis"
+  ],
+  "title": "KineCouple: Substrate-conditioned residual readout for enzyme kinetic prediction",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09473": {
+  "abstract": "Engineering of two-dimensional material heterostructures offers a broad range of degrees of freedom through the selection of type and number of layers and their relative stacking configurations. In these compound materials, the stacking sequence plays a central role in determining electronic, mechanical, and optical properties. Here, we present a theoretical study of its signature on the excitons of hexagonal boron nitride bilayers based on first-principle calculations within the GW approximation and the Bethe-Salpeter equation. We explain how stacking-dependent symmetry variations lead to distinct electronic structures, particularly near the band edge around the K high-symmetry point, and consequently to markedly different excitonic landscapes. Indeed, we analyze the symmetry-governed character of the low-lying excitonic states, identifying their bright or dark nature for each stacking configuration and performing a systematic comparison. Our results clarify how van der Waals interlayer coupling reshapes excitons in hexagonal boron nitride bilayers and outline prospects for twist-controlled exciton engineering in this material.",
+  "authors": [
+   "Mehdi Arfaoui",
+   "Sylvain Latil",
+   "Lorenzo Sponza"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "15 pages, 11 figures",
+  "first_author": "Mehdi Arfaoui",
+  "pdf_url": "http://arxiv.org/pdf/2611.09473",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-06",
+  "tags": [
+   "2d-materials",
+   "vdw-correction"
+  ],
+  "title": "Stacking, symmetry and exciton fine structure in boron nitride bilayers",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09548": {
+  "abstract": "Protein conformational ensemble generation aims to efficiently characterize the structural variations accessible to a protein beyond a single static structure. Recent flow-based methods efficiently generate conformational ensembles, but they model coordinated structural variation implicitly, which can limit ensemble fidelity and hinder direct control. To address this limitation, we propose CoMoFlow, a controllable framework for generating protein backbone conformational ensembles by explicitly modeling collective variation. CoMoFlow constructs protein-specific collective modes from the equilibrium structure, learns the distribution of their coefficients across the molecular dynamics (MD) ensemble, and uses sampled collective variations to guide SE(3) flow matching through feature conditioning and prior recentering. Experiments on ATLAS and de novo proteins show that CoMoFlow improves reconstruction of MD conformational distributions and coordinated structural variation relative to strong flow-based baselines, while enabling direct control over targeted conformational changes.",
+  "authors": [
+   "Yusong Wang",
+   "Zheyuan Gu",
+   "Ailiang Lin",
+   "Minghao Shao",
+   "Yicheng Xu",
+   "Jiang Cai",
+   "Prayag Tiwari",
+   "Mingkun Xu"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Yusong Wang",
+  "pdf_url": "http://arxiv.org/pdf/2611.09548",
+  "primary_category": "cs.AI",
+  "published": "2026-11-06",
+  "tags": [
+   "drug-discovery",
+   "molecular-dynamics"
+  ],
+  "title": "CoMoFlow: Controllable Protein Conformational Ensemble Generation via Explicit Collective-Mode Modeling",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09559": {
+  "abstract": "This paper was generated by an AI model (Claude Opus 5.5, Anthropic) under the author's direction; all results come from computations run on the author's machine, and every reference was checked. Weight-space programming (WSP) is the idea that a large language model (LLM) can write the weights of a small neural network directly, guided only by reading forward-pass outputs, with no gradient training. We test whether WSP can improve exact operations research algorithms where they rely on cheap scoring rules. In four studies, an LLM wrote small multilayer perceptrons that (i) select arcs, labels and ng-neighbourhoods inside column generation for the vehicle routing problem with time windows, and (ii) choose branching variables in SCIP's branch-and-bound. The algorithms stay exact whatever the weights; a bad network only costs time. In column generation, no lever gave a material gain. In branching on synthetic classes, a hand-written network solved independent-set instances in 0.37x the time of SCIP's default rule (18 paired instances, Wilcoxon $p<10^{-5}$) and matched or beat networks trained by imitation of strong branching, but on 39 MIPLIB 2017 instances it solved 19 versus 24. In an application built from the real GTFS feed of Atlanta's transit agency (MARTA), a crew scheduling set-partitioning model solved by a native C plugin with SCIP's factory settings, the LLM-written rules took 0.63x the default's time on 32 held-out instances ($p<10^{-4}$), but SCIP's plain pseudocost rule did exactly as well (ratio 0.99, $p=0.19$). In these settings, the gains came from being cheap, not from what the LLM wrote. All code, logs and the numbers behind every figure are released.",
+  "authors": [
+   "Renan Butkeraites"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": "17 pages, 13 figures, 2 tables. Text, figures, code and analysis generated by Claude Opus 5.5 (Anthropic) under the author's direction; all experiments run locally. Code, logs and data: https://github.com/butkeraites/llm-written-weights-or . Also posted on Optimization Online",
+  "first_author": "Renan Butkeraites",
+  "pdf_url": "http://arxiv.org/pdf/2611.09559",
+  "primary_category": "math.OC",
+  "published": "2026-11-06",
+  "tags": [],
+  "title": "Can a Language Model Write the Weights? An Empirical Study of LLM-Written Scoring Networks for Column Generation and MILP Branching, with a Bus-Driver Scheduling Application",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09580": {
+  "abstract": "Our house has been taken over. It is not completely destroyed, but many of its essential functions and facilities no longer work as they used to. Essentially, they are out of our control. Artificial intelligence, through its large language models (LLMs), has taken it. And we, the inhabitants of the house, without really noticing what was happening, and surprised by the effectiveness of LLMs, have handed over our most sacred belongings: the capacity to think about a problem, the joy of having an idea that solves it, the beautiful effort needed to consolidate an idea in our common language. And there is no turning back.   We are mathematicians, and our whole world is in check. We wonder: is it checkmate? Can we take back control of our house, which will undoubtedly not work in the same way?   Paradoxically, the weapons that attacked us are built on some of our own ideas. Of course, it is not entirely our work. The computer science knowledge needed to develop these large models evolved in both its theoretical and its material aspects. As technology evolved (infinitely small processors, infinitely large computing centers), turning quantity into quality, computer scientists encoded into software the ideas needed to produce these tools (let us not call them weapons).   These notes look into the past and the future of the mathematical profession. What will inevitably happen? What will remain and what will disappear? And, in consequence, what is our line of action? To organize the ideas, after some introductory historical comments, we try to answer the questions: (1) Is mathematics necessary for the development of our society? (2) Will mathematicians be necessary in the near future? (3) How the profession will change, through a list of exercises: open questions and possible actions.",
+  "authors": [
+   "Ernesto Mordecki"
+  ],
+  "categories": [
+   "math.HO"
+  ],
+  "comment": "9 pages. An essay about AI and mathematics",
+  "first_author": "Ernesto Mordecki",
+  "pdf_url": "http://arxiv.org/pdf/2611.09580",
+  "primary_category": "math.HO",
+  "published": "2026-11-06",
+  "tags": [],
+  "title": "Hostages",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09659": {
+  "abstract": "In this work, we focus on addressing challenges related to modelling the integration of conventional high-performance computing (HPC) and quantum computing (QC). We introduce the Quantum Assembly Compiler (QASC) for OpenQASM3.0 files. The compiler produces an executable that leverages the high-performance simulator QuEST to simulate quantum programs. Additionally, we introduce a performance modelling tool, QACC-perf, which can estimate the cost of integrating QC in classical HPC workflows, as well as the execution time of the quantum circuits. Finally, we demonstrate the utility of these tools in the context of multiscale quantum chemistry workflows using the ChemShell computational chemistry environment.",
+  "authors": [
+   "Mateusz Meller",
+   "Joseph C. R. Thacker",
+   "Thomas W. Keal",
+   "Vendel Szeremi"
+  ],
+  "categories": [
+   "quant-ph",
+   "cs.ET"
+  ],
+  "comment": "15 pages, 3 figures, 11 tables",
+  "first_author": "Mateusz Meller",
+  "pdf_url": "http://arxiv.org/pdf/2611.09659",
+  "primary_category": "quant-ph",
+  "published": "2026-11-06",
+  "tags": [
+   "quantum-chemistry",
+   "quantum-computing"
+  ],
+  "title": "Quantum Integration Software Suite For HPC-Quantum Computing Workflows",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09667": {
+  "abstract": "Simulating molecules in quantum electrodynamic (QED) cavities requires a consistent description of electronic response, nuclear motion, and electromagnetic-field fluctuations. Here, I present Cavity-QED Molecular Dynamics, an interface connecting eT and i-PI for atomistic simulations of finite molecular systems coupled to a single photon mode. The code evaluates a self-consistent cavity Born-Oppenheimer Hartree-Fock (CBO-HF) energy surface and supports classical-nuclei dynamics under canonical (NVT) and microcanonical (NVE) ensembles, as well as canonical joint nuclear-photon path-integral sampling including nuclear quantum effects (NQEs). A fixed-displacement gradient correction provides nuclear and photon forces consistent with the same energy surface as the photon coordinate evolves independently. OpenMP threading, concurrent bead evaluations, and analysis utilities support practical simulations. Water-monomer benchmarks assess both dynamical propagation and equilibrium sampling. Energy-derivative checks and NVE timestep tests demonstrate consistent force evaluation and integration, while path integral molecular dynamics (PIMD) simulations with PILE-L thermostatting reproduce analytic finite-bead photon second moments, including their centroid and internal contributions, within sampling uncertainties. At the tested parameters, cavity coupling produces a small but statistically resolved increase in photon fluctuations, while changes in mean molecular geometry remain within sampling uncertainty. The resulting Cavity-QED Molecular Dynamics framework enables controlled investigations of how coupled quantum fluctuations of matter and the electromagnetic field influence molecular equilibrium properties within the CBO-HF approximation, providing a foundation for future studies of cavity-modified hydrogen bonding, vibrational spectra, and molecular polaritonic phenomena.",
+  "authors": [
+   "Giuseppe Cassone"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Giuseppe Cassone",
+  "pdf_url": "http://arxiv.org/pdf/2611.09667",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-06",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Cavity-QED Molecular Dynamics: An eT-i-PI Interface for Ab Initio Cavity Born-Oppenheimer Dynamics and Joint Nuclear-Photon Path-Integral Sampling",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09783": {
+  "abstract": "Infrared spectroscopy is a key tool to study complex structural dynamics in molecular systems. However, resolving weak or broad vibrational modes is challenging due to their rapid decay. Here, we demonstrate a technique to significantly extend the detectable lifetime - and thereby spectral resolution - of molecular signatures by employing synchronized time-gated optical parametric amplification of mid-infrared free-induction decay signals. Utilizing a Cr:ZnS laser system and a nonlinear ZnGeP2 crystal, we achieve a 10-fold increase in the electric field strength of the infrared molecular signal, yielding a two-orders of magnitude enhancement in dynamic range and a 2-fold increase in the signal-to-noise ratio. Using isopropyl alcohol as a model system, we demonstrate that OPA-enhanced detection extends the observable window of vibrational modes up to 72 %. This approach allows for the reconstruction of high-fidelity molecular fingerprints that resolve complex vibrational relaxation pathways and weak structural dynamics, previously hidden within the background and noise, providing a pathway for new high-sensitivity and time-resolved studies of complex chemical structures.",
+  "authors": [
+   "Sergio Revuelta",
+   "Gerard Faustino",
+   "Ka Fai Mak",
+   "Ferenc Krausz",
+   "Nicholas Karpowicz"
+  ],
+  "categories": [
+   "physics.optics",
+   "physics.chem-ph"
+  ],
+  "comment": "19 pages, 10 figures, preprint",
+  "first_author": "Sergio Revuelta",
+  "pdf_url": "http://arxiv.org/pdf/2611.09783",
+  "primary_category": "physics.optics",
+  "published": "2026-11-06",
+  "tags": [
+   "molecular-representation"
+  ],
+  "title": "Time-gated optical-parametric-amplification and field-resolved detection of mid-infrared free-induction decay signals",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09818": {
+  "abstract": "Dominant methods for interpreting large models impose strong structural assumptions. Generative Latent Priors (GLP) are a complementary approach: a diffusion model that learns the distribution of a frozen model's activations directly, imposing no assumptions. We port GLP to ESM-2 activations (UniRef50) and evaluate it at two host scales (ESM-2-8M and -650M), both as a lens for protein representations and as a prior for editing them. Generation quality scales smoothly with depth and compute. As a lens, single GLP \"meta-neurons\" are the strongest probes of discrete Swiss-Prot concepts at both hosts, beating InterPLM's released SAE features, and lead on continuous properties at 8M though not at 650M; falsification tests show this is mostly concentration, not new information. As an editing prior, the on-manifold correction makes DiffMean steering of three biochemical properties effective and restores on-manifoldness, but only in isolation: re-embedding the sequences actually produced after several rounds of decoding, the structural plausibility is compromised. This is mainly reproduced in additional SAE-based clamping structural steering experiments, where only Helix motif succeeds. The naturalness failure is traced to the rewriting coverage and the decoder rather than the prior, highlighting what the method must clear before it can serve for both discovery-by-editing and discovery-by-exploration. Trained GLPs are released on huggingface.co/collections/HPAI-BSC/glprot.",
+  "authors": [
+   "Daniel Hinjos",
+   "Lucía Urcelay"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "Accepted at the Interpretability for Discovery (Interp4Discovery) Workshop at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026)",
+  "first_author": "Daniel Hinjos",
+  "pdf_url": "http://arxiv.org/pdf/2611.09818",
+  "primary_category": "cs.AI",
+  "published": "2026-11-06",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "Generative Latent Priors for Interpreting and Steering Protein Language Models",
+  "topics": [
+   "Generative Design & Molecule Optimization",
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09822": {
+  "abstract": "The timeline by which quantum computers can solve breakthrough problems in science depends on improved quantum algorithms as much as on better hardware. Such algorithmic advances are typically achieved through many years of expert human collaboration. In mathematics and computer science, large language models have accelerated progress through automated discovery loops. However, quantum algorithms can only be evaluated by classical computers on restricted or small instances. Here we demonstrate automated discovery of quantum programs beyond these regimes including order-of-magnitude improvements on scientific applications. To achieve this, we build a quantum program library in the Lean theorem prover in which large language model agents synthesize novel programs against formal problem specifications and verify their correctness and cost. Agent teams collaborate, sharing results and knowledge through wikis and discussing ideas at organized conferences. Our results improve on prior baselines for parallel search (up to 1.4x), quantum arithmetic (290x), and simulations relevant to fusion, photochemistry and drug-metabolism by 11x, 8x and 2.5x respectively. Combining human and artificial intelligence at scale, under the rigor of mathematical proof, lets researchers design algorithms that today's classical and quantum computers cannot test, shortening the path to practical quantum computation.",
+  "authors": [
+   "Sergey Shirobokov",
+   "Ben Jaderberg",
+   "Katerina Hristova",
+   "George Tsoukalas",
+   "Johannes Bausch",
+   "Eric Wieser",
+   "Francisco J. H. Heras",
+   "Nicholas C. Rubin",
+   "Guang Hao Low",
+   "Sébastien Racanière",
+   "Nenad Tomašev",
+   "Lei M. Zhang",
+   "James Watson",
+   "Tanuj Khattar",
+   "Aws Albarghouthi",
+   "Stavan Jain",
+   "Harun Khan",
+   "Leopoldo Sarra",
+   "Andrew W. Senior",
+   "Michael Broughton",
+   "Hussain Masoom",
+   "Sergio Boixo",
+   "Ryan Babbush",
+   "Swarat Chaudhuri",
+   "Pushmeet Kohli"
+  ],
+  "categories": [
+   "quant-ph",
+   "cs.AI",
+   "cs.PL"
+  ],
+  "comment": null,
+  "first_author": "Sergey Shirobokov",
+  "pdf_url": "http://arxiv.org/pdf/2611.09822",
+  "primary_category": "quant-ph",
+  "published": "2026-11-06",
+  "tags": [],
+  "title": "Discovering formally verified quantum programs with AI",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09850": {
+  "abstract": "Quantum-state conversion between the ortho and para nuclear-spin states of H$_2$ is forbidden in the isolated molecule but these states can become connected through interactions with a surrounding environment. How that same environment governs the dynamics of the newly connected states remains poorly understood. Here, we investigate this problem using H$_2$ confined in crystalline molecular solids, where the host environment selectively enables conversion between a pair of otherwise disconnected ortho-H$_2$ and para-H$_2$ states. Rotationally resolved infrared spectroscopy directly determines the state-specific conversion dynamics in crystalline CO$_2$ and N$_2$O at 10 K, revealing that increasing H$_2$ concentration suppresses nuclear-spin conversion by nearly an order of magnitude, reaching complete suppression by 20% H$_2$ loading. Molecular dynamics and Monte Carlo simulations identify two complementary origins of this concentration dependence: changes in the thermally populated phonon modes available to mediate relaxation, and strain-driven H$_2$ clustering that progressively removes molecules from the host crystal field responsible for enabling conversion. The resulting picture connects a classical collective response of the host to microscopic quantum-state dynamics: H$_2$ loading generates strain that reorganizes the local molecular environment, thereby modifying both the phonon bath and the molecular coupling to that bath. These results establish a multiscale mechanism by which condensed-phase environments can govern the connectivity and dynamics of an effective two-level system.",
+  "authors": [
+   "Nathan McLane",
+   "Richard C. Remsing",
+   "Leah G. Dodson"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Nathan McLane",
+  "pdf_url": "http://arxiv.org/pdf/2611.09850",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-06",
+  "tags": [
+   "molecular-dynamics",
+   "monte-carlo"
+  ],
+  "title": "Classical control of quantum-state relaxation in confined molecular hydrogen",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09880": {
+  "abstract": "Zeolites are an important class of porous crystalline materials with broad applications in gas storage, separations, and catalysis. Although hundreds of thousands of experimentally realized and hypothetical zeolite structures are known, identifying materials optimized for a target application remains challenging because property labels are expensive to obtain and available only for limited structure-molecule pairs. While prior work has demonstrated that 3D neural representations can predict zeolite properties effectively, it remains unclear which representation-learning strategies are most effective in the low-data regime relevant to materials discovery. We present ZeoBench, a benchmark for self-supervised learning on dense 3D representations of all-silica zeolites, and evaluate the resulting features on six existing downstream adsorption-property prediction tasks, across a range of training set sizes. Our study compares self-supervised 3D pretraining on volumetric zeolite data, adaptations of image-pretrained 2D ConvNets and vision transformers to 3D via multiview and channel-inflation strategies, and 3D ConvNets pretrained on out-of-domain volumetric datasets, alongside hand-crafted descriptors and supervised baselines. Using our pretraining and evaluation framework, we find self-supervised 3D representations outperform existing methods and achieve state-of-the-art performance across both in-domain label regimes and for the unseen domain of metal organic frameworks. Learned representations consistently outperform hand-crafted descriptors, and convolutional architectures are generally more effective than vision transformers in this setting. These results establish ZeoBench as a practical benchmark for 3D representation learning in zeolites and provide guidance for data-limited adsorption property prediction.",
+  "authors": [
+   "Aaron Sun",
+   "Yachan Liu",
+   "Ping Yang",
+   "Peng Bai",
+   "Subhransu Maji"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "NeurIPS 2026 Datasets and Benchmarks Track",
+  "first_author": "Aaron Sun",
+  "pdf_url": "http://arxiv.org/pdf/2611.09880",
+  "primary_category": "cs.CV",
+  "published": "2026-11-06",
+  "tags": [
+   "catalysis",
+   "materials-discovery",
+   "property-prediction"
+  ],
+  "title": "ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations",
+  "topics": [
+   "Large Language Models & Materials",
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-11-06"
  }
 }

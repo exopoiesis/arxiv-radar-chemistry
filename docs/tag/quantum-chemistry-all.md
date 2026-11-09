@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>quantum-chemistry — all</h1>
-  <span class="paper-count">681 papers</span>
+  <span class="paper-count">682 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09659.html">Quantum Integration Software Suite For HPC-Quantum Computing Workflows</a></div><div class="paper-tags"><a href="quantum-computing-all.html">quantum-computing</a></div></td>
+<td>Mateusz Meller et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09659">2611.09659</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04202.html">Accurate representation of the continuum orbital in a Gaussian basis set: application to Auger decay rates</a></div></td>

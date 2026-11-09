@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09377.html">KineCouple: Substrate-conditioned residual readout for enzyme kinetic prediction</a></div></td>
+<td>Chun Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09377">2611.09377</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09880.html">ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>Aaron Sun et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09880">2611.09880</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07947.html">ChemE-as-Code: An Open-Source Platform for Agentic AI in Chemical Engineering</a></div></td>
 <td>Artur M. Schweidtmann</td>
@@ -128,17 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17417.html">High-Resolution X-ray Spectro-Microscopy of Au Microcrystallites</a></div></td>
 <td>Chaitali Sow et al.</td>
 <td><a href="http://arxiv.org/abs/2610.17417">2610.17417</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13602.html">Entanglement Catalysis Beyond the Asymptotic Rate</a></div></td>
-<td>Alexander Streltsov</td>
-<td><a href="http://arxiv.org/abs/2610.13602">2610.13602</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13795.html">Improved screening of doped ZrO$_2$ catalysts for CO$_2$ hydrogenation from graph-based machine learning</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Karsten Walz Jensen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13795">2610.13795</a></td>
 </tr>
 </tbody></table>

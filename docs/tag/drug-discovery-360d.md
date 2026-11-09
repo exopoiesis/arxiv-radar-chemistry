@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">477 papers</span>
+  <span class="paper-count">474 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09235.html">Controllable Molecule Generation via Sparse Representation Editing: An Interpretability-Driven Perspective</a></div></td>
+<td>Zhuoran Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09235">2611.09235</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09548.html">CoMoFlow: Controllable Protein Conformational Ensemble Generation via Explicit Collective-Mode Modeling</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Yusong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09548">2611.09548</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08420.html">On the limitations of molecular representations</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
@@ -2846,35 +2858,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13758.html">ChemFixer: Correcting Invalid Molecules to Unlock Previously Unseen Chemical Space</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Jun-Hyoung Park et al.</td>
 <td><a href="http://arxiv.org/abs/2511.13758">2511.13758</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.05457.html">How Evaluation Choices Distort the Outcome of Generative Drug Discovery</a></div><div class="paper-tags"><a href="chemical-llm-360d.html">chemical-llm</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Rıza Özçelik et al.</td>
-<td><a href="http://arxiv.org/abs/2501.05457">2501.05457</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17506.html">RAG-Enhanced Collaborative LLM Agents for Drug Discovery</a></div></td>
-<td>Namkyeong Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17506">2502.17506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10014.html">fastbmRAG: A Fast Graph-Based RAG Framework for Efficient Processing of Large-Scale Biomedical Literature</a></div></td>
-<td>Guofeng Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10014">2511.10014</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10165.html">EPO: Diverse and Realistic Protein Ensemble Generation via Energy Preference Optimization</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yuancheng Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10165">2511.10165</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10244.html">PepTriX: A Framework for Explainable Peptide Analysis through Protein Language Models</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Vincent Schilling et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10244">2511.10244</a></td>
 </tr>
 </tbody></table>

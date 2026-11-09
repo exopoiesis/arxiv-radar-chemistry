@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">470 papers</span>
+  <span class="paper-count">468 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2822,17 +2822,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13758.html">ChemFixer: Correcting Invalid Molecules to Unlock Previously Unseen Chemical Space</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Jun-Hyoung Park et al.</td>
 <td><a href="http://arxiv.org/abs/2511.13758">2511.13758</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.05457.html">How Evaluation Choices Distort the Outcome of Generative Drug Discovery</a></div><div class="paper-tags"><a href="chemical-llm-360d.html">chemical-llm</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Rıza Özçelik et al.</td>
-<td><a href="http://arxiv.org/abs/2501.05457">2501.05457</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10165.html">EPO: Diverse and Realistic Protein Ensemble Generation via Energy Preference Optimization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yuancheng Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10165">2511.10165</a></td>
 </tr>
 </tbody></table>

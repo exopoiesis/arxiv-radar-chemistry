@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>structure-prediction — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <strong>30d</strong> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18317.html">Accurately Generalizing Deep-Learning Hamiltonian Methods to Plane-Wave Density Functional Theory</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Chuntian Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.18317">2610.18317</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13106.html">Scaling RNA Foundation Models through Iterative Refinement</a></div></td>
-<td>Pengan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13106">2610.13106</a></td>
 </tr>
 </tbody></table>

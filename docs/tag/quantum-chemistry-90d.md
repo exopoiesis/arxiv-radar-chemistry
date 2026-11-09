@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09659.html">Quantum Integration Software Suite For HPC-Quantum Computing Workflows</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
+<td>Mateusz Meller et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09659">2611.09659</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04202.html">Accurate representation of the continuum orbital in a Gaussian basis set: application to Auger decay rates</a></div></td>
 <td>Dibyendu Mahato et al.</td>
@@ -380,11 +386,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12297.html">Eigenstate Preparation Through Near-Optimal Eigenprobability Filtering</a></div><div class="paper-tags"><a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Po-Wei Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12297">2608.12297</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09570.html">Eigenvalue asymptotics for the one-particle density matrix and one-particle kinetic energy density operator</a></div></td>
-<td>Søren Fournais et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09570">2608.09570</a></td>
 </tr>
 </tbody></table>

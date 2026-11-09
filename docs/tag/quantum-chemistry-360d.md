@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">338 papers</span>
+  <span class="paper-count">337 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09659.html">Quantum Integration Software Suite For HPC-Quantum Computing Workflows</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
+<td>Mateusz Meller et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09659">2611.09659</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04202.html">Accurate representation of the continuum orbital in a Gaussian basis set: application to Auger decay rates</a></div></td>
@@ -2030,17 +2036,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12182.html">Chemistry-Enhanced Diffusion-Based Framework for Small-to-Large Molecular Conformation Generation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Yifei Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.12182">2511.12182</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16026.html">Clifford augmented density matrix renormalization group for \textit{ab initio} quantum chemistry</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Lizhong Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16026">2506.16026</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14786.html">Hybrid Quantum-Classical Machine Learning with PennyLane: A Comprehensive Guide for Computational Research</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Sidney Shapiro</td>
-<td><a href="http://arxiv.org/abs/2511.14786">2511.14786</a></td>
 </tr>
 </tbody></table>

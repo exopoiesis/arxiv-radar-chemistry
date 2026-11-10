@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1550 papers</span>
+  <span class="paper-count">1545 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9284,35 +9284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11976.html">Ionic Interdiffusion at Cathode-Solid-Electrolyte Interface: A Machine Learning-Assisted Multiscale Investigation and Mitigation Strategies</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a></div></td>
 <td>Musawenkosi K. Ncube et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11976">2511.11976</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03810.html">Molecular Dynamics Simulations on Nuclear Recoils in Silicon Crystals towards Single Electron-Hole Pair Ionization Yields</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Chang-Hao Fang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03810">2506.03810</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10869.html">Mechanistic Transition from Screw to Edge Dislocation Glide Enhances High-Temperature Strength in Refractory Complex Concentrated Alloys</a></div><div class="paper-tags"><a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Tamanna Zakia et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10869">2511.10869</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10908.html">Impact of Nitrogen Atom Clusters and Vacancy Defects on Graphene: A Molecular Dynamics Investigation</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Indranil Rudra et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10908">2511.10908</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11889.html">Effects of Yttrium Doping on Oxygen Conductivity in Ba(Fe, Co, Zr, Y)O_{3-δ} Cathode Materials for Proton Ceramic Fuel Cells</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Chiyoung Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11889">2511.11889</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13768.html">Study of Quantum Confinement inside a Viral Capsid</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Elso Drigo Filho et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13768">2511.13768</a></td>
 </tr>
 </tbody></table>

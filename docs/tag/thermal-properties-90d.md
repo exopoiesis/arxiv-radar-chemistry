@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>thermal-properties — 90d</h1>
-  <span class="paper-count">64 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <strong>90d</strong> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11226.html">MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Junfu Tan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11226">2611.11226</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08065.html">Key role of orbital exchange in CoO magnetism</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
@@ -386,17 +392,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13826.html">SPEAR: Structure Property Explainability with Attention Regularization</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Aditya Raghavan et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13826">2608.13826</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10465.html">Machine-learning approach for the phase stability and mechanical properties of disordered alloys at finite temperature</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
-<td>Rutchapon Hunkao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10465">2608.10465</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11148.html">Tunable chiral anomaly in electron magnetotransport in the Weyl semimetallic Pb$_{1-x}$Sn$_x$Te:Cr alloy</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>A. Królicka et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11148">2608.11148</a></td>
 </tr>
 </tbody></table>

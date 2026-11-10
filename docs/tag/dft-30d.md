@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">129 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -788,47 +788,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17352.html">Can Universal Machine-Learning Interatomic Potentials Capture Small Polarons? A Geometry-Based Benchmark in Transition-Metal Oxides</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Vladislav Korostelev et al.</td>
 <td><a href="http://arxiv.org/abs/2610.17352">2610.17352</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14706.html">Finite-temperature adiabatic-connection reduced density-matrix functional theory: a unified framework for i-DMFT and TAO-DFT</a></div></td>
-<td>Jingang Han et al.</td>
-<td><a href="http://arxiv.org/abs/2610.14706">2610.14706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14825.html">Selective faceting induced by Hexagonal Boron Nitride on curved Platinum substrate</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Alaa Mohammed Idris Bakhit et al.</td>
-<td><a href="http://arxiv.org/abs/2610.14825">2610.14825</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14992.html">EpNet-Si: Atomic Form Factors Learned from Band Structures</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a></div></td>
-<td>Qiang Zhu</td>
-<td><a href="http://arxiv.org/abs/2610.14992">2610.14992</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Shivang Agarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15089.html">Role of defect trapping in the enhanced corrosion resistance of Ni-Mo alloys with yttrium and yttrium oxide additions</a></div></td>
-<td>Jia-Hong Ke et al.</td>
-<td><a href="http://arxiv.org/abs/2610.15089">2610.15089</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15190.html">Reparameterizing GFN1-xTB for Ionic Liquids</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>F. Stavarache et al.</td>
-<td><a href="http://arxiv.org/abs/2610.15190">2610.15190</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15214.html">Transition-Metal Chalcogenide Nanowires: A First-Principles Study of Stability, Electronic Structure, and Mechanical Response</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Danilo de Araújo Moura et al.</td>
-<td><a href="http://arxiv.org/abs/2610.15214">2610.15214</a></td>
 </tr>
 </tbody></table>

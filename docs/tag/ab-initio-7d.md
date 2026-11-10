@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,47 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05654.html">DefectSkills: Guiding AI agents through first-principles calculations for point defects in semiconductors and insulators</a></div></td>
 <td>Zhenkun Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2611.05654">2611.05654</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02584.html">Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="materials-discovery-7d.html">materials-discovery</a></div></td>
-<td>Adam M. Krajewski et al.</td>
-<td><a href="http://arxiv.org/abs/2611.02584">2611.02584</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02606.html">Nonadiabatic molecular dynamics simulation with external field</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Chengji Li et al.</td>
-<td><a href="http://arxiv.org/abs/2611.02606">2611.02606</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02723.html">Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. VI. Surface diffusion on a nonmetal-terminated surface</a></div></td>
-<td>Pawel Strak et al.</td>
-<td><a href="http://arxiv.org/abs/2611.02723">2611.02723</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02735.html">Universal model of the growth of III-V tetrahedral semiconductors on polar surfaces: pyramids and glue atoms. VII. Step kinetics</a></div></td>
-<td>Pawel Strak et al.</td>
-<td><a href="http://arxiv.org/abs/2611.02735">2611.02735</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02906.html">Site-orbit masked twin-branch Transformer for symmetry-constrained crystal generation</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="materials-discovery-7d.html">materials-discovery</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Junchi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.02906">2611.02906</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03628.html">Active-subspace learning reveals dominant parameter directions in nuclear observables</a></div></td>
-<td>Tom Plies et al.</td>
-<td><a href="http://arxiv.org/abs/2611.03628">2611.03628</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04008.html">Triboelectric nanogenerators across length scales: linking materials, multiscale modelling and applications</a></div><div class="paper-tags"><a href="materials-science-7d.html">materials-science</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>MD Tanzib Ehsan Sanglap et al.</td>
-<td><a href="http://arxiv.org/abs/2611.04008">2611.04008</a></td>
 </tr>
 </tbody></table>

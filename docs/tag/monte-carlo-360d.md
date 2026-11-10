@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">308 papers</span>
+  <span class="paper-count">307 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1856,11 +1856,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02992.html">Production of spectator neutrons, protons and light fragments on fixed targets at NICA</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>A. O. Svetlichny et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02992">2510.02992</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13768.html">Study of Quantum Confinement inside a Viral Capsid</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Elso Drigo Filho et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13768">2511.13768</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">468 papers</span>
+  <span class="paper-count">467 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2816,11 +2816,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12420.html">Chemical-space completeness: a new strategy for crystalline materials exploration</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="mlip-360d.html">mlip</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Fengyu Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2511.12420">2511.12420</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13758.html">ChemFixer: Correcting Invalid Molecules to Unlock Previously Unseen Chemical Space</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Jun-Hyoung Park et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13758">2511.13758</a></td>
 </tr>
 </tbody></table>

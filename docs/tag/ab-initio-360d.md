@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1508 papers</span>
+  <span class="paper-count">1505 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9044,23 +9044,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12243.html">Equivariant Atomic and Lattice Modeling Using Geometric Deep Learning for Crystal Structure Optimization</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a></div></td>
 <td>Ziduo Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.12243">2511.12243</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09793.html">Hybrid basis and multi-center grid method for strong-field processes</a></div></td>
-<td>Kyle A. Hamer et al.</td>
-<td><a href="http://arxiv.org/abs/2510.09793">2510.09793</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11361.html">Toward Multi-Fidelity Machine Learning Force Field for Cathode Materials</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Guangyi Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11361">2511.11361</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11889.html">Effects of Yttrium Doping on Oxygen Conductivity in Ba(Fe, Co, Zr, Y)O_{3-δ} Cathode Materials for Proton Ceramic Fuel Cells</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Chiyoung Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11889">2511.11889</a></td>
 </tr>
 </tbody></table>

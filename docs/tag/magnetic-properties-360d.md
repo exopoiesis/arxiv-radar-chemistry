@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">328 papers</span>
+  <span class="paper-count">327 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1976,11 +1976,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12338.html">Stoichiometry and Phase Control in K$_{1-x}$CrSe$_2$ via Self-Flux Synthesis</a></div></td>
 <td>Felix Eder et al.</td>
 <td><a href="http://arxiv.org/abs/2511.12338">2511.12338</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11260.html">Electronic and magnetic properties of light rare-earth cubic Laves compounds derived from XMCD experiments</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Vilde G. S. Lunde et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11260">2511.11260</a></td>
 </tr>
 </tbody></table>

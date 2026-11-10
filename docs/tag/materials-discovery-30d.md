@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-discovery — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <strong>30d</strong> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15603.html">CondMSP: Condition-Informed and Resource-Aware Inorganic Materials Synthesis Planning</a></div><div class="paper-tags"><a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
 <td>Heewoong Noh et al.</td>
 <td><a href="http://arxiv.org/abs/2610.15603">2610.15603</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Shivang Agarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
 </tr>
 </tbody></table>

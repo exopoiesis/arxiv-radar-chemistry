@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">474 papers</span>
+  <span class="paper-count">471 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2840,23 +2840,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25225.html">MSCoD: An Enhanced Bayesian Updating Framework with Multi-Scale Information Bottleneck and Cooperative Attention for Structure-Based Drug Design</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
 <td>Long Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.25225">2509.25225</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05628.html">GP-MoLFormer-Sim: Test Time Molecular Optimization through Contextual Similarity Guidance</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Jiri Navratil et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05628">2506.05628</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10590.html">Pretrained Joint Predictions for Scalable Batch Bayesian Optimization of Molecular Designs</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Miles Wang-Henderson et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10590">2511.10590</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13758.html">ChemFixer: Correcting Invalid Molecules to Unlock Previously Unseen Chemical Space</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Jun-Hyoung Park et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13758">2511.13758</a></td>
 </tr>
 </tbody></table>

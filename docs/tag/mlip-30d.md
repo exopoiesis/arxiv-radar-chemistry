@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11226.html">MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Junfu Tan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11226">2611.11226</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08678.html">Jackknife-conformal uncertainty for linear ACE potentials: calibrated forces and silicon properties compared with Bayesian and POPS baselines</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
@@ -308,23 +314,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15591.html">Tersoff-NN: Hybrid Machine-Learned Bond-Order Extension of the Tersoff Potential</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Yusuke Nishimura et al.</td>
 <td><a href="http://arxiv.org/abs/2610.15591">2610.15591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14891.html">Pressure-transferable universal machine-learning potentials: the WBM-MatPES benchmark and Tuga-FF</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Pierre-Paul De Breuck et al.</td>
-<td><a href="http://arxiv.org/abs/2610.14891">2610.14891</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14999.html">DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Shivang Agarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2610.14999">2610.14999</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15078.html">On the Theoretical Limits of Learning Unconstrained Interatomic Potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Prajwal Ananth et al.</td>
-<td><a href="http://arxiv.org/abs/2610.15078">2610.15078</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">514 papers</span>
+  <span class="paper-count">510 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3074,29 +3074,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13556.html">First Principles study of Photocatalytic Water Splitting in BO Monolayer: Effect of Strain and Surface Functionalization</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
 <td>Soumendra Kumar Das et al.</td>
 <td><a href="http://arxiv.org/abs/2511.13556">2511.13556</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10908.html">Impact of Nitrogen Atom Clusters and Vacancy Defects on Graphene: A Molecular Dynamics Investigation</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Indranil Rudra et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10908">2511.10908</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10951.html">Ripple-assisted adsorption of noble gases on graphene at room temperature</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Weilin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10951">2511.10951</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11146.html">Tunable electronic band structure in WSSe van der Waals Alloys</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Meryem Bouaziz et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11146">2511.11146</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11558.html">Human-AI collaborative autonomous synthesis with pulsed laser deposition for remote epitaxy</a></div></td>
-<td>Asraful Haque et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11558">2511.11558</a></td>
 </tr>
 </tbody></table>

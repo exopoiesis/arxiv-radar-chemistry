@@ -3804,5 +3804,87 @@
    "Reaction, Synthesis & Catalysis"
   ],
   "updated": "2026-11-06"
+ },
+ "2611.10024": {
+  "abstract": "Whether a precursor-substrate-reactant combination yields an atomic layer deposition (ALD) process is still settled by trial-and-error experiments. Here we introduce AJIN (ALD Joint Interpretable Network), a machine-learning framework that learns this decision from experimental outcomes. We compiled 560 experimentally observed ALD and area-selective ALD outcomes spanning 76 precursors, 27 substrates, 20 reactants and 25-620 degrees Celsius. Following the ALD cycle, AJIN predicts adsorption from graph-neural-network embeddings of the precursor and substrate with temperature, and deposition by adding the reactant. The best model (CHGNet-MLP) reaches balanced accuracies of 79.2% for adsorption and 84.8% for deposition and transfers partially to unseen precursors. SHAP and ablation analyses show that substrate chemistry governs adsorption, whereas precursor, substrate and reactant all contribute to deposition. Tested against our laboratory's ALD experiments, AJIN correctly predicted 83% of new-substrate cases and 71% of new precursor-substrate adsorption cases, providing an experimentally grounded tool for prioritizing ALD and area-selective ALD chemistries.",
+  "authors": [
+   "Bonwook Gu",
+   "Trinh Ngoc Le",
+   "Zunair Masroor",
+   "Minhyeok Lee",
+   "Han-Bo-Ram Lee"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Bonwook Gu",
+  "pdf_url": "http://arxiv.org/pdf/2611.10024",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-05",
+  "tags": [],
+  "title": "Experimentally Grounded Machine Learning of PrecursorSurface-Reactant Chemistry in Atomic Layer Deposition",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-11-05"
+ },
+ "2611.11226": {
+  "abstract": "Machine Learning Interatomic Potentials (MLIPs) based on Equivariant Graph Neural Networks (EGNNs) have achieved remarkable progress in atomistic modeling. However, accurately representing atomic interactions across different spatial scales remains challenging. In this work, we investigate the radial spectral properties of SO(3)-equivariant message passing and establish that the cutoff radius controls the characteristic spatial-frequency scale of radial interactions. Based on this analysis, we propose Multi-Cutoff Spectral Aggregation (MCSA), a plug-and-play module that aggregates radial kernels with different cutoff radii to enrich multi-scale geometric representations. To achieve efficient implementation, we exploit the compact support of radial kernels to fuse cutoff-dependent radial weights before angular tensor-product operations, avoiding redundant angular computations while preserving rotational equivariance. Extensive experiments across representative EGNN backbones demonstrate consistent improvements in energy, force, and stress prediction, as well as enhanced accuracy in higher-order properties, including phonon dispersion and lattice thermal conductivity. Further evaluations on layered materials with distinct interaction scales demonstrate the effectiveness of physically motivated cutoff selection. Code is available at: https://github.com/JF-Tan/MCSA.",
+  "authors": [
+   "Junfu Tan",
+   "Mengfan Wu",
+   "Yu Zhu",
+   "Yu Shi",
+   "Yifang Qin",
+   "Chang Liu",
+   "Bonan Zhu",
+   "Ziheng Lu"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "NeurIPS 2026",
+  "first_author": "Junfu Tan",
+  "pdf_url": "http://arxiv.org/pdf/2611.11226",
+  "primary_category": "cs.LG",
+  "published": "2026-11-08",
+  "tags": [
+   "gnn",
+   "mlip",
+   "thermal-properties"
+  ],
+  "title": "MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-11-08"
+ },
+ "2611.11839": {
+  "abstract": "Out-of-distribution (OOD) detection is essential for deploying machine learning models in high stakes scientific applications, yet methods that flag OOD inputs without retraining the model have been validated almost exclusively on image classification. We introduce MOOD (Materials Out-of-Distribution Detection), a benchmark for evaluating whether these post-hoc OOD detectors transfer to graph neural networks (GNNs) on materials property prediction. MOOD evaluates 15 post-hoc detectors and 2 supervised diagnostic probes across 4 GNN architectures, 5 MatBench tasks, and 15 physically motivated compositional and structural shifts, yielding 264 evaluation settings and over 13,000 AUROC measurements across three encoder training seeds. Our evaluation reveals three key findings. First, current post-hoc detectors perform near chance; all 15 detectors achieve an AUROC around 0.5. Second, detector failures decompose into two regimes: method bottlenecks and encoder bottlenecks. Method bottlenecks arise when supervised probes can separate in-distribution (ID) from OOD samples but unsupervised detectors fail, meaning that the embeddings contain OOD signal that current detectors do not extract. Encoder bottlenecks arise when even supervised probes fail to separate ID from OOD samples, indicating that the relevant shift is not accessible in the frozen GNN representation. Third, when OOD prediction error exceeds ID error, the AUROC of distance-based and density-based detectors correlates with the size of that gap. Collectively, these findings indicate that reliable OOD detection in scientific domains requires representation learning strategies that explicitly preserve OOD relevant signal, particularly for tasks where current GNN architectures encode no extractable signal at all.",
+  "authors": [
+   "Shirley X. Yu",
+   "Amey P. Pasarkar",
+   "Adji Bousso Dieng"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Accepted to NeurIPS 2026 (Evaluations & Datasets Track)",
+  "first_author": "Shirley X. Yu",
+  "pdf_url": "http://arxiv.org/pdf/2611.11839",
+  "primary_category": "cs.LG",
+  "published": "2026-11-09",
+  "tags": [
+   "gnn",
+   "property-prediction"
+  ],
+  "title": "MOOD: Benchmarking Post-Hoc OOD Detection for Materials Property Prediction",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-11-09"
  }
 }

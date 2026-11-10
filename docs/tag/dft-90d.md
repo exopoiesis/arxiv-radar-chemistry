@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">473 papers</span>
+  <span class="paper-count">464 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2798,59 +2798,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12572.html">Memory-dependent electronic friction for nonadiabatic dynamics at metal surfaces</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Xuexun Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12572">2608.12572</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04328.html">Quantum optoelectronics in semiconductor solar cell materials and devices</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Xi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04328">2608.04328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09257.html">Machine-learning octet $AB$-type binary compounds across chemical space with domain knowledge of the interatomic bond</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
-<td>Rohan Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09257">2608.09257</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10353.html">Metallic Bonding-Driven Elastic Softness and Optical Response in the Mg-Rich Laves-Phase LaMg2</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Farjana Mou et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10353">2608.10353</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10428.html">Quadrupolar phase transition in superconducting lanthanum hydride</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Abhishek Raghav et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10428">2608.10428</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10580.html">Enhanced Screening in Epitaxial Graphene via Nearly Free-Electron Metal Intercalation</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a></div></td>
-<td>Cedric Schmitt et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10580">2608.10580</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10768.html">High-pressure electride superconductor Li5N for multifunctional applications: A theoretical insight into the physical properties</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>M. Abdul Hadi Shah et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10768">2608.10768</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11089.html">Competition between local magnetic disorder and altermagnetism in doped FeSb$_2$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Enrico Di Lucente et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11089">2608.11089</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11148.html">Tunable chiral anomaly in electron magnetotransport in the Weyl semimetallic Pb$_{1-x}$Sn$_x$Te:Cr alloy</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>A. Królicka et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11148">2608.11148</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11411.html">Symmetry-Dependent Mechanical and Vibrational Response of Formamidinium Lead Halide Perovskites: A DFT Study</a></div></td>
-<td>Mahdi Faghihnasiri et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11411">2608.11411</a></td>
 </tr>
 </tbody></table>

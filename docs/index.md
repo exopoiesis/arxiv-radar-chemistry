@@ -5,15 +5,27 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-11-09._
+_Updated 2026-11-10._
 
-**16427** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**16430** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.11839.html">MOOD: Benchmarking Post-Hoc OOD Detection for Materials Property Prediction</a></div><div class="paper-tags"><a href="tag/gnn-30d.html">gnn</a> · <a href="tag/property-prediction-30d.html">property-prediction</a></div></td>
+<td>Shirley X. Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11839">2611.11839</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.11226.html">MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials</a></div><div class="paper-tags"><a href="tag/gnn-30d.html">gnn</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Junfu Tan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11226">2611.11226</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.08851.html">Conformationally frustrated epitaxy at heteromolecular interface</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a></div></td>
@@ -181,17 +193,5 @@ _Updated 2026-11-09._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.07848.html">Contrasting fate of holes introduced by Fe or In in kagome metal CoSn</a></div><div class="paper-tags"><a href="tag/band-gap-30d.html">band-gap</a> · <a href="tag/dft-30d.html">dft</a></div></td>
 <td>Véronique Brouet et al.</td>
 <td><a href="http://arxiv.org/abs/2611.07848">2611.07848</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.07864.html">Quark-mass dependence of two-nucleon scattering</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a></div></td>
-<td>Jorge Baeza-Ballesteros et al.</td>
-<td><a href="http://arxiv.org/abs/2611.07864">2611.07864</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.07947.html">ChemE-as-Code: An Open-Source Platform for Agentic AI in Chemical Engineering</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a></div></td>
-<td>Artur M. Schweidtmann</td>
-<td><a href="http://arxiv.org/abs/2611.07947">2611.07947</a></td>
 </tr>
 </tbody></table>

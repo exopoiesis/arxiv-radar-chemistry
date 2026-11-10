@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11226.html">MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Junfu Tan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11226">2611.11226</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08678.html">Jackknife-conformal uncertainty for linear ACE potentials: calibrated forces and silicon properties compared with Bayesian and POPS baselines</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>James R. Kermode</td>
@@ -746,11 +752,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11812.html">Data-Efficient Adaptation of DPA-4 Force Fields to DFT+U Energetics: A Case Study in NiO</a></div></td>
 <td>Fengyu Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11812">2608.11812</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10428.html">Quadrupolar phase transition in superconducting lanthanum hydride</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Abhishek Raghav et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10428">2608.10428</a></td>
 </tr>
 </tbody></table>

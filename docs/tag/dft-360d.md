@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2009 papers</span>
+  <span class="paper-count">2002 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12026,47 +12026,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12243.html">Equivariant Atomic and Lattice Modeling Using Geometric Deep Learning for Crystal Structure Optimization</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="gnn-360d.html">gnn</a></div></td>
 <td>Ziduo Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.12243">2511.12243</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08432.html">Energy density and stress fields in quantum systems</a></div></td>
-<td>Richard M. Martin et al.</td>
-<td><a href="http://arxiv.org/abs/2501.08432">2501.08432</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00987.html">Information encoding in spherical DFT</a></div></td>
-<td>Sol Samuels et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00987">2507.00987</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12390.html">Empty and filled vortices in squeezed 39K Bose-Bose liquid drops</a></div></td>
-<td>Ivan Poparić et al.</td>
-<td><a href="http://arxiv.org/abs/2510.12390">2510.12390</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11146.html">Tunable electronic band structure in WSSe van der Waals Alloys</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Meryem Bouaziz et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11146">2511.11146</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11260.html">Electronic and magnetic properties of light rare-earth cubic Laves compounds derived from XMCD experiments</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Vilde G. S. Lunde et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11260">2511.11260</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11354.html">Beyond quantum mean-field approximation: Phase-space formulation of many-body time-dependent density functional theory and efficient spectral approximations</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Jiong-Hang Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11354">2511.11354</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11524.html">The Interoperability Challenge in DFT Workflows Across Implementations</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>S. K. Steensen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11524">2511.11524</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">74 papers</span>
+  <span class="paper-count">72 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -446,17 +446,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13230.html">Substrate-Directed Wetting Layers in Bicontinuous Particle-Stabilised Emulsions</a></div></td>
 <td>Jesse M. Steenhoff et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13230">2608.13230</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02354.html">Metaphotonic Catalysis: Amorphous silicon metasurfaces encode photochemical activity</a></div><div class="paper-tags"><a href="photocatalysis-90d.html">photocatalysis</a></div></td>
-<td>Elif Nur Dayi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.02354">2608.02354</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11062.html">Accelerated Discovery of Materials with Extreme Work Functions through Uncertainty-Aware Multi-Fidelity Screening</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Jun Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11062">2608.11062</a></td>
 </tr>
 </tbody></table>

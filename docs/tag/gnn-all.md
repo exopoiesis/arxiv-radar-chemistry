@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gnn — all</h1>
-  <span class="paper-count">750 papers</span>
+  <span class="paper-count">752 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11839.html">MOOD: Benchmarking Post-Hoc OOD Detection for Materials Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
+<td>Shirley X. Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11839">2611.11839</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11226.html">MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>Junfu Tan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11226">2611.11226</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07410.html">Spectral symmetry fingerprints in equivariant representations</a></div></td>

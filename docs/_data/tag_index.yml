@@ -4,15 +4,15 @@
   total: 3921
   group: methods
 - name: molecular-dynamics
-  count: 124
+  count: 123
   total: 2951
   group: methods
 - name: ab-initio
-  count: 91
+  count: 90
   total: 2915
   group: methods
 - name: mlip
-  count: 50
+  count: 49
   total: 1030
   group: methods
 - name: 2d-materials
@@ -32,11 +32,11 @@
   total: 871
   group: properties
 - name: diffusion-model
-  count: 26
+  count: 24
   total: 793
   group: architectures
 - name: drug-discovery
-  count: 25
+  count: 24
   total: 1032
   group: tasks
 - name: free-energy
@@ -75,10 +75,6 @@
   count: 15
   total: 682
   group: methods
-- name: materials-discovery
-  count: 14
-  total: 435
-  group: tasks
 - name: materials-science
   count: 14
   total: 763
@@ -86,6 +82,10 @@
 - name: structure-prediction
   count: 14
   total: 307
+  group: tasks
+- name: materials-discovery
+  count: 13
+  total: 435
   group: tasks
 - name: excited-states
   count: 12
@@ -107,21 +107,21 @@
   count: 10
   total: 286
   group: specialized
-- name: retrosynthesis
-  count: 10
-  total: 149
-  group: tasks
 - name: phase-transition
   count: 9
   total: 432
   group: properties
-- name: reinforcement-learning
+- name: retrosynthesis
   count: 9
-  total: 255
-  group: specialized
+  total: 149
+  group: tasks
 - name: quantum-computing
   count: 8
   total: 228
+  group: specialized
+- name: reinforcement-learning
+  count: 8
+  total: 255
   group: specialized
 - name: multimodal-llm
   count: 7
@@ -164,7 +164,7 @@
   total: 145
   group: domain
 - name: chemical-space
-  count: 3
+  count: 2
   total: 209
   group: specialized
 - name: metadynamics

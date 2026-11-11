@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">471 papers</span>
+  <span class="paper-count">469 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2828,17 +2828,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16609.html">Aethorix v1.0: An Integrated Scientific AI Agent for Scalable Inorganic Materials Innovation and Industrial Implementation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Yingjie Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2506.16609">2506.16609</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02104.html">Foundation Model in Biomedicine</a></div></td>
-<td>Xiangrui Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02104">2503.02104</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25225.html">MSCoD: An Enhanced Bayesian Updating Framework with Multi-Scale Information Bottleneck and Cooperative Attention for Structure-Based Drug Design</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Long Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25225">2509.25225</a></td>
 </tr>
 </tbody></table>

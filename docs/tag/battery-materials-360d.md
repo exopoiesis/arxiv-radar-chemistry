@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>battery-materials — 360d</h1>
-  <span class="paper-count">190 papers</span>
+  <span class="paper-count">189 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <strong>360d</strong> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1148,11 +1148,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13294.html">A Hybrid Physics-Driven Neural Network Force Field for Liquid Electrolytes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Junmin Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2511.13294">2511.13294</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11976.html">Ionic Interdiffusion at Cathode-Solid-Electrolyte Interface: A Machine Learning-Assisted Multiscale Investigation and Mitigation Strategies</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Musawenkosi K. Ncube et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11976">2511.11976</a></td>
 </tr>
 </tbody></table>

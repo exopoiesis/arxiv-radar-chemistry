@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -512,11 +512,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01677.html">Generative Brownian Bridge Diffusion In Motion Space For Enhanced Myocardial Strain Analysis</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Rishov Paul et al.</td>
 <td><a href="http://arxiv.org/abs/2608.01677">2608.01677</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12083.html">Faithful, Sufficient and Understandable: Rethinking Graph Counterfactual Explanations via Discrete Diffusion Inversion</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>David Bechtoldt et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12083">2608.12083</a></td>
 </tr>
 </tbody></table>

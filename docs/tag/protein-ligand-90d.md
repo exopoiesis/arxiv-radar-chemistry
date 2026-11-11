@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-ligand — 90d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <strong>90d</strong> <a href="protein-ligand-360d.html">360d</a> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13797.html">Recent Advances in Deep Learning-Based Drug-Target Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Jafin Khan et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13797">2608.13797</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12562.html">Diffusion and Solvation Dynamics of Ions in Water: Beyond the Brownian Approximation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Ian C. Bourg et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12562">2608.12562</a></td>
 </tr>
 </tbody></table>

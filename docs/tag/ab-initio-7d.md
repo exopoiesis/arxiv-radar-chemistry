@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,17 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06833.html">Quantum Spin Wave Theory with Multi-Spin Interactions for Magnetic Materials Modeling</a></div><div class="paper-tags"><a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
 <td>Andrey Rybakov et al.</td>
 <td><a href="http://arxiv.org/abs/2611.06833">2611.06833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04681.html">Small-data physics-informed ML model for magnetic exchange based on chemical composition and structure</a></div></td>
-<td>Brice Kengni Zanguim et al.</td>
-<td><a href="http://arxiv.org/abs/2611.04681">2611.04681</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05654.html">DefectSkills: Guiding AI agents through first-principles calculations for point defects in semiconductors and insulators</a></div></td>
-<td>Zhenkun Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2611.05654">2611.05654</a></td>
 </tr>
 </tbody></table>

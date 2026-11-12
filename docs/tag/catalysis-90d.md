@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -428,23 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14351.html">Multidimensional Design of Metal-Nitrogen-Carbon Electrocatalysts for Direct Propylene Epoxidation</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a></div></td>
 <td>Songbo Ye et al.</td>
 <td><a href="http://arxiv.org/abs/2608.14351">2608.14351</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12834.html">In-medium properties of $D$ and $D^*$ mesons in magnetized isospin asymmetric nuclear matter</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Saksham Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12834">2608.12834</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13024.html">TIEM: Temporal Integration of Hypergraph Evidence and Skill Memory for Event-Driven Financial Forecasting</a></div></td>
-<td>Wenjin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13024">2608.13024</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13230.html">Substrate-Directed Wetting Layers in Bicontinuous Particle-Stabilised Emulsions</a></div></td>
-<td>Jesse M. Steenhoff et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13230">2608.13230</a></td>
 </tr>
 </tbody></table>

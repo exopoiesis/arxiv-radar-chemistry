@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12591.html">TRACE: Adaptive Trust-Region Bayesian Optimization for Open-Ended Molecular Design</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
+<td>Madhav R. Muthyala et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12591">2611.12591</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08851.html">Conformationally frustrated epitaxy at heteromolecular interface</a></div></td>
 <td>Jakub Planer et al.</td>
@@ -12008,11 +12014,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13682.html">Molecular Engineering for Enhanced Second-Order Nonlinear Response in Spontaneously-Oriented Evaporated Organic Films</a></div></td>
 <td>Pierre-Luc Thériault et al.</td>
 <td><a href="http://arxiv.org/abs/2511.13682">2511.13682</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02447.html">Hydrogen liquid-liquid transition from first principles and machine learning</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Giacomo Tenti et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02447">2502.02447</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>drug-discovery — all</h1>
-  <span class="paper-count">1032 papers</span>
+  <span class="paper-count">1034 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13398.html">The Dose Makes the Poison: Exposure-Aware Evaluation of Generative Drug Design</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
+<td>Maria Franz et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13398">2611.13398</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10424.html">Efficient and Accurate Zero Shot Generation of Symmetric Protein Complexes</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="materials-science-all.html">materials-science</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
+<td>Rory Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10424">2611.10424</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09235.html">Controllable Molecule Generation via Sparse Representation Editing: An Interpretability-Driven Perspective</a></div></td>

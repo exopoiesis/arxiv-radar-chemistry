@@ -3830,6 +3830,115 @@
   ],
   "updated": "2026-11-05"
  },
+ "2611.10267": {
+  "abstract": "Low-budget molecular optimization is often framed as Bayesian optimization in a learned latent space, but standard benchmarks typically allow hundreds or thousands of evaluations, whereas a realistic wet-lab round may allow only a few dozen. We revisit this regime using a SELFIES molecular variational autoencoder (VAE) with a Gaussian prior and GuacaMol objectives at N = 30 evaluations. The main finding is not a new surrogate model, but an interaction in candidate generation. The encoder means of a reference set of molecules concentrate near a narrow spherical shell, while many high-dimensional optimizers propose candidates from boxes or box-shaped trust regions. We study a simple constraint, the on-sphere scaffold, that restricts candidate generation to this shell. We then introduce two minimal optimizers to probe what remains useful once the support is fixed. GeoWalk performs geodesic local search on the shell without a surrogate. After 30 evaluations, it shows no detected difference from a Gaussian-process (GP) surrogate on the shell, which is ahead earlier in the budget. GeoCMA adds covariance learning in a random subspace. It does not improve on GeoWalk in the molecular benchmark. On LassoBench it has a lower mean loss than GeoWalk, but full-dimensional CMA-ES remains stronger on most tasks. A factorial experiment with a single GP crosses the candidate support (shell or box) with the acquisition maximizer (a finite candidate set or a continuous optimizer). In this benchmark, shell candidates outperformed box candidates when acquisition was maximized over a candidate set, but not with continuous maximization by L-BFGS-B. These results come from a controlled study of one Gaussian-prior VAE benchmark and do not recommend VAEs for molecular optimization. The practical lesson is to control the candidate support and the acquisition maximizer before attributing a gain to the surrogate.",
+  "authors": [
+   "Michal Průšek",
+   "Adam Novozámský",
+   "Filip Šroubek"
+  ],
+  "categories": [
+   "cs.LG",
+   "stat.ML"
+  ],
+  "comment": "NeurIPS 2026 (camera-ready). 10 pages of main text plus appendices and the NeurIPS paper checklist, 38 pages in total. Code and result files: https://github.com/michalprusek/geometry-before-surrogates-neurips2026 . Project page: https://staff.utia.cas.cz/novozada/geo",
+  "first_author": "Michal Průšek",
+  "pdf_url": "http://arxiv.org/pdf/2611.10267",
+  "primary_category": "cs.LG",
+  "published": "2026-11-06",
+  "tags": [
+   "bayesian-optimization",
+   "molecular-generation"
+  ],
+  "title": "Match the Geometry Before the Surrogate: Extreme Low-Budget Optimization in High Dimensions",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.10424": {
+  "abstract": "Symmetric organization is a fundamental principle of biomolecular complex assembly. The same principle underlies engineered applications, from vaccine platforms to nanomaterials, making symmetric de novo generation a core capability for computational protein design. We establish a theoretical foundation equating generation of an assembly with underlying symmetry group $G$ to generation within a quotient space over $G$. This directly allows $\\mathrm{SE}(3)$-equivariant models to generate symmetric structures with minimal distribution shift. With this insight we introduce ZeUS ($\\textbf{Ze}$ro-shot $\\textbf{U}$nified $\\textbf{S}$ymmetrization), a framework that converts any pretrained $\\mathrm{SE}(3)$-equivariant backbone generative model into an efficient generator of symmetric assemblies with no retraining. ZeUS operates on a single $\\textit{canonical subunit}$ and utilizes $\\textit{phantom subunits}$ to preserve internal model operations, reducing memory and runtime cost by $\\mathcal{O}(|G|)$ for finite groups $G$, compared to a full-complex forward pass. We implement ZeUS for IPA-based models (FrameDiff, FoldFlow) and axial-attention-based RFdiffusion, showing high generation efficiency with minimal degradation to generation quality. We then apply ZeUS to generate symmetric complexes of over $10{,}000$ residues with exact, untruncated attention, a scale previously intractable with any model.",
+  "authors": [
+   "Rory Gao",
+   "Yuanzhou Chen",
+   "Prajit Rajkumar",
+   "Wei Wang"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": "Published as a conference paper at NeurIPS 2026",
+  "first_author": "Rory Gao",
+  "pdf_url": "http://arxiv.org/pdf/2611.10424",
+  "primary_category": "q-bio.BM",
+  "published": "2026-11-07",
+  "tags": [
+   "drug-discovery",
+   "generative-model",
+   "materials-science",
+   "protein-structure"
+  ],
+  "title": "Efficient and Accurate Zero Shot Generation of Symmetric Protein Complexes",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-11-07"
+ },
+ "2611.10517": {
+  "abstract": "Coarse-grained molecular dynamics (CGMD) extends molecular simulations to length and time scales inaccessible to atomistic models, but building thermodynamically faithful CG potentials remains a longstanding challenge. Energy-based diffusion models (EBDMs) provide a promising route for learning CG potentials through their zero-time energy. However, CGMD driven by diffusion-learned potentials can produce equilibrium ensembles that deviate substantially from the target distribution. We show that the zero-time distribution error is bounded by the sum of the spatial score error and temporal energy-derivative error, whereas conventional diffusion objectives directly supervise only the spatial component. Based on this finding, we introduce Spatiotemporal Energy Consistency (STEC) supervision, which complements spatial score matching by explicitly constraining temporal energy derivatives. We derive an exact and tractable objective for this temporal component, avoiding the substantial computational overhead associated with previous regularization schemes. Across peptide and fast-folding protein systems, STEC-trained EBDMs accurately reproduce equilibrium distributions with free-energy errors within chemical accuracy, while supporting stable long-time simulations that recover key metastable transition patterns. On held-out octapeptides, STEC reduces free-energy errors by more than 5-fold relative to the strongest competing baseline, while achieving a median production-cost reduction of approximately 1,700-fold relative to atomistic molecular dynamics under a defined structural-coverage benchmark. These results establish STEC as a scalable framework for learning thermodynamically reliable CG force fields for increasingly complex biomolecular systems.",
+  "authors": [
+   "Yang Nie",
+   "Lingyun Wang",
+   "He Zhang",
+   "Chang Liu",
+   "Dan Hu"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "45 pages, 5 main-text figures and 6 appendix figures",
+  "first_author": "Yang Nie",
+  "pdf_url": "http://arxiv.org/pdf/2611.10517",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-07",
+  "tags": [
+   "diffusion-model",
+   "mlip",
+   "molecular-dynamics"
+  ],
+  "title": "Spatiotemporal Energy Consistency Enables Reliable Coarse-Grained Molecular Dynamics from Diffusion Models",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-11-07"
+ },
+ "2611.11110": {
+  "abstract": "Theoretical results in statistics and machine learning rest on long, technically delicate proofs, and fluent arguments generated by large language models are not necessarily correct. Automated formalization makes such arguments mechanically checkable, and automated proving goes further by discovering machine-checked proofs for statements whose proofs are incomplete or missing altogether. Both require reconstructing assumptions from source materials, accessing specialized mathematical infrastructure and managing long proof developments. We present Statopia, an ecosystem that jointly develops Statopia Prover, an independent agent specialized for formalizing and proving results in statistics and machine learning, and Statlib, a Lean~4 library built with the prover and organized for automated use. The prover controls its own execution without relying on external coding agents. It is built for formal proof discovery and checking existing proofs. A natural-language proof, when available, guides its search but is not required: from a statement alone, the prover develops the argument itself and constructs a Lean proof. Its workflow integrates source preparation, statement review, library supported planning and proof construction. Dynamic proof dependency graphs and task groups support parallel, resumable proof development. Statlib's shared definitions and theorem interfaces are organized for retrieval and composition by agents, and its coverage of statistics keeps expanding. Verified results and usage feedback from the prover inform reviewed library updates, so that proof development drives this expansion. A cross-platform application provides an interactive workspace for uploading source files and running tasks locally or in the cloud.",
+  "authors": [
+   "Ziyuan Chen",
+   "Tong Gan",
+   "Wei Zhang",
+   "Ruofei Fang",
+   "Boyue Tang",
+   "Zhenhua Lin",
+   "Fang Yao"
+  ],
+  "categories": [
+   "stat.CO",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Ziyuan Chen",
+  "pdf_url": "http://arxiv.org/pdf/2611.11110",
+  "primary_category": "stat.CO",
+  "published": "2026-11-08",
+  "tags": [],
+  "title": "Statopia: A Prover--Library Ecosystem for Automated Formalization and Proof Discovery in Statistics",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-11-08"
+ },
  "2611.11226": {
   "abstract": "Machine Learning Interatomic Potentials (MLIPs) based on Equivariant Graph Neural Networks (EGNNs) have achieved remarkable progress in atomistic modeling. However, accurately representing atomic interactions across different spatial scales remains challenging. In this work, we investigate the radial spectral properties of SO(3)-equivariant message passing and establish that the cutoff radius controls the characteristic spatial-frequency scale of radial interactions. Based on this analysis, we propose Multi-Cutoff Spectral Aggregation (MCSA), a plug-and-play module that aggregates radial kernels with different cutoff radii to enrich multi-scale geometric representations. To achieve efficient implementation, we exploit the compact support of radial kernels to fuse cutoff-dependent radial weights before angular tensor-product operations, avoiding redundant angular computations while preserving rotational equivariance. Extensive experiments across representative EGNN backbones demonstrate consistent improvements in energy, force, and stress prediction, as well as enhanced accuracy in higher-order properties, including phonon dispersion and lattice thermal conductivity. Further evaluations on layered materials with distinct interaction scales demonstrate the effectiveness of physically motivated cutoff selection. Code is available at: https://github.com/JF-Tan/MCSA.",
   "authors": [
@@ -3886,5 +3995,147 @@
    "Molecular Representation & Learning"
   ],
   "updated": "2026-11-09"
+ },
+ "2611.11958": {
+  "abstract": "Biomolecular recognition and regulation depend on atomic interactions that change as molecular partners fluctuate and adopt alternative conformations. Modeling these processes requires ensembles that capture both conformational diversity and coordinated atomic fluctuations between interacting molecules. Here we present OriDynamics, a unified framework for all-atom ensemble generation across protein monomers and complexes with small molecules or protein partners. OriDynamics introduces a latent ensemble decomposition that couples broad conformational exploration in a compact structural latent space with local all-atom sampling around generated proposals. Ensemble-level supervision constrains mean positions, fluctuation amplitudes and joint coordinate covariance to capture coordinated atomic variability within and between molecular partners. Across benchmarks of proteins and their complexes, OriDynamics demonstrates superior overall performance in conformational coverage, atomic fluctuation fidelity and interaction geometry compared with leading baselines. Application studies further demonstrate recovery of alternative functional conformations and partner-dependent changes in conformational ensembles alongside sampling of configurations associated with ligand dissociation. These capabilities provide a foundation for a biomolecular world model that represents accessible molecular states and their dependence on interaction context.",
+  "authors": [
+   "Jiahao Yang",
+   "Dong Liu",
+   "Hongliang Li",
+   "Ji Chen",
+   "Yuehua Liu",
+   "Daoyun Ding",
+   "Duo An",
+   "Jun Li",
+   "Jiahua Rao",
+   "Ziqiao Zhang",
+   "Peicong Lin",
+   "Shuangjia Zheng"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": "29 pages, 6 main figures and 5 supplementary figures. Includes supplementary information",
+  "first_author": "Jiahao Yang",
+  "pdf_url": "http://arxiv.org/pdf/2611.11958",
+  "primary_category": "q-bio.BM",
+  "published": "2026-11-09",
+  "tags": [],
+  "title": "OriDynamics: Towards a World Model for Biomolecular Dynamics",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.12107": {
+  "abstract": "Flow-based and diffusion-based models have become the principal means of learning and sampling high-dimensional probability distributions, from images and video to proteins, molecules and physical fields, and increasingly language. Each carries a simple law to the law of the data along a curve of probability measures, and behind the variety of their names lie three geometries, those of the state space on which the data live, of the space of probability measures through which the curve passes, and of the space of paths traced by the generating process. A single analytic idea runs through the subject. Every score identity used to train a diffusion model is an integration by parts, on the noise, on the data or on Wiener space, and Malliavin calculus extends this to nonlinear and infinite-dimensional diffusions. We develop these foundations with full definitions and follow them through normalising flows, flow matching and few-step maps, diffusion models and their convergence theory, conditioning, Schrödinger bridges and stochastic control, and their extension to manifolds, Lie groups, discrete and function spaces and jump processes. We close with statistical physics, renormalisation and, more speculatively, holography, in which the radial direction of anti-de Sitter space can play the role of flow time. A table of the main methods and a collection of open problems complete the survey.",
+  "authors": [
+   "Ehsan Mirafzali",
+   "Razvan Marinescu"
+  ],
+  "categories": [
+   "math.PR",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Ehsan Mirafzali",
+  "pdf_url": "http://arxiv.org/pdf/2611.12107",
+  "primary_category": "math.PR",
+  "published": "2026-11-09",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "Geometry and Stochastic Analysis of Flow and Diffusion Models: A Survey",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.12591": {
+  "abstract": "Optimizing molecules under small evaluation budgets requires deciding both where in chemical space to search and which candidate within that region to evaluate. We introduce Trust Region Adaptive Chemical Exploration (TRACE), a framework for open-ended molecular Bayesian optimization (BO), where candidates are generated on demand rather than selected from a fixed library. TRACE combines an objective-free graph-perturbation mechanism with a fixed, chemistry-aware Gaussian process (GP) surrogate using fragprints, a representation combining molecular fingerprints and fragment descriptors. Rather than learning the search geometry itself, TRACE makes the scale of chemical exploration explicit through a Tanimoto-similarity threshold controlling chemical extent and a cardinality budget controlling candidate-search breadth. A simple success/failure controller expands or contracts both quantities during optimization, while the GP and acquisition function select which admissible molecules to evaluate. Across six challenging molecular optimization benchmarks under matched 1,000-evaluation budgets, TRACE achieves the strongest overall sample efficiency as measured by the best molecule found as evaluations accumulate. Crossed ablations on two objectives further show that adaptive region control contributes beyond the proposal mechanism, while its benefit depends on the proposal distribution. We further apply TRACE to the stability of iron phthalocyanine (FePc), a non-precious molecular electrocatalyst whose degradation can involve loss of the Fe center. Using a first-principles density functional theory (DFT) workflow designed for accurate energy evaluation, TRACE increases the computed thermodynamic resistance to Fe dissolution from 0.42 to 2.59 eV over 80 designed evaluations.",
+  "authors": [
+   "Madhav R. Muthyala",
+   "Mahsa Askari",
+   "Farshud Sorourifar",
+   "Evan Zhou",
+   "Joe Gauthier",
+   "Joel A. Paulson"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Madhav R. Muthyala",
+  "pdf_url": "http://arxiv.org/pdf/2611.12591",
+  "primary_category": "cs.LG",
+  "published": "2026-11-09",
+  "tags": [
+   "ab-initio",
+   "bayesian-optimization",
+   "chemical-space",
+   "dft",
+   "electrocatalysis",
+   "molecular-generation",
+   "molecular-representation"
+  ],
+  "title": "TRACE: Adaptive Trust-Region Bayesian Optimization for Open-Ended Molecular Design",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.13348": {
+  "abstract": "Protein engineering requires navigating rugged fitness landscapes, where small sequence changes can produce large functional differences, but experimental screening can only sample a small fraction of sequence space. Thus, a central challenge is to efficiently traverse the large combinatorial space of mutations in silico. We introduce ProTEUS, a mutation-resolved world model for closed-loop protein evolution. Pretrained on deep mutational scanning assays, ProTEUS learns a joint representation of sequence, evolutionary, and structural information using MutationFormer, a mutation-biased attention architecture. Variants are represented as states in this joint latent space, and mutations define actions whose functional consequences are predicted. To support exploration of many mutants, we developed a fast, physics-constrained all-atom predictor that utilizes explicit geometric constraint enforcement to achieve >10 fold increase in speed than AlphaFold3 with guaranteed physical validity. Lastly, ProTEUS refines its prediction and understanding of protein activity through closed loop experimental feedback to guide evolution toward a desired phenotype. ProTEUS surpasses established models in both zero-shot and supervised fine-tuning mutation prediction tasks. We experimentally demonstrate its utility in two closed-loop multi-objective engineering campaigns on aldehyde dehydrogenase and levansucrase, yielding variants with >10 fold higher activity than wild type. ProTEUS provides a world-model framework that connects virtual evaluation of mutational outcomes with experimental learning for efficient protein evolution.",
+  "authors": [
+   "Yikun Zhang",
+   "Minghao Guo",
+   "Guangxue Xu",
+   "Peter Yichen Chen",
+   "Wojciech Matusik",
+   "Wengong Jin",
+   "Jingjing Chai",
+   "Kaiyi Jiang"
+  ],
+  "categories": [
+   "q-bio.BM",
+   "cs.AI"
+  ],
+  "comment": "64 pages, 5 main figures, 5 supplementary figures",
+  "first_author": "Yikun Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2611.13348",
+  "primary_category": "q-bio.BM",
+  "published": "2026-11-09",
+  "tags": [],
+  "title": "ProTEUS: A mutation-resolved world model for closed-loop protein evolution",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.13398": {
+  "abstract": "Generative models are increasingly used to propose molecules for drug discovery. They can produce far more candidates than can be experimentally tested, making computational selection essential. Most selection methods rely on predicted molecular properties, such as potency and toxicity, but overlook how these properties translate into drug exposure at a given dose. As a result, molecules that appear promising on paper may require impractical doses or raise safety concerns. We investigate this gap by using physiologically based pharmacokinetic (PBPK) simulations to re-evaluate molecules selected from three PARP1-targeted generative pipelines. Of 60 shortlisted molecules, seven fail to achieve sufficient target exposure, while 28% of the remaining candidates show predicted safety risks at their required dose. Moreover, 85% of candidates with an achievable dose are outperformed by molecules overlooked during static selection. These findings suggest that accounting for dose and exposure can substantially change which generated molecules are considered promising for drug development.",
+  "authors": [
+   "Maria Franz",
+   "N. Benjamin Erichson"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "14 pages, 3 figures. Accepted at the AI4DD workshop (AI for Drug Discovery: Bridging the Translation Gap), NeurIPS 2026",
+  "first_author": "Maria Franz",
+  "pdf_url": "http://arxiv.org/pdf/2611.13398",
+  "primary_category": "q-bio.QM",
+  "published": "2026-11-10",
+  "tags": [
+   "drug-discovery",
+   "generative-model"
+  ],
+  "title": "The Dose Makes the Poison: Exposure-Aware Evaluation of Generative Drug Design",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-11-10"
  }
 }

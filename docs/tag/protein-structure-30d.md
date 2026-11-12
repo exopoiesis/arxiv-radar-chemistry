@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10424.html">Efficient and Accurate Zero Shot Generation of Symmetric Protein Complexes</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
+<td>Rory Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10424">2611.10424</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08696.html">Hybrid Quantum-Classical Annealing for Protein Side-Chain Optimization: A Feasibility Study</a></div></td>
 <td>Valeria B. C. Visani et al.</td>
@@ -116,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17765.html">PROTEAN: Beyond De Novo Generation - Can LLM Agents Perform Text-Guided Protein Structure Editing?</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Encheng Su et al.</td>
 <td><a href="http://arxiv.org/abs/2610.17765">2610.17765</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17108.html">Calibrating AlphaFold confidence scores for interface quality</a></div></td>
-<td>Sagyndyk Sagadinov et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17108">2610.17108</a></td>
 </tr>
 </tbody></table>

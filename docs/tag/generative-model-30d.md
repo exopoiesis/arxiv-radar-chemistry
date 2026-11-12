@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13398.html">The Dose Makes the Poison: Exposure-Aware Evaluation of Generative Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
+<td>Maria Franz et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13398">2611.13398</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10424.html">Efficient and Accurate Zero Shot Generation of Symmetric Protein Complexes</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Rory Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10424">2611.10424</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07723.html">Static Recovery Is Not Dynamic Stability: Dynamics-Aware Benchmarking of Protein Motif Scaffolding</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="protein-function-30d.html">protein-function</a></div></td>
@@ -188,23 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18846.html">WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World</a></div></td>
 <td>Mengchen Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.18846">2610.18846</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16480.html">PXRD-Bench: How Close Are We to Determining Crystal Structures from Powder Diffraction?</a></div></td>
-<td>Dongyeop Woo et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16480">2610.16480</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16582.html">Characterizing and Mitigating Distributional Bias in Physics-Informed Generative Models</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
-<td>Tanja Bien et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16582">2610.16582</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16975.html">MADDIE: Multi-Agent Drug Discovery Engine</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
-<td>Ye Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16975">2610.16975</a></td>
 </tr>
 </tbody></table>

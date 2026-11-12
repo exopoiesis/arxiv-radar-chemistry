@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mlip — all</h1>
-  <span class="paper-count">1030 papers</span>
+  <span class="paper-count">1031 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11226.html">MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
 <td>Junfu Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2611.11226">2611.11226</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10517.html">Spatiotemporal Energy Consistency Enables Reliable Coarse-Grained Molecular Dynamics from Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Yang Nie et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10517">2611.10517</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-05</td>

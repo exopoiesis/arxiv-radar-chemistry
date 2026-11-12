@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mlip — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -22,51 +22,15 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2611.11226">2611.11226</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10517.html">Spatiotemporal Energy Consistency Enables Reliable Coarse-Grained Molecular Dynamics from Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Yang Nie et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10517">2611.10517</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08678.html">Jackknife-conformal uncertainty for linear ACE potentials: calibrated forces and silicon properties compared with Bayesian and POPS baselines</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>James R. Kermode</td>
 <td><a href="http://arxiv.org/abs/2611.08678">2611.08678</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05946.html">Temperature-Dependent Ion Dynamics in Argyrodite Superionic Conductor Li$_{6}$PS$_{5}$Cl with Fine-Tuned MACE Foundation Model</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Jack Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.05946">2611.05946</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06109.html">Subtle Energy Corrections Reshape Condensed-Phase Property Predictions from a Machine-Learning Interatomic Potential</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Haihui Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.06109">2611.06109</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06122.html">Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Allex Kan et al.</td>
-<td><a href="http://arxiv.org/abs/2611.06122">2611.06122</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06237.html">SO3LR Tauri: Generally Applicable Force Fields for Reactive (Bio)Molecular Simulations Covering the Periodic Table</a></div></td>
-<td>Adil Kabylda et al.</td>
-<td><a href="http://arxiv.org/abs/2611.06237">2611.06237</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06277.html">An All-Atom Model of the Resorcinol-Formaldehyde Aerogel Skeleton from DFT and Molecular Dynamics: Validation and Iron Incorporation</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Shoeb Athar et al.</td>
-<td><a href="http://arxiv.org/abs/2611.06277">2611.06277</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06363.html">Discrete Backbone Elasticity and Curvature-Dependent Torsion Statistics in Proteins</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Yiquan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.06363">2611.06363</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06575.html">Exact periodic electrostatics for latent-charge machine-learning potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Eslam Ibrahim</td>
-<td><a href="http://arxiv.org/abs/2611.06575">2611.06575</a></td>
 </tr>
 </tbody></table>

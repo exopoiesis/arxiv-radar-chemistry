@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">421 papers</span>
+  <span class="paper-count">422 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12107.html">Geometry and Stochastic Analysis of Flow and Diffusion Models: A Survey</a></div></td>
+<td>Ehsan Mirafzali et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12107">2611.12107</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10517.html">Spatiotemporal Energy Consistency Enables Reliable Coarse-Grained Molecular Dynamics from Diffusion Models</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Yang Nie et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10517">2611.10517</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09142.html">Learning Generative Dynamics for 3D Molecule Generation via Sequential Neuro-Symbolic Constraints</a></div></td>
@@ -2534,11 +2546,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02473.html">Generative Perception of Shape and Material from Differential Motion</a></div></td>
 <td>Xinran Nicole Han et al.</td>
 <td><a href="http://arxiv.org/abs/2506.02473">2506.02473</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00459.html">Parameter-aware high-fidelity microstructure generation using stable diffusion</a></div></td>
-<td>Hoang Cuong Phan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00459">2507.00459</a></td>
 </tr>
 </tbody></table>

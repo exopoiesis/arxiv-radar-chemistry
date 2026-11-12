@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12107.html">Geometry and Stochastic Analysis of Flow and Diffusion Models: A Survey</a></div></td>
+<td>Ehsan Mirafzali et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12107">2611.12107</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10517.html">Spatiotemporal Energy Consistency Enables Reliable Coarse-Grained Molecular Dynamics from Diffusion Models</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Yang Nie et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10517">2611.10517</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09142.html">Learning Generative Dynamics for 3D Molecule Generation via Sequential Neuro-Symbolic Constraints</a></div></td>
@@ -140,23 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20812.html">Modeling Transport and Mechanics in Anion Exchange Membranes to Optimize Continuous CO2 Separations</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Samaneh Bayati et al.</td>
 <td><a href="http://arxiv.org/abs/2610.20812">2610.20812</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16051.html">How the Classical Baseline Shapes Machine-Learning Speed Claims in Topology Optimization</a></div></td>
-<td>Shaoliang Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16051">2610.16051</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16582.html">Characterizing and Mitigating Distributional Bias in Physics-Informed Generative Models</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Tanja Bien et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16582">2610.16582</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17109.html">Masked Diffusion for Travel Diaries Synthesis</a></div></td>
-<td>Pascal Jutras-Dubé et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17109">2610.17109</a></td>
 </tr>
 </tbody></table>

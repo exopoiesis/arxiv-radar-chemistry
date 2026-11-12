@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10424.html">Efficient and Accurate Zero Shot Generation of Symmetric Protein Complexes</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
+<td>Rory Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10424">2611.10424</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08696.html">Hybrid Quantum-Classical Annealing for Protein Side-Chain Optimization: A Feasibility Study</a></div></td>
 <td>Valeria B. C. Visani et al.</td>
 <td><a href="http://arxiv.org/abs/2611.08696">2611.08696</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06255.html">Learning Noise Optimization for Reward Alignment in Few-Step Generative Models</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a></div></td>
-<td>Hongeun Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2611.06255">2611.06255</a></td>
 </tr>
 </tbody></table>

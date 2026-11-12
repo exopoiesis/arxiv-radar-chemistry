@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12591.html">TRACE: Adaptive Trust-Region Bayesian Optimization for Open-Ended Molecular Design</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="chemical-space-30d.html">chemical-space</a> · <a href="dft-30d.html">dft</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="molecular-generation-30d.html">molecular-generation</a></div></td>
+<td>Madhav R. Muthyala et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12591">2611.12591</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09783.html">Time-gated optical-parametric-amplification and field-resolved detection of mid-infrared free-induction decay signals</a></div></td>
 <td>Sergio Revuelta et al.</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24458.html">Generative Retrieval for Reverse Target Fishing with a Proteome-Scale Benchmark</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-llm-30d.html">protein-llm</a></div></td>
 <td>Zhichao Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24458">2610.24458</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17164.html">Learning Perceptual Geometry of Natural Odor Mixtures from LLM-Derived Descriptors</a></div></td>
-<td>Farhad Pashakhanloo et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17164">2610.17164</a></td>
 </tr>
 </tbody></table>

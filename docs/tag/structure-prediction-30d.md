@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>structure-prediction — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <strong>30d</strong> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15109.html">Expanding the Decision Space of Pretrained Models through Structured Re-Decoding</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Tinglan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15109">2611.15109</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10380.html">Quantitative Assessment of Crystal Structure Prediction</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a></div></td>
+<td>Sergio Rincón et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10380">2611.10380</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13611.html">How anion composition governs structural frameworks and Li-ion transport in oxychloride solid-state electrolytes</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
+<td>Jiho Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13611">2611.13611</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03183.html">Auto-Research Agent on MSA Organization to Improve Protein-Protein Complex Structure Prediction</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
@@ -92,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19919.html">Beyond DFT electronic band structures via dual-space orbital learning</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Minhyuk Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19919">2610.19919</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18317.html">Accurately Generalizing Deep-Learning Hamiltonian Methods to Plane-Wave Density Functional Theory</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Chuntian Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18317">2610.18317</a></td>
 </tr>
 </tbody></table>

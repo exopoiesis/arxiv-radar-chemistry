@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 90d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">62 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <strong>90d</strong> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16420.html">Compensated Grid-Based Hybrid Exchange - A Simple, Accurate, Efficient, and Differentiable Recipe for Large-Scale Molecular Systems</a></div></td>
+<td>Edward G. Hohenstein et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16420">2611.16420</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12159.html">Scaling up spin complexity in ultracold assembled molecules: association and quantum chemistry of Cr-bearing diatomics</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
+<td>Beatrice Restivo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12159">2611.12159</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09659.html">Quantum Integration Software Suite For HPC-Quantum Computing Workflows</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>

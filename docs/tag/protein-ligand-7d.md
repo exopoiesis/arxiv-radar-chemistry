@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08249.html">Geometric Relevance Is Not Sufficient: Evaluating Focused Post-Training Supervision in Diffusion Docking</a></div></td>
-<td>Michael Brown et al.</td>
-<td><a href="http://arxiv.org/abs/2611.08249">2611.08249</a></td>
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14956.html">Binding Mode Matters: Hotspot-Aware Drug Discovery via Explorative Preferences</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
+<td>Dingshuo Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14956">2611.14956</a></td>
 </tr>
 </tbody></table>

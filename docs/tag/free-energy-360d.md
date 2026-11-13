@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">321 papers</span>
+  <span class="paper-count">320 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16266.html">Studying temperature-induced decrease of spontaneous polarization in PbTiO$_3$ from vibrational amplitude</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Zhikai Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16266">2611.16266</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07719.html">Graph Symbolic Distillation: Decoding Graph Data into Interpretable Formulas across Materials and Chemistry</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="gnn-360d.html">gnn</a></div></td>
@@ -1928,17 +1934,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14352.html">Hybrid ab initio and empirical machine learning models for the potential energy surface</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Pablo Peña-Cano et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14352">2511.14352</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08063.html">Scalable Multitemperature Free Energy Sampling of Classical Ising Spin States</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Ping Tuo et al.</td>
-<td><a href="http://arxiv.org/abs/2503.08063">2503.08063</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13294.html">A Hybrid Physics-Driven Neural Network Force Field for Liquid Electrolytes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Junmin Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13294">2511.13294</a></td>
 </tr>
 </tbody></table>

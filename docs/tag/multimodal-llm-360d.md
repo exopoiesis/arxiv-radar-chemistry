@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10768.html">BlenderFORGE: Framework for Optimizing Reactive 3D-Graphics Editing Ability of MLLMs</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Zilin Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10768">2611.10768</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06433.html">DreamRealm: Exploring and Materializing Hallucination Worlds for Trustworthy Vision-Language Models</a></div></td>
 <td>Benlei Cui et al.</td>
@@ -542,11 +548,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18011.html">RoadBench: Benchmarking MLLMs on Fine-Grained Spatial Understanding and Reasoning under Urban Road Scenarios</a></div></td>
 <td>Jun Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.18011">2511.18011</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13647.html">Part-X-MLLM: Part-aware 3D Multimodal Large Language Model</a></div></td>
-<td>Chunshi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13647">2511.13647</a></td>
 </tr>
 </tbody></table>

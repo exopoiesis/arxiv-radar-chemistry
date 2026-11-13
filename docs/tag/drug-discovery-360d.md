@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">471 papers</span>
+  <span class="paper-count">476 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,46 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13651.html">DrugCoding: A Scientific Programming Agent for Drug Discovery</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Junwei Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13651">2611.13651</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14956.html">Binding Mode Matters: Hotspot-Aware Drug Discovery via Explorative Preferences</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Dingshuo Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14956">2611.14956</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13398.html">The Dose Makes the Poison: Exposure-Aware Evaluation of Generative Drug Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Maria Franz et al.</td>
 <td><a href="http://arxiv.org/abs/2611.13398">2611.13398</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14287.html">ANTIOCH-VS: From Sequence to Hits with Modular, Open-Source Ensemble Virtual Screening</a></div><div class="paper-tags"><a href="metadynamics-360d.html">metadynamics</a></div></td>
+<td>Hale S. Hasdemir et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14287">2611.14287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14504.html">Emergent Biological Capabilities in a Foundation Model for Molecular Interactions</a></div></td>
+<td>Adi Mashiach</td>
+<td><a href="http://arxiv.org/abs/2611.14504">2611.14504</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14511.html">Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents</a></div></td>
+<td>Megha Srivastava et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14511">2611.14511</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11997.html">HyInv Technical Report</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Haowei Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11997">2611.11997</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-07</td>
@@ -2834,11 +2870,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14559.html">Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Xinzhe Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14559">2511.14559</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16609.html">Aethorix v1.0: An Integrated Scientific AI Agent for Scalable Inorganic Materials Innovation and Industrial Implementation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Yingjie Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16609">2506.16609</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16147.html">Humidity-modulated Ostwald Step Rule in $\rm FAPbI_3$ Martensitic Transitions</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a></div></td>
+<td>Ping Tuo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16147">2611.16147</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15806.html">Heterogeneous ice nucleation with TIP4P/Ice: the role of lattice mismatch</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>M. Camarillo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15806">2611.15806</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06033.html">Can a self-sustaining chemical network emerge due to just a few catalysts?</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
 <td>Jinsu Kim et al.</td>
@@ -194,17 +206,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17742.html">Active learning molecular beam epitaxy of complex quantum materials</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
 <td>Raghutheja Bollampally et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17742">2608.17742</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14292.html">Efficient simulation of second-order phase transitions in quantum anharmonic materials</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Andrea Baldanza et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14292">2608.14292</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14502.html">Universal Thermodynamic Interatomic Potentials for Crystalline Materials</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Juno Nam et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14502">2608.14502</a></td>
 </tr>
 </tbody></table>

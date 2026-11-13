@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>battery-materials — 90d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <strong>90d</strong> <a href="battery-materials-360d.html">360d</a> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13611.html">How anion composition governs structural frameworks and Li-ion transport in oxychloride solid-state electrolytes</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="mlip-90d.html">mlip</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="structure-prediction-90d.html">structure-prediction</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Jiho Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13611">2611.13611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11302.html">A Rule That&#x27;s Made to be Broken? Reframing the Arrhenius Law for Ionic Transport</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Vanessa K. Ward et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11302">2611.11302</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06394.html">KolTa: A Physics-Informed Active Learning Framework for Formulation Discovery with Limited Data</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a></div></td>
@@ -320,11 +332,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16364.html">Extracting a nitrile-centered, ether-assisted motif hierarchy for lithium-battery electrolyte design from billion-scale molecular space</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Yifeng Xia et al.</td>
 <td><a href="http://arxiv.org/abs/2608.16364">2608.16364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14351.html">Multidimensional Design of Metal-Nitrogen-Carbon Electrocatalysts for Direct Propylene Epoxidation</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a></div></td>
-<td>Songbo Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14351">2608.14351</a></td>
 </tr>
 </tbody></table>

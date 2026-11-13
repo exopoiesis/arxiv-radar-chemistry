@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07719.html">Graph Symbolic Distillation: Decoding Graph Data into Interpretable Formulas across Materials and Chemistry</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="gnn-7d.html">gnn</a></div></td>
-<td>Yuxuan Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2611.07719">2611.07719</a></td>
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16266.html">Studying temperature-induced decrease of spontaneous polarization in PbTiO$_3$ from vibrational amplitude</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Zhikai Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16266">2611.16266</a></td>
 </tr>
 </tbody></table>

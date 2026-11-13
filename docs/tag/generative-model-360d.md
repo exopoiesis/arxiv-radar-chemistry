@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">468 papers</span>
+  <span class="paper-count">466 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16016.html">Quantum Material Generation via Coherent Hamiltonian Search</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
+<td>Jiang Yuhan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16016">2611.16016</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13398.html">The Dose Makes the Poison: Exposure-Aware Evaluation of Generative Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
@@ -2804,23 +2810,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14559.html">Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Xinzhe Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14559">2511.14559</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08063.html">Scalable Multitemperature Free Energy Sampling of Classical Ising Spin States</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Ping Tuo et al.</td>
-<td><a href="http://arxiv.org/abs/2503.08063">2503.08063</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16609.html">Aethorix v1.0: An Integrated Scientific AI Agent for Scalable Inorganic Materials Innovation and Industrial Implementation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Yingjie Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16609">2506.16609</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13244.html">Seek and You Shall Fold</a></div></td>
-<td>Nadav Bojan Sellam et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13244">2511.13244</a></td>
 </tr>
 </tbody></table>

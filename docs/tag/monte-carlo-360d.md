@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15786.html">Evidential Deep Regression for Universal Density Functional Theory Hamiltonian Models</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Jiaxuan Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15786">2611.15786</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12566.html">Quantum benchmarks for magnetic energies and transition temperatures</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Mojtaba Alaei et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12566">2611.12566</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09850.html">Classical control of quantum-state relaxation in confined molecular hydrogen</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Nathan McLane et al.</td>
@@ -1844,17 +1856,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16701.html">Catalytic Resonance Theory: Kinetics and Frequency Response of Light-Promoted Catalysis</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
 <td>Paul J Dauenhauer</td>
 <td><a href="http://arxiv.org/abs/2511.16701">2511.16701</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00388.html">A study of the electronic and ionic structure, for competing states of fully and partially ionized hydrogen, using the neutral pseudo-atom method as well as a classical map for the electron subsystem</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>M. W. C. Dharma-wardana</td>
-<td><a href="http://arxiv.org/abs/2510.00388">2510.00388</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02992.html">Production of spectator neutrons, protons and light fragments on fixed targets at NICA</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>A. O. Svetlichny et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02992">2510.02992</a></td>
 </tr>
 </tbody></table>

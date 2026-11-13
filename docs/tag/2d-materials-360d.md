@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">510 papers</span>
+  <span class="paper-count">513 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16475.html">Ferroelectric control of exciton photoluminescence in rhombohedrally stacked bilayer WSe$_2$</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Wenlong Zhong et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16475">2611.16475</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16528.html">Edge-scaling softening of a universal machine-learned potential: point-defect formation energies in a coronene graphene quantum dot</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Andrii Tuzhykov et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16528">2611.16528</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16085.html">Tunable Long-Range Magnetic Exchange in Adatom-Decorated Transition Metal Dichalcogenide Monolayers: An ab initio Embedding Model Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a></div></td>
+<td>Xiaohang Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16085">2611.16085</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14687.html">High-Fidelity In Silico Dataset of Ordered Binary and Ternary MXenes with Predictive Synthesis Guidance</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Ahmed H. Biby et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14687">2611.14687</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12664.html">Damped polarizability and first hyperpolarizability of large systems with hybrid functionals: self-consistent and Lanczos solvers</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
+<td>A. García-Blázquez et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12664">2611.12664</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09025.html">Symmetry-Gated Sliding: Decoupling Interlayer Translation from Polarization Reversal in Boron Nitride Ferroelectrics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -26,6 +56,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09473.html">Stacking, symmetry and exciton fine structure in boron nitride bilayers</a></div><div class="paper-tags"><a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Mehdi Arfaoui et al.</td>
 <td><a href="http://arxiv.org/abs/2611.09473">2611.09473</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10253.html">On the nature of low-energy electronic states in twisted bilayer graphene: a first-principles study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Albert Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10253">2611.10253</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10272.html">Atomically abrupt sp-sp$^2$ all-carbon heterojunction preserving the electronic identity of constituent allotropes</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Alice Cartoceti et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10272">2611.10272</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-05</td>
@@ -3050,29 +3092,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14968.html">Spin-quenching in molecule-transition-metal-dichalcogenide heterostructure through inverse proximity effect</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="tmd-360d.html">tmd</a></div></td>
 <td>Swagata Acharya et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14968">2511.14968</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13172.html">Bilayer B80 Structure: High Stability and Experimental Support for Existence</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yi-Sha Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13172">2511.13172</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13228.html">Breaking the Air-Water Paradigm: Ion Behavior at Hydrophobic Solid-Water Interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Xavier R. Advincula et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13228">2511.13228</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13325.html">Spin-orbit driven $J_{eff} = 1/2$ magnetism in a d$^7$ triangular-lattice monolayer cobaltate</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Ritwik Das et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13325">2511.13325</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13556.html">First Principles study of Photocatalytic Water Splitting in BO Monolayer: Effect of Strain and Surface Functionalization</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
-<td>Soumendra Kumar Das et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13556">2511.13556</a></td>
 </tr>
 </tbody></table>

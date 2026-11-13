@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14687.html">High-Fidelity In Silico Dataset of Ordered Binary and Ternary MXenes with Predictive Synthesis Guidance</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Ahmed H. Biby et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14687">2611.14687</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12591.html">TRACE: Adaptive Trust-Region Bayesian Optimization for Open-Ended Molecular Design</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="dft-360d.html">dft</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="molecular-generation-360d.html">molecular-generation</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Madhav R. Muthyala et al.</td>
@@ -704,11 +710,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15402.html">Mechanistic study of mixed lithium halides solid state electrolytes</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Davide Tisi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.15402">2511.15402</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13294.html">A Hybrid Physics-Driven Neural Network Force Field for Liquid Electrolytes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Junmin Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13294">2511.13294</a></td>
 </tr>
 </tbody></table>

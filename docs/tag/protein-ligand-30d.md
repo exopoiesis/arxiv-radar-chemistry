@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14956.html">Binding Mode Matters: Hotspot-Aware Drug Discovery via Explorative Preferences</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Dingshuo Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14956">2611.14956</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08249.html">Geometric Relevance Is Not Sufficient: Evaluating Focused Post-Training Supervision in Diffusion Docking</a></div></td>
 <td>Michael Brown et al.</td>
@@ -44,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33315.html">MLIPDiff: Guiding Denoising Diffusion Models for Structure-Based Drug Design via Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="drug-discovery-30d.html">drug-discovery</a></div></td>
 <td>Yiyan Liao et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33315">2610.33315</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17696.html">zPocket: Better Pocket Finding with Frozen Co-Folding Features</a></div><div class="paper-tags"><a href="protein-function-30d.html">protein-function</a></div></td>
-<td>Tally Portnoi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17696">2610.17696</a></td>
 </tr>
 </tbody></table>

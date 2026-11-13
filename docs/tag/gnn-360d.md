@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">357 papers</span>
+  <span class="paper-count">356 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2150,11 +2150,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14669.html">Hyperbolic Graph Embeddings Reveal the Host-Pathogen Interactome</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Xiaoqiong Xia et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14669">2511.14669</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13685.html">Protein Secondary Structure Prediction Using 3D Graphs and Relation-Aware Message Passing Transformers</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Disha Varshney et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13685">2511.13685</a></td>
 </tr>
 </tbody></table>

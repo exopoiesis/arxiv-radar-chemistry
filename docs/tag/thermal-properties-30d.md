@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>thermal-properties — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <strong>30d</strong> <a href="thermal-properties-90d.html">90d</a> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16161.html">Emergence of Phonon Hydrodynamics as a Non-Hermitian Symmetry-Breaking Phase Transition</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Xin Qian et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16161">2611.16161</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14957.html">Improving Nonequilibrium Thermal Conduction in CaF2 by Breaking the Phonon Bottleneck Effect</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Mingde Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14957">2611.14957</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11226.html">MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="mlip-30d.html">mlip</a></div></td>
@@ -122,11 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20812.html">Modeling Transport and Mechanics in Anion Exchange Membranes to Optimize Continuous CO2 Separations</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
 <td>Samaneh Bayati et al.</td>
 <td><a href="http://arxiv.org/abs/2610.20812">2610.20812</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18550.html">Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="crystal-structure-30d.html">crystal-structure</a></div></td>
-<td>Baikui Li et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18550">2610.18550</a></td>
 </tr>
 </tbody></table>

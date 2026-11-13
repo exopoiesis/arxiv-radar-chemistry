@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -416,17 +416,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15781.html">Gas-generating reactive flows in bicontinuous catalyst support structures</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>J. M. P. Beunen et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15781">2608.15781</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00704.html">Reconstruction-Dependent Imaging, Reactivity and Local Reduction of the CeO$_2$(100) surface</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Kyungmin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2608.00704">2608.00704</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14351.html">Multidimensional Design of Metal-Nitrogen-Carbon Electrocatalysts for Direct Propylene Epoxidation</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a></div></td>
-<td>Songbo Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14351">2608.14351</a></td>
 </tr>
 </tbody></table>

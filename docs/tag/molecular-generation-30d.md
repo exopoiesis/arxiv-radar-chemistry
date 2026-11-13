@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-generation — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-generation-90d.html">90d</a> <a href="molecular-generation-360d.html">360d</a> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15109.html">Expanding the Decision Space of Pretrained Models through Structured Re-Decoding</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Tinglan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15109">2611.15109</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12591.html">TRACE: Adaptive Trust-Region Bayesian Optimization for Open-Ended Molecular Design</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="chemical-space-30d.html">chemical-space</a> · <a href="dft-30d.html">dft</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="molecular-representation-30d.html">molecular-representation</a></div></td>
@@ -68,23 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20459.html">MolLean: A Process-Verifiable Language for Chemical Reasoning</a></div></td>
 <td>Jiatong Li et al.</td>
 <td><a href="http://arxiv.org/abs/2610.20459">2610.20459</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18851.html">MFG: Multi-turn Feedback Guided Molecular Optimization</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Trieu Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18851">2610.18851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19011.html">PMO-Dock: Benchmarking Docking, Specificity, and Generalization in Molecular Optimization</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Gor Simonyan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19011">2610.19011</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19123.html">PairIT: Autoregressive Transformers for Low-Data Molecule Optimization</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Hannah Lawrence et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19123">2610.19123</a></td>
 </tr>
 </tbody></table>

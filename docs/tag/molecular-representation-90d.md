@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13945.html">Chem World: A Large-Scale Benchmark and Physics-Aware Framework for Trustworthy Molecular Property Prediction</a></div><div class="paper-tags"><a href="molecular-llm-90d.html">molecular-llm</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
+<td>Tianyou Bai et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13945">2611.13945</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12591.html">TRACE: Adaptive Trust-Region Bayesian Optimization for Open-Ended Molecular Design</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="chemical-space-90d.html">chemical-space</a> · <a href="dft-90d.html">dft</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="molecular-generation-90d.html">molecular-generation</a></div></td>
 <td>Madhav R. Muthyala et al.</td>
@@ -230,11 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18221.html">Automated Assignment and Prediction of Molecules in Astronomical Line Surveys Using Machine-Learning-Based Chemical Embeddings</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a></div></td>
 <td>Zachary T. P. Fried et al.</td>
 <td><a href="http://arxiv.org/abs/2608.18221">2608.18221</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13341.html">Simulation-to-real transfer learning for infrared spectroscopic chemical sensing and analysis from molecules to complex samples</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Yusen Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13341">2608.13341</a></td>
 </tr>
 </tbody></table>

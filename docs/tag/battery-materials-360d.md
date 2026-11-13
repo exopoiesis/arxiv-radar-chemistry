@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>battery-materials — 360d</h1>
-  <span class="paper-count">189 papers</span>
+  <span class="paper-count">188 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <strong>360d</strong> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13611.html">How anion composition governs structural frameworks and Li-ion transport in oxychloride solid-state electrolytes</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="structure-prediction-360d.html">structure-prediction</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Jiho Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13611">2611.13611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11302.html">A Rule That&#x27;s Made to be Broken? Reframing the Arrhenius Law for Ionic Transport</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Vanessa K. Ward et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11302">2611.11302</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06394.html">KolTa: A Physics-Informed Active Learning Framework for Formulation Discovery with Limited Data</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
@@ -1130,23 +1142,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14228.html">Integrating electronic structure into generative modeling of inorganic materials</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Junkil Park et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14228">2511.14228</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01836.html">Hybrid biphoton spectrometer for time-resolved quantum spectroscopy across visible and near-infrared regions</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ozora Iso et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01836">2510.01836</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13228.html">Breaking the Air-Water Paradigm: Ion Behavior at Hydrophobic Solid-Water Interfaces</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Xavier R. Advincula et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13228">2511.13228</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13294.html">A Hybrid Physics-Driven Neural Network Force Field for Liquid Electrolytes</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Junmin Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13294">2511.13294</a></td>
 </tr>
 </tbody></table>

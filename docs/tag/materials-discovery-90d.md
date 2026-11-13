@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12491.html">Out-of-the-Box Tabular Foundation Models for Bayesian Optimization in Materials Discovery</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Klemens Flöge et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12491">2611.12491</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16016.html">Quantum Material Generation via Coherent Hamiltonian Search</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Jiang Yuhan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16016">2611.16016</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12014.html">Benchmarking language models and agents for scientific reasoning in evolving materials laboratories</a></div></td>
+<td>Xuyu Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12014">2611.12014</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11070.html">Learning Electronic Band Structures Across the s, p, d Blocks with an Empirical Pseudopotential Network</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Qiang Zhu</td>
+<td><a href="http://arxiv.org/abs/2611.11070">2611.11070</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09880.html">ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
@@ -326,11 +350,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15928.html">Synthesizing like a chemist: an iterative, feedback-driven loop for materials discovery</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="crystal-structure-90d.html">crystal-structure</a></div></td>
 <td>Fang Sheng et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15928">2608.15928</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14502.html">Universal Thermodynamic Interatomic Potentials for Crystalline Materials</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Juno Nam et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14502">2608.14502</a></td>
 </tr>
 </tbody></table>

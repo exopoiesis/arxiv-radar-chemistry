@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,46 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13651.html">DrugCoding: A Scientific Programming Agent for Drug Discovery</a></div><div class="paper-tags"><a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>Junwei Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13651">2611.13651</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14956.html">Binding Mode Matters: Hotspot-Aware Drug Discovery via Explorative Preferences</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Dingshuo Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14956">2611.14956</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13398.html">The Dose Makes the Poison: Exposure-Aware Evaluation of Generative Drug Design</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Maria Franz et al.</td>
 <td><a href="http://arxiv.org/abs/2611.13398">2611.13398</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14287.html">ANTIOCH-VS: From Sequence to Hits with Modular, Open-Source Ensemble Virtual Screening</a></div><div class="paper-tags"><a href="metadynamics-30d.html">metadynamics</a></div></td>
+<td>Hale S. Hasdemir et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14287">2611.14287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14504.html">Emergent Biological Capabilities in a Foundation Model for Molecular Interactions</a></div></td>
+<td>Adi Mashiach</td>
+<td><a href="http://arxiv.org/abs/2611.14504">2611.14504</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14511.html">Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents</a></div></td>
+<td>Megha Srivastava et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14511">2611.14511</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11997.html">HyInv Technical Report</a></div><div class="paper-tags"><a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Haowei Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11997">2611.11997</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-07</td>
@@ -134,35 +170,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24199.html">Distillation, Self-Training, and the Fragility of Learned Chemical Reasoning</a></div><div class="paper-tags"><a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
 <td>Anagha Aneesh et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24199">2610.24199</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17765.html">PROTEAN: Beyond De Novo Generation - Can LLM Agents Perform Text-Guided Protein Structure Editing?</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Encheng Su et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17765">2610.17765</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18456.html">Learning Perturbation-Specific Representations through Conditional Energy Prior for Cellular Response Prediction</a></div></td>
-<td>Yuchen Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18456">2610.18456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18851.html">MFG: Multi-turn Feedback Guided Molecular Optimization</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Trieu Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18851">2610.18851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19011.html">PMO-Dock: Benchmarking Docking, Specificity, and Generalization in Molecular Optimization</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Gor Simonyan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19011">2610.19011</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19123.html">PairIT: Autoregressive Transformers for Low-Data Molecule Optimization</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Hannah Lawrence et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19123">2610.19123</a></td>
 </tr>
 </tbody></table>

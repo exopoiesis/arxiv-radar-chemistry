@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,29 +200,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10889.html">A data-driven approach for systematic correction of electronic bandgaps</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
 <td>Pamela C. Carvalho et al.</td>
 <td><a href="http://arxiv.org/abs/2611.10889">2611.10889</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08851.html">Conformationally frustrated epitaxy at heteromolecular interface</a></div></td>
-<td>Jakub Planer et al.</td>
-<td><a href="http://arxiv.org/abs/2611.08851">2611.08851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08986.html">Native point defects in rock-salt and wurtzite MnSe: formation energies across the growth window and spin splitting in the A-type order</a></div></td>
-<td>Tomás Rojas Solorzano et al.</td>
-<td><a href="http://arxiv.org/abs/2611.08986">2611.08986</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10253.html">On the nature of low-energy electronic states in twisted bilayer graphene: a first-principles study</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Albert Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.10253">2611.10253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10272.html">Atomically abrupt sp-sp$^2$ all-carbon heterojunction preserving the electronic identity of constituent allotropes</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
-<td>Alice Cartoceti et al.</td>
-<td><a href="http://arxiv.org/abs/2611.10272">2611.10272</a></td>
 </tr>
 </tbody></table>

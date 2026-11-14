@@ -5415,6 +5415,7 @@
   "title": "TRACE: Adaptive Trust-Region Bayesian Optimization for Open-Ended Molecular Design",
   "topics": [
    "Generative Design & Molecule Optimization",
+   "Molecular Representation & Learning",
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-11-09"
@@ -6004,6 +6005,31 @@
   ],
   "updated": "2026-11-10"
  },
+ "2611.14462": {
+  "abstract": "We use TabPFN, a recently developed tabular foundation model, to predict three properties of energetic materials: impact sensitivity, decomposition temperature and crystal density. Without any hyperparameter tuning, TabPFN outperforms the best published models for all three properties. It also substantially outperforms a wide range of established machine-learning models, including tuned gradient boosting (XGBoost), random forests and Gaussian processes. This holds both when the models are given hand-crafted molecular descriptors and when they are given learned representations from Chemprop's message-passing neural network. In particular, for all three properties, TabPFN applied to Chemprop's own embedding is more accurate than Chemprop's predictions. TabPFN is also among the fastest models we consider, more than an order of magnitude faster than XGBoost. As TabPFN predicts the entire distribution of the target rather than just a single value, it offers built-in uncertainty quantification, which we compare with the empirical distributions of compounds with repeated measurements. Finally, we interpret the predictions using Shapley values, which rank the features by their importance.",
+  "authors": [
+   "Vagn Krister Nes Glomsrud",
+   "Mathias Bynke",
+   "Lars Henry Berge Olsen",
+   "Dennis Christensen"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Vagn Krister Nes Glomsrud",
+  "pdf_url": "http://arxiv.org/pdf/2611.14462",
+  "primary_category": "cs.LG",
+  "published": "2026-11-10",
+  "tags": [
+   "molecular-representation"
+  ],
+  "title": "Accurate predictions of properties of energetic materials with tabular foundation models",
+  "topics": [
+   "Molecular Representation & Learning"
+  ],
+  "updated": "2026-11-12"
+ },
  "2611.14504": {
   "abstract": "Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation model for molecular interactions trained on approximately 3.2 trillion tokens of paired protein-ligand sequences. From a single representation space, Bonbon exhibits three zero-shot emergent capabilities at hierarchical levels of resolution: functional (mechanism of action), residue (binding site localization, including orthosteric/allosteric discrimination), and bond (covalent versus non-covalent engagement). All three capabilities generalize to out-of-distribution complexes. Bonbon was trained on protein-ligand sequences alone, without any task-specific supervision and without structural coordinates. We conducted controlled scaling experiments across six model scales from 42M to 1.6B parameters; every capability evaluated shows a sharp jump at the largest scale on continuous metrics, even as pretraining loss decreases smoothly. This demonstrates that loss-based scaling laws alone are insufficient to predict when zero-shot emergent capabilities become available. The capabilities reported here emerge after training at a 1:2,000 parameter-to-token ratio to accommodate the sparsity of paired biological interaction data. The same frozen representations achieve state-of-the-art binding and affinity prediction at five orders of magnitude greater speed than co-folding methods. In prospective wet-lab validation across nine disease targets spanning seven protein families, Bonbon achieves a 61.5% dose-response hit rate on de novo compounds, yielding structurally novel molecules not previously reported to inhibit these proteins, including for out-of-distribution targets.",
   "authors": [
@@ -6446,6 +6472,34 @@
   "title": "Periodic Trends in Oxygen Vacancy Formation Energies Across Binary Main-Group Metal Oxides",
   "topics": [
    "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.15451": {
+  "abstract": "Over the last decade we have built Alexandria, an open database of about 15 million density-functional calculations of crystals. It includes PBE, PBEsol, SCAN and TB-mBJ results, structures relaxed at pressures up to 150 GPa, dielectric tensors and about 145,000 electron-phonon calculations, together with more than 400 million structures relaxed with machine-learned potentials. On these data we trained a generative model for crystal structures, a universal interatomic potential and graph neural networks for more than ten properties, from band gaps to superconducting critical temperatures. From the convex hull we computed a reaction graph of the 17.4 billion reactions between its 193,416 stable compounds. Here we give all of this to a general-purpose language-model agent. Working unattended, the agent screens the database for a solar absorber, drops a candidate whose synthesis releases too little energy, and writes a synthesis plan with precursors, crucible and atmosphere. Asked about the well-studied Ba-Zr-S system, it finds an unreported sulfide and designs the experiment that would confirm or rule it out. Asked for an air-stable alternative, it designs one and tests it against new structures from the generative model. With web search alone, the same agent proposes what the literature already discusses. Put together, the data, the models and the reaction graph let a general agent do what none of them does alone: go from a question in plain words to an experiment that a laboratory can run and test.",
+  "authors": [
+   "Paulo R. Pires",
+   "Théo Cavignac",
+   "Tiago F. T. Cerqueira",
+   "Hai-Chen Wang",
+   "Silvana Botti",
+   "Miguel A. L. Marques"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Paulo R. Pires",
+  "pdf_url": "http://arxiv.org/pdf/2611.15451",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-11",
+  "tags": [
+   "generative-model",
+   "gnn"
+  ],
+  "title": "Materials research with a general-purpose agent",
+  "topics": [
+   "Molecular Representation & Learning"
   ],
   "updated": "2026-11-11"
  },
@@ -7072,6 +7126,380 @@
    "molecular-dynamics"
   ],
   "title": "Dynamics and Statistical Mechanics of Born-Oppenheimer Auxiliary Velocities",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.16741": {
+  "abstract": "Machine-learning recommendation lists can help prioritize searches for new interstellar molecules, but whether reranking such a list as detections accumulate improves on it has not been tested. We present a pre-registered retrospective test toward TMC-1, using a published machine-learning list of 1,510 recommended candidates, consolidated to 1,434 candidates, and the species reported there through September 2026. At four annual origins from 2022 to 2025, a logistic-regression ranking on seven released features, refit on the detections known at each origin, separates later detections from never-detected candidates with a pooled AUC of 0.867, against 0.706 for the best single-criterion baseline (difference 0.160; 95\\% interval 0.095-0.230). The advantage persists under a shifted date boundary and two alternative feature regimes, but is not established among the top 100 candidates (12 versus 7 detections). A searcher that refits on its own observations reaches half of the 63 detected species on the list in a median of 200 observations, against 332 for the best fixed ordering and 717.5 expected for random search. Uncertainty sampling, the standard active-learning rule, performs worse than random (AUC 0.210): later detections lie at low predictive uncertainty, close to known chemistry. Of 101 species in our validation set, 37 are absent from the list, and only 13 of these appear in a pool rebuilt from its source databases, including 2 of 11 radicals and neither ion. Candidate generation, not ranking, is the main constraint. We release 100 recommended targets, with code and frozen inputs, for prospective testing.",
+  "authors": [
+   "R. I. El-Kholy",
+   "Z. M. Hayman"
+  ],
+  "categories": [
+   "astro-ph.GA",
+   "astro-ph.IM"
+  ],
+  "comment": "13 pages, 3 figures, 3 tables; submitted to ApJ; code and data at doi:10.5281/zenodo.23312984",
+  "first_author": "R. I. El-Kholy",
+  "pdf_url": "http://arxiv.org/pdf/2611.16741",
+  "primary_category": "astro-ph.GA",
+  "published": "2026-11-12",
+  "tags": [],
+  "title": "Active Learning for Molecular Discovery: A Retrospective Test toward TMC-1",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.16792": {
+  "abstract": "Machine-learning (ML) models for molecular and materials property prediction are often trained on large datasets curated through arbitrary or generic sampling strategies. Such approaches can lead to the over- or under-representation of regions of chemical and materials space that are most relevant to the prediction task. An important challenge is therefore how to efficiently curate training data to maximize predictive performance while minimising the number of labelled examples required. Here, we systematically compare training data acquisition strategies for molecular and materials property prediction, ranging from random sampling to various active learning approaches. We evaluate their performance across different model classes, representations, datasets, and target properties. Our results show that the effectiveness of data acquisition strategies depend strongly on the interplay between the model, dataset, and prediction task, although uncertainty-based sampling generally outperforms alternative strategies. Based on these findings, we derive guidelines for selecting data acquisition strategies under a given labelling budget.",
+  "authors": [
+   "Minh Nghia Nguyen",
+   "Beate Paulus",
+   "Akhil S. Nair"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Minh Nghia Nguyen",
+  "pdf_url": "http://arxiv.org/pdf/2611.16792",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-12",
+  "tags": [
+   "active-learning",
+   "property-prediction"
+  ],
+  "title": "Systematic Evaluation of Training Data Generation Strategies for Machine Learning-Based Molecular and Materials Property Prediction",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.16901": {
+  "abstract": "Pairwise graph ``alignments'', usually defined as maximum common subgraphs, have been considered in many application domains, including the comparison of molecular structures. Most commonly, the problem is formulated as maximum common induced subgraph (MCIS) or maximum common edge subgraph (MCES) problems. Sometimes these formulations are restricted to connected common subgraphs. Common subgraph problems readily generalize to more than two input graphs. However, this concept is fundamentally distinct from the notion of multiple sequence alignments. Abstractly, alignments are defined as super-structures from which the individual input objects are recovered via structure-preserving projections. While the mathematical construction readily applies to common induced subgraphs, it does not fully encompass the common edge subgraph problem, which is the variant more commonly employed in cheminformatics applications.   In order to consistently define multiple edge-based alignments of graphs we represent a graph $G$ as E-graph $(E,\\mathscr{V})$, where $E$ is the edge set of $G$ and $\\mathscr{V}$ is the set of sets of incident edges. This representation implicitly encodes the vertices in terms of edge data. Alignments of E-graphs are themselves E-graphs that contain the input (E-)graphs as subgraphs. Maximum edge subgraphs correspond to maximum induced sub-E-graphs, and they can thus be computed using a slightly modified version of the VF2 algorithm without the need to switch from graphs to line graphs. Furthermore, multiple alignments of (E-)graphs yield a natural definition of a consensus graph that is ``on average'' present in the input without having to be a subgraph of every (and in fact of any) input graph.",
+  "authors": [
+   "Akbar Davoodi",
+   "Christoph Flamm",
+   "Daniel Merkle",
+   "Peter F. Stadler"
+  ],
+  "categories": [
+   "cs.DS",
+   "math.CO"
+  ],
+  "comment": null,
+  "first_author": "Akbar Davoodi",
+  "pdf_url": "http://arxiv.org/pdf/2611.16901",
+  "primary_category": "cs.DS",
+  "published": "2026-11-12",
+  "tags": [],
+  "title": "Edge-wise Graph Alignments",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.16924": {
+  "abstract": "Two-dimensional electron gases in terahertz cavities are among the most mature platforms for ultrastrong light--matter coupling, yet their collective response is captured by the linear Hopfield model, which has an exact classical correspondence. We show that the intrinsic band nonparabolicity of the electrons, recently revealed through nonlinear diamagnetism, turns this system into a quantum Kerr oscillator that squeezes terahertz light. Using a non-rotating-wave theory with ultrastrong-coupling-consistent input--output, an ab initio cavity bath, and a self-consistent model of electron heating, we predict output squeezing of 1.8--2.4\\,dB with present GaAs samples in weakly confined cavities with quality factors of order $10^2$, and up to $\\approx9$\\,dB with modest improvements in mobility or cavity frequency. Carrier heating sets limits through a material figure of merit, which yields a simple design rule that the optimal cavity quality factor scales inversely with the ultrastrong-coupling strength.",
+  "authors": [
+   "Dasom Kim",
+   "Junichiro Kono",
+   "Stephen Hughes"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Dasom Kim",
+  "pdf_url": "http://arxiv.org/pdf/2611.16924",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-11-12",
+  "tags": [
+   "ab-initio"
+  ],
+  "title": "Squeezed terahertz light from nonlinear diamagnetism in ultrastrongly coupled two-dimensional electrons",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.16962": {
+  "abstract": "Crossing a domain wall can permute anyons, and intersecting strings can create a particle. These couplings between defects of various dimensions are specified by higher groups. We develop a lattice framework defining higher-group statistics as Berry phases of closed sequences of hopping operators, invariant under local modifications of the operators. Our central example is a closed Majorana chain, a 1-dimensional topological superconductor, embedded in 3 dimensions. We construct a loop-flip process with phase $+i$, refining the usual $\\pm 1$ loop-flip invariant through intermediate transfer of fermion parity between the chain and physical fermions. In two dimensions, charge-wall statistics distinguish two $\\mathbb Z_4$ toric codes enriched by $\\mathbb Z_2$ charge-conjugation symmetry, with identical anyon statistics but distinct gauged theories: the quantum doubles of the dihedral group $D_4$ and the quaternion group $Q_8$. We provide two complementary constructions of statistical processes. The first extends the Smith normal form algorithm in [Phys. Rev. X $\\textbf{16}$, 011010 (2026), arXiv:2412.01886] to higher groups, generating processes from lattice geometry and prescribed local moves. For a finite higher group $\\mathbb G$, we prove that statistical processes on a $d$-sphere are classified by $H_{d+2}(B\\mathbb G,\\mathbb Z)$. The second constructs processes directly from homology classes without examining exponentially many defect configurations, enabling us to study statistics for complex higher-group structures where the previous method is computationally prohibitive. These processes detect boundary anomalies of higher-group symmetry-protected topological phases. For example, we distinguish 2-group anomalies in 1, 2, and 3 dimensions. Higher-group statistics provide new invariants for characterizing coupled defects in quantum many-body systems.",
+  "authors": [
+   "Chen Yang",
+   "Yu-An Chen"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.str-el",
+   "hep-th",
+   "math.QA"
+  ],
+  "comment": "41 pages, 9 figures",
+  "first_author": "Chen Yang",
+  "pdf_url": "http://arxiv.org/pdf/2611.16962",
+  "primary_category": "quant-ph",
+  "published": "2026-11-12",
+  "tags": [],
+  "title": "Higher-Group Statistics on Lattices",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.16973": {
+  "abstract": "We investigate the interface between an active and a passive fluid using molecular dynamics simulations of active Brownian particles in contact with a passive Lennard-Jones fluid. We compute the surface tension via two independent routes, pressure anisotropy and capillary-wave analysis, and find that they disagree systematically once activity is switched on. Static density and orientation profiles reveal three distinct activity regimes, with particles preferentially oriented toward the interface. Going beyond these static properties, we characterize the interface dynamics: a threshold activity above which mixing becomes irreversible, coinciding with the onset of the mixing regime, and a transient overshoot in interfacial width before relaxation to steady state.",
+  "authors": [
+   "Linnea Heitmeier"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Linnea Heitmeier",
+  "pdf_url": "http://arxiv.org/pdf/2611.16973",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-12",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Interfacial Structure and Dynamics of Active-Passive Fluid Mixtures",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.17013": {
+  "abstract": "Synthesizing high-frequency eye movements requires preserving long-range temporal dependencies and subject-specific oculomotor dynamics. However, methods based on generative adversarial networks (GANs) and variational autoencoders (VAEs) can struggle to preserve these characteristics simultaneously. We introduce DiffSSMEye, a conditional denoising diffusion probabilistic model with bidirectional Structured State Space Sequence (S4) layers for generating five-second gaze-velocity sequences at 1,000 Hz. Generation is conditioned on a coarse gaze reference, user identity, and task, where identity and task embeddings are incorporated through feature-wise linear modulation. Identity-preservation, multi-resolution spectral, and integrated-drift losses complement noise prediction to constrain biometric consistency, frequency structure, and displacement error. Subject-disjoint evaluation on GazeBase across seven tasks yields mean real--synthetic embedding cosine similarities of 0.91--0.95. DiffSSMEye also achieves the lowest median spatial errors among these baselines for horizontal and random saccade tasks. These results demonstrate improved spatial accuracy and biometric feature consistency for subject-specific gaze synthesis.",
+  "authors": [
+   "Kamrul Hasan",
+   "Mehedi Hasan Raju",
+   "Oleg V. Komogortsev"
+  ],
+  "categories": [
+   "cs.HC"
+  ],
+  "comment": "14 pages, 5 tables, 2 figures",
+  "first_author": "Kamrul Hasan",
+  "pdf_url": "http://arxiv.org/pdf/2611.17013",
+  "primary_category": "cs.HC",
+  "published": "2026-11-12",
+  "tags": [],
+  "title": "DiffSSMEye: Conditional High-Frequency Eye Movement Synthesis with Structured State-Space Diffusion",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.17015": {
+  "abstract": "Artificial intelligence (AI) is changing how biological research is done. Biological foundation models trained on millions of nucleotides, protein, and single-cell measurements predict protein structures, mutation effects, and cellular responses to genetic perturbations. Agentic systems, AI assistants built on large language models, can run multistep analyses from plain-language requests and increasingly call foundation models as tools. Yet it is often unclear when these models' outputs can be trusted. We frame this as a model's knowledge boundary: the range of inputs, tasks, and conditions over which its outputs are reliable. This review explains how foundation models are built and proposes that five design elements (data, architecture, training scheme, evaluation scheme, and post-analysis) define this boundary. We examine evidence on where current models succeed or fail and present standardized descriptions of model limits so that researchers, and the agents acting for them, can use these tools reliably.",
+  "authors": [
+   "Tian Cai",
+   "Andrew Kleist",
+   "Jaimin Patel",
+   "Duccio Malinverni",
+   "Alexander K. Taylor",
+   "Malvika Sharan",
+   "Renato Umeton",
+   "M. Madan Babu"
+  ],
+  "categories": [
+   "q-bio.BM",
+   "cs.AI"
+  ],
+  "comment": "To be published on Annual Review Biomedical Data Science",
+  "first_author": "Tian Cai",
+  "pdf_url": "http://arxiv.org/pdf/2611.17015",
+  "primary_category": "q-bio.BM",
+  "published": "2026-11-12",
+  "tags": [],
+  "title": "AI for Biologists: The Knowledge Boundaries of Foundation Models in the Age of Agentic Systems",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.17046": {
+  "abstract": "Sampling-time jitter makes a sampled-data control loop time-varying, so standard LTI robust-control synthesis does not apply directly. This paper reformulates dynamic output feedback design under bounded, unmeasured sample-to-sample jitter as a robust-control problem. The exact zero-order-hold model is decomposed into a nominal time-invariant plant and a memoryless, time-varying uncertainty block with a norm bound representing the sampling-time jitter. As the block is memoryless, the operator small-gain condition for the time varying loop reduces to a standard robustness test with a matrix norm bound. It is shown that the same test also guarantees uniform exponential stability for every admissible jitter sequence. Embedding the decomposition into a generalized plant with performance channels serves two synthesis objectives with standard robust-control tools: Robust stability with optimized nominal performance through structured H-inf synthesis, and robust performance through mu synthesis with constant scalings. A numerical example shows that jitter can destabilize a control loop with a nominal H-inf controller, whereas both robust designs remain stable and the robust-performance design is less sensitive to jitter at the cost of nominal performance.",
+  "authors": [
+   "Dieter Schwarzmann",
+   "Jan Lunze"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "Submitted to ECC2027",
+  "first_author": "Dieter Schwarzmann",
+  "pdf_url": "http://arxiv.org/pdf/2611.17046",
+  "primary_category": "eess.SY",
+  "published": "2026-11-12",
+  "tags": [],
+  "title": "Robust Control Design for LTI Systems with Sampling-Time Jitter",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.17096": {
+  "abstract": "The low-frequency (LF) mode observed in the THz spectrum of liquid water near 10 meV has been known for decades, yet its microscopic origin remains debated. Leading interpretations assign it to a transverse acoustic-like excitation, a transverse optic-like mode, or a mode-mode coupling mechanism. We address this question by probing the collective dynamics of H$_2$O and D$_2$O at room temperature and pressures from 0.1 to 1 GPa using high-resolution (1.6 meV) inelastic X-ray scattering (IXS). The LF mode remains heavily damped, close to critical damping, throughout the explored range, while its frequency hardens markedly with pressure, much more than expected for a transverse acoustic mode. Comparison with IXS measurements and \\textit{ab initio} simulations of crystalline Ice VI reveals a cluster of weakly dispersive modes in the same energy range, suggesting that the low-frequency mode in liquid water reflects a mixed character arising from the superposition of several branches rather than a single well-defined excitation, providing a coherent microscopic picture of water's anomalous THz dynamics under compression.",
+  "authors": [
+   "Maria Rescigno",
+   "Guillaume Radtke",
+   "Umbertoluca Ranieri",
+   "Richard Gaal",
+   "Luigi Paolasini",
+   "Andrea Piovano",
+   "Ferdinando Formisano",
+   "Paola Giura",
+   "Livia Eleonora Bove"
+  ],
+  "categories": [
+   "cond-mat.other",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Maria Rescigno",
+  "pdf_url": "http://arxiv.org/pdf/2611.17096",
+  "primary_category": "cond-mat.other",
+  "published": "2026-11-12",
+  "tags": [
+   "ab-initio",
+   "thermal-properties"
+  ],
+  "title": "High-pressure behavior of the low-frequency mode of water",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.17121": {
+  "abstract": "DNA-encoded libraries (DELs) are commonly used to find small-molecule binders to a target protein. But the hard part is no longer finding a hit. It is building a machine-learning model good enough to guide the medicinal chemistry that follows, one that can resolve the shift in affinity when a chemist changes a single atom. Such a model needs two things from its training data: dense sampling of the small patch of chemical space around the hit, and an adequate number of genuinely tight binders within it. A diverse naive DEL gives neither. It samples an enormous space, so any one neighborhood is covered far too thinly, and the tightest binders are rare. A model trained on that naive DEL data must extrapolate to binders tighter than any it has seen, and that is where models can fail. One way to get training data with both properties is a second-generation DEL built around the hit. We ask how complex that library must be. We treat binding as a sum of small, independent interactions, called pixels on the target and antipixels on the ligand. From the spread of affinities measured in the naive library, with no structural information and nothing yet synthesized, we estimate the complexity such a library must have to supply that dense sampling and those tight binders. The method does two useful things. It turns the number of tight binders a model needs into the number of compounds a library must contain. And it estimates the expected yield of a randomly designed second-generation DEL, so the gain from designing the library with machine learning or active learning can be measured against a baseline, without the expense of a control library as large as the experiment itself.",
+  "authors": [
+   "Boris P. Belotserkovskii",
+   "R. Edward Watts"
+  ],
+  "categories": [
+   "cs.LG",
+   "q-bio.BM"
+  ],
+  "comment": "11 pages, 4 figures",
+  "first_author": "Boris P. Belotserkovskii",
+  "pdf_url": "http://arxiv.org/pdf/2611.17121",
+  "primary_category": "cs.LG",
+  "published": "2026-11-12",
+  "tags": [
+   "active-learning",
+   "chemical-space"
+  ],
+  "title": "Using an energy pixels approach to estimate the size a 2nd Generation DEL must be to train a high-resolution binding model",
+  "topics": [
+   "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.17130": {
+  "abstract": "Self-assembled mixtures enable the exploration of vast chemical diversity, yet characterizing the hundreds of coexisting species they contain remains a major challenge. Standard analytical techniques such as chromatography and spectroscopy produce overlapping signals that cannot be resolved by conventional deconvolution methods, which neglect the concentration correlations imposed by the reactive network. Here, we introduce a framework that bridges statistical physics and analytical chemistry to deconvolute complex self-assembled mixtures from partial spectral data. Inspired by Potts models of protein folding, we express the chemical potential of each compound as a function of a reduced set of parameters-intrinsic building-block energies and pairwise coupling terms between neighboring building blocks in the sequence. Coupling this model with the law of mass action yields equilibrium concentrations across the entire reactive network. The model parameters can be infered by fitting predicted spectroscopic signals to experimentally measured partial data. We demonstrate this approach using dynamic combinatorial libraries (DCLs) of peptides as a model system. Applied to a DCL of 81 peptides, our method resolves the full mixture composition from just 13 overlapping peaks, revealing that lateral couplings dominate the assembly energetics. Beyond DCLs, this strategy offers a general route for analyzing self-assembled systems from partial data and extends naturally to target-driven identification of high-affinity binders.",
+  "authors": [
+   "Laura Messio",
+   "Taleen Peker",
+   "Roba Moumné",
+   "Hélène Berthoumieux"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.data-an"
+  ],
+  "comment": "15 pages, 6 figures",
+  "first_author": "Laura Messio",
+  "pdf_url": "http://arxiv.org/pdf/2611.17130",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-12",
+  "tags": [
+   "protein-structure"
+  ],
+  "title": "Library of peptides: Analysis of a complex reactive mixture with the use of statistical physics and inference",
+  "topics": [
+   "Protein & Biomolecules"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.17246": {
+  "abstract": "Large language models (LLMs) have recently demonstrated the ability to generate parameters for variational quantum circuits without conventional optimization. However, the conditions under which this approach is effective remain unclear. Here, we investigate a frozen, general-purpose LLM that generates complete circuit parameter vectors from symbolic circuit and Hamiltonian descriptions, with optional iterative energy feedback. We evaluate the approach on general random Hamiltonians, structured parent Hamiltonians, and molecular systems. For general Hamiltonians, LLM-generated parameters exhibit larger energy errors than conventional Adam optimization, while additional feedback generally provides limited improvement. In contrast, for structured Hamiltonians, the LLM can generate promising low-energy parameter configurations, suggesting that identifiable physical and mathematical structure facilitates parameter inference. We also show that direct LLM predictions of minimum energies can violate the Hamiltonian spectral lower bound, whereas generated circuit parameters allow independent evaluation of physically realizable energy expectation values. Finally, we investigate blind circuit interpretation and find that the LLM can predict measurement outcomes even when it fails to identify the underlying quantum algorithm. These findings highlight the role of problem structure, the limitations of iterative LLM optimization, and the importance of independently verifiable predictions in quantum parameter programming.",
+  "authors": [
+   "Tiago de Souza Farias",
+   "Caio Moraes Porto",
+   "Matheus da Silva Fonseca",
+   "Nicolas Armando Cabrera Carpi",
+   "Anderson de Araujo Oliveira",
+   "Celso Jorge Villas-Boas"
+  ],
+  "categories": [
+   "quant-ph",
+   "cs.LG"
+  ],
+  "comment": "31 pages",
+  "first_author": "Tiago de Souza Farias",
+  "pdf_url": "http://arxiv.org/pdf/2611.17246",
+  "primary_category": "quant-ph",
+  "published": "2026-11-12",
+  "tags": [],
+  "title": "Programming Quantum Circuit Parameters with Large Language Models",
+  "topics": [
+   "Large Language Models & Materials"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.17283": {
+  "abstract": "Ceramic materials that maintain structural integrity and resist thermal-shock under extreme conditions are critical for many applications. Here we show that spark plasma sintered composites containing equal weight fractions of hexagonal silicon carbide (6H-SiC) and boron nitride (h-BN) exhibit exceptional stability under extreme high-temperature oxidizing conditions and unusually stable temperature-independent thermal conductivity across a broad temperature range. Under high-velocity oxygen-fuel torch exposure in air, it withstands prolonged heating and thermal-cycling at surface temperatures reaching >1500 °C, whereas pure 6H-SiC and h-BN rapidly fractures or erodes. Microstructural evaluation shows the formation of a multi-phase surface silica layer that further protects the material from oxidation. Finite-element analysis heat-flux map shows that intrinsic porosity mitigates thermal stress, while ReaxFF molecular dynamics simulations reveal thermally driven interfacial reconstruction and the formation of a Si-N/C-B-rich bonding network, enhancing the interfacial cohesion at elevated temperatures. This lightweight, easily machinable ceramic composite will be a promising structural material in extreme environment applications.",
+  "authors": [
+   "Abhijit Biswas",
+   "Eugenio Garcia-Granados",
+   "Saman Zare",
+   "Mozhdeh Mirakhory",
+   "JungHun Park",
+   "Shuvodeep De",
+   "Jessica Reyes",
+   "Hunter B. Schonfeld",
+   "Noah A. Burke",
+   "William Riffe",
+   "Michael S. Lafferty",
+   "Sudaice Kazibwe",
+   "Maryam Amiri",
+   "Shreyasi Chattopadhyay",
+   "Mingrui Xu",
+   "Gelu Costin",
+   "Tanguy Terlier",
+   "Jianhua Li",
+   "Ching-Wu Chu",
+   "Liangzi Deng",
+   "Bharat K. Jasthi",
+   "Manoj Tripathi",
+   "Venkataramana Gadhamshetty",
+   "Gi-Dong Sim",
+   "Kathy Lu",
+   "Adri C. T. van Duin",
+   "Patrick E. Hopkins",
+   "Sanjay Sampath",
+   "Pulickel M. Ajayan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "76 Pages, 4 Main Figures, 30 SI Figures, 8 Tables, Authors version, Comments are welcome",
+  "first_author": "Abhijit Biswas",
+  "pdf_url": "http://arxiv.org/pdf/2611.17283",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-12",
+  "tags": [
+   "molecular-dynamics",
+   "thermal-properties"
+  ],
+  "title": "SiC-BN composites with extreme thermal and environmental stability",
   "topics": [
    "Quantum Chemistry & Force Fields"
   ],

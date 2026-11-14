@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16605.html">Dynamics and Statistical Mechanics of Born-Oppenheimer Auxiliary Velocities</a></div></td>
 <td>Paula Sierra et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16605">2611.16605</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16973.html">Interfacial Structure and Dynamics of Active-Passive Fluid Mixtures</a></div></td>
+<td>Linnea Heitmeier</td>
+<td><a href="http://arxiv.org/abs/2611.16973">2611.16973</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17283.html">SiC-BN composites with extreme thermal and environmental stability</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Abhijit Biswas et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17283">2611.17283</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -764,59 +776,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22147.html">Simulated Solvation Dynamics of a Photoexcited Organic Molecule and the Associated Time-Resolved X-ray Scattering Signal</a></div></td>
 <td>Simon Petry et al.</td>
 <td><a href="http://arxiv.org/abs/2610.22147">2610.22147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17361.html">Collision Cascade Morphology and Defect Nucleation in Pure Tungsten and an Equimolar Refractory W-Ta-Cr-V Alloy</a></div></td>
-<td>Mark Fedorov et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17361">2610.17361</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19383.html">Phase Stability and Anisotropic Superconductivity in Ternary M2B4C2 (M=Ca, Mg) Monolayer</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Jakkapat Seeyangnok et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19383">2610.19383</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19632.html">Collective-flow signatures of bubble nuclei in intermediate-energy projectile fragmentation reactions</a></div></td>
-<td>Ge Ren et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19632">2610.19632</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19842.html">Nonadiabatic polaron dynamics from machine-learned hopping trajectories</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Daniela Mangano et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19842">2610.19842</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19846.html">A practical route to amorphous solid-state electrolyte structures by hybrid reverse Monte Carlo with foundation potentials</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Xintian Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19846">2610.19846</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19967.html">High-Harmonic Generation Probes Quantum Nuclear Fluctuations in Liquid Water</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>George Trenins et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19967">2610.19967</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19972.html">Inferring Transition-Dipoles from Two-Dimensional Infrared Spectroscopy with Deep Learning</a></div></td>
-<td>Hao-Yue Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19972">2610.19972</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20063.html">Sorption Molecular Dynamics of Point Defects in 2D Materials with a Machine Learning Potential</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Nils-Ruben Skogemyr et al.</td>
-<td><a href="http://arxiv.org/abs/2610.20063">2610.20063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22402.html">Synergistic Self-Driven Nanoconfinement and Dynamical Heterogeneity in Deeply Supercooled &quot;No Man&#x27;s Land&quot; Water</a></div><div class="paper-tags"><a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Péter Süle</td>
-<td><a href="http://arxiv.org/abs/2610.22402">2610.22402</a></td>
 </tr>
 </tbody></table>

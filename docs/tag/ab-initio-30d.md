@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">97 papers</span>
+  <span class="paper-count">91 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16316.html">Laser cooling of $\mathrm{Th}^{-}$: Revised bound-state structure and a more efficient cooling scheme</a></div></td>
 <td>Shaowei Tian et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16316">2611.16316</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16924.html">Squeezed terahertz light from nonlinear diamagnetism in ultrastrongly coupled two-dimensional electrons</a></div></td>
+<td>Dasom Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16924">2611.16924</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17096.html">High-pressure behavior of the low-frequency mode of water</a></div><div class="paper-tags"><a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Maria Rescigno et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17096">2611.17096</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -548,53 +560,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22639.html">Universal Threshold Laws for Dipolar Evaporation of Molecular Fermi Gases</a></div></td>
 <td>Kevin B. Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.22639">2610.22639</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19383.html">Phase Stability and Anisotropic Superconductivity in Ternary M2B4C2 (M=Ca, Mg) Monolayer</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jakkapat Seeyangnok et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19383">2610.19383</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19842.html">Nonadiabatic polaron dynamics from machine-learned hopping trajectories</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Daniela Mangano et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19842">2610.19842</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19967.html">High-Harmonic Generation Probes Quantum Nuclear Fluctuations in Liquid Water</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>George Trenins et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19967">2610.19967</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20063.html">Sorption Molecular Dynamics of Point Defects in 2D Materials with a Machine Learning Potential</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Nils-Ruben Skogemyr et al.</td>
-<td><a href="http://arxiv.org/abs/2610.20063">2610.20063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20154.html">Access Rate-Dependent Endurance Behavior of Ferroelectric Hafnium Zirconium Oxide Capacitors</a></div></td>
-<td>Roberto Guido et al.</td>
-<td><a href="http://arxiv.org/abs/2610.20154">2610.20154</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20779.html">Enabling large language model agents for high-fidelity many-body perturbation theory calculations</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Benran Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.20779">2610.20779</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20886.html">Material dependence of direct light-induced charge injection from metallic nanoparticles into adsorbates</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Jordan Alan Edwards et al.</td>
-<td><a href="http://arxiv.org/abs/2610.20886">2610.20886</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21015.html">MASON: Materials Atomistic Structure builder Operated in Natural language</a></div></td>
-<td>Xinyue Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21015">2610.21015</a></td>
 </tr>
 </tbody></table>

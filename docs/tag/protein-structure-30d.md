@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>protein-structure — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <strong>30d</strong> <a href="protein-structure-90d.html">90d</a> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17130.html">Library of peptides: Analysis of a complex reactive mixture with the use of statistical physics and inference</a></div></td>
+<td>Laura Messio et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17130">2611.17130</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15109.html">Expanding the Decision Space of Pretrained Models through Structured Re-Decoding</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
@@ -110,17 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21200.html">Poisoning the corpora of protein design systems during pre-training and retrieval</a></div><div class="paper-tags"><a href="protein-llm-30d.html">protein-llm</a></div></td>
 <td>Charalampos Koilakos et al.</td>
 <td><a href="http://arxiv.org/abs/2610.21200">2610.21200</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19592.html">InstructPro2: Natural Language and Biological Grounding Guided De Novo Protein Design</a></div></td>
-<td>Charles Novak et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19592">2610.19592</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19810.html">ReproBAIT: Can coding agents build their own biological AI tools?</a></div></td>
-<td>Shiv Muthupandiyan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19810">2610.19810</a></td>
 </tr>
 </tbody></table>

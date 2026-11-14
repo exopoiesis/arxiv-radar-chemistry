@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-representation — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14462.html">Accurate predictions of properties of energetic materials with tabular foundation models</a></div></td>
+<td>Vagn Krister Nes Glomsrud et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14462">2611.14462</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13945.html">Chem World: A Large-Scale Benchmark and Physics-Aware Framework for Trustworthy Molecular Property Prediction</a></div><div class="paper-tags"><a href="molecular-llm-30d.html">molecular-llm</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>

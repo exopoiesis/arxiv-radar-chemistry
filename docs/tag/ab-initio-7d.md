@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,18 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16316.html">Laser cooling of $\mathrm{Th}^{-}$: Revised bound-state structure and a more efficient cooling scheme</a></div></td>
 <td>Shaowei Tian et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16316">2611.16316</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16924.html">Squeezed terahertz light from nonlinear diamagnetism in ultrastrongly coupled two-dimensional electrons</a></div></td>
+<td>Dasom Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16924">2611.16924</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17096.html">High-pressure behavior of the low-frequency mode of water</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Maria Rescigno et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17096">2611.17096</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -146,11 +158,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10629.html">DFT-Agent Bench: Scaffold Effects and Execution Provenance in Autonomous DFT</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
 <td>Shijie Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.10629">2611.10629</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10253.html">On the nature of low-energy electronic states in twisted bilayer graphene: a first-principles study</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Albert Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.10253">2611.10253</a></td>
 </tr>
 </tbody></table>

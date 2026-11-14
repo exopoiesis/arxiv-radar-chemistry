@@ -34,6 +34,18 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2611.16605">2611.16605</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16973.html">Interfacial Structure and Dynamics of Active-Passive Fluid Mixtures</a></div></td>
+<td>Linnea Heitmeier</td>
+<td><a href="http://arxiv.org/abs/2611.16973">2611.16973</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17283.html">SiC-BN composites with extreme thermal and environmental stability</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Abhijit Biswas et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17283">2611.17283</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14948.html">Distilling an atomistic foundation model is all you need for large-scale molecular dynamics of semiconductor interfaces</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
 <td>Feiyu Zhou et al.</td>
@@ -2384,17 +2396,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15609.html">Graph neural network prediction of temperature-dependent hydrogen diffusion and thermal conductivity tensors of tungsten containing helium bubbles and grain boundaries</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="gnn-90d.html">gnn</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>S. Saito et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15609">2608.15609</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15330.html">Tracking Chirality during Molecular Motor Photoisomerization via Simulated Time-Resolved Circular Dichroism</a></div></td>
-<td>Leonardo Biancorosso et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15330">2608.15330</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15371.html">Nonequilibrium Maxwell-Demon NEMD simulations of transport: I. Extrapolating shear viscosity to the hydrodynamic limit</a></div></td>
-<td>Hesam Arabzadeh et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15371">2608.15371</a></td>
 </tr>
 </tbody></table>

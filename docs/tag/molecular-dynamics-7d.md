@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,18 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16605.html">Dynamics and Statistical Mechanics of Born-Oppenheimer Auxiliary Velocities</a></div></td>
 <td>Paula Sierra et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16605">2611.16605</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16973.html">Interfacial Structure and Dynamics of Active-Passive Fluid Mixtures</a></div></td>
+<td>Linnea Heitmeier</td>
+<td><a href="http://arxiv.org/abs/2611.16973">2611.16973</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17283.html">SiC-BN composites with extreme thermal and environmental stability</a></div><div class="paper-tags"><a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Abhijit Biswas et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17283">2611.17283</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -158,29 +170,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10621.html">Dynamic Scaling and Aging in Hydrodynamic Coarsening of Vapor Bubbles in a Lennard-Jones Fluid</a></div></td>
 <td>Sutapa Roy</td>
 <td><a href="http://arxiv.org/abs/2611.10621">2611.10621</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09025.html">Symmetry-Gated Sliding: Decoupling Interlayer Translation from Polarization Reversal in Boron Nitride Ferroelectrics</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
-<td>Yinan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.09025">2611.09025</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09548.html">CoMoFlow: Controllable Protein Conformational Ensemble Generation via Explicit Collective-Mode Modeling</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a></div></td>
-<td>Yusong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.09548">2611.09548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09667.html">Cavity-QED Molecular Dynamics: An eT-i-PI Interface for Ab Initio Cavity Born-Oppenheimer Dynamics and Joint Nuclear-Photon Path-Integral Sampling</a></div></td>
-<td>Giuseppe Cassone</td>
-<td><a href="http://arxiv.org/abs/2611.09667">2611.09667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09850.html">Classical control of quantum-state relaxation in confined molecular hydrogen</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Nathan McLane et al.</td>
-<td><a href="http://arxiv.org/abs/2611.09850">2611.09850</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">466 papers</span>
+  <span class="paper-count">464 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15451.html">Materials research with a general-purpose agent</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
+<td>Paulo R. Pires et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15451">2611.15451</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16016.html">Quantum Material Generation via Coherent Hamiltonian Search</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
@@ -2792,23 +2798,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02031.html">Pharmacophore-based design by learning on voxel grids</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Omar Mahmood et al.</td>
 <td><a href="http://arxiv.org/abs/2512.02031">2512.02031</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14056.html">Radial Compensation: Stable and Semantically Decoupled Generative Models on Riemannian Manifolds</a></div></td>
-<td>Marios Papamichals et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14056">2511.14056</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14228.html">Integrating electronic structure into generative modeling of inorganic materials</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Junkil Park et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14228">2511.14228</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14559.html">Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Xinzhe Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14559">2511.14559</a></td>
 </tr>
 </tbody></table>

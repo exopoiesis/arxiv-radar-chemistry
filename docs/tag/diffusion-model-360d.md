@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">421 papers</span>
+  <span class="paper-count">419 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2528,17 +2528,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15281.html">Photoluminescence Mapping of Mobile and Fixed Defects in Halide Perovskite Films</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
 <td>Sarah C. Gillespie et al.</td>
 <td><a href="http://arxiv.org/abs/2511.15281">2511.15281</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14426.html">MiAD: Mirage Atom Diffusion for De Novo Crystal Generation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Andrey Okhotin et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14426">2511.14426</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14559.html">Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Xinzhe Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14559">2511.14559</a></td>
 </tr>
 </tbody></table>

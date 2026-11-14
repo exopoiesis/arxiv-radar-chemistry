@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>2d-materials — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,29 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12664.html">Damped polarizability and first hyperpolarizability of large systems with hybrid functionals: self-consistent and Lanczos solvers</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
 <td>A. García-Blázquez et al.</td>
 <td><a href="http://arxiv.org/abs/2611.12664">2611.12664</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09025.html">Symmetry-Gated Sliding: Decoupling Interlayer Translation from Polarization Reversal in Boron Nitride Ferroelectrics</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Yinan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.09025">2611.09025</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09473.html">Stacking, symmetry and exciton fine structure in boron nitride bilayers</a></div><div class="paper-tags"><a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Mehdi Arfaoui et al.</td>
-<td><a href="http://arxiv.org/abs/2611.09473">2611.09473</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10253.html">On the nature of low-energy electronic states in twisted bilayer graphene: a first-principles study</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Albert Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.10253">2611.10253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10272.html">Atomically abrupt sp-sp$^2$ all-carbon heterojunction preserving the electronic identity of constituent allotropes</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Alice Cartoceti et al.</td>
-<td><a href="http://arxiv.org/abs/2611.10272">2611.10272</a></td>
 </tr>
 </tbody></table>

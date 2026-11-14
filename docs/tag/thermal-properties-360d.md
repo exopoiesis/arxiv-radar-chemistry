@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">280 papers</span>
+  <span class="paper-count">279 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16161.html">Emergence of Phonon Hydrodynamics as a Non-Hermitian Symmetry-Breaking Phase Transition</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Xin Qian et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16161">2611.16161</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17096.html">High-pressure behavior of the low-frequency mode of water</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Maria Rescigno et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17096">2611.17096</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17283.html">SiC-BN composites with extreme thermal and environmental stability</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Abhijit Biswas et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17283">2611.17283</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -1676,23 +1688,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15101.html">Anisotropic in-plane lattice thermal conductivity in bilayer ReS2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Ashutosh Srivastava et al.</td>
 <td><a href="http://arxiv.org/abs/2511.15101">2511.15101</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08573.html">Accelerating first-principles molecular-dynamics thermal conductivity calculations for complex systems</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Sandro Wieser et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08573">2509.08573</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14029.html">Twin-boundary-induced nonrelativistic spin splitting</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Kristoffer Eggestad et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14029">2511.14029</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14305.html">Two-component anomalous Hall and Nernst effects in anisotropic Fe$_{4-x}$Ge$_x$N thin films</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>R. K. Paul et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14305">2511.14305</a></td>
 </tr>
 </tbody></table>

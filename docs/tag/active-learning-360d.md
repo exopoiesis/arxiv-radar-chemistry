@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">124 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16792.html">Systematic Evaluation of Training Data Generation Strategies for Machine Learning-Based Molecular and Materials Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Minh Nghia Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16792">2611.16792</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17121.html">Using an energy pixels approach to estimate the size a 2nd Generation DEL must be to train a high-resolution binding model</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a></div></td>
+<td>Boris P. Belotserkovskii et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17121">2611.17121</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12491.html">Out-of-the-Box Tabular Foundation Models for Bayesian Optimization in Materials Discovery</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
@@ -752,11 +764,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19445.html">LOCAL: A Locality-based Active Learning Framework for Predicting the Stability of Dual-Atom Catalysts</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Yue Yin et al.</td>
 <td><a href="http://arxiv.org/abs/2503.19445">2503.19445</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14655.html">Automated Prediction of Thermodynamic Properties via Bayesian Free-Energy Reconstruction from Molecular Dynamics</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ekaterina Spirande et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14655">2511.14655</a></td>
 </tr>
 </tbody></table>

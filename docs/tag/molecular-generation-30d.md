@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-generation — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <strong>30d</strong> <a href="molecular-generation-90d.html">90d</a> <a href="molecular-generation-360d.html">360d</a> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,17 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24291.html">An important Bottleneck in LLM Optimizers: Principle-Level Local Optima</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a></div></td>
 <td>Nian Ran et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24291">2610.24291</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19920.html">MolHop: Scaffold-Hopping Molecular Design with Agentic Reinforcement Learning</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Yanyi Su et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19920">2610.19920</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20459.html">MolLean: A Process-Verifiable Language for Chemical Reasoning</a></div></td>
-<td>Jiatong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2610.20459">2610.20459</a></td>
 </tr>
 </tbody></table>

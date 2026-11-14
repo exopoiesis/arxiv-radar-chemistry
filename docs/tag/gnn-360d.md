@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">356 papers</span>
+  <span class="paper-count">355 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15451.html">Materials research with a general-purpose agent</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Paulo R. Pires et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15451">2611.15451</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11839.html">MOOD: Benchmarking Post-Hoc OOD Detection for Materials Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
@@ -2138,17 +2144,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15222.html">Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Pol Benítez et al.</td>
 <td><a href="http://arxiv.org/abs/2511.15222">2511.15222</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04055.html">Benchmark on Drug Target Interaction Modeling from a Drug Structure Perspective</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Xinnan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04055">2407.04055</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14669.html">Hyperbolic Graph Embeddings Reveal the Host-Pathogen Interactome</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Xiaoqiong Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14669">2511.14669</a></td>
 </tr>
 </tbody></table>

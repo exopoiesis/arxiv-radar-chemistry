@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">217 papers</span>
+  <span class="paper-count">216 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1310,11 +1310,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16906.html">Spin-adapted open-shell time-dependent density functional theory: towards a simple and accurate method for spin-flip-down excitations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Hewang Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16906">2511.16906</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14643.html">Real-time time-dependent density functional theory for high-energy density physics</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Alina Kononov et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14643">2511.14643</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1555 papers</span>
+  <span class="paper-count">1554 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16605.html">Dynamics and Statistical Mechanics of Born-Oppenheimer Auxiliary Velocities</a></div></td>
 <td>Paula Sierra et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16605">2611.16605</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16973.html">Interfacial Structure and Dynamics of Active-Passive Fluid Mixtures</a></div></td>
+<td>Linnea Heitmeier</td>
+<td><a href="http://arxiv.org/abs/2611.16973">2611.16973</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17283.html">SiC-BN composites with extreme thermal and environmental stability</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Abhijit Biswas et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17283">2611.17283</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -9326,23 +9338,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15514.html">Revealing the Atomistic Mechanism of Rare Events in Molecular Dynamics</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a></div></td>
 <td>Jakob J. Kresse et al.</td>
 <td><a href="http://arxiv.org/abs/2511.15514">2511.15514</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14352.html">Hybrid ab initio and empirical machine learning models for the potential energy surface</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Pablo Peña-Cano et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14352">2511.14352</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14655.html">Automated Prediction of Thermodynamic Properties via Bayesian Free-Energy Reconstruction from Molecular Dynamics</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Ekaterina Spirande et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14655">2511.14655</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14982.html">Transferable potential for molecular dynamics simulations of borosilicate glasses and structural comparison of machine learning optimized parameters</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Kai Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14982">2511.14982</a></td>
 </tr>
 </tbody></table>

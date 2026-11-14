@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">325 papers</span>
+  <span class="paper-count">322 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1946,23 +1946,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15222.html">Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Pol Benítez et al.</td>
 <td><a href="http://arxiv.org/abs/2511.15222">2511.15222</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02249.html">Natural Selection via Foundation Models for Soft Robot Evolution</a></div></td>
-<td>Changhe Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2503.02249">2503.02249</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09851.html">ZENN: A Thermodynamics-Inspired Computational Framework for Heterogeneous Data-Driven Modeling</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Shun Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09851">2505.09851</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14627.html">Recent advances in stimulus-assisted nanoprecipitation for nanoparticle synthesis</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Mingbo Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14627">2511.14627</a></td>
 </tr>
 </tbody></table>

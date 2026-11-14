@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1515 papers</span>
+  <span class="paper-count">1513 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16316.html">Laser cooling of $\mathrm{Th}^{-}$: Revised bound-state structure and a more efficient cooling scheme</a></div></td>
 <td>Shaowei Tian et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16316">2611.16316</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16924.html">Squeezed terahertz light from nonlinear diamagnetism in ultrastrongly coupled two-dimensional electrons</a></div></td>
+<td>Dasom Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16924">2611.16924</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17096.html">High-pressure behavior of the low-frequency mode of water</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Maria Rescigno et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17096">2611.17096</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -9080,29 +9092,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15222.html">Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Pol Benítez et al.</td>
 <td><a href="http://arxiv.org/abs/2511.15222">2511.15222</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14352.html">Hybrid ab initio and empirical machine learning models for the potential energy surface</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Pablo Peña-Cano et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14352">2511.14352</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14904.html">5d-mediated indirect exchange and effective spin Hamiltonians in Ce triangular-lattice delafossites</a></div></td>
-<td>Leonid V. Pourovskii</td>
-<td><a href="http://arxiv.org/abs/2511.14904">2511.14904</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14940.html">Resolving the Nature of the Lowest-Frequency Raman Mode of Liquid Water</a></div></td>
-<td>Florian Pabst et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14940">2511.14940</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14968.html">Spin-quenching in molecule-transition-metal-dichalcogenide heterostructure through inverse proximity effect</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Swagata Acharya et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14968">2511.14968</a></td>
 </tr>
 </tbody></table>

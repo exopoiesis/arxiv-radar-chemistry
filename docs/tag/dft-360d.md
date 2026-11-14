@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2022 papers</span>
+  <span class="paper-count">2015 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12104,47 +12104,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15486.html">Evolution of correlated electronic states of La2NiO4 under hydrostatic pressure</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Shu-Hong Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.15486">2511.15486</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09851.html">ZENN: A Thermodynamics-Inspired Computational Framework for Heterogeneous Data-Driven Modeling</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Shun Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09851">2505.09851</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00321.html">A direct approach to computing the non-interacting kinetic energy functional</a></div></td>
-<td>Dharamveer Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00321">2507.00321</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02999.html">Large-Scale Calculations of $β$-Decay Rates and Implications for $r$-Process Nucleosynthesis</a></div></td>
-<td>A. Ravlić et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02999">2511.02999</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14029.html">Twin-boundary-induced nonrelativistic spin splitting</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Kristoffer Eggestad et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14029">2511.14029</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14305.html">Two-component anomalous Hall and Nernst effects in anisotropic Fe$_{4-x}$Ge$_x$N thin films</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>R. K. Paul et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14305">2511.14305</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14352.html">Hybrid ab initio and empirical machine learning models for the potential energy surface</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Pablo Peña-Cano et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14352">2511.14352</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14643.html">Real-time time-dependent density functional theory for high-energy density physics</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Alina Kononov et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14643">2511.14643</a></td>
 </tr>
 </tbody></table>

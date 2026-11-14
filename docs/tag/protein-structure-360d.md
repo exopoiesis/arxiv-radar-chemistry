@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">227 papers</span>
+  <span class="paper-count">225 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17130.html">Library of peptides: Analysis of a complex reactive mixture with the use of statistical physics and inference</a></div></td>
+<td>Laura Messio et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17130">2611.17130</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15109.html">Expanding the Decision Space of Pretrained Models through Structured Re-Decoding</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
@@ -1358,23 +1364,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15628.html">Methods for Secondary and Tertiary Structure Prediction of Microproteins</a></div></td>
 <td>Julio C. Facelli</td>
 <td><a href="http://arxiv.org/abs/2511.15628">2511.15628</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14559.html">Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Xinzhe Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14559">2511.14559</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14669.html">Hyperbolic Graph Embeddings Reveal the Host-Pathogen Interactome</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Xiaoqiong Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14669">2511.14669</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14676.html">Exploring AlphaFold 3 for CD47 Antibody-Antigen Binding Affinity: An Unexpected Discovery of Reverse docking</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Yiyang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14676">2511.14676</a></td>
 </tr>
 </tbody></table>

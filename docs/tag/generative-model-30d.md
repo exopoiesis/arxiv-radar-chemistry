@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15451.html">Materials research with a general-purpose agent</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
+<td>Paulo R. Pires et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15451">2611.15451</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16016.html">Quantum Material Generation via Coherent Hamiltonian Search</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
@@ -176,17 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21125.html">Noise-Space Reward Alignment for Few-Step Generative Models</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Woocheol Shin et al.</td>
 <td><a href="http://arxiv.org/abs/2610.21125">2610.21125</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20288.html">Predicting Unseen Scientific Interactions: Conditional Flow Models Hallucinate Non-Additive Effects</a></div></td>
-<td>Sam Gijsen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.20288">2610.20288</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20982.html">The Blume-Capel Model as a $φ^6$ Field Theory: A Monte Carlo and Flow Model Study</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Ejaaz Merali et al.</td>
-<td><a href="http://arxiv.org/abs/2610.20982">2610.20982</a></td>
 </tr>
 </tbody></table>

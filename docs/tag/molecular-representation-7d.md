@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14462.html">Accurate predictions of properties of energetic materials with tabular foundation models</a></div></td>
+<td>Vagn Krister Nes Glomsrud et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14462">2611.14462</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13945.html">Chem World: A Large-Scale Benchmark and Physics-Aware Framework for Trustworthy Molecular Property Prediction</a></div><div class="paper-tags"><a href="molecular-llm-7d.html">molecular-llm</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
 <td>Tianyou Bai et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12591.html">TRACE: Adaptive Trust-Region Bayesian Optimization for Open-Ended Molecular Design</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="bayesian-optimization-7d.html">bayesian-optimization</a> · <a href="chemical-space-7d.html">chemical-space</a> · <a href="dft-7d.html">dft</a> · <a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="molecular-generation-7d.html">molecular-generation</a></div></td>
 <td>Madhav R. Muthyala et al.</td>
 <td><a href="http://arxiv.org/abs/2611.12591">2611.12591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09783.html">Time-gated optical-parametric-amplification and field-resolved detection of mid-infrared free-induction decay signals</a></div></td>
-<td>Sergio Revuelta et al.</td>
-<td><a href="http://arxiv.org/abs/2611.09783">2611.09783</a></td>
 </tr>
 </tbody></table>

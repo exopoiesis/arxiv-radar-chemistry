@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-ligand — 360d</h1>
-  <span class="paper-count">138 papers</span>
+  <span class="paper-count">135 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <strong>360d</strong> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -824,23 +824,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21117.html">ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Adeela Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21117">2505.21117</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14559.html">Apo2Mol: 3D Molecule Generation via Dynamic Pocket-Aware Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Xinzhe Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14559">2511.14559</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14663.html">ApexGen: Simultaneous design of peptide binder sequence and structure for target proteins</a></div></td>
-<td>Xiaoqiong Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14663">2511.14663</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14676.html">Exploring AlphaFold 3 for CD47 Antibody-Antigen Binding Affinity: An Unexpected Discovery of Reverse docking</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Yiyang Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14676">2511.14676</a></td>
 </tr>
 </tbody></table>

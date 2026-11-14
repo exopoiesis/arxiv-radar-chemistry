@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">258 papers</span>
+  <span class="paper-count">257 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1556,11 +1556,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15281.html">Photoluminescence Mapping of Mobile and Fixed Defects in Halide Perovskite Films</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Sarah C. Gillespie et al.</td>
 <td><a href="http://arxiv.org/abs/2511.15281">2511.15281</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14029.html">Twin-boundary-induced nonrelativistic spin splitting</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Kristoffer Eggestad et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14029">2511.14029</a></td>
 </tr>
 </tbody></table>

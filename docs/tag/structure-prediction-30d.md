@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>structure-prediction — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <strong>30d</strong> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,17 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22600.html">A Comprehensive Survey of Crystal Structural Prototypes: Construction, Classification, and Applications</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a></div></td>
 <td>Jianjun Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.22600">2610.22600</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19738.html">ProtModernBERT: Compute-Efficient Protein Language Modeling</a></div><div class="paper-tags"><a href="protein-llm-30d.html">protein-llm</a></div></td>
-<td>Alberto Martínez et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19738">2610.19738</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19919.html">Beyond DFT electronic band structures via dual-space orbital learning</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
-<td>Minhyuk Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19919">2610.19919</a></td>
 </tr>
 </tbody></table>

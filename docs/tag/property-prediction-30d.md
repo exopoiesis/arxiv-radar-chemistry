@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>property-prediction — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <strong>30d</strong> <a href="property-prediction-90d.html">90d</a> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16792.html">Systematic Evaluation of Training Data Generation Strategies for Machine Learning-Based Molecular and Materials Property Prediction</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a></div></td>
+<td>Minh Nghia Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16792">2611.16792</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13651.html">DrugCoding: A Scientific Programming Agent for Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
@@ -92,17 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25163.html">M-JEPA: Predictive Self-Supervised Learning for Molecular Graphs with Scaffold-Shift Evaluation on Tox21</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
 <td>Karthik Iyer et al.</td>
 <td><a href="http://arxiv.org/abs/2610.25163">2610.25163</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18651.html">Does Pretraining Teach Chemical Language Models Chemistry?</a></div><div class="paper-tags"><a href="chemical-llm-30d.html">chemical-llm</a></div></td>
-<td>Leif Sieben et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18651">2610.18651</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19906.html">Beyond Benchmark Accuracy: A Diagnostic Test for LLM Chemical Prediction</a></div><div class="paper-tags"><a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
-<td>Yanyi Su et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19906">2610.19906</a></td>
 </tr>
 </tbody></table>

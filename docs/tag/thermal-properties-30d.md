@@ -22,6 +22,18 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2611.16161">2611.16161</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17096.html">High-pressure behavior of the low-frequency mode of water</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Maria Rescigno et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17096">2611.17096</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17283.html">SiC-BN composites with extreme thermal and environmental stability</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Abhijit Biswas et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17283">2611.17283</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14957.html">Improving Nonequilibrium Thermal Conduction in CaF2 by Breaking the Phonon Bottleneck Effect</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Mingde Qu et al.</td>
@@ -122,17 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.27355.html">Reaction-induced Localized Annealing for On-chip Materials Discovery</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Nensi Toncich et al.</td>
 <td><a href="http://arxiv.org/abs/2610.27355">2610.27355</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20063.html">Sorption Molecular Dynamics of Point Defects in 2D Materials with a Machine Learning Potential</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Nils-Ruben Skogemyr et al.</td>
-<td><a href="http://arxiv.org/abs/2610.20063">2610.20063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20812.html">Modeling Transport and Mechanics in Anion Exchange Membranes to Optimize Continuous CO2 Separations</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
-<td>Samaneh Bayati et al.</td>
-<td><a href="http://arxiv.org/abs/2610.20812">2610.20812</a></td>
 </tr>
 </tbody></table>

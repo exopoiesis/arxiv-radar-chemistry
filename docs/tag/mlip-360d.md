@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">585 papers</span>
+  <span class="paper-count">581 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3500,29 +3500,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15402.html">Mechanistic study of mixed lithium halides solid state electrolytes</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="chemical-space-360d.html">chemical-space</a></div></td>
 <td>Davide Tisi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.15402">2511.15402</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05026.html">Machine Learning Study of Surface Reconstructions of the Cu$_{2}$O(111) Surface</a></div><div class="paper-tags"><a href="replica-exchange-360d.html">replica-exchange</a></div></td>
-<td>Payal Wadhwa et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05026">2507.05026</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08573.html">Accelerating first-principles molecular-dynamics thermal conductivity calculations for complex systems</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Sandro Wieser et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08573">2509.08573</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14655.html">Automated Prediction of Thermodynamic Properties via Bayesian Free-Energy Reconstruction from Molecular Dynamics</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ekaterina Spirande et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14655">2511.14655</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14982.html">Transferable potential for molecular dynamics simulations of borosilicate glasses and structural comparison of machine learning optimized parameters</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kai Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14982">2511.14982</a></td>
 </tr>
 </tbody></table>

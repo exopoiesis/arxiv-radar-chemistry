@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>chemical-space — all</h1>
-  <span class="paper-count">211 papers</span>
+  <span class="paper-count">212 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <a href="chemical-space-30d.html">30d</a> <a href="chemical-space-90d.html">90d</a> <a href="chemical-space-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17121.html">Using an energy pixels approach to estimate the size a 2nd Generation DEL must be to train a high-resolution binding model</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a></div></td>
+<td>Boris P. Belotserkovskii et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17121">2611.17121</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14687.html">High-Fidelity In Silico Dataset of Ordered Binary and Ternary MXenes with Predictive Synthesis Guidance</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a></div></td>

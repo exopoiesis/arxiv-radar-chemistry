@@ -28,6 +28,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2611.11839">2611.11839</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12013.html">Enhancing Multi-Step Chemical Mechanism Prediction with Graph-Guided Preference Data</a></div><div class="paper-tags"><a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
+<td>Yu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12013">2611.12013</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11226.html">MCSA: Multi-Cutoff Spectral Aggregation in SO(3) Equivariant GNNs for Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Junfu Tan et al.</td>
@@ -404,11 +410,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17200.html">Discovery of novel magnetic Y-Mn-B compounds via advanced machine learning guided framework</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Weiyi Xia et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17200">2608.17200</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15609.html">Graph neural network prediction of temperature-dependent hydrogen diffusion and thermal conductivity tensors of tungsten containing helium bubbles and grain boundaries</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>S. Saito et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15609">2608.15609</a></td>
 </tr>
 </tbody></table>

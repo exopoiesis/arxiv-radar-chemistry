@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1513 papers</span>
+  <span class="paper-count">1510 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9074,23 +9074,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16059.html">Extending SLUSCHI for Automated Diffusion Calculations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Qi-Jun Hong et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16059">2511.16059</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08662.html">A Local-Phase Framework for the BaTi_{1-x}Zr_xO_3$ Phase Diagram: From Ferroelectricity to Dipolar Glass</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>M. Sepliarsky et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08662">2509.08662</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15101.html">Anisotropic in-plane lattice thermal conductivity in bilayer ReS2</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Ashutosh Srivastava et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15101">2511.15101</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15222.html">Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Pol Benítez et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15222">2511.15222</a></td>
 </tr>
 </tbody></table>

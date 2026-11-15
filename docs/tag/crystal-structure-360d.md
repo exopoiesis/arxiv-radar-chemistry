@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">257 papers</span>
+  <span class="paper-count">255 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1544,17 +1544,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16071.html">Elucidating the High-Pressure Phases of MAPbBr3 Using a Machine Learning Force Field</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Rashid Rafeek V Valappil et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16071">2511.16071</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15265.html">Identifying the structure of La3Ni2O7 in the pressurized superconducting state</a></div></td>
-<td>Hengyuan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15265">2511.15265</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15281.html">Photoluminescence Mapping of Mobile and Fixed Defects in Halide Perovskite Films</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Sarah C. Gillespie et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15281">2511.15281</a></td>
 </tr>
 </tbody></table>

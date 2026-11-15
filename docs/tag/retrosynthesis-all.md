@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>retrosynthesis — all</h1>
-  <span class="paper-count">149 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <a href="retrosynthesis-30d.html">30d</a> <a href="retrosynthesis-90d.html">90d</a> <a href="retrosynthesis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12013.html">Enhancing Multi-Step Chemical Mechanism Prediction with Graph-Guided Preference Data</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
+<td>Yu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12013">2611.12013</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04809.html">RAHC: Rule-Augmented Hyper-Relational Knowledge Graph Completion for Materials Synthesis</a></div></td>

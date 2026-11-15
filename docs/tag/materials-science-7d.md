@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>materials-science — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -29,6 +29,12 @@ current_window: 7d
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15939.html">Atomistic simulations of electrochemical systems with machine learning potentials</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Marialore Sulpizi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15939">2611.15939</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16016.html">Quantum Material Generation via Coherent Hamiltonian Search</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="materials-discovery-7d.html">materials-discovery</a></div></td>
 <td>Jiang Yuhan et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16016">2611.16016</a></td>
@@ -41,14 +47,14 @@ current_window: 7d
 </tr>
 <tr class="paper">
 <td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12762.html">Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery</a></div><div class="paper-tags"><a href="photocatalysis-7d.html">photocatalysis</a></div></td>
+<td>Weida Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12762">2611.12762</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13344.html">PneuGen: Task-Driven Agentic Co-Design of Soft Pneumatic Robots</a></div></td>
 <td>Shaohong Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2611.13344">2611.13344</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10424.html">Efficient and Accurate Zero Shot Generation of Symmetric Protein Complexes</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="protein-structure-7d.html">protein-structure</a></div></td>
-<td>Rory Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2611.10424">2611.10424</a></td>
 </tr>
 </tbody></table>

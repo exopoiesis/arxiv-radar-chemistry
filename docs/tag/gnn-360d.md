@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">355 papers</span>
+  <span class="paper-count">354 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11839.html">MOOD: Benchmarking Post-Hoc OOD Detection for Materials Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Shirley X. Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.11839">2611.11839</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12013.html">Enhancing Multi-Step Chemical Mechanism Prediction with Graph-Guided Preference Data</a></div><div class="paper-tags"><a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
+<td>Yu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12013">2611.12013</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-08</td>
@@ -2132,17 +2138,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16767.html">When Structure Doesn&#x27;t Help: LLMs Do Not Read Text-Attributed Graphs as Effectively as We Expected</a></div></td>
 <td>Haotian Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16767">2511.16767</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21117.html">ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Adeela Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21117">2505.21117</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15222.html">Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Pol Benítez et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15222">2511.15222</a></td>
 </tr>
 </tbody></table>

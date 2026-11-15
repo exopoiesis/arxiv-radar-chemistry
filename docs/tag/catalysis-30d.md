@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>catalysis — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <strong>30d</strong> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16587.html">Small-angle scattering reveals heterogeneous nanoparticle size distributions through Bayesian inference</a></div></td>
+<td>Songhao Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16587">2611.16587</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13536.html">Adaptive catalyst discovery emerges from composable scientific intelligence</a></div><div class="paper-tags"><a href="photocatalysis-30d.html">photocatalysis</a></div></td>
+<td>Wentao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13536">2611.13536</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14652.html">The memory cost of sequential quantum state preparation</a></div></td>
+<td>Jian Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14652">2611.14652</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12735.html">Catalysis-induced phase separation of enzymes via diffusivity contrast</a></div></td>
+<td>Marie Jardat et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12735">2611.12735</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09377.html">KineCouple: Substrate-conditioned residual readout for enzyme kinetic prediction</a></div></td>
@@ -110,17 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30531.html">Shorter but not more catalytic: an active-site-resolved model of how tau reshapes amyloid-$β$ secondary nucleation</a></div></td>
 <td>Andrey V. Kuznetsov</td>
 <td><a href="http://arxiv.org/abs/2610.30531">2610.30531</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21625.html">Universal Dynamic Scaling for Sub-Yield Aging and Over-Yield Rejuvenation in A Cyclically Driven Metallic Glass</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Nannan Ren et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21625">2610.21625</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22004.html">Thermal activation of photon catalysis in difference-intensity Mach-Zehnder interferometry with squeezed thermal light</a></div></td>
-<td>Kirtpreet Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2610.22004">2610.22004</a></td>
 </tr>
 </tbody></table>

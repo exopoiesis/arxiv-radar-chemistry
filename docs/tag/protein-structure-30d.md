@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>protein-structure — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <strong>30d</strong> <a href="protein-structure-90d.html">90d</a> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,17 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23703.html">Blitz: Accelerating the Diffusion Modules of AlphaFold3 and Boltz-2</a></div><div class="paper-tags"><a href="structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Vinay Saji Mathew et al.</td>
 <td><a href="http://arxiv.org/abs/2610.23703">2610.23703</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21125.html">Noise-Space Reward Alignment for Few-Step Generative Models</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Woocheol Shin et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21125">2610.21125</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21200.html">Poisoning the corpora of protein design systems during pre-training and retrieval</a></div><div class="paper-tags"><a href="protein-llm-30d.html">protein-llm</a></div></td>
-<td>Charalampos Koilakos et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21200">2610.21200</a></td>
 </tr>
 </tbody></table>

@@ -28,6 +28,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2611.13945">2611.13945</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14179.html">Quantum-Enhanced QSAR for DYRK1A: Evaluating Complementary and Utility QPU-Derived Molecular Representations</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
+<td>Alejandro Giraldo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14179">2611.14179</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12591.html">TRACE: Adaptive Trust-Region Bayesian Optimization for Open-Ended Molecular Design</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="dft-360d.html">dft</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Madhav R. Muthyala et al.</td>
@@ -926,11 +932,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16365.html">Mode-programmable comb spectroscopy enabling non-cooperative computational sensing with single-photon sensitivity</a></div></td>
 <td>Dongxu Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16365">2511.16365</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02031.html">Pharmacophore-based design by learning on voxel grids</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Omar Mahmood et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02031">2512.02031</a></td>
 </tr>
 </tbody></table>

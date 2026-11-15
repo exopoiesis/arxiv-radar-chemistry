@@ -3826,7 +3826,8 @@
   ],
   "title": "A Systematic Comparison of In-Context Learning Strategies for Peptide Property Prediction in Low-Data Regimes",
   "topics": [
-   "Large Language Models & Materials"
+   "Large Language Models & Materials",
+   "Property Prediction & ADMET"
   ],
   "updated": "2026-11-03"
  },
@@ -4982,6 +4983,36 @@
   ],
   "updated": "2026-11-09"
  },
+ "2611.12013": {
+  "abstract": "Predicting multi-step chemical reaction mechanisms requires identifying plausible intermediates and correctly ordering the elementary reaction steps. Existing computational methods focus on single-step elementary reaction prediction, limiting their ability to generalize to unseen reaction spaces. We introduce a graph-guided framework for multi-step chemical mechanism prediction that leverages a chemical mechanism knowledge graph (ChemMechKG) to guide large language models (LLMs). To improve pathway prediction, we develop a graph-aligned reaction mechanism predictor (GRMP) that uses graph neural networks to generate synthetic candidate pathways for pathway optimization. During inference, we design a relation retrieval (RR) module to extract relevant graph evidence from the KG for pathway refinement. Experiments show that GRMP achieves the highest pathway accuracy among all compared methods on ChemMechQA and oMe-Gold, reaching 48.1% and 57.9%, respectively. On a fixed sample of 110 out-of-distribution reactions from ChemMechQA-Hard, GRMP achieves 36.4% top-1 pathway accuracy. LLM-as-Judge and human assessment further demonstrate its ability to generalize to unseen reactions.",
+  "authors": [
+   "Yu Zhang",
+   "Ruijie Yu",
+   "Xuelin Zhao",
+   "Jinming Yang",
+   "Feng Zhu",
+   "Xiaokang Yang",
+   "Yaohui Jin",
+   "Yanyan Xu"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "5 figures, 3tables",
+  "first_author": "Yu Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2611.12013",
+  "primary_category": "cs.AI",
+  "published": "2026-11-09",
+  "tags": [
+   "gnn",
+   "retrosynthesis"
+  ],
+  "title": "Enhancing Multi-Step Chemical Mechanism Prediction with Graph-Guided Preference Data",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-11-09"
+ },
  "2611.12014": {
   "abstract": "Large language models and the multi-agent systems built around them could accelerate materials discovery by connecting scientific knowledge with experimental decisions. Existing benchmarks establish capabilities in domain knowledge, multimodal interpretation and scientific tool use. As language models increasingly support materials research workflows, their ability to distinguish closely related material states and reason accurately with quantitative evidence remains insufficiently evaluated. These abilities are essential for comparing material responses, assessing mechanisms and maintaining reliable judgements as experimental evidence accumulates. We introduce MatScope to evaluate three connected capabilities. M1 tests unaided, condition-specific reasoning through 200 tasks spanning ten research functions, using aluminium and high-entropy alloys as representative material systems. M2 tests agent-assisted transfer of related knowledge to unresolved materials questions. MatEvoBench-20 tests initial forecasts across scientific dependency chains and revisions of still-hidden responses as observations accumulate. Across eleven model deployments, including GPT-6 Astra and Claude Fable 5.1, given-input calculations and many physical explanations are handled well. Fine-grained response estimates, comparisons between similar states and quantitatively supported choices remain substantially weaker. Related literature improves selected estimates, while condition and baseline mismatches limit transfer. Progressive observations calibrate some downstream responses and destabilize earlier accurate predictions. MatScope establishes measurable targets for developing reliable scientific reasoning in future self-evolving materials laboratories and materials-aware world models.",
   "authors": [
@@ -5160,6 +5191,31 @@
   "title": "FraudBench: A Legal Evaluation of AI Deception",
   "topics": [
    "Large Language Models & Materials"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.12184": {
+  "abstract": "Scientific discovery requires ideas that are original, useful, and non-obvious. Yet AI scientists are typically given as much task information as possible during idea generation, which can anchor generation toward familiar approaches. Inspired by the cognitive framework of Blind Variation and Selective Retention (BVSR), we propose a discovery framework that separates these two roles of information: it generates proposals under deliberately limited task information to broaden exploration, then learns from proposals previously verified on the same task and their outcomes to retain promising candidates for costly empirical evaluation. We evaluate BVSR across five proposer models and 12 scientific tasks. Limiting task information substantially increases proposal originality and non-obviousness, and produces a larger share of highly creative and high-utility proposals than existing state-of-the-art prompting-based baselines. Learning from prior proposal outcomes on the task further improves candidate selection, discarding half of the candidates while retaining most top-performing proposals. When incorporated into existing AI-scientist workflows, BVSR achieves stronger discoveries across gene expression analysis, drug response prediction, anomaly detection, scaling law discovery, and brain activity prediction. These results suggest that effective AI scientists should use information differently across stages of discovery: constrain task-specific information during exploration while exploiting accumulated empirical experience on the task.",
+  "authors": [
+   "Guowei Xu",
+   "Jiaru Zou",
+   "Mete Erdogan",
+   "Haotian Ye",
+   "Pan Lu",
+   "James Zou"
+  ],
+  "categories": [
+   "cs.CL"
+  ],
+  "comment": "Project Website: https://zou-group.github.io/BVSR/",
+  "first_author": "Guowei Xu",
+  "pdf_url": "http://arxiv.org/pdf/2611.12184",
+  "primary_category": "cs.CL",
+  "published": "2026-11-09",
+  "tags": [],
+  "title": "Blind Variation, Selective Retention: Improving Creative Idea Generation in AI Scientists",
+  "topics": [
+   "Property Prediction & ADMET"
   ],
   "updated": "2026-11-09"
  },
@@ -5517,6 +5573,146 @@
   ],
   "updated": "2026-11-09"
  },
+ "2611.12735": {
+  "abstract": "Catalysis can drive phase separation by coupling local chemical composition to molecular transport, even in the absence of attractive interactions. Here, we demonstrate such catalysis-induced phase separation in a microscopic particle-based model of enzymes catalyzing the interconversion of substrate and product molecules with different diffusivities. We derive an analytical instability criterion in the dilute limit, showing that a homogeneous mixture becomes unstable when the nonequilibrium chemical drive and the diffusivity contrast are sufficiently large, and the substrate and product concentration exceeds a threshold set by the enzyme volume. Brownian-dynamics simulations confirm the predicted instability and reveal macroscopic coexistence of enzyme-rich and enzyme-poor phases, including in regimes where equilibrium depletion interactions cannot account for demixing. Finally, we show that, upon eliminating the fast chemical degrees of freedom, the reactive ternary mixture maps onto an effective binary mixture nonreciprocal interactions. Our results establish an explicit microscopic mechanism for catalysis-induced phase separation and connect chemically driven phase separation to the physics of motility-regulated and nonreciprocal matter.",
+  "authors": [
+   "Marie Jardat",
+   "Jacques Fries",
+   "Vincent Dahirel",
+   "Jaime Agudo-Canalejo",
+   "Pierre Illien"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Marie Jardat",
+  "pdf_url": "http://arxiv.org/pdf/2611.12735",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-09",
+  "tags": [
+   "catalysis"
+  ],
+  "title": "Catalysis-induced phase separation of enzymes via diffusivity contrast",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.12762": {
+  "abstract": "We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideation, achieving an Overall score of 54.0 compared with 47.9 for the strongest baseline, AI Scientist-v2. It also performs well on two external scientific ideation benchmarks. Five expert-guided collaborations further connect its proposals to experimental and computational validation across chemistry, materials science, and engineering. In chemistry, reaction-condition optimization raises the yield of cobalt-catalyzed carbonylation from trace amounts to 84% and photocatalytic allylic amination from 13% to 69%. These results support metacognitive regulation as an approach to scientific ideation and its progression toward practical validation.",
+  "authors": [
+   "Weida Wang",
+   "Benteng Chen",
+   "Yigeng Jiang",
+   "Shuchen Pu",
+   "Weiping Shen",
+   "Zichao Liu",
+   "Yulin Su",
+   "Zitong Wang",
+   "Siyu Zhou",
+   "Zifu Wang",
+   "Yizhi Li",
+   "Xin Zong",
+   "Yuning Yang",
+   "Jixiang Bi",
+   "Yuan Wang",
+   "Chuyi Peng",
+   "Shiyao Geng",
+   "Qi Zhang",
+   "Kuan Lu",
+   "Mengzhu Li",
+   "Weiwang Xu",
+   "Peishan Xiang",
+   "Chengjun Liu",
+   "Chengrui Wei",
+   "Fangchen Yu",
+   "Shengji Tang",
+   "Yichen Jiang",
+   "Jingqi Ye",
+   "Cheng Yang",
+   "Tao Hu",
+   "Jianbiao Mei",
+   "Qinglong Cao",
+   "Kun Li",
+   "Yixin Chen",
+   "Shengyuan Xu",
+   "Juncheng Xiao",
+   "Yiheng Wang",
+   "Ruizhe Chen",
+   "Shiyang Feng",
+   "Runmin Ma",
+   "Xiangchao Yan",
+   "Zongsheng Cao",
+   "Haomeng Hu",
+   "Yu Ke",
+   "Taihui Wu",
+   "Meng Dai",
+   "Xu Guo",
+   "Haoyang Peng",
+   "Yinglong Ni",
+   "Pingsen Shi",
+   "Xiaosong Wang",
+   "Shuyue Hu",
+   "Haijun Li",
+   "Sherry Dongqi Bao",
+   "Yang Yang",
+   "Chao Yang",
+   "Jie Hou",
+   "Tianfan Fu",
+   "Yi Gong",
+   "Jin Zeng",
+   "Mao Su",
+   "Hongxia Hao",
+   "Fanyang Mo",
+   "Fenghua Ling",
+   "Tianshu Yu",
+   "Yunqi Cai",
+   "Baihong Chi",
+   "Jingwei Wang",
+   "Lei Wang",
+   "Chuncheng Bu",
+   "Shide Lv",
+   "Guangyu Wang",
+   "Yuqiang Li",
+   "Chunfeng Song",
+   "Lei Bai",
+   "Hui Wang",
+   "Xujun Fu",
+   "Li Cao",
+   "Lei Chen",
+   "Dahua Lin",
+   "Xing Xie",
+   "Bowen Zhou",
+   "Wenlong Zhang",
+   "Pinlong Cai",
+   "Peng Ye",
+   "Aiwen Lei",
+   "Jie Li",
+   "Shengchun Wang",
+   "Bo Zhang",
+   "Shufei Zhang"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "38 pages, 18 figures. Project homepage: https://alpha-innovator.github.io/Sage-Taiyi/",
+  "first_author": "Weida Wang",
+  "pdf_url": "http://arxiv.org/pdf/2611.12762",
+  "primary_category": "cs.AI",
+  "published": "2026-11-09",
+  "tags": [
+   "materials-science",
+   "photocatalysis"
+  ],
+  "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-11-09"
+ },
  "2611.12840": {
   "abstract": "Phase identification is a computational task involving the classification of material structure using the positions of atoms. Using data from Molecular Dynamics (MD) simulations, our task is to identify the material phase of a set of atoms, based on how the simulations predict their positioning relative to each other. By leveraging existing research on mechanistic neural network theory, particularly Neural Tangent Kernels (NTK), we develop a new and efficient method for classifying simulated material samples. Our method involves defining a set of \"atom detectors\" that are given positions around the origin in cartesian coordinates. The sum of Gaussians centered at each atom is calculated at each atom detector, and is used as the input to a neural network. We present theoretical and experimental evidence to show that this method is highly effective and efficient at the task. Our method obtains better or similar accuracy scores to commonly used methods while having a major computational speedup.",
   "authors": [
@@ -5592,6 +5788,34 @@
   "title": "Point defects and primary radiation damage in Co-free Fe-Ni-Cr-Mn high-entropy alloys from molecular dynamics",
   "topics": [
    "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.13115": {
+  "abstract": "The Carbon-Enhanced Metal-Poor stars (CEMP-no, low barium) are commonly accepted as the direct descendants of Population III (Pop III) stars which either ended their lives as faint supernovae (SNe; E_SN < 10^51 erg) or were fast-rotating stars (spinstars). While CEMP-no stars are common in the Milky Way (MW) and ultra-faint dwarf galaxies (UFDs), they are surprisingly rare in dwarf spheroidal galaxies (dSphs). This could hide an environmental dependence of the properties of Pop III stars, highlighting the importance of high-resolution studies of CEMP-no stars in dSphs. Here we present the first detailed study of a CEMP-no star with [Fe/H] < -3 in the Sculptor dSph. The high-resolution VLT/UVES spectra allowed us to derive one of the most precise abundance patterns obtained for a star belonging to a dwarf galaxy, providing chemical abundances for 17 elements and 4 upper limits. This star, DR20080, is extremely metal-poor, [Fe/H] = -3.26, and clearly enhanced in carbon, [C/Fe] = +1.60 (after correcting for internal mixing). Furthermore, it has low [Ba/Fe] = -1.28. The oxygen abundance of DR20080 ([O/Fe] = +1.53) is significantly higher than the average found in CEMP-no stars in the MW, while the iron-peak elements are under-abundant ([Mn/Fe] = -1.02; [Ni/Fe] = -0.45). The abundance pattern of DR20080 was compared to theoretical yield predictions of Pop III and Pop II SNe to infer the properties of its progenitor. The best result points toward a double Pop III progenitor scenario, with the major contributor to the abundance pattern being a Pop III faint SN with mass m_PopIII = 43 M_0 and explosion energy E_SN = 0.6 x 10^51 erg, while the minor contributor is a Pop III hypernova of m_PopIII = 19.4 M_0 and E_SN = 10 x 10^51 erg. The unique properties of DR20080 have never before been observed in Sculptor or in any other environment within the MW and its satellite system.",
+  "authors": [
+   "Francisco Cuadra",
+   "Ása Skúladóttir",
+   "Romain Lucchesi",
+   "Ioanna Koutsouridou",
+   "Irene Vanni",
+   "Stefania Salvadori",
+   "Eline Tolstoy",
+   "Raghubar Singh"
+  ],
+  "categories": [
+   "astro-ph.SR",
+   "astro-ph.GA"
+  ],
+  "comment": "Accepted in A&A",
+  "first_author": "Francisco Cuadra",
+  "pdf_url": "http://arxiv.org/pdf/2611.13115",
+  "primary_category": "astro-ph.SR",
+  "published": "2026-11-09",
+  "tags": [],
+  "title": "High-precision abundance analysis of a unique CEMP-no star in Sculptor",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
   ],
   "updated": "2026-11-09"
  },
@@ -5722,6 +5946,52 @@
   ],
   "updated": "2026-11-10"
  },
+ "2611.13536": {
+  "abstract": "Catalysis underpins chemical manufacturing, yet knowledge for catalyst design remains dispersed across experimental observations, computational data and catalysis subdisciplines. To overcome this challenge, we present Composable Catalytic Intelligence (CatAI), a physics-grounded modular AI framework that learns 1.8 million structure-property relations and organizes them into 30 physicochemical encoders. This reusable intermediate layer enables task-specific models to guide catalyst discovery for targeted reactions and objectives. Across benchmark tasks, CatAI achieves a 7.8% lower task-averaged prediction error than the next-best models. In experimental validation, CatAI identified a new confined-passable pocket catalyst applicable in industrial homogeneous polymer synthesis with 9 times the activity of the commercial benchmark. In parallel, it guided autonomous closed-loop optimization of a highly active Cu-based geminal-atom photocatalyst for C-O coupling reactions surpassing the traditional Ni-based systems. This approach connects property-level data to catalytic objectives, supporting physicochemical knowledge reuse across mechanistically distinct systems through computational screening and iterative model-experiment feedback.",
+  "authors": [
+   "Wentao Li",
+   "Qilong Cai",
+   "Qi Lei",
+   "Jinxing Chen",
+   "Ruixuan Chen",
+   "Jiangjie Qiu",
+   "Botian Wang",
+   "Kai Zhao",
+   "Honghao Chen",
+   "Leyi Zhao",
+   "Zemeng Wang",
+   "Yijun Li",
+   "Jun Yin",
+   "Fangfang Li",
+   "Hongxuan Liu",
+   "Yingdong Lu",
+   "Yawen Ouyang",
+   "Manu Suvarna",
+   "Wei-Ying Ma",
+   "Ya-Qin Zhang",
+   "Kostya S. Novoselov",
+   "Hao Zhou",
+   "Jiong Lu",
+   "Xiaonan Wang"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "29 pages, 8 figures",
+  "first_author": "Wentao Li",
+  "pdf_url": "http://arxiv.org/pdf/2611.13536",
+  "primary_category": "cs.LG",
+  "published": "2026-11-10",
+  "tags": [
+   "catalysis",
+   "photocatalysis"
+  ],
+  "title": "Adaptive catalyst discovery emerges from composable scientific intelligence",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-11-10"
+ },
  "2611.13562": {
   "abstract": "Benchmark scores for medical large language models (LLMs) are difficult to interpret when scoring criteria cannot be traced to clinical evidence. Here we developed Med Evidence Bench (MEB; https://www.medevidencebench.org.cn/), comprising 1,536 physician-constructed items across three levels: guideline knowledge, standardized clinical scenarios and real-world laboratory scenarios. Each criterion stating a medical claim is linked to a versioned source-text span. Across ten LLMs, the Evidence Trace Score (ETS) was 0.975-0.997 for guideline knowledge, 0.292-0.658 for standardized scenarios and 0.182-0.447 for real-world scenarios, and rankings varied across levels. For real-world scenarios, scores for identifying clinical information (mean, 0.770) exceeded those for matching evidence (0.165) or formulating recommendations (0.160). On 1,296 criterion-level judgments, automated grading agreed with the majority vote of three physicians (macro-F1, 0.930; 95% confidence interval, 0.915-0.945), although agreement was lower for evidence application. These findings from Chinese-language materials indicate that guideline recall does not ensure patient-specific evidence use and do not establish clinical effectiveness.",
   "authors": [
@@ -5813,7 +6083,8 @@
   ],
   "title": "DrugCoding: A Scientific Programming Agent for Drug Discovery",
   "topics": [
-   "Large Language Models & Materials"
+   "Large Language Models & Materials",
+   "Property Prediction & ADMET"
   ],
   "updated": "2026-11-11"
  },
@@ -5924,7 +6195,8 @@
   ],
   "title": "Chem World: A Large-Scale Benchmark and Physics-Aware Framework for Trustworthy Molecular Property Prediction",
   "topics": [
-   "Large Language Models & Materials"
+   "Large Language Models & Materials",
+   "Property Prediction & ADMET"
   ],
   "updated": "2026-11-10"
  },
@@ -5978,6 +6250,33 @@
   ],
   "updated": "2026-11-10"
  },
+ "2611.14179": {
+  "abstract": "In drug discovery, hit identification selects a limited set of compounds for experimental evaluation from a larger collection of candidates. Because laboratory screening capacity is limited, that choice determines which chemical series continue into further investigation. A hit that is not assayed does not enter confirmation or the analog series, and that chemical series is not opened. For the DYRK1A kinase, the same test molecules were scored from a tabular representation of molecular descriptors and from a vector measured on a quantum processor, with the same RBF-SVM. The question is whether the two models propose the same set for experimental evaluation: they propose different compounds. The model on the vector measured on the quantum processor includes compounds that the tabular representation leaves out, and among them are already-labeled actives. The tabular representation includes actives that the vector measured on the quantum processor leaves out. What is reported is that set: who enters, with what label, and whether published chemistry already mentions it. No formal quantum advantage is claimed, nor a mechanism for why the two vectors separate differently. Those compounds fall within the neighborhood that both representations already cover; what changes is which model marks them active. From that follows the cost of predictive disagreement: each model would send a different chemical series to experimental evaluation.",
+  "authors": [
+   "Alejandro Giraldo",
+   "Daniel Ruiz",
+   "Mariano Caruso",
+   "Hamed Mohammadbagherpoor",
+   "Vladyslav Bohun"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Alejandro Giraldo",
+  "pdf_url": "http://arxiv.org/pdf/2611.14179",
+  "primary_category": "quant-ph",
+  "published": "2026-11-10",
+  "tags": [
+   "drug-discovery",
+   "molecular-representation"
+  ],
+  "title": "Quantum-Enhanced QSAR for DYRK1A: Evaluating Complementary and Utility QPU-Derived Molecular Representations",
+  "topics": [
+   "Property Prediction & ADMET"
+  ],
+  "updated": "2026-11-10"
+ },
  "2611.14287": {
   "abstract": "Structure-based virtual screening needs a receptor conformation that fits the ligand class, but for most targets no ligand-bound crystal is available -- and a single predicted model or an apo structure often misses the binding-competent state. We present ANTIOCH-VS, an open-source framework that runs an entire in silico screening campaign, from a protein sequence to a ranked shortlist of candidate binders, as one plug-and-play workflow. It first builds a conformational ensemble by reduced-MSA subsampling with ColabFold, then uses AlphaFold2-RAVE (AF2RAVE) -- short molecular-dynamics simulations with State Predictive Information Bottleneck analysis -- to pick out docking-ready, Boltzmann-weighted metastable states. It then detects the binding pocket, prepares receptors and ligands, docks the library across the ensemble with DOCK6 or AutoDock Vina, builds a consensus ranking, and triages the top hits by physics-based metadynamics (CTMD). We benchmark it on two very different targets, JAK2 kinase and ADRB2 GPCR, using their DUD-E benchmark sets of known binders and property-matched decoys. Starting from sequence alone -- no ligand-bound crystal, no manual intervention -- the AF2RAVE ensembles gave top-20 shortlists strongly enriched for true binders: a 20% hit rate for JAK2 and 60% for ADRB2 (random ~1-2%), on par with ligand-bound crystals and, for the kinase, above single AF2 models and an apo crystal. The full pipeline runs end to end on a workstation or HPC from a single command, or each module can be run on its own with user-supplied inputs. ANTIOCH-VS is freely available at https://github.com/tiwarylab/antioch-vs",
   "authors": [
@@ -6000,6 +6299,7 @@
   ],
   "title": "ANTIOCH-VS: From Sequence to Hits with Modular, Open-Source Ensemble Virtual Screening",
   "topics": [
+   "Property Prediction & ADMET",
    "Protein & Biomolecules",
    "Quantum Chemistry & Force Fields"
   ],
@@ -6081,6 +6381,29 @@
   ],
   "updated": "2026-11-10"
  },
+ "2611.14652": {
+  "abstract": "How much memory does a quantum device need to prepare systems one at a time? We address this question through the lens of quantum resource theories, which formalize physical restrictions on how the memory may interact with the stream of systems it processes. By comparing sequential with collective preparation, we show that under general assumptions both have the same asymptotic memory cost per output. Still, sequential preparation can require an unboundedly larger memory than collective one, and we investigate how this gap depends on the physical restrictions on the allowed interactions. For energy-conserving unitaries, we determine both optimal memory dimensions needed for preparing pure states from an energy eigenstate, and find that the extra memory required sequentially either remains bounded or grows logarithmically with the number of outputs. Under noisy operations, we reveal transformations for which one auxiliary qubit suffices for preparing arbitrarily many independent outputs collectively, while no memory of fixed dimension can deliver them sequentially. Finally, for sequential protocols that repeat a fixed interaction, we show that a $d$-dimensional memory that succeeds for $d^2$ rounds will succeed forever, and that such a sequential preparation is equivalent to quantum catalysis.",
+  "authors": [
+   "Jian Li",
+   "Patryk Lipka-Bartosik"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "14 pages. Comments are welcome",
+  "first_author": "Jian Li",
+  "pdf_url": "http://arxiv.org/pdf/2611.14652",
+  "primary_category": "quant-ph",
+  "published": "2026-11-10",
+  "tags": [
+   "catalysis"
+  ],
+  "title": "The memory cost of sequential quantum state preparation",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-11-10"
+ },
  "2611.14687": {
   "abstract": "Despite their promise, the targeted synthesis of novel MXenes remains challenging due to their vast structural and compositional space and the lack of reliable stability descriptors that account for synthesis conditions. To address this gap, we utilized density functional theory (DFT) with the r$^2$SCAN functional to develop a high-fidelity dataset of 1,040 ordered binary and ternary bare delaminated MXenes, including mono-transition metal MXenes, in-plane ordered double-transition metal MXenes, in-plane ordered metal-divacancy MXenes, and out-of-plane ordered double-transition-metal MXenes. For each structure, we calculated formation and decomposition Gibbs energies, decomposition products, layer symmetry groups, and energies above the hull. We find that all MXenes are thermodynamically inaccessible under equilibrium conditions. However, 115 predominantly carbide MXenes become thermodynamically stabilized at elevated temperatures (500--2000 K), and 23 are stabilized under high pressure (10 GPa). Additionally, three MXenes in the Mn--Fe--C chemical space are stabilized within an experimentally feasible range of carbon chemical potentials. These findings reveal stability trends across the MXene space and identify synthesis strategies that can guide experimental efforts. Our dataset provides a robust foundation for developing machine-learned stability descriptors and for guiding experimental efforts toward novel MXene discovery. By identifying synthesizable candidates along with their synthesis conditions, this work bridges a critical gap in data-driven approaches to MXene discovery and lays the foundation for future autonomous experimental workflows.",
   "authors": [
@@ -6157,6 +6480,7 @@
   ],
   "title": "Distilling an atomistic foundation model is all you need for large-scale molecular dynamics of semiconductor interfaces",
   "topics": [
+   "Generative Design & Molecule Optimization",
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-11-11"
@@ -6337,6 +6661,7 @@
   ],
   "title": "Expanding the Decision Space of Pretrained Models through Structured Re-Decoding",
   "topics": [
+   "Generative Design & Molecule Optimization",
    "Protein & Biomolecules"
   ],
   "updated": "2026-11-11"
@@ -6363,6 +6688,7 @@
   ],
   "title": "High-Throughput Surface Screening Reveals Energetically Competitive Low-Symmetry Facets in Wurtzite Semiconductors",
   "topics": [
+   "Generative Design & Molecule Optimization",
    "Quantum Chemistry & Force Fields"
   ],
   "updated": "2026-11-11"
@@ -6499,7 +6825,9 @@
   ],
   "title": "Materials research with a general-purpose agent",
   "topics": [
-   "Molecular Representation & Learning"
+   "Generative Design & Molecule Optimization",
+   "Molecular Representation & Learning",
+   "Reaction, Synthesis & Catalysis"
   ],
   "updated": "2026-11-11"
  },
@@ -6728,6 +7056,55 @@
   ],
   "updated": "2026-11-11"
  },
+ "2611.15834": {
+  "abstract": "Generated touch could extend robot learning beyond recorded contacts. A tactile generator needs a latent space, and we choose one by testing whether a material classifier trained on real GelSight presses still works on encode-decode reconstructions from pretrained image models. On ObjectFolder Real, the classifier loses 6.5 to 9.7 points on reconstructions from three 16x discrete tokenizers and 0.3 points on those from the Stable Diffusion VAE (SD-VAE). The 16x tokenizers again lose far more on Touch and Go and on DIGIT object recognition (YCB-Slide). Retraining the classifier on reconstructions, with no new labels, narrows the discrete gap. SD-VAE reconstructions also keep object identity, with 76.7% object-matching accuracy against 78.9% for real touch and 67.0% for MAGVIT-v2. We therefore select SD-VAE latents and show a photo-to-touch generator trained in them. Code will be released upon acceptance.",
+  "authors": [
+   "Wanghao Ye",
+   "Aarosh Das",
+   "Sihan Chen",
+   "Yiting Wang",
+   "Bowei Tian",
+   "Guoheng Sun",
+   "Shwai He",
+   "Zheyu Shen",
+   "Ziyao Wang",
+   "Yexiao He",
+   "Zhaoyi Liu",
+   "Meng Liu",
+   "Yuning Zhang",
+   "Meng Feng",
+   "Ziyi Wang",
+   "Yilong Dai",
+   "Yifei Dong",
+   "Siyuan Peng",
+   "Zhenle Duan",
+   "Joshua Liu",
+   "Lang Xiong",
+   "Daeun Jung",
+   "Aditya Sarkar",
+   "Parastoo Pilevar",
+   "Xiaochuan Gong",
+   "Yancheng Zhu",
+   "Yingying Fan",
+   "Qiong Wang",
+   "Ang Li"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.RO"
+  ],
+  "comment": "13 pages, 8 figures, 10 tables",
+  "first_author": "Wanghao Ye",
+  "pdf_url": "http://arxiv.org/pdf/2611.15834",
+  "primary_category": "cs.CV",
+  "published": "2026-11-11",
+  "tags": [],
+  "title": "Where to Generate Touch: Do Image Latents Preserve Material Recognition?",
+  "topics": [
+   "Generative Design & Molecule Optimization"
+  ],
+  "updated": "2026-11-11"
+ },
  "2611.15911": {
   "abstract": "Frontier large language models (LLMs) deliver the strongest response quality but carry per-token prices often more than an order of magnitude above those of smaller, task-adequate models. Smart model routing addresses this mismatch by assigning each query to the cheapest model expected to answer it adequately, rather than sending every request to the most capable, most expensive endpoint. This paper develops a formal cost-quality optimization framework for routing -- including a derived optimal threshold-policy structure, a calibration-versus-discrimination distinction, a cascade breakeven condition, and a sensitivity analysis over price ratio and traffic skew -- situates that framework against the principal routing architectures and the signals used to estimate query difficulty, and works through a numerical example showing how a calibrated router can reduce blended inference cost by roughly an order of magnitude relative to an always-frontier deployment under specific, stated pricing and traffic assumptions, reporting both the gross reduction from routing policy alone and the net figure with the router's own overhead priced in. We situate this figure against the range reported by published routing systems (roughly 2x to frontier-level accuracy at one-fifth the cost), and close with the practical risks -- under- and over-routing, aggregate quality constraints masking segment-level harm, calibration without discrimination, calibration drift, prompt injection into routing signals, and operational failures such as tier outages and multi-provider price variation -- that determine whether the savings materialize in production. The analysis is primarily analytical, complemented by a GSM8K evaluation of the cascade framework (Section 5), validated (Section 5.2); extending the evaluation across tasks and model families is future work.",
   "authors": [
@@ -6788,6 +7165,35 @@
   ],
   "updated": "2026-11-11"
  },
+ "2611.15939": {
+  "abstract": "Modern machine learning potentials (MLPs) enable large-scale atomistic simulations at unprecedented accuracy. The incorporation of explicit physical interactions such as long-range electrostatics has continuously broadened their applicability to increasingly complex systems in chemistry and materials science. Extending MLPs to electrochemistry and electrocatalysis, however, is still challenging as it requires the consideration of electrode potentials and electric fields in the atomic interactions. Such approaches have emerged only recently, and although the field is evolving rapidly, further conceptual advances are still needed for carrying out reliable simulations at finite temperature under applied potential. In this review, we provide a comprehensive overview about recent progress in the atomistic simulation of electrified interfaces using MLPs. Current developments fall into three different categories. The first comprises linear response models that describe polarisation, polarisability, and Born effective charges, extending conventional MLPs to finite electric fields. The second includes methods that directly learn a field-dependent potential energy surface. The third consists of a series of hybrid approaches combining classical models with machine learning. Although still under active development, these methods represent a major step toward more realistic simulations approaching the quality of electronic structure calculations. Finally, we discuss open challenges and possible future directions for advancing MLP-based simulations aiming for a bottom-up understanding of atomistic processes at electrified interfaces.",
+  "authors": [
+   "Marialore Sulpizi",
+   "Jörg Behler"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "23 pages, 2 figures",
+  "first_author": "Marialore Sulpizi",
+  "pdf_url": "http://arxiv.org/pdf/2611.15939",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-11",
+  "tags": [
+   "dft",
+   "electrocatalysis",
+   "electronic-structure",
+   "free-energy",
+   "materials-science",
+   "mlip"
+  ],
+  "title": "Atomistic simulations of electrochemical systems with machine learning potentials",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-11-11"
+ },
  "2611.16016": {
   "abstract": "Discovering new materials with targeted properties is a central goal of materials science, yet the space of candidates is vast. Data-driven generative models learn the distribution of known materials, but they extrapolate poorly, and a generated structure is not known to be stable. A material's properties follow from its Hamiltonian, and a quantum computer can calculate them from it. We introduce the quantum material generative algorithm (QMage), a coherent search, guided by the Hamiltonian, over crystalline configurations of atomic composition, unit cell structure, and atomic positions, for one whose calculated properties meet the targets to within a given error tolerance. The computation is a single coherent quantum circuit in which each configuration's Hamiltonian is block-encoded, its target eigenstate isolated and properties evaluated, and the satisfying configurations amplified by fixed-point search and measured. One framework covers many targets, from formation energy and band gaps to elasticity and conductivity. We design the algorithm for the mature fault-tolerant era and estimate its cost in logical qubits and Toffoli depth from a classically routine benchmark to targets where established methods are unreliable. The approach generates candidate materials from first principles, rather than generalizing from those known, and could enable materials discovery when the target properties are difficult to predict classically.",
   "authors": [
@@ -6811,6 +7217,7 @@
   ],
   "title": "Quantum Material Generation via Coherent Hamiltonian Search",
   "topics": [
+   "Generative Design & Molecule Optimization",
    "Large Language Models & Materials"
   ],
   "updated": "2026-11-11"
@@ -7107,6 +7514,37 @@
   ],
   "updated": "2026-11-12"
  },
+ "2611.16587": {
+  "abstract": "Nanoparticles have attracted considerable attention owing to their broad range of applications. Surface functionalization further expands their functionality, making them useful in fields such as biomedicine, catalysis, sensing, and environmental remediation. In such applications, nanoparticles may form clusters through aggregation under high ionic-strength conditions, while biologically derived nanoparticles can be intrinsically heterogeneous in size. In this study, we apply small-angle neutron scattering (SANS) and small-angle X-ray scattering (SAXS) to nanoparticles and use Bayesian inference to analyze their heterogeneous particle-size distributions. Because SAXS and SANS probe the wavevector dependence of the static scattering intensity, they can sensitively resolve two distinct particle sizes even when a small fraction (< 10%) of larger particles is mixed with smaller particles. We construct multimodal particle-size distribution models within a Bayesian framework and demonstrate the importance of model selection for accurately estimating heterogeneous particle-size distributions. This approach should be broadly applicable to nanoparticle characterization across a wide range of applications.",
+  "authors": [
+   "Songhao Yin",
+   "Yushiro Mori",
+   "Yui Hayashi",
+   "Zuolin Meng",
+   "Lester Canque Geonzon",
+   "Hiroyoshi Nakano",
+   "Hiroshi Noguchi",
+   "Masato Okada",
+   "Koichi Mayumi",
+   "Kumiko Hayashi"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "20 pages, 4 figures",
+  "first_author": "Songhao Yin",
+  "pdf_url": "http://arxiv.org/pdf/2611.16587",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-12",
+  "tags": [
+   "catalysis"
+  ],
+  "title": "Small-angle scattering reveals heterogeneous nanoparticle size distributions through Bayesian inference",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
+  ],
+  "updated": "2026-11-12"
+ },
  "2611.16605": {
   "abstract": "In Born-Oppenheimer (BO) dynamics, auxiliary variables such as electron densities, induced polarization and electrode charges follow stationarity conditions, yet their time derivatives, such as currents, are physical observables. Using Mass-Zero constrained dynamics, we interpret these derivatives as explicit dynamical variables and derive the invariant measure giving their equilibrium statistical properties. We illustrate the framework in constant-potential molecular dynamics, where the electrode-charge velocities reproduce BO current fluctuations and the frequency-dependent admittance.",
   "authors": [
@@ -7176,6 +7614,28 @@
   "title": "Systematic Evaluation of Training Data Generation Strategies for Machine Learning-Based Molecular and Materials Property Prediction",
   "topics": [
    "Quantum Chemistry & Force Fields"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.16827": {
+  "abstract": "We construct a unified effective mass relation in which a common reduced-mass function describes the flavor dependence of chromoelectric pair contributions, with explicit color factors connecting $q\\bar q$ and $qq$ pairs. After subtracting fixed spin-weighted chromomagnetic contributions, we jointly fit fourteen spin-averaged meson and baryon masses using constituent quark masses and an additive constant shared by both sectors, obtaining a root-mean-square (RMS) residual of 4 MeV. The fitted saturating form connects the nearly saturated light-flavor contribution with increasing attraction in the heavy-flavor region. In the common saturation limit, the leading chromoelectric contribution acts as a common mass shift for each constituent and can be absorbed into effective constituent masses; the residual pair term accounts for the flavor dependence away from saturation. With the chromomagnetic interaction included, this single parameter set reproduces the ground-state meson and baryon spectra and yields predictions for multiply heavy baryons outside the calibration set. By diagonalizing the sum of the chromoelectric and chromomagnetic mass matrices, we further obtain the ground-state spectra of $cc\\bar c\\bar c$, $bb\\bar b\\bar b$, and $bc\\bar b\\bar c$. The fully charmed tensor mass is ${6505}{(9)(9)}$ MeV, close to recent lattice QCD results, while the upper scalar mass of {${6562}{(9)(12)}$} MeV lies in the mass region near $X(6600)$. The tetraquark masses remain relatively stable under the examined variations of the $qq$ chromomagnetic couplings. The relative $S$-wave rearrangement-decay weights obtained from color--spin recoupling can be used to identify favored decay channels under the stated spatial-overlap approximation.",
+  "authors": [
+   "Wen-Nian Liu",
+   "Duo-Jie Jia",
+   "Fu-Quan Dou"
+  ],
+  "categories": [
+   "hep-ph"
+  ],
+  "comment": null,
+  "first_author": "Wen-Nian Liu",
+  "pdf_url": "http://arxiv.org/pdf/2611.16827",
+  "primary_category": "hep-ph",
+  "published": "2026-11-12",
+  "tags": [],
+  "title": "A unified reduced-mass parametrization of effective chromoelectric interactions in hadrons",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
   ],
   "updated": "2026-11-12"
  },
@@ -7451,6 +7911,27 @@
   "title": "Programming Quantum Circuit Parameters with Large Language Models",
   "topics": [
    "Large Language Models & Materials"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.17253": {
+  "abstract": "In the massless limit a fermion scattering on the minimal $SU(5)$ monopole in the lowest partial wave produces an outgoing state with half-integer fermion number in every flavour. This state lives in a twisted sector of the Hilbert space and is now understood as an ordinary fermion attached to a topological line running back to the monopole. In the Standard Model fermion masses and confinement destroy the line at distances greater than the inverse mass scales, causing the twisted state to decay into physical asymptotic states with integer fermion numbers. We study this decay for an incoming lepton or quark of one generation. The cross-section in this partial wave saturates the unitarity bound, $σ=π/p^2$, and the energy of the outgoing state is shared among the four fermion flavours with a broad Dirichlet distribution, which sets the thresholds and the kinematics. Conservation laws allow exactly two decay channels for each incoming fermion, the helicity flip and its $(B+L)$-violating partner. For an incoming electron the $(B+L)$-violating channel is anti-nucleon synthesis, and we determine the branching ratios in two limits: the two channels are equally likely at high energy, and only the helicity flip remains at low energy, below the anti-nucleon threshold. In between we model the energy dependence. For a quark in a slow proton the $(B+L)$-violating channel is catalysed proton decay, which has no threshold and occurs with a probability close to one. Callan's statistical interpretation of the fractional state emerges in a sharper form: the state is not a superposition of two final states with equal weights, but a single state that decays into them with energy-dependent probabilities, equal only at high energy.",
+  "authors": [
+   "Valentin V. Khoze"
+  ],
+  "categories": [
+   "hep-ph",
+   "hep-th"
+  ],
+  "comment": "28 pages",
+  "first_author": "Valentin V. Khoze",
+  "pdf_url": "http://arxiv.org/pdf/2611.17253",
+  "primary_category": "hep-ph",
+  "published": "2026-11-12",
+  "tags": [],
+  "title": "Monopole catalysis with massive fermions: the fate of the twisted sector",
+  "topics": [
+   "Reaction, Synthesis & Catalysis"
   ],
   "updated": "2026-11-12"
  },

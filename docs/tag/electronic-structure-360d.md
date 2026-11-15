@@ -34,6 +34,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2611.15631">2611.15631</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15939.html">Atomistic simulations of electrochemical systems with machine learning potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Marialore Sulpizi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15939">2611.15939</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12018.html">Extending the reach of real-space real-time TDDFT: new developments in the Octopus code</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Nicolas Tancogne-Dejean et al.</td>
@@ -2780,11 +2786,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17403.html">Momentum-Resolved Electronic Structure and Orbital Hybridization in the Layered Antiferromagnet CrPS$_4$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Lasse Sternemann et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17403">2511.17403</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15486.html">Evolution of correlated electronic states of La2NiO4 under hydrostatic pressure</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Shu-Hong Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15486">2511.15486</a></td>
 </tr>
 </tbody></table>

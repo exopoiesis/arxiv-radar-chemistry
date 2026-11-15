@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,6 +38,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15664.html">Brute-force molecular dynamics simulation of aging in amorphous Ge$_2$Sb$_2$Te$_5$</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Elisa Petroni et al.</td>
 <td><a href="http://arxiv.org/abs/2611.15664">2611.15664</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15939.html">Atomistic simulations of electrochemical systems with machine learning potentials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
+<td>Marialore Sulpizi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15939">2611.15939</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-10</td>
@@ -332,17 +338,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23776.html">Active Learning for Interatomic Potentials: A Review of Uncertainty-Driven Data Efficiency</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Ilya V. Chepkasov et al.</td>
 <td><a href="http://arxiv.org/abs/2610.23776">2610.23776</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21205.html">A machine-learning-driven dataset of 144,111 polycyclic aromatic hydrocarbon infrared spectra for interpreting aromatic infrared bands</a></div><div class="paper-tags"><a href="chemical-space-30d.html">chemical-space</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Xinghong Mai et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21205">2610.21205</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21771.html">Hierarchical universal open structure dataset for atomistic modeling</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Sofiia Chorna et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21771">2610.21771</a></td>
 </tr>
 </tbody></table>

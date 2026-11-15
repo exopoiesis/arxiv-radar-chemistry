@@ -29,6 +29,12 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15939.html">Atomistic simulations of electrochemical systems with machine learning potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Marialore Sulpizi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15939">2611.15939</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16016.html">Quantum Material Generation via Coherent Hamiltonian Search</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Jiang Yuhan et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16016">2611.16016</a></td>
@@ -38,6 +44,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12010.html">Scalable Bayesian Optimization for Efficient Exploration of Moire Patterns</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
 <td>Panagiotis Krokidas et al.</td>
 <td><a href="http://arxiv.org/abs/2611.12010">2611.12010</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12762.html">Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery</a></div><div class="paper-tags"><a href="photocatalysis-360d.html">photocatalysis</a></div></td>
+<td>Weida Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12762">2611.12762</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-09</td>
@@ -1934,17 +1946,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14366.html">ATLAS: A High-Difficulty, Multidisciplinary Benchmark for Frontier Scientific Reasoning</a></div></td>
 <td>Hongwei Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14366">2511.14366</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19882.html">Design Rules for Optimizing Quaternary Mixed-Metal Chalcohalides</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Pascal Henkel et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19882">2505.19882</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15222.html">Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="gnn-360d.html">gnn</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Pol Benítez et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15222">2511.15222</a></td>
 </tr>
 </tbody></table>

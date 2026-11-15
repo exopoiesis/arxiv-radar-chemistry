@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16587.html">Small-angle scattering reveals heterogeneous nanoparticle size distributions through Bayesian inference</a></div></td>
+<td>Songhao Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16587">2611.16587</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13536.html">Adaptive catalyst discovery emerges from composable scientific intelligence</a></div><div class="paper-tags"><a href="photocatalysis-90d.html">photocatalysis</a></div></td>
+<td>Wentao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13536">2611.13536</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14652.html">The memory cost of sequential quantum state preparation</a></div></td>
+<td>Jian Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14652">2611.14652</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12735.html">Catalysis-induced phase separation of enzymes via diffusivity contrast</a></div></td>
+<td>Marie Jardat et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12735">2611.12735</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09377.html">KineCouple: Substrate-conditioned residual readout for enzyme kinetic prediction</a></div></td>
@@ -404,17 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17149.html">Temperature-Induced Reorganization of Supported Zn$_3$ Clusters on Cu(111): From Minimum-Energy Structures to Finite-Temperature Ensembles</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Jiayan Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17149">2608.17149</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15543.html">Hydrogen (deuterium) dynamics and thermal stability in ion-irradiated platinum-hydride thin films synthesized at low temperature</a></div></td>
-<td>S. S. Das et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15543">2608.15543</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15781.html">Gas-generating reactive flows in bicontinuous catalyst support structures</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>J. M. P. Beunen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15781">2608.15781</a></td>
 </tr>
 </tbody></table>

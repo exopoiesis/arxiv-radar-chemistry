@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">474 papers</span>
+  <span class="paper-count">473 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,6 +74,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15786.html">Evidential Deep Regression for Universal Density Functional Theory Hamiltonian Models</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Jiaxuan Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.15786">2611.15786</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15939.html">Atomistic simulations of electrochemical systems with machine learning potentials</a></div><div class="paper-tags"><a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Marialore Sulpizi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15939">2611.15939</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -2846,17 +2852,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16652.html">A nuclear-quantum-corrected machine-learning potential reveals quantum-enhanced hydrogen segregation at general grain boundaries in alpha-iron</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Kazuma Ito</td>
 <td><a href="http://arxiv.org/abs/2608.16652">2608.16652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15765.html">Design of altermagnetism in oxide superlattices exploiting interface effects and quantum confinement</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a></div></td>
-<td>Subhadeep Bandyopadhyay et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15765">2608.15765</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15882.html">Rare-earth chalcogenide perovskites: A promising class of materials for optoelectronic applications</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Surajit Adhikari et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15882">2608.15882</a></td>
 </tr>
 </tbody></table>

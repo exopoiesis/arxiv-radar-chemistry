@@ -40,6 +40,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2611.15664">2611.15664</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15939.html">Atomistic simulations of electrochemical systems with machine learning potentials</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
+<td>Marialore Sulpizi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15939">2611.15939</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13611.html">How anion composition governs structural frameworks and Li-ion transport in oxychloride solid-state electrolytes</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="crystal-structure-7d.html">crystal-structure</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="structure-prediction-7d.html">structure-prediction</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
 <td>Jiho Lee et al.</td>
@@ -86,11 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11256.html">Engineering ferroelectric nanocapacitors through interfacial phonon bias</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="crystal-structure-7d.html">crystal-structure</a></div></td>
 <td>Iñigo Robredo-Magro et al.</td>
 <td><a href="http://arxiv.org/abs/2611.11256">2611.11256</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10517.html">Spatiotemporal Energy Consistency Enables Reliable Coarse-Grained Molecular Dynamics from Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Yang Nie et al.</td>
-<td><a href="http://arxiv.org/abs/2611.10517">2611.10517</a></td>
 </tr>
 </tbody></table>

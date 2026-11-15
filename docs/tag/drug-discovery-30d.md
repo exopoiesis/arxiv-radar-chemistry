@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13398.html">The Dose Makes the Poison: Exposure-Aware Evaluation of Generative Drug Design</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
 <td>Maria Franz et al.</td>
 <td><a href="http://arxiv.org/abs/2611.13398">2611.13398</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14179.html">Quantum-Enhanced QSAR for DYRK1A: Evaluating Complementary and Utility QPU-Derived Molecular Representations</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a></div></td>
+<td>Alejandro Giraldo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14179">2611.14179</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-10</td>

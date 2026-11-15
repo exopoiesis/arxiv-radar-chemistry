@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-science — 90d</h1>
-  <span class="paper-count">59 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <strong>90d</strong> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -29,6 +29,12 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15939.html">Atomistic simulations of electrochemical systems with machine learning potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electrocatalysis-90d.html">electrocatalysis</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Marialore Sulpizi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15939">2611.15939</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16016.html">Quantum Material Generation via Coherent Hamiltonian Search</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Jiang Yuhan et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16016">2611.16016</a></td>
@@ -38,6 +44,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12010.html">Scalable Bayesian Optimization for Efficient Exploration of Moire Patterns</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
 <td>Panagiotis Krokidas et al.</td>
 <td><a href="http://arxiv.org/abs/2611.12010">2611.12010</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12762.html">Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery</a></div><div class="paper-tags"><a href="photocatalysis-90d.html">photocatalysis</a></div></td>
+<td>Weida Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.12762">2611.12762</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-09</td>

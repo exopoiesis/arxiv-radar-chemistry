@@ -5,9 +5,9 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-11-14._
+_Updated 2026-11-15._
 
-**16558** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**16571** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -76,6 +76,12 @@ _Updated 2026-11-14._
 </tr>
 <tr class="paper">
 <td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.16587.html">Small-angle scattering reveals heterogeneous nanoparticle size distributions through Bayesian inference</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a></div></td>
+<td>Songhao Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16587">2611.16587</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.16605.html">Dynamics and Statistical Mechanics of Born-Oppenheimer Auxiliary Velocities</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Paula Sierra et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16605">2611.16605</a></td>
@@ -91,6 +97,12 @@ _Updated 2026-11-14._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.16792.html">Systematic Evaluation of Training Data Generation Strategies for Machine Learning-Based Molecular and Materials Property Prediction</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a> · <a href="tag/property-prediction-30d.html">property-prediction</a></div></td>
 <td>Minh Nghia Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16792">2611.16792</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.16827.html">A unified reduced-mass parametrization of effective chromoelectric interactions in hadrons</a></div></td>
+<td>Wen-Nian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16827">2611.16827</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-12</td>
@@ -160,6 +172,12 @@ _Updated 2026-11-14._
 </tr>
 <tr class="paper">
 <td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17253.html">Monopole catalysis with massive fermions: the fate of the twisted sector</a></div></td>
+<td>Valentin V. Khoze</td>
+<td><a href="http://arxiv.org/abs/2611.17253">2611.17253</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17283.html">SiC-BN composites with extreme thermal and environmental stability</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Abhijit Biswas et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17283">2611.17283</a></td>
@@ -175,23 +193,5 @@ _Updated 2026-11-14._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.13651.html">DrugCoding: A Scientific Programming Agent for Drug Discovery</a></div><div class="paper-tags"><a href="tag/drug-discovery-30d.html">drug-discovery</a> · <a href="tag/property-prediction-30d.html">property-prediction</a></div></td>
 <td>Junwei Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.13651">2611.13651</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.14948.html">Distilling an atomistic foundation model is all you need for large-scale molecular dynamics of semiconductor interfaces</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Feiyu Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2611.14948">2611.14948</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.14956.html">Binding Mode Matters: Hotspot-Aware Drug Discovery via Explorative Preferences</a></div><div class="paper-tags"><a href="tag/drug-discovery-30d.html">drug-discovery</a> · <a href="tag/protein-ligand-30d.html">protein-ligand</a> · <a href="tag/reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
-<td>Dingshuo Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2611.14956">2611.14956</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.14957.html">Improving Nonequilibrium Thermal Conduction in CaF2 by Breaking the Phonon Bottleneck Effect</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Mingde Qu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.14957">2611.14957</a></td>
 </tr>
 </tbody></table>

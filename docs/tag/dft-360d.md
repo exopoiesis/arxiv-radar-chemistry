@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2015 papers</span>
+  <span class="paper-count">2011 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,6 +74,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15786.html">Evidential Deep Regression for Universal Density Functional Theory Hamiltonian Models</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Jiaxuan Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.15786">2611.15786</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15939.html">Atomistic simulations of electrochemical systems with machine learning potentials</a></div><div class="paper-tags"><a href="electrocatalysis-360d.html">electrocatalysis</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Marialore Sulpizi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15939">2611.15939</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -12074,35 +12080,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22722.html">Stability and Structure of Binary Metal Hydrides under Pressure, Electrochemical Potential and Combined Pressure-Electrochemistry</a></div></td>
 <td>Mgcini Keith Phuthi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.22722">2509.22722</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19882.html">Design Rules for Optimizing Quaternary Mixed-Metal Chalcohalides</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Pascal Henkel et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19882">2505.19882</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15040.html">Exploring highly-deformed ground states involving the second intruder orbit in Z&gt;50 even-even nuclei</a></div></td>
-<td>Tsunenori Inakura et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15040">2511.15040</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15101.html">Anisotropic in-plane lattice thermal conductivity in bilayer ReS2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Ashutosh Srivastava et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15101">2511.15101</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15385.html">Resolving the PREX-CREX puzzle in covariant density functional theory</a></div></td>
-<td>Mengying Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15385">2511.15385</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15486.html">Evolution of correlated electronic states of La2NiO4 under hydrostatic pressure</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Shu-Hong Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15486">2511.15486</a></td>
 </tr>
 </tbody></table>

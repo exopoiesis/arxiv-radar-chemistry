@@ -35,6 +35,12 @@ current_window: 7d
 </tr>
 <tr class="paper">
 <td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14179.html">Quantum-Enhanced QSAR for DYRK1A: Evaluating Complementary and Utility QPU-Derived Molecular Representations</a></div><div class="paper-tags"><a href="molecular-representation-7d.html">molecular-representation</a></div></td>
+<td>Alejandro Giraldo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14179">2611.14179</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14287.html">ANTIOCH-VS: From Sequence to Hits with Modular, Open-Source Ensemble Virtual Screening</a></div><div class="paper-tags"><a href="metadynamics-7d.html">metadynamics</a></div></td>
 <td>Hale S. Hasdemir et al.</td>
 <td><a href="http://arxiv.org/abs/2611.14287">2611.14287</a></td>
@@ -56,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11997.html">HyInv Technical Report</a></div><div class="paper-tags"><a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
 <td>Haowei Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2611.11997">2611.11997</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10424.html">Efficient and Accurate Zero Shot Generation of Symmetric Protein Complexes</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a> · <a href="materials-science-7d.html">materials-science</a> · <a href="protein-structure-7d.html">protein-structure</a></div></td>
-<td>Rory Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2611.10424">2611.10424</a></td>
 </tr>
 </tbody></table>

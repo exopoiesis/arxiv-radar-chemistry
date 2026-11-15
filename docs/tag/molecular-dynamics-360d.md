@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1554 papers</span>
+  <span class="paper-count">1550 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9314,29 +9314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16833.html">Glassy polymers&#x27; strain-hardening moduli scale with their statistical-segment volumes</a></div></td>
 <td>Robert S. Hoy</td>
 <td><a href="http://arxiv.org/abs/2511.16833">2511.16833</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08662.html">A Local-Phase Framework for the BaTi_{1-x}Zr_xO_3$ Phase Diagram: From Ferroelectricity to Dipolar Glass</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>M. Sepliarsky et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08662">2509.08662</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13045.html">Structural effects of boron doping in diamond crystals for gamma-ray light-source applications: Insights from molecular dynamics simulations</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Matthew D. Dickers et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13045">2509.13045</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14261.html">Molecular dynamics simulations reveal internal tension in native state collagen fibrils</a></div></td>
-<td>Alan Pichard et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14261">2511.14261</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15514.html">Revealing the Atomistic Mechanism of Rare Events in Molecular Dynamics</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a></div></td>
-<td>Jakob J. Kresse et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15514">2511.15514</a></td>
 </tr>
 </tbody></table>

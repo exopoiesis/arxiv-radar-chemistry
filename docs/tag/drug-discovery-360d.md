@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">473 papers</span>
+  <span class="paper-count">471 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13398.html">The Dose Makes the Poison: Exposure-Aware Evaluation of Generative Drug Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Maria Franz et al.</td>
 <td><a href="http://arxiv.org/abs/2611.13398">2611.13398</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14179.html">Quantum-Enhanced QSAR for DYRK1A: Evaluating Complementary and Utility QPU-Derived Molecular Representations</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
+<td>Alejandro Giraldo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14179">2611.14179</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-10</td>
@@ -2834,23 +2840,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02033.html">CONFIDE: Hallucination Assessment for Reliable Biomolecular Structure Prediction and Design</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Zijun Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2512.02033">2512.02033</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15906.html">Unified all-atom molecule generation with neural fields</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Matthieu Kirchmeyer et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15906">2511.15906</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02030.html">Generative design and validation of therapeutic peptides for glioblastoma based on a potential target ATP5A</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Hao Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02030">2512.02030</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02031.html">Pharmacophore-based design by learning on voxel grids</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Omar Mahmood et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02031">2512.02031</a></td>
 </tr>
 </tbody></table>

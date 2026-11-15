@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>electrocatalysis — all</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <a href="electrocatalysis-90d.html">90d</a> <a href="electrocatalysis-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15939.html">Atomistic simulations of electrochemical systems with machine learning potentials</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="free-energy-all.html">free-energy</a> · <a href="materials-science-all.html">materials-science</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Marialore Sulpizi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15939">2611.15939</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12591.html">TRACE: Adaptive Trust-Region Bayesian Optimization for Open-Ended Molecular Design</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="dft-all.html">dft</a> · <a href="molecular-generation-all.html">molecular-generation</a> · <a href="molecular-representation-all.html">molecular-representation</a></div></td>

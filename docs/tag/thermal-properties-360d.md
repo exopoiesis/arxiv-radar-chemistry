@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">279 papers</span>
+  <span class="paper-count">277 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1676,17 +1676,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18477.html">Electron-Phonon interaction and lattice thermal conductivity from metals to 2D Dirac crystals: a review</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Sina Kazemian et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18477">2508.18477</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13045.html">Structural effects of boron doping in diamond crystals for gamma-ray light-source applications: Insights from molecular dynamics simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Matthew D. Dickers et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13045">2509.13045</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15101.html">Anisotropic in-plane lattice thermal conductivity in bilayer ReS2</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Ashutosh Srivastava et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15101">2511.15101</a></td>
 </tr>
 </tbody></table>

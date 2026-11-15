@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>electronic-structure — 30d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <strong>30d</strong> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15631.html">Cation-intermixing driven evolution from a narrow avoided crossing to an enlarged inverted gap in Ge$_2$Bi$_2$Te$_5$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
 <td>Alexander S. Frolov et al.</td>
 <td><a href="http://arxiv.org/abs/2611.15631">2611.15631</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15939.html">Atomistic simulations of electrochemical systems with machine learning potentials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Marialore Sulpizi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15939">2611.15939</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-09</td>
@@ -182,17 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23375.html">Termination-dependent surface Fermiology in the intercalated altermagnet CoNb$_4$Se$_8$</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Pietro Maria Forcella et al.</td>
 <td><a href="http://arxiv.org/abs/2610.23375">2610.23375</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21683.html">Novel high-pressure silicon allotrope with quartz topology from first principles</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Samir F. Matar et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21683">2610.21683</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22284.html">Adding Temperature to the Adiabatic Connection: Hybrid Functionals for Static and Dynamic Correlation</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Florian Matz et al.</td>
-<td><a href="http://arxiv.org/abs/2610.22284">2610.22284</a></td>
 </tr>
 </tbody></table>

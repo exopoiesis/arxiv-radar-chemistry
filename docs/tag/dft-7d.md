@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,6 +74,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15786.html">Evidential Deep Regression for Universal Density Functional Theory Hamiltonian Models</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
 <td>Jiaxuan Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.15786">2611.15786</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15939.html">Atomistic simulations of electrochemical systems with machine learning potentials</a></div><div class="paper-tags"><a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="materials-science-7d.html">materials-science</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Marialore Sulpizi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15939">2611.15939</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -182,23 +188,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11276.html">Strain Controlled Hydrogen Interstitial Site Preference and Hydride Phase Suppression in Epitaxial Vanadium</a></div></td>
 <td>Xin Xiao</td>
 <td><a href="http://arxiv.org/abs/2611.11276">2611.11276</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10378.html">Can AI Agents Reliably Optimize Computational Chemistry Codes?</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Mathew Chow et al.</td>
-<td><a href="http://arxiv.org/abs/2611.10378">2611.10378</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10629.html">DFT-Agent Bench: Scaffold Effects and Execution Provenance in Autonomous DFT</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>Shijie Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.10629">2611.10629</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10889.html">A data-driven approach for systematic correction of electronic bandgaps</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
-<td>Pamela C. Carvalho et al.</td>
-<td><a href="http://arxiv.org/abs/2611.10889">2611.10889</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17548.html">Mechanism-Level Chemical Reaction Simulation with Electron Bookkeeping Transformer</a></div></td>
+<td>Sarah Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17548">2611.17548</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12013.html">Enhancing Multi-Step Chemical Mechanism Prediction with Graph-Guided Preference Data</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
 <td>Yu Zhang et al.</td>
@@ -176,11 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18940.html">Training Chemical Plausibility-Aware Large Language Models for Single-Step Retrosynthesis</a></div></td>
 <td>Bogdan Zagribelnyy et al.</td>
 <td><a href="http://arxiv.org/abs/2608.18940">2608.18940</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16111.html">RetroMPA: A Molecular Property-Aware Auxiliary Framework for Enhancing Retrosynthesis Prediction</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Mianzhi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16111">2608.16111</a></td>
 </tr>
 </tbody></table>

@@ -5,15 +5,27 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-11-15._
+_Updated 2026-11-16._
 
-**16571** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**16574** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17873.html">Holographic Butterfly Velocity and Heavy-Quark Drag in a Doubly Anisotropic Magnetized QGP</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Le Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17873">2611.17873</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.18217.html">The Rise of Zirconium Metal-Organic Polyhedra</a></div></td>
+<td>Joohan Nam et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18217">2611.18217</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.14462.html">Accurate predictions of properties of energetic materials with tabular foundation models</a></div><div class="paper-tags"><a href="tag/molecular-representation-30d.html">molecular-representation</a></div></td>
@@ -181,17 +193,5 @@ _Updated 2026-11-15._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17283.html">SiC-BN composites with extreme thermal and environmental stability</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Abhijit Biswas et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17283">2611.17283</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12491.html">Out-of-the-Box Tabular Foundation Models for Bayesian Optimization in Materials Discovery</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a> · <a href="tag/bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="tag/materials-discovery-30d.html">materials-discovery</a> · <a href="tag/materials-science-30d.html">materials-science</a></div></td>
-<td>Klemens Flöge et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12491">2611.12491</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.13651.html">DrugCoding: A Scientific Programming Agent for Drug Discovery</a></div><div class="paper-tags"><a href="tag/drug-discovery-30d.html">drug-discovery</a> · <a href="tag/property-prediction-30d.html">property-prediction</a></div></td>
-<td>Junwei Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.13651">2611.13651</a></td>
 </tr>
 </tbody></table>

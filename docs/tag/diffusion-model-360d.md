@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">417 papers</span>
+  <span class="paper-count">414 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2498,23 +2498,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17986.html">Plan-X: Instruct Video Generation via Semantic Planning</a></div><div class="paper-tags"><a href="multimodal-llm-360d.html">multimodal-llm</a></div></td>
 <td>Lun Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17986">2511.17986</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16287.html">Graph Diffusion Counterfactual Explanation</a></div></td>
-<td>David Bechtoldt et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16287">2511.16287</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16317.html">NaTex: Seamless Texture Generation as Latent Color Diffusion</a></div></td>
-<td>Zeqiang Lai et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16317">2511.16317</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16662.html">TriDiff-4D: Fast 4D Generation through Diffusion-based Triplane Re-posing</a></div></td>
-<td>Eddie Pokming Sheung et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16662">2511.16662</a></td>
 </tr>
 </tbody></table>

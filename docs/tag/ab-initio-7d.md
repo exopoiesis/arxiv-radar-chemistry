@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,29 +128,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12591.html">TRACE: Adaptive Trust-Region Bayesian Optimization for Open-Ended Molecular Design</a></div><div class="paper-tags"><a href="bayesian-optimization-7d.html">bayesian-optimization</a> · <a href="chemical-space-7d.html">chemical-space</a> · <a href="dft-7d.html">dft</a> · <a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="molecular-generation-7d.html">molecular-generation</a> · <a href="molecular-representation-7d.html">molecular-representation</a></div></td>
 <td>Madhav R. Muthyala et al.</td>
 <td><a href="http://arxiv.org/abs/2611.12591">2611.12591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11084.html">Towards large-scale ab initio Molecular Dynamics Simulation with Efficient Sampling-based Quantum Computing Algorithms</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Ankit Khandelwal et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11084">2611.11084</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11253.html">Effect of Correlation on the Pressure-Induced Insulator to Metal Transition in Complex Spin-Orbit Coupled Double Perovskite La$_2$CoIr$_{1-x}$Ti$_x$O$_6$</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Vineeta Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11253">2611.11253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11256.html">Engineering ferroelectric nanocapacitors through interfacial phonon bias</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Iñigo Robredo-Magro et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11256">2611.11256</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11478.html">Precise measurements of the 3H/3He charge form factor ratio and their impact on the 3H-3He charge radius difference</a></div></td>
-<td>L. Kurbany et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11478">2611.11478</a></td>
 </tr>
 </tbody></table>

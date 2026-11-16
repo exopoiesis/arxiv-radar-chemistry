@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">473 papers</span>
+  <span class="paper-count">466 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2810,47 +2810,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24925.html">Self-assembly and Electronic Properties of Graphyne and Graphdiyne Molecular Wires on Metallic Surfaces</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
 <td>Victor M. S. da Conceição et al.</td>
 <td><a href="http://arxiv.org/abs/2608.24925">2608.24925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16219.html">Non-Equilibrium Instantaneous Approximation and Dipole Forbidden d-d Transitions</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Marco Marino et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16219">2608.16219</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16232.html">Toward the Ultimate Limit: Elemental Metals in One Dimension</a></div><div class="paper-tags"><a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Mohammad Bagheri et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16232">2608.16232</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16247.html">Bond Disproportionation, Ligand Holes, and Persistent Spin Textures in Ag$_2$BiO$_3$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Atanu Paul et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16247">2608.16247</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16389.html">Assessing the Projector Augmented-Wave Method for Stopping Power Calculations</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Bryn Lloyd et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16389">2608.16389</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16427.html">Stability and optoelectronic properties of oligothiophene molecules confined in boron-nitride nanotubes : A many-body theoretical approach</a></div><div class="paper-tags"><a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Xavier Blase et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16427">2608.16427</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16611.html">Machine Learning-Accelerated Band-Edge Engineering of Pnictogen Chalcohalide Solid Solutions for Solar Energy Technologies</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Cibrán López et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16611">2608.16611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16652.html">A nuclear-quantum-corrected machine-learning potential reveals quantum-enhanced hydrogen segregation at general grain boundaries in alpha-iron</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Kazuma Ito</td>
-<td><a href="http://arxiv.org/abs/2608.16652">2608.16652</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -758,11 +758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17760.html">When Active Learning Fails, Uncalibrated Out of Distribution Uncertainty Quantification Might Be the Problem</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Ashley S. Dale et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17760">2511.17760</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19445.html">LOCAL: A Locality-based Active Learning Framework for Predicting the Stability of Dual-Atom Catalysts</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Yue Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2503.19445">2503.19445</a></td>
 </tr>
 </tbody></table>

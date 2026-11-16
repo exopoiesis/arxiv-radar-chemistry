@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">335 papers</span>
+  <span class="paper-count">332 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2006,23 +2006,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17753.html">$Δ$-ML Ensembles for Selecting Quantum Chemistry Methods to Compute Intermolecular Interactions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Austin M. Wallace et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17753">2511.17753</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16272.html">QASER: Breaking the Depth vs. Accuracy Trade-Off for Quantum Architecture Search</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Ioana Moflic et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16272">2511.16272</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16559.html">Reinforcement learning of quantum circuit architectures for molecular potential energy curves</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Maureen Krumtünger et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16559">2511.16559</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16641.html">Stabilizing Fractional Chern States in Twisted MoTe2: Multi-band Correlations via Non-perturbative Renormalization Group</a></div></td>
-<td>Run Hou et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16641">2511.16641</a></td>
 </tr>
 </tbody></table>

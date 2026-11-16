@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">511 papers</span>
+  <span class="paper-count">509 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3068,17 +3068,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16987.html">Giant Nonlinear Photon-Drag Currents in Centrosymmetric Moiré Bilayers</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Zhuocheng Lu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16987">2511.16987</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19445.html">LOCAL: A Locality-based Active Learning Framework for Predicting the Stability of Dual-Atom Catalysts</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Yue Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2503.19445">2503.19445</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18477.html">Electron-Phonon interaction and lattice thermal conductivity from metals to 2D Dirac crystals: a review</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Sina Kazemian et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18477">2508.18477</a></td>
 </tr>
 </tbody></table>

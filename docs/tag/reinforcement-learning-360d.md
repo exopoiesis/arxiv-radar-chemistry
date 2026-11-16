@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 360d</h1>
-  <span class="paper-count">169 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <strong>360d</strong> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,17 +1016,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17300.html">MolSight: Optical Chemical Structure Recognition with SMILES Pretraining, Multi-Granularity Learning and Reinforcement Learning</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
 <td>Wenrui Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17300">2511.17300</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16272.html">QASER: Breaking the Depth vs. Accuracy Trade-Off for Quantum Architecture Search</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Ioana Moflic et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16272">2511.16272</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16559.html">Reinforcement learning of quantum circuit architectures for molecular potential energy curves</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Maureen Krumtünger et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16559">2511.16559</a></td>
 </tr>
 </tbody></table>

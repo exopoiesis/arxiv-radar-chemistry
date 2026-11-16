@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2011 papers</span>
+  <span class="paper-count">2007 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12056,29 +12056,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17810.html">Unbiased molecular dynamics for the direct determination of catalytic reaction times : paving the way beyond transition state theory</a></div></td>
 <td>Thomas Pigeon et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17810">2511.17810</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19445.html">LOCAL: A Locality-based Active Learning Framework for Predicting the Stability of Dual-Atom Catalysts</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="active-learning-360d.html">active-learning</a></div></td>
-<td>Yue Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2503.19445">2503.19445</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.15375.html">Quadrupole Strength in Isobaric Triplets</a></div></td>
-<td>B. C. Backes et al.</td>
-<td><a href="http://arxiv.org/abs/2505.15375">2505.15375</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12448.html">Prediction of the aqueous redox properties of functionalized quinones using a new QM/MM variational formulation</a></div></td>
-<td>Maxime Labat et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12448">2506.12448</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22722.html">Stability and Structure of Binary Metal Hydrides under Pressure, Electrochemical Potential and Combined Pressure-Electrochemistry</a></div></td>
-<td>Mgcini Keith Phuthi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22722">2509.22722</a></td>
 </tr>
 </tbody></table>

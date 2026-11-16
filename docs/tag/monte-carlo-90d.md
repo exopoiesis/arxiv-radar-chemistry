@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,23 +422,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17381.html">Leveraging generative hallucination and biophysics-informed modeling for unified biomolecular sequence-structure co-design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
 <td>Xuefeng Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17381">2608.17381</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16594.html">CACSurv: Concordance-Aligned Comparative Learning with Large Language Models for Cancer Survival Prediction</a></div></td>
-<td>Tianqi Xiang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16594">2608.16594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16652.html">A nuclear-quantum-corrected machine-learning potential reveals quantum-enhanced hydrogen segregation at general grain boundaries in alpha-iron</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Kazuma Ito</td>
-<td><a href="http://arxiv.org/abs/2608.16652">2608.16652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17052.html">Accurate Charge Radius Measurement of $^{14}$C Confronts \textit{Ab Initio} Theory</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Kristian König et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17052">2608.17052</a></td>
 </tr>
 </tbody></table>

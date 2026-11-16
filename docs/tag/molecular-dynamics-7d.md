@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,23 +134,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13038.html">Point defects and primary radiation damage in Co-free Fe-Ni-Cr-Mn high-entropy alloys from molecular dynamics</a></div></td>
 <td>Ayobami Daramola et al.</td>
 <td><a href="http://arxiv.org/abs/2611.13038">2611.13038</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11084.html">Towards large-scale ab initio Molecular Dynamics Simulation with Efficient Sampling-based Quantum Computing Algorithms</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Ankit Khandelwal et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11084">2611.11084</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11302.html">A Rule That&#x27;s Made to be Broken? Reframing the Arrhenius Law for Ionic Transport</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a></div></td>
-<td>Vanessa K. Ward et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11302">2611.11302</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11702.html">Hydrogen Thermodiffusion in Tungsten: Trapped Hydrogen Distorts Heat of Transport Estimation from Total Concentration Profiles</a></div></td>
-<td>Ville Jantunen et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11702">2611.11702</a></td>
 </tr>
 </tbody></table>

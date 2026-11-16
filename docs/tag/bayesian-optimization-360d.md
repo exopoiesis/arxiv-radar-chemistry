@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 360d</h1>
-  <span class="paper-count">129 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -776,17 +776,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17078.html">Hash Collisions in Molecular Fingerprints: Effects on Property Prediction and Bayesian Optimization</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Walter Virany et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17078">2511.17078</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16022.html">Optimization of experimental parameters for laser-slowing and magneto-optical trapping of MgF molecules</a></div></td>
-<td>Dongkyu Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16022">2511.16022</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16230.html">When Less is More: A Story of Failing Bayesian Optimization Due to Additional Expert Knowledge</a></div></td>
-<td>Dorina Weichert et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16230">2511.16230</a></td>
 </tr>
 </tbody></table>

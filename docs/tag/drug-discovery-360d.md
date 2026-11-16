@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">471 papers</span>
+  <span class="paper-count">469 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2828,17 +2828,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17300.html">MolSight: Optical Chemical Structure Recognition with SMILES Pretraining, Multi-Granularity Learning and Reinforcement Learning</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Wenrui Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17300">2511.17300</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16087.html">AssayMatch: Learning to Select Data for Molecular Activity Models</a></div></td>
-<td>Vincent Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16087">2511.16087</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02033.html">CONFIDE: Hallucination Assessment for Reliable Biomolecular Structure Prediction and Design</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Zijun Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02033">2512.02033</a></td>
 </tr>
 </tbody></table>

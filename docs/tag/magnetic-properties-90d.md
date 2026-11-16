@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">65 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17873.html">Holographic Butterfly Velocity and Heavy-Quark Drag in a Doubly Anisotropic Magnetized QGP</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
+<td>Le Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17873">2611.17873</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15152.html">Kitaev Exchange and Altermagnetism in the Double Perovskite Sr$_2$CoTeO$_6$: An Ab Initio Study</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a></div></td>
@@ -398,17 +404,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17557.html">Multiple topological electronic and phononic quasiparticle excitations in hexagonal TTe (T=Hf, Zr &amp; Ti) crystals</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Prakash Pandey et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17557">2608.17557</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16247.html">Bond Disproportionation, Ligand Holes, and Persistent Spin Textures in Ag$_2$BiO$_3$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
-<td>Atanu Paul et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16247">2608.16247</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17200.html">Discovery of novel magnetic Y-Mn-B compounds via advanced machine learning guided framework</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Weiyi Xia et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17200">2608.17200</a></td>
 </tr>
 </tbody></table>

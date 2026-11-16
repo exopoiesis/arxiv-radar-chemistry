@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>magnetic-properties — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <strong>30d</strong> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17873.html">Holographic Butterfly Velocity and Heavy-Quark Drag in a Doubly Anisotropic Magnetized QGP</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a></div></td>
+<td>Le Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17873">2611.17873</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15152.html">Kitaev Exchange and Altermagnetism in the Double Perovskite Sr$_2$CoTeO$_6$: An Ab Initio Study</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a></div></td>

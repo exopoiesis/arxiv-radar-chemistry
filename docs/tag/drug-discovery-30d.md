@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,17 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24806.html">Aptamers as a sandbox for lab-in-the-loop agentic molecular discovery</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a></div></td>
 <td>Zachary Cutts et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24806">2610.24806</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24124.html">On the Selectivity of Generative Models in Structure-Based Drug Design</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Ella Miray Rajaonson et al.</td>
-<td><a href="http://arxiv.org/abs/2610.24124">2610.24124</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24199.html">Distillation, Self-Training, and the Fragility of Learned Chemical Reasoning</a></div><div class="paper-tags"><a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
-<td>Anagha Aneesh et al.</td>
-<td><a href="http://arxiv.org/abs/2610.24199">2610.24199</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>structure-prediction — 360d</h1>
-  <span class="paper-count">163 papers</span>
+  <span class="paper-count">162 papers</span>
   <nav class="window-nav"><a href="structure-prediction-7d.html">7d</a> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <strong>360d</strong> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -986,11 +986,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04490.html">Multiscale guidance of protein structure prediction with heterogeneous cryo-EM data</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Rishwanth Raghu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04490">2506.04490</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02033.html">CONFIDE: Hallucination Assessment for Reliable Biomolecular Structure Prediction and Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Zijun Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02033">2512.02033</a></td>
 </tr>
 </tbody></table>

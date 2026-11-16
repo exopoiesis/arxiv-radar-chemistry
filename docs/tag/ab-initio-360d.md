@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1510 papers</span>
+  <span class="paper-count">1505 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9044,35 +9044,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17753.html">$Δ$-ML Ensembles for Selecting Quantum Chemistry Methods to Compute Intermolecular Interactions</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
 <td>Austin M. Wallace et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17753">2511.17753</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.04369.html">Calculation of the biquadratic spin interactions based on the spin cluster expansion for \textit{ab initio} tight-binding models</a></div><div class="paper-tags"><a href="tmd-360d.html">tmd</a></div></td>
-<td>Tatsuto Hatanaka et al.</td>
-<td><a href="http://arxiv.org/abs/2405.04369">2405.04369</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19081.html">Efficient and Accurate Spatial Mixing of Machine Learned Interatomic Potentials for Materials Science</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Fraser Birks et al.</td>
-<td><a href="http://arxiv.org/abs/2502.19081">2502.19081</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10160.html">Ab Initio Theory of Phonon Magnetic Moment Induced by Electron-Phonon Coupling in Magnetic Materials</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Fuyi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10160">2503.10160</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18477.html">Electron-Phonon interaction and lattice thermal conductivity from metals to 2D Dirac crystals: a review</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Sina Kazemian et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18477">2508.18477</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16059.html">Extending SLUSCHI for Automated Diffusion Calculations</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Qi-Jun Hong et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16059">2511.16059</a></td>
 </tr>
 </tbody></table>

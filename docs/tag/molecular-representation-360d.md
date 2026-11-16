@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -926,11 +926,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17300.html">MolSight: Optical Chemical Structure Recognition with SMILES Pretraining, Multi-Granularity Learning and Reinforcement Learning</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Wenrui Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17300">2511.17300</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16365.html">Mode-programmable comb spectroscopy enabling non-cooperative computational sensing with single-photon sensitivity</a></div></td>
-<td>Dongxu Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16365">2511.16365</a></td>
 </tr>
 </tbody></table>

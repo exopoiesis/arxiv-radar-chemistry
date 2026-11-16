@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">129 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -758,35 +758,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24768.html">Epitaxial Displacement-etched GaAsSb Quantum Dots Emitting at Telecom Wavelengths</a></div></td>
 <td>Sadhvikas Addamane et al.</td>
 <td><a href="http://arxiv.org/abs/2610.24768">2610.24768</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22855.html">Pressure-Dependent hcp-to-fcc Phase Transition Path Derived from Exact Lattice Summations over Inverse Power Law Potentials</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="phase-transition-30d.html">phase-transition</a></div></td>
-<td>Tage W. Maltby et al.</td>
-<td><a href="http://arxiv.org/abs/2610.22855">2610.22855</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23108.html">Multiscale Quantum-Classical Simulation of Protein Autoproteolysis in a Million-Atom Membrane Environment</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Alexander Orlov et al.</td>
-<td><a href="http://arxiv.org/abs/2610.23108">2610.23108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23371.html">Foundation-Model Supervision of Distilled Potentials for Million-Atom Molecular Dynamics</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Xiaoqing Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.23371">2610.23371</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23375.html">Termination-dependent surface Fermiology in the intercalated altermagnet CoNb$_4$Se$_8$</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a></div></td>
-<td>Pietro Maria Forcella et al.</td>
-<td><a href="http://arxiv.org/abs/2610.23375">2610.23375</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23585.html">Oxygen on Rh(100) revisited with ultra-high precision</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
-<td>Lutz Hammer et al.</td>
-<td><a href="http://arxiv.org/abs/2610.23585">2610.23585</a></td>
 </tr>
 </tbody></table>

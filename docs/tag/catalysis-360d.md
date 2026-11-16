@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17873.html">Holographic Butterfly Velocity and Heavy-Quark Drag in a Doubly Anisotropic Magnetized QGP</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Le Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17873">2611.17873</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16587.html">Small-angle scattering reveals heterogeneous nanoparticle size distributions through Bayesian inference</a></div></td>
 <td>Songhao Yin et al.</td>
@@ -1778,11 +1784,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23831.html">Domain Boundaries in a Metallic Distortive Polar Metal</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
 <td>Adrian Savovici et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23831">2509.23831</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16667.html">Strained hyperbolic Dirac fermions: Zero modes, flat bands, and competing orders</a></div></td>
-<td>Christopher A. Leong et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16667">2511.16667</a></td>
 </tr>
 </tbody></table>

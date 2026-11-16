@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 360d</h1>
-  <span class="paper-count">133 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <strong>360d</strong> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,11 +806,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16930.html">Accelerated Materials Discovery through Cost-Aware Bayesian Optimization of Real-World Indentation Workflows</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
 <td>Vivek Chawla et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16930">2511.16930</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16646.html">Revealing Phonon Bridge Effect for Amorphous vs Crystalline Metal-Silicide Layers at Si/Ti Interfaces by a Machine Learning Potential</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Mayur Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16646">2511.16646</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17873.html">Holographic Butterfly Velocity and Heavy-Quark Drag in a Doubly Anisotropic Magnetized QGP</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
+<td>Le Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17873">2611.17873</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15152.html">Kitaev Exchange and Altermagnetism in the Double Perovskite Sr$_2$CoTeO$_6$: An Ab Initio Study</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Alexey V. Ushakov et al.</td>
@@ -1952,11 +1958,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14365.html">Dynamic annihilation pathways of magnetic skyrmions</a></div></td>
 <td>Matthew Copus et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14365">2507.14365</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10160.html">Ab Initio Theory of Phonon Magnetic Moment Induced by Electron-Phonon Coupling in Magnetic Materials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Fuyi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10160">2503.10160</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-transition — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <strong>30d</strong> <a href="phase-transition-90d.html">90d</a> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35437.html">The role of density in phase transitions and new perspectives on theta functions</a></div></td>
 <td>Kaixin Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2610.35437">2610.35437</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22855.html">Pressure-Dependent hcp-to-fcc Phase Transition Path Derived from Exact Lattice Summations over Inverse Power Law Potentials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
-<td>Tage W. Maltby et al.</td>
-<td><a href="http://arxiv.org/abs/2610.22855">2610.22855</a></td>
 </tr>
 </tbody></table>

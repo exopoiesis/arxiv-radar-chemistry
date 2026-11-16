@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17873.html">Holographic Butterfly Velocity and Heavy-Quark Drag in a Doubly Anisotropic Magnetized QGP</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Le Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17873">2611.17873</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16587.html">Small-angle scattering reveals heterogeneous nanoparticle size distributions through Bayesian inference</a></div></td>
 <td>Songhao Yin et al.</td>
@@ -422,11 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17567.html">Domain-Adapted Molecular Language Models for Efficient Search of Make-on-Demand Libraries</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-llm-90d.html">molecular-llm</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
 <td>Henrik Wille et al.</td>
 <td><a href="http://arxiv.org/abs/2608.17567">2608.17567</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17149.html">Temperature-Induced Reorganization of Supported Zn$_3$ Clusters on Cu(111): From Minimum-Energy Structures to Finite-Temperature Ensembles</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Jiayan Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17149">2608.17149</a></td>
 </tr>
 </tbody></table>

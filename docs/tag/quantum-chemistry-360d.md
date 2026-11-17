@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">332 papers</span>
+  <span class="paper-count">331 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2000,11 +2000,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18512.html">Neural network approximation of regularized density functionals</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Mihály A. Csirik et al.</td>
 <td><a href="http://arxiv.org/abs/2511.18512">2511.18512</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17753.html">$Δ$-ML Ensembles for Selecting Quantum Chemistry Methods to Compute Intermolecular Interactions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Austin M. Wallace et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17753">2511.17753</a></td>
 </tr>
 </tbody></table>

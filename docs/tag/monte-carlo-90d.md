@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -416,11 +416,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19116.html">JANUS: A Multi-modal Foundation Neural Sampler for Disordered Materials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="gnn-90d.html">gnn</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
 <td>Denis Blessing et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19116">2608.19116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17381.html">Leveraging generative hallucination and biophysics-informed modeling for unified biomolecular sequence-structure co-design</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a></div></td>
-<td>Xuefeng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17381">2608.17381</a></td>
 </tr>
 </tbody></table>

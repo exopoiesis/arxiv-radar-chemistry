@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2007 papers</span>
+  <span class="paper-count">2000 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12014,47 +12014,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17969.html">Density functional theory for core-level X-ray absorption</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
 <td>Seokkyu An et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17969">2511.17969</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.02966.html">Efficient Spin Transfer in WTe2/Fe3GeTe2 van der Waals Heterostructure Enabled by Direct Interlayer p-Orbital Hybridization</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>H. L. Ning et al.</td>
-<td><a href="http://arxiv.org/abs/2412.02966">2412.02966</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12506.html">Impact of electronic correlations on the superconductivity of high-pressure CeH$_9$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Siyu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12506">2507.12506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15050.html">Towards a deeper fundamental understanding of (Al,Sc)N ferroelectric nitrides</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Peng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15050">2509.15050</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13202.html">Accelerated Prediction of Temperature-Dependent Lattice Thermal Conductivity via Ensembled Machine Learning Models</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Piyush Paliwal et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13202">2511.13202</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16906.html">Spin-adapted open-shell time-dependent density functional theory: towards a simple and accurate method for spin-flip-down excitations</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Hewang Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16906">2511.16906</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17403.html">Momentum-Resolved Electronic Structure and Orbital Hybridization in the Layered Antiferromagnet CrPS$_4$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Lasse Sternemann et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17403">2511.17403</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17810.html">Unbiased molecular dynamics for the direct determination of catalytic reaction times : paving the way beyond transition state theory</a></div></td>
-<td>Thomas Pigeon et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17810">2511.17810</a></td>
 </tr>
 </tbody></table>

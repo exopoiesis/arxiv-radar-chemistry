@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 360d</h1>
-  <span class="paper-count">127 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -764,17 +764,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19347.html">Artificial Intelligence Driven Workflow for Accelerating Design of Novel Photosensitizers</a></div></td>
 <td>Hongyi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.19347">2511.19347</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16930.html">Accelerated Materials Discovery through Cost-Aware Bayesian Optimization of Real-World Indentation Workflows</a></div><div class="paper-tags"><a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Vivek Chawla et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16930">2511.16930</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17078.html">Hash Collisions in Molecular Fingerprints: Effects on Property Prediction and Bayesian Optimization</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Walter Virany et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17078">2511.17078</a></td>
 </tr>
 </tbody></table>

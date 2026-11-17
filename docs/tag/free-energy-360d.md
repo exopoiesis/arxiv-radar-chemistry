@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">318 papers</span>
+  <span class="paper-count">317 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1916,11 +1916,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19222.html">Velocity dependence of kinetic friction by multi-scale Quantum Mechanics/Green&#x27;s Function molecular dynamics</a></div></td>
 <td>Alberto Pacini et al.</td>
 <td><a href="http://arxiv.org/abs/2511.19222">2511.19222</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17042.html">Asymmetry and coverage dependence in two-pulse correlation measurements of CO photodesorption from Pd(111): Insights from theory</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Raúl Bombín et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17042">2511.17042</a></td>
 </tr>
 </tbody></table>

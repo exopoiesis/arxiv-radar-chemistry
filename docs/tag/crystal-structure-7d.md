@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>crystal-structure — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13611.html">How anion composition governs structural frameworks and Li-ion transport in oxychloride solid-state electrolytes</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="structure-prediction-7d.html">structure-prediction</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
 <td>Jiho Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2611.13611">2611.13611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11846.html">MOTIF: LLM-Defined Material Taxonomies for OOD Property Prediction via Invariant Feature Selection</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Gwangseon Jang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11846">2611.11846</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>crystal-structure — 90d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <strong>90d</strong> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -320,17 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18729.html">Revisiting the topological properties of XMg2Bi2 (X = Ca, Sr, Ba, Yb and Eu)</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Antoni Facca et al.</td>
 <td><a href="http://arxiv.org/abs/2608.18729">2608.18729</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17408.html">Giant Bandgap Pulsation Driven by Hotspot Breathing Phonons in a Flat-Band Solid</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Wenjie Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17408">2608.17408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17786.html">Polarization-Dependent Raman Selection Rules in Sb$_2$S$_3$ from First Principles and Experiment</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
-<td>Tobias Dierke et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17786">2608.17786</a></td>
 </tr>
 </tbody></table>

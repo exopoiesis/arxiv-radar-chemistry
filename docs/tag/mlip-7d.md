@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mlip — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,29 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13898.html">Orchestr.AI: A Unified Workflow for Training and Benchmarking of Machine-Learned Interatomic Potentials</a></div></td>
 <td>Zain Ul Abideen et al.</td>
 <td><a href="http://arxiv.org/abs/2611.13898">2611.13898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12018.html">Extending the reach of real-space real-time TDDFT: new developments in the Octopus code</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Nicolas Tancogne-Dejean et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12018">2611.12018</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12267.html">Defects and Structural Evolution in CrSBr: Machine-Learning Potentials for Atomistic Simulations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Arsalan Hashemi et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12267">2611.12267</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12573.html">Ab Initio Molecular Dynamics-Guided Machine-Learning Potentials for Mapping Nitric Oxide Interactions with Oxygen-Covered Graphite</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Yaideny Rodriguez Linares et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12573">2611.12573</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12598.html">Harmonic origin of local symmetry breaking in PbTe revealed using machine-learned potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Seongjoo Jung et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12598">2611.12598</a></td>
 </tr>
 </tbody></table>

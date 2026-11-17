@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">84 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -518,23 +518,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19121.html">PGFS++: Molecular Property Improvement under Synthesis and Diversity Constraints</a></div><div class="paper-tags"><a href="chemical-space-90d.html">chemical-space</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
 <td>Boqiao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19121">2608.19121</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17381.html">Leveraging generative hallucination and biophysics-informed modeling for unified biomolecular sequence-structure co-design</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Xuefeng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17381">2608.17381</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17567.html">Domain-Adapted Molecular Language Models for Efficient Search of Make-on-Demand Libraries</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="molecular-llm-90d.html">molecular-llm</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Henrik Wille et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17567">2608.17567</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20418.html">Rigorous Evaluation of Large Language Models for Malaria Drug Discovery: Trade-offs in Performance, Scale, and Resource Utility</a></div></td>
-<td>Marvellous O. Ajala et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20418">2608.20418</a></td>
 </tr>
 </tbody></table>

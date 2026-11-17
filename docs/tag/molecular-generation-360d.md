@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-generation — 360d</h1>
-  <span class="paper-count">146 papers</span>
+  <span class="paper-count">143 papers</span>
   <nav class="window-nav"><a href="molecular-generation-7d.html">7d</a> <a href="molecular-generation-30d.html">30d</a> <a href="molecular-generation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-generation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -872,23 +872,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03080.html">AtomDisc: An Atom-level Tokenizer that Boosts Molecular LLMs and Reveals Structure--Property Associations</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Mingxu Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03080">2512.03080</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19588.html">Discovery of Sustainable Refrigerants through Physics-Informed RL Fine-Tuning of Sequence Models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Adrien Goldszal et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19588">2509.19588</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12135.html">RTMol: Rethinking Molecule-text Alignment in a Round-trip View</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Letian Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.12135">2511.12135</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17249.html">FlexiFlow: decomposable flow matching for generation of flexible molecular ensemble</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Riccardo Tedoldi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17249">2511.17249</a></td>
 </tr>
 </tbody></table>

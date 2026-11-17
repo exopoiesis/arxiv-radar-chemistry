@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,71 +104,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14687.html">High-Fidelity In Silico Dataset of Ordered Binary and Ternary MXenes with Predictive Synthesis Guidance</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="chemical-space-7d.html">chemical-space</a></div></td>
 <td>Ahmed H. Biby et al.</td>
 <td><a href="http://arxiv.org/abs/2611.14687">2611.14687</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11765.html">Strain-dependent Dynamics of Interactions of Iodine-vacancy pairs in CsPbI3: A DFT and Machine-Learning Molecular Dynamics Study</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Donggeun Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11765">2611.11765</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12018.html">Extending the reach of real-space real-time TDDFT: new developments in the Octopus code</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="excited-states-7d.html">excited-states</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Nicolas Tancogne-Dejean et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12018">2611.12018</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12233.html">X-ray parametric down-conversion probes radiation-induced dynamics in hybrid perovskite MAPbBr3</a></div></td>
-<td>S. Sofer et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12233">2611.12233</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12267.html">Defects and Structural Evolution in CrSBr: Machine-Learning Potentials for Atomistic Simulations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
-<td>Arsalan Hashemi et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12267">2611.12267</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12399.html">Quantum Embedding from Molecular to Crystalline Environments at the Cost of a Gas-Phase Calculation</a></div></td>
-<td>Manas Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12399">2611.12399</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12509.html">UniHam: A Large-Scale SOC-Complete Dataset and Benchmark for Hamiltonian Learning in Materials</a></div><div class="paper-tags"><a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Yuewen Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12509">2611.12509</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12566.html">Quantum benchmarks for magnetic energies and transition temperatures</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Mojtaba Alaei et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12566">2611.12566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12591.html">TRACE: Adaptive Trust-Region Bayesian Optimization for Open-Ended Molecular Design</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="bayesian-optimization-7d.html">bayesian-optimization</a> · <a href="chemical-space-7d.html">chemical-space</a> · <a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="molecular-generation-7d.html">molecular-generation</a> · <a href="molecular-representation-7d.html">molecular-representation</a></div></td>
-<td>Madhav R. Muthyala et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12591">2611.12591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12617.html">Analytic $GW$-Bethe--Salpeter Gradients with Quasiparticle Response in the Resolution of the Identity</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Christof Holzer</td>
-<td><a href="http://arxiv.org/abs/2611.12617">2611.12617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12664.html">Damped polarizability and first hyperpolarizability of large systems with hybrid functionals: self-consistent and Lanczos solvers</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
-<td>A. García-Blázquez et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12664">2611.12664</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13329.html">Agent-Guided Discovery of Exchange-Correlation Functionals with Physics-based Validation</a></div></td>
-<td>Achuth Chandrasekhar et al.</td>
-<td><a href="http://arxiv.org/abs/2611.13329">2611.13329</a></td>
 </tr>
 </tbody></table>

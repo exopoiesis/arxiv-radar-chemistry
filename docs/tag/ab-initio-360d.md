@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1505 papers</span>
+  <span class="paper-count">1499 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9008,41 +9008,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17863.html">Validation of the copper equation of state via shock loading experiments of loosely associated powders</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Yufeng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17863">2511.17863</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12506.html">Impact of electronic correlations on the superconductivity of high-pressure CeH$_9$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Siyu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12506">2507.12506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15050.html">Towards a deeper fundamental understanding of (Al,Sc)N ferroelectric nitrides</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Peng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15050">2509.15050</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13202.html">Accelerated Prediction of Temperature-Dependent Lattice Thermal Conductivity via Ensembled Machine Learning Models</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Piyush Paliwal et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13202">2511.13202</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16987.html">Giant Nonlinear Photon-Drag Currents in Centrosymmetric Moiré Bilayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Zhuocheng Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16987">2511.16987</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17042.html">Asymmetry and coverage dependence in two-pulse correlation measurements of CO photodesorption from Pd(111): Insights from theory</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Raúl Bombín et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17042">2511.17042</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17753.html">$Δ$-ML Ensembles for Selecting Quantum Chemistry Methods to Compute Intermolecular Interactions</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Austin M. Wallace et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17753">2511.17753</a></td>
 </tr>
 </tbody></table>

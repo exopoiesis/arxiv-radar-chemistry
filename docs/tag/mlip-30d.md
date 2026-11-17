@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,17 +308,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25477.html">NEP-kappa 2.0: A unified framework for phonon transport and nonequilibrium thermalization with machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Shixian Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.25477">2610.25477</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24418.html">Reticulating Local Dynamics in Three-Dimensional Covalent Organic Frameworks</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Francesco Tavani et al.</td>
-<td><a href="http://arxiv.org/abs/2610.24418">2610.24418</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.24514.html">Understanding compression-extension error asymmetry in universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Hongwei Du et al.</td>
-<td><a href="http://arxiv.org/abs/2610.24514">2610.24514</a></td>
 </tr>
 </tbody></table>

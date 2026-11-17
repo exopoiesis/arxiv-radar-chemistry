@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">389 papers</span>
+  <span class="paper-count">386 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2330,23 +2330,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19404.html">Dynamic Ensembles of Phosphine-Stabilized Gold Nanoclusters</a></div></td>
 <td>Caitlin A. McCandler et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19404">2608.19404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17261.html">Implementation Possibility of Quantum Simulation for Quantum Molecular Dynamics</a></div><div class="paper-tags"><a href="quantum-computing-90d.html">quantum-computing</a></div></td>
-<td>Xingyu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17261">2608.17261</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17408.html">Giant Bandgap Pulsation Driven by Hotspot Breathing Phonons in a Flat-Band Solid</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="crystal-structure-90d.html">crystal-structure</a></div></td>
-<td>Wenjie Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17408">2608.17408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17720.html">Vacancy-Driven Electronic Reconstruction in Monolayer PtSe$_2$: Formation Thermodynamics and Charge States</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Xiwen Gai et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17720">2608.17720</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">233 papers</span>
+  <span class="paper-count">232 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1406,11 +1406,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02752.html">SynTwins: A Retrosynthesis-Guided Framework for Synthesizable Molecular Analog Generation</a></div><div class="paper-tags"><a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
 <td>Shuan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02752">2507.02752</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17078.html">Hash Collisions in Molecular Fingerprints: Effects on Property Prediction and Bayesian Optimization</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
-<td>Walter Virany et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17078">2511.17078</a></td>
 </tr>
 </tbody></table>

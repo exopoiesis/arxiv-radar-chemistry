@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">409 papers</span>
+  <span class="paper-count">405 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2444,29 +2444,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18398.html">Predicting the Thermal Behavior of Semiconductor Defects with Equivariant Neural Networks</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Xiangzhou Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.18398">2511.18398</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12506.html">Impact of electronic correlations on the superconductivity of high-pressure CeH$_9$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Siyu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12506">2507.12506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14085.html">Pressure-Induced B1 to B2 Phase Transition in CeN Studied by ab initio Correlation Matrix Renormalization Theory Calculations</a></div></td>
-<td>Jun Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14085">2511.14085</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17403.html">Momentum-Resolved Electronic Structure and Orbital Hybridization in the Layered Antiferromagnet CrPS$_4$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Lasse Sternemann et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17403">2511.17403</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17760.html">When Active Learning Fails, Uncalibrated Out of Distribution Uncertainty Quantification Might Be the Problem</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Ashley S. Dale et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17760">2511.17760</a></td>
 </tr>
 </tbody></table>

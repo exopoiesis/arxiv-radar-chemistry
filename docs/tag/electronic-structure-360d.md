@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">462 papers</span>
+  <span class="paper-count">459 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2768,23 +2768,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11568.html">Orbital Hybridization-Driven Stabilization and Reactivity on an Asymmetrically Reconstructed Polar CeO2(100) Surface</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Songda Li et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11568">2509.11568</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.02966.html">Efficient Spin Transfer in WTe2/Fe3GeTe2 van der Waals Heterostructure Enabled by Direct Interlayer p-Orbital Hybridization</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>H. L. Ning et al.</td>
-<td><a href="http://arxiv.org/abs/2412.02966">2412.02966</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17042.html">Asymmetry and coverage dependence in two-pulse correlation measurements of CO photodesorption from Pd(111): Insights from theory</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Raúl Bombín et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17042">2511.17042</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17403.html">Momentum-Resolved Electronic Structure and Orbital Hybridization in the Layered Antiferromagnet CrPS$_4$</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Lasse Sternemann et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17403">2511.17403</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,41 +98,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14832.html">Neural Compression for Scientific Particle Data: Perspectives on How Learning Can Help</a></div></td>
 <td>Tian Qiu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.14832">2611.14832</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11765.html">Strain-dependent Dynamics of Interactions of Iodine-vacancy pairs in CsPbI3: A DFT and Machine-Learning Molecular Dynamics Study</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Donggeun Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11765">2611.11765</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12573.html">Ab Initio Molecular Dynamics-Guided Machine-Learning Potentials for Mapping Nitric Oxide Interactions with Oxygen-Covered Graphite</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Yaideny Rodriguez Linares et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12573">2611.12573</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12598.html">Harmonic origin of local symmetry breaking in PbTe revealed using machine-learned potentials</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
-<td>Seongjoo Jung et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12598">2611.12598</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12840.html">High Pressure Material Phase Identification with Gaussian Kernel Neural Networks</a></div></td>
-<td>Cameron Ryan et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12840">2611.12840</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12880.html">Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics</a></div></td>
-<td>Majdi Hassan et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12880">2611.12880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13038.html">Point defects and primary radiation damage in Co-free Fe-Ni-Cr-Mn high-entropy alloys from molecular dynamics</a></div></td>
-<td>Ayobami Daramola et al.</td>
-<td><a href="http://arxiv.org/abs/2611.13038">2611.13038</a></td>
 </tr>
 </tbody></table>

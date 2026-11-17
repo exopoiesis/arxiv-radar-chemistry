@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ab-initio — 90d</h1>
-  <span class="paper-count">330 papers</span>
+  <span class="paper-count">324 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <strong>90d</strong> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1958,41 +1958,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19053.html">Ab initio-based Deep-Learning Prediction of Carrier Mobility in Strongly Anharmonic Materials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
 <td>Juan Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19053">2608.19053</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17408.html">Giant Bandgap Pulsation Driven by Hotspot Breathing Phonons in a Flat-Band Solid</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="crystal-structure-90d.html">crystal-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Wenjie Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17408">2608.17408</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17557.html">Multiple topological electronic and phononic quasiparticle excitations in hexagonal TTe (T=Hf, Zr &amp; Ti) crystals</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
-<td>Prakash Pandey et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17557">2608.17557</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17720.html">Vacancy-Driven Electronic Reconstruction in Monolayer PtSe$_2$: Formation Thermodynamics and Charge States</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="tmd-90d.html">tmd</a></div></td>
-<td>Xiwen Gai et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17720">2608.17720</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17813.html">Data-Driven Statistical Ensembles of Chiral Nuclear Interactions</a></div></td>
-<td>Pengsheng Wen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17813">2608.17813</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18204.html">Towards Quantum-Dot Detectors as Barcodes for Dark Matter Interactions</a></div></td>
-<td>Marek Matas et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18204">2608.18204</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24925.html">Self-assembly and Electronic Properties of Graphyne and Graphdiyne Molecular Wires on Metallic Surfaces</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="dft-90d.html">dft</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Victor M. S. da Conceição et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24925">2608.24925</a></td>
 </tr>
 </tbody></table>

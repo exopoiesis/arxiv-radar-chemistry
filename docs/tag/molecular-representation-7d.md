@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-representation — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14179.html">Quantum-Enhanced QSAR for DYRK1A: Evaluating Complementary and Utility QPU-Derived Molecular Representations</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a></div></td>
 <td>Alejandro Giraldo et al.</td>
 <td><a href="http://arxiv.org/abs/2611.14179">2611.14179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12591.html">TRACE: Adaptive Trust-Region Bayesian Optimization for Open-Ended Molecular Design</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="bayesian-optimization-7d.html">bayesian-optimization</a> · <a href="chemical-space-7d.html">chemical-space</a> · <a href="dft-7d.html">dft</a> · <a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="molecular-generation-7d.html">molecular-generation</a></div></td>
-<td>Madhav R. Muthyala et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12591">2611.12591</a></td>
 </tr>
 </tbody></table>

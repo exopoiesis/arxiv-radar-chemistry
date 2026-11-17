@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>catalysis — 90d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <strong>90d</strong> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,11 +422,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20063.html">PPT Entanglement with Correlated Catalysis: Monotones and Irreversibility</a></div></td>
 <td>Jingsong Ao et al.</td>
 <td><a href="http://arxiv.org/abs/2608.20063">2608.20063</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17567.html">Domain-Adapted Molecular Language Models for Efficient Search of Make-on-Demand Libraries</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="molecular-llm-90d.html">molecular-llm</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Henrik Wille et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17567">2608.17567</a></td>
 </tr>
 </tbody></table>

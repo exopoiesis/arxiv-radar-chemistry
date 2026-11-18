@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20848.html">MolReps: Taking SELFIES, Making SMILES, Teaching LLMs</a></div><div class="paper-tags"><a href="molecular-representation-7d.html">molecular-representation</a></div></td>
+<td>Ken Deng et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20848">2611.20848</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16792.html">Systematic Evaluation of Training Data Generation Strategies for Machine Learning-Based Molecular and Materials Property Prediction</a></div><div class="paper-tags"><a href="active-learning-7d.html">active-learning</a></div></td>
 <td>Minh Nghia Nguyen et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13651.html">DrugCoding: A Scientific Programming Agent for Drug Discovery</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a></div></td>
 <td>Junwei Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.13651">2611.13651</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13945.html">Chem World: A Large-Scale Benchmark and Physics-Aware Framework for Trustworthy Molecular Property Prediction</a></div><div class="paper-tags"><a href="molecular-llm-7d.html">molecular-llm</a> · <a href="molecular-representation-7d.html">molecular-representation</a></div></td>
-<td>Tianyou Bai et al.</td>
-<td><a href="http://arxiv.org/abs/2611.13945">2611.13945</a></td>
 </tr>
 </tbody></table>

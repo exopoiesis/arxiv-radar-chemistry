@@ -5,9 +5,9 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-11-17._
+_Updated 2026-11-18._
 
-**16574** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**16582** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -15,10 +15,58 @@ _Updated 2026-11-17._
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.22667.html">Generating Circularly Polarized and Chiral Cathodoluminescence from a Single Plasmonic Nanoantenna</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a></div></td>
+<td>Stan de Peinder et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22667">2611.22667</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.22734.html">Catalytic imaginarity transformations</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a></div></td>
+<td>Ying-Hui Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22734">2611.22734</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.20706.html">Adsorbate-Free Screening of Dissociative Water Adsorption on Nickel Nanoparticles via Graph Neural Networks</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/dft-30d.html">dft</a> · <a href="tag/gnn-30d.html">gnn</a></div></td>
+<td>Marta Monti et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20706">2611.20706</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.20848.html">MolReps: Taking SELFIES, Making SMILES, Teaching LLMs</a></div><div class="paper-tags"><a href="tag/molecular-representation-30d.html">molecular-representation</a> · <a href="tag/property-prediction-30d.html">property-prediction</a></div></td>
+<td>Ken Deng et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20848">2611.20848</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.21349.html">Catalytic compression of classical communication in exact entanglement transformations</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a></div></td>
+<td>Vito Viesti et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21349">2611.21349</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.21423.html">Emergent Steering Beyond Endpoint Alignment in Chemical Reaction Models</a></div><div class="paper-tags"><a href="tag/retrosynthesis-30d.html">retrosynthesis</a></div></td>
+<td>Yili Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21423">2611.21423</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.19812.html">Reasoning in the loop: antibody lead optimization by probing mechanism and measurement</a></div><div class="paper-tags"><a href="tag/drug-discovery-30d.html">drug-discovery</a></div></td>
+<td>Samuel Stanton et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19812">2611.19812</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17873.html">Holographic Butterfly Velocity and Heavy-Quark Drag in a Doubly Anisotropic Magnetized QGP</a></div><div class="paper-tags"><a href="tag/catalysis-30d.html">catalysis</a> · <a href="tag/magnetic-properties-30d.html">magnetic-properties</a></div></td>
 <td>Le Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17873">2611.17873</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.18043.html">Enrichment-Oriented Virtual Screening of Perovskite Solar Cells through Reinforcement Learning</a></div><div class="paper-tags"><a href="tag/crystal-structure-30d.html">crystal-structure</a> · <a href="tag/drug-discovery-30d.html">drug-discovery</a></div></td>
+<td>Yezeyuan Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18043">2611.18043</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-13</td>
@@ -145,53 +193,5 @@ _Updated 2026-11-17._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17013.html">DiffSSMEye: Conditional High-Frequency Eye Movement Synthesis with Structured State-Space Diffusion</a></div></td>
 <td>Kamrul Hasan et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17013">2611.17013</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17015.html">AI for Biologists: The Knowledge Boundaries of Foundation Models in the Age of Agentic Systems</a></div></td>
-<td>Tian Cai et al.</td>
-<td><a href="http://arxiv.org/abs/2611.17015">2611.17015</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17046.html">Robust Control Design for LTI Systems with Sampling-Time Jitter</a></div></td>
-<td>Dieter Schwarzmann et al.</td>
-<td><a href="http://arxiv.org/abs/2611.17046">2611.17046</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17096.html">High-pressure behavior of the low-frequency mode of water</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Maria Rescigno et al.</td>
-<td><a href="http://arxiv.org/abs/2611.17096">2611.17096</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17121.html">Using an energy pixels approach to estimate the size a 2nd Generation DEL must be to train a high-resolution binding model</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a> · <a href="tag/chemical-space-30d.html">chemical-space</a></div></td>
-<td>Boris P. Belotserkovskii et al.</td>
-<td><a href="http://arxiv.org/abs/2611.17121">2611.17121</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17130.html">Library of peptides: Analysis of a complex reactive mixture with the use of statistical physics and inference</a></div><div class="paper-tags"><a href="tag/protein-structure-30d.html">protein-structure</a></div></td>
-<td>Laura Messio et al.</td>
-<td><a href="http://arxiv.org/abs/2611.17130">2611.17130</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17246.html">Programming Quantum Circuit Parameters with Large Language Models</a></div></td>
-<td>Tiago de Souza Farias et al.</td>
-<td><a href="http://arxiv.org/abs/2611.17246">2611.17246</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17253.html">Monopole catalysis with massive fermions: the fate of the twisted sector</a></div></td>
-<td>Valentin V. Khoze</td>
-<td><a href="http://arxiv.org/abs/2611.17253">2611.17253</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17283.html">SiC-BN composites with extreme thermal and environmental stability</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Abhijit Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2611.17283">2611.17283</a></td>
 </tr>
 </tbody></table>

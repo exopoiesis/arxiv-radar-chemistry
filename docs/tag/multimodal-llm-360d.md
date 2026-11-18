@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>multimodal-llm — 360d</h1>
-  <span class="paper-count">89 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <a href="multimodal-llm-90d.html">90d</a> <strong>360d</strong> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -530,23 +530,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20490.html">MTBBench: A Multimodal Sequential Clinical Decision-Making Benchmark in Oncology</a></div></td>
 <td>Kiril Vasilev et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20490">2511.20490</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17909.html">ChemVTS-Bench: Evaluating Visual-Textual-Symbolic Reasoning of Multimodal Large Language Models in Chemistry</a></div></td>
-<td>Zhiyuan Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17909">2511.17909</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17986.html">Plan-X: Instruct Video Generation via Semantic Planning</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Lun Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17986">2511.17986</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18011.html">RoadBench: Benchmarking MLLMs on Fine-Grained Spatial Understanding and Reasoning under Urban Road Scenarios</a></div></td>
-<td>Jun Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18011">2511.18011</a></td>
 </tr>
 </tbody></table>

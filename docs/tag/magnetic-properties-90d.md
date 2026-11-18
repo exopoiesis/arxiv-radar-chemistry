@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>magnetic-properties — 90d</h1>
-  <span class="paper-count">64 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <strong>90d</strong> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -392,11 +392,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23485.html">Emergent Noncollinearity and Near-Degenerate Magnetic Superlattices in AT6X6 Kagome Metals</a></div></td>
 <td>Weiyi Xia et al.</td>
 <td><a href="http://arxiv.org/abs/2608.23485">2608.23485</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18729.html">Revisiting the topological properties of XMg2Bi2 (X = Ca, Sr, Ba, Yb and Eu)</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a></div></td>
-<td>Antoni Facca et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18729">2608.18729</a></td>
 </tr>
 </tbody></table>

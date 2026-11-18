@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21423.html">Emergent Steering Beyond Endpoint Alignment in Chemical Reaction Models</a></div></td>
+<td>Yili Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21423">2611.21423</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17548.html">Mechanism-Level Chemical Reaction Simulation with Electron Bookkeeping Transformer</a></div></td>
 <td>Sarah Cao et al.</td>
@@ -176,11 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03525.html">MinerU.Chem: A High-Precision System for Optical Chemical Structure and Reaction Recognition</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Haote Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.03525">2608.03525</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18940.html">Training Chemical Plausibility-Aware Large Language Models for Single-Step Retrosynthesis</a></div></td>
-<td>Bogdan Zagribelnyy et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18940">2608.18940</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21423.html">Emergent Steering Beyond Endpoint Alignment in Chemical Reaction Models</a></div></td>
+<td>Yili Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21423">2611.21423</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17548.html">Mechanism-Level Chemical Reaction Simulation with Electron Bookkeeping Transformer</a></div></td>
 <td>Sarah Cao et al.</td>
@@ -578,11 +584,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16123.html">Gradient Propagation in Retrosynthetic Space: An Efficient Framework for Synthesis Plan Generation</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a></div></td>
 <td>Chengyang Tian et al.</td>
 <td><a href="http://arxiv.org/abs/2405.16123">2405.16123</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02752.html">SynTwins: A Retrosynthesis-Guided Framework for Synthesizable Molecular Analog Generation</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Shuan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02752">2507.02752</a></td>
 </tr>
 </tbody></table>

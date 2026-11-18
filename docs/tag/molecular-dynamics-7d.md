@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,17 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16099.html">CupOFMoCA: Coupled Objective-Guided Discrete Flows for Molecular Conjugate Assembly</a></div></td>
 <td>Ruoxi Rosie Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16099">2611.16099</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13611.html">How anion composition governs structural frameworks and Li-ion transport in oxychloride solid-state electrolytes</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="crystal-structure-7d.html">crystal-structure</a> · <a href="mlip-7d.html">mlip</a> · <a href="structure-prediction-7d.html">structure-prediction</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Jiho Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2611.13611">2611.13611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14832.html">Neural Compression for Scientific Particle Data: Perspectives on How Learning Can Help</a></div></td>
-<td>Tian Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.14832">2611.14832</a></td>
 </tr>
 </tbody></table>

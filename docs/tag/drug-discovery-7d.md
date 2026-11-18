@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>drug-discovery — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19812.html">Reasoning in the loop: antibody lead optimization by probing mechanism and measurement</a></div></td>
+<td>Samuel Stanton et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19812">2611.19812</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18043.html">Enrichment-Oriented Virtual Screening of Perovskite Solar Cells through Reinforcement Learning</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a></div></td>
+<td>Yezeyuan Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18043">2611.18043</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13651.html">DrugCoding: A Scientific Programming Agent for Drug Discovery</a></div><div class="paper-tags"><a href="property-prediction-7d.html">property-prediction</a></div></td>
@@ -26,35 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14956.html">Binding Mode Matters: Hotspot-Aware Drug Discovery via Explorative Preferences</a></div><div class="paper-tags"><a href="protein-ligand-7d.html">protein-ligand</a> · <a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
 <td>Dingshuo Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2611.14956">2611.14956</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13398.html">The Dose Makes the Poison: Exposure-Aware Evaluation of Generative Drug Design</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a></div></td>
-<td>Maria Franz et al.</td>
-<td><a href="http://arxiv.org/abs/2611.13398">2611.13398</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14179.html">Quantum-Enhanced QSAR for DYRK1A: Evaluating Complementary and Utility QPU-Derived Molecular Representations</a></div><div class="paper-tags"><a href="molecular-representation-7d.html">molecular-representation</a></div></td>
-<td>Alejandro Giraldo et al.</td>
-<td><a href="http://arxiv.org/abs/2611.14179">2611.14179</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14287.html">ANTIOCH-VS: From Sequence to Hits with Modular, Open-Source Ensemble Virtual Screening</a></div><div class="paper-tags"><a href="metadynamics-7d.html">metadynamics</a></div></td>
-<td>Hale S. Hasdemir et al.</td>
-<td><a href="http://arxiv.org/abs/2611.14287">2611.14287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14504.html">Emergent Biological Capabilities in a Foundation Model for Molecular Interactions</a></div></td>
-<td>Adi Mashiach</td>
-<td><a href="http://arxiv.org/abs/2611.14504">2611.14504</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14511.html">Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents</a></div></td>
-<td>Megha Srivastava et al.</td>
-<td><a href="http://arxiv.org/abs/2611.14511">2611.14511</a></td>
 </tr>
 </tbody></table>

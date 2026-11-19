@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">274 papers</span>
+  <span class="paper-count">273 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1652,11 +1652,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19335.html">High-throughput validation of phase formability and simulation accuracy of Cantor alloys</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Changjun Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2511.19335">2511.19335</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18560.html">Curvature-Dependent Polarity of Interfacial Energy Flow in Functionalized CNT Polymer Nanocomposites: A Reactive Molecular Dynamics Perspective</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Mehedi Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18560">2511.18560</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1497 papers</span>
+  <span class="paper-count">1494 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -8978,23 +8978,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19668.html">Quantum Coherence of Rare-Earth Ions in Heterogeneous Photonic Interfaces</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Henry C. Hammer et al.</td>
 <td><a href="http://arxiv.org/abs/2511.19668">2511.19668</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18442.html">A non-equilibrium quantum transport framework for spintronic devices with dynamical correlations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Declan Nell et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18442">2511.18442</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18512.html">Neural network approximation of regularized density functionals</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Mihály A. Csirik et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18512">2511.18512</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18586.html">High-throughput computation of electric polarization in solids via Berry flux diagonalization</a></div></td>
-<td>Abigail N. Poteshman et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18586">2511.18586</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">232 papers</span>
+  <span class="paper-count">230 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1394,17 +1394,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20362.html">PRISM: Periodic Representation with multIscale and Similarity graph Modelling for enhanced crystal structure property prediction</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="gnn-360d.html">gnn</a></div></td>
 <td>Àlex Solé et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20362">2511.20362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18244.html">Developing an AI Course for Synthetic Chemistry Students</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
-<td>Zhiling Zheng</td>
-<td><a href="http://arxiv.org/abs/2511.18244">2511.18244</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21747.html">QuantumChem-200K: A Large-Scale Open Organic Molecular Dataset for Quantum-Chemistry Property Screening and Language Model Benchmarking</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Yinqi Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21747">2511.21747</a></td>
 </tr>
 </tbody></table>

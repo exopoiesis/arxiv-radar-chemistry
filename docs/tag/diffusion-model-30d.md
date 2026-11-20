@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,29 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29703.html">Choosing Spatial Resolution in the Residence-Time Approach to Local Diffusivity</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Michael von Domaros et al.</td>
 <td><a href="http://arxiv.org/abs/2610.29703">2610.29703</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25481.html">Multimodal-Conditioned Latent Diffusion Models for Spatiotemporal Brain MRI Forecasting</a></div></td>
-<td>Antonio Scardace et al.</td>
-<td><a href="http://arxiv.org/abs/2610.25481">2610.25481</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28543.html">Binary Discrete Diffusion: Candidate-Set Diffusion for Logic and Planning Tasks</a></div></td>
-<td>Rodrigo Casado Noguerales et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28543">2610.28543</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28889.html">Policy-Mask: Budget-Aware Adaptation of Diffusion Features to Discriminative Tasks</a></div></td>
-<td>Ivan Listopadov et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28889">2610.28889</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28943.html">Multi-Objective Protein Optimization via Modular Diffusion Steering</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Meir Roketlishvili et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28943">2610.28943</a></td>
 </tr>
 </tbody></table>

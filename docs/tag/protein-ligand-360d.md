@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-ligand — 360d</h1>
-  <span class="paper-count">132 papers</span>
+  <span class="paper-count">131 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <strong>360d</strong> <a href="protein-ligand-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -800,11 +800,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21900.html">Beyond Atoms: Evaluating Electron Density Representation for 3D Molecular Learning</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Patricia Suriana et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21900">2511.21900</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15480.html">Learning Protein-Ligand Binding in Hyperbolic Space</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Jianhui Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15480">2508.15480</a></td>
 </tr>
 </tbody></table>

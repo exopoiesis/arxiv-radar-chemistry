@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">107 papers</span>
+  <span class="paper-count">105 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -644,17 +644,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23869.html">Gen2Physics: Grounding Generated 3D Meshes in Physics via Multi-View Material Decomposition</a></div><div class="paper-tags"><a href="multimodal-llm-90d.html">multimodal-llm</a></div></td>
 <td>Mauro Comi et al.</td>
 <td><a href="http://arxiv.org/abs/2608.23869">2608.23869</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21612.html">Machine Learning to Foundation Models: Artificial Intelligence for Nanophotonic Modeling and Scientific Discovery</a></div></td>
-<td>Chaobin Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21612">2608.21612</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21673.html">SynEHR: Joint Modeling Inter-visit Temporal Evolution and Intra-visit Clinical Structure for Longitudinal EHR Synthesis</a></div></td>
-<td>Ximiao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21673">2608.21673</a></td>
 </tr>
 </tbody></table>

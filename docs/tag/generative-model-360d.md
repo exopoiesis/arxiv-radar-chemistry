@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">460 papers</span>
+  <span class="paper-count">458 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2762,17 +2762,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21299.html">Discovery and recovery of crystalline materials with property-conditioned transformers</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Cyprien Bone et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21299">2511.21299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18337.html">Warm Chat: Diffuse Emotion-aware Interactive Talking Head Avatar with Tree-Structured Guidance</a></div></td>
-<td>Haijie Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18337">2508.18337</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19184.html">Torsion-Space Diffusion for Protein Backbone Generation with Geometric Refinement</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Lakshaditya Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19184">2511.19184</a></td>
 </tr>
 </tbody></table>

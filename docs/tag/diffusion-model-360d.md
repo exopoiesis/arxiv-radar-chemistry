@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">411 papers</span>
+  <span class="paper-count">409 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2468,17 +2468,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23738.html">How Animals Dance (When You&#x27;re Not Looking)</a></div></td>
 <td>Xiaojuan Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2505.23738">2505.23738</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18900.html">MatMart: Material Reconstruction of 3D Objects via Diffusion</a></div></td>
-<td>Xiuchao Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18900">2511.18900</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19184.html">Torsion-Space Diffusion for Protein Backbone Generation with Geometric Refinement</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Lakshaditya Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19184">2511.19184</a></td>
 </tr>
 </tbody></table>

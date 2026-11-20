@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">375 papers</span>
+  <span class="paper-count">373 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2252,17 +2252,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22091.html">Insight into the molecular dynamics of barocaloric molecular crystals using quasi-elastic neutron scattering</a></div><div class="paper-tags"><a href="phase-transition-90d.html">phase-transition</a></div></td>
 <td>Frederic Rendell-Bhatti et al.</td>
 <td><a href="http://arxiv.org/abs/2608.22091">2608.22091</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19106.html">Local Structure and Dynamics of Three-Dimensional Covalent Organic Frameworks</a></div></td>
-<td>Francesco Tavani et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19106">2608.19106</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21624.html">Vibrational, structural, and chemical fingerprints of ion diffusion in crystalline solids</a></div><div class="paper-tags"><a href="battery-materials-90d.html">battery-materials</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="mlip-90d.html">mlip</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Gavin Winter et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21624">2608.21624</a></td>
 </tr>
 </tbody></table>

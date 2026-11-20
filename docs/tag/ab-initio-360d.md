@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1494 papers</span>
+  <span class="paper-count">1489 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -8948,35 +8948,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20885.html">Cr2O3/\b{eta}-Ga2O3 Heterojunction Diodes with Orientation-Dependent Breakdown Electric Field up to 12.9 MV/cm</a></div></td>
 <td>Yizheng Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20885">2511.20885</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04842.html">Ab initio study in the island of inversion within the two-major-shell valence space</a></div></td>
-<td>X. C. Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04842">2509.04842</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19060.html">A Combined Theoretical and Experimental Study of Oxygen Vacancies in Co$_3$O$_4$ for Liquid-Phase Oxidation Catalysis</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Amir Omranpour et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19060">2511.19060</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19228.html">Communication: Modeling layered mosaic perovskite alloy microstructures across length scales via a packing algorithm</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Murray Skolnick et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19228">2511.19228</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19338.html">Electrochemical Interfaces at Constant Potential: Data-Efficient Transfer Learning for Machine-Learning-Based Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Michele Giovanni Bianchi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19338">2511.19338</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19668.html">Quantum Coherence of Rare-Earth Ions in Heterogeneous Photonic Interfaces</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Henry C. Hammer et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19668">2511.19668</a></td>
 </tr>
 </tbody></table>

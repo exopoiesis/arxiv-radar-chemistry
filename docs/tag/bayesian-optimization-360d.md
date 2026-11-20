@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 360d</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -758,11 +758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05989.html">A self-driving lab for solution-processed electrochromic thin films</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Selma Dahms et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05989">2512.05989</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19347.html">Artificial Intelligence Driven Workflow for Accelerating Design of Novel Photosensitizers</a></div></td>
-<td>Hongyi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19347">2511.19347</a></td>
 </tr>
 </tbody></table>

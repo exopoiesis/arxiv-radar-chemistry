@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">254 papers</span>
+  <span class="paper-count">252 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1526,17 +1526,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20362.html">PRISM: Periodic Representation with multIscale and Similarity graph Modelling for enhanced crystal structure property prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Àlex Solé et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20362">2511.20362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19228.html">Communication: Modeling layered mosaic perovskite alloy microstructures across length scales via a packing algorithm</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Murray Skolnick et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19228">2511.19228</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19263.html">Solar-GECO: Perovskite Solar Cell Property Prediction with Geometric-Aware Co-Attention</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Lucas Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19263">2511.19263</a></td>
 </tr>
 </tbody></table>

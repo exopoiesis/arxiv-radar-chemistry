@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,23 +260,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31184.html">Anomalous polar chains in halide perovskites</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Erik Fransson et al.</td>
 <td><a href="http://arxiv.org/abs/2610.31184">2610.31184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29163.html">Numerical Prediction of NaCl Solubility in Water Using the TIP4P/05 Water Model NaCl/Madrid</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Raúl Fuentes-Azcatl</td>
-<td><a href="http://arxiv.org/abs/2610.29163">2610.29163</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30509.html">A Potential New Dimension of Astrophysical Aromatic Functionalization: Phosphaethynyl (CP) Derivatives</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Reace H. J. Willis et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30509">2610.30509</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30513.html">Concentration-Dependent Speciation in ZnCl2 Electrolyte Solutions: Transferability of Machine-Learning Interatomic Potentials and Speciation Sensitivity of EXAFS</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Junhan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30513">2610.30513</a></td>
 </tr>
 </tbody></table>

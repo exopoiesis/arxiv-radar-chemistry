@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">329 papers</span>
+  <span class="paper-count">328 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1982,11 +1982,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21965.html">Demonstration of the ODMR activity of the telecom range ClV center in SiC: a wavefunction theory analysis</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Zsolt Benedek et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21965">2511.21965</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15577.html">LFaB: Low fidelity as Bias for Active Learning in the chemical configuration space</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
-<td>Vivin Vinod et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15577">2508.15577</a></td>
 </tr>
 </tbody></table>

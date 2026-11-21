@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">318 papers</span>
+  <span class="paper-count">316 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1910,17 +1910,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21254.html">Coupled Structural and Electronic Requirements in Alpha-FASnI3 Imposed by the Sn(II) Lone Pair</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Mridhula Venkatanarayanan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21254">2511.21254</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17766.html">Noncollinear Spin-Flip TDDFT for Potential Energy Surface Crossings: Conical Intersections and Spin Crossings</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Xiaoyu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17766">2505.17766</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18526.html">Ab initio modeling of resonant inelastic x-ray scattering from Ca2RuO4</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>D. A. Kukusta et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18526">2511.18526</a></td>
 </tr>
 </tbody></table>

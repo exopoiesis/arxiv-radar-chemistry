@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <strong>30d</strong> <a href="thermodynamic-integration-90d.html">90d</a> <a href="thermodynamic-integration-360d.html">360d</a> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32449.html">Interplay of Chemical Disorder, Vortex Pinning, and Electron Correlations in the Mechanically Robust Medium-Entropy Alloy Superconductor $\text{Nb}_{0.45}\text{Ta}_{0.25}\text{Ti}_{0.15}\text{Hf}_{0.15}$</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a></div></td>
 <td>Pooja Chourasia et al.</td>
 <td><a href="http://arxiv.org/abs/2610.32449">2610.32449</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30210.html">Electronic Screening as a Design Lever in La-Doped BaTiO$_3$: Coupled Polarization, Dielectric Response, and Optical Anisotropy</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a></div></td>
-<td>Sikandar Azam et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30210">2610.30210</a></td>
 </tr>
 </tbody></table>

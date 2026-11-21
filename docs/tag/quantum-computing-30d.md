@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-computing — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <strong>30d</strong> <a href="quantum-computing-90d.html">90d</a> <a href="quantum-computing-360d.html">360d</a> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33800.html">Efficient Block Encodings of Vibrational Hamiltonians</a></div><div class="paper-tags"><a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
 <td>Shashank G. Mehendale et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33800">2610.33800</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29779.html">Mamba Quantum Eigensolver (MQE): A Selective State Space Model for Scalable Ground State Simulations in Quantum Chemistry</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
-<td>G. X. A. Petronilo et al.</td>
-<td><a href="http://arxiv.org/abs/2610.29779">2610.29779</a></td>
 </tr>
 </tbody></table>

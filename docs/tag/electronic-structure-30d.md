@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>electronic-structure — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <strong>30d</strong> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,23 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30598.html">Strain-induced structural transformations in hexagonal monolayer boron nitride. A density functional study</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>O. Bystrenko et al.</td>
 <td><a href="http://arxiv.org/abs/2610.30598">2610.30598</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29448.html">Chiral-Nematic Lattice Instability in Charge Density Wave of 1T-TiSe2</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Abdurrafi Ahsan Alghifari et al.</td>
-<td><a href="http://arxiv.org/abs/2610.29448">2610.29448</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29779.html">Mamba Quantum Eigensolver (MQE): A Selective State Space Model for Scalable Ground State Simulations in Quantum Chemistry</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="quantum-computing-30d.html">quantum-computing</a></div></td>
-<td>G. X. A. Petronilo et al.</td>
-<td><a href="http://arxiv.org/abs/2610.29779">2610.29779</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30010.html">Electronic, structural and magnetic properties of goldene nanoribbons</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Fabrício M. de Vasconcelos et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30010">2610.30010</a></td>
 </tr>
 </tbody></table>

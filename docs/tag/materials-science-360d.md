@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-science — 360d</h1>
-  <span class="paper-count">320 papers</span>
+  <span class="paper-count">317 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <strong>360d</strong> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1916,23 +1916,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20976.html">AI4X Roadmap: Artificial Intelligence for the advancement of scientific pursuit and its future directions</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
 <td>Stephen G. Dale et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20976">2511.20976</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20015.html">iRadioDiff: Physics-Informed Diffusion Model for Indoor Radio Map Construction and Localization</a></div></td>
-<td>Xiucheng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20015">2511.20015</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20506.html">Physically Interpretable Interatomic Potentials via Symbolic Regression and Reinforcement Learning</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Bilvin Varughese et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20506">2511.20506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20740.html">CHIPS-TB: Evaluating Tight-Binding Models For Metals, Semiconductors, and Insulators</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>In Jun Park et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20740">2511.20740</a></td>
 </tr>
 </tbody></table>

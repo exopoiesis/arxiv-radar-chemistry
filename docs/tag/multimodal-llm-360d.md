@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>multimodal-llm — 360d</h1>
-  <span class="paper-count">86 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <a href="multimodal-llm-30d.html">30d</a> <a href="multimodal-llm-90d.html">90d</a> <strong>360d</strong> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -524,11 +524,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11375.html">Benchmarking Multimodal LLMs on Recognition and Understanding over Chemical Tables</a></div></td>
 <td>Yitong Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11375">2506.11375</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20490.html">MTBBench: A Multimodal Sequential Clinical Decision-Making Benchmark in Oncology</a></div></td>
-<td>Kiril Vasilev et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20490">2511.20490</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>2d-materials — 30d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <strong>30d</strong> <a href="2d-materials-90d.html">90d</a> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,17 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31805.html">Low-energy collective electronic excitations in a gold monolayer</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
 <td>Vyacheslav M. Silkin et al.</td>
 <td><a href="http://arxiv.org/abs/2610.31805">2610.31805</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29112.html">Geometry and electronic properties of chiral phosphorene nanotubes</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a></div></td>
-<td>Felipe Cervantes-Sodi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.29112">2610.29112</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29703.html">Choosing Spatial Resolution in the Residence-Time Approach to Local Diffusivity</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Michael von Domaros et al.</td>
-<td><a href="http://arxiv.org/abs/2610.29703">2610.29703</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">315 papers</span>
+  <span class="paper-count">313 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1892,17 +1892,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22642.html">A Machine Learning Model for the Chemistry of a Solvated Electron</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Ruiqi Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22642">2511.22642</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17766.html">Noncollinear Spin-Flip TDDFT for Potential Energy Surface Crossings: Conical Intersections and Spin Crossings</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Xiaoyu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17766">2505.17766</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15577.html">LFaB: Low fidelity as Bias for Active Learning in the chemical configuration space</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Vivin Vinod et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15577">2508.15577</a></td>
 </tr>
 </tbody></table>

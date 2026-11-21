@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1489 papers</span>
+  <span class="paper-count">1481 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -8900,53 +8900,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21905.html">EPW-VASP interface for first-principles calculations of electron-phonon interactions</a></div></td>
 <td>Danylo Radevych et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21905">2511.21905</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10767.html">Ab initio computations of the fourth-order charge density moments of $^{48}$Ca and $^{208}$Pb</a></div></td>
-<td>T. Miyagi et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10767">2508.10767</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15577.html">LFaB: Low fidelity as Bias for Active Learning in the chemical configuration space</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Vivin Vinod et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15577">2508.15577</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18526.html">Ab initio modeling of resonant inelastic x-ray scattering from Ca2RuO4</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>D. A. Kukusta et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18526">2511.18526</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19862.html">Water induced bandgap engineering in nanoribbons of hexagonal boron nitride</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Chen Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19862">2511.19862</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20197.html">High-pressure melting and elastic behavior of vanadium and niobium based on ab initio and machine learning molecular dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Hao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20197">2511.20197</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20363.html">Stretching helical molecular springs: the peculiar evolution of electron transport in helicene junctions</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Anil Kumar Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20363">2511.20363</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20863.html">Bridging Atomistic and Mesoscale Lithium Transport via Machine-Learned Force Fields and Markov State Models</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Muhammad Nawaz Qaisrani et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20863">2511.20863</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20885.html">Cr2O3/\b{eta}-Ga2O3 Heterojunction Diodes with Orientation-Dependent Breakdown Electric Field up to 12.9 MV/cm</a></div></td>
-<td>Yizheng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20885">2511.20885</a></td>
 </tr>
 </tbody></table>

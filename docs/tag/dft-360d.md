@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">1987 papers</span>
+  <span class="paper-count">1978 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -11882,59 +11882,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21981.html">Superionicity in Ammonium Polyhydrides at Extreme Pressures</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Kyla de Villa et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21981">2511.21981</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02961.html">Universal Approach for Determining Multi-Dimensional Anharmonic Vibrations from Electronic Quantum Methods</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Kushantha P. K. Withanage et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02961">2509.02961</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09184.html">Surfaces and interfaces of infinite-layer nickelates studied by dynamical mean-field theory</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Leonard M. Verhoff et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09184">2509.09184</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19036.html">Quantum-electrodynamical time-dependent density functional theory description of molecules in optical cavities</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Yetmgeta Aklilu et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19036">2509.19036</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16263.html">Prediction of atomic H adsorption energies in metalloid doped MSSe (M = Mo/W) Janus layers: A combined DFT and machine learning study</a></div><div class="paper-tags"><a href="photocatalysis-360d.html">photocatalysis</a></div></td>
-<td>G. Tejaswini et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16263">2511.16263</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18233.html">Analytical Excited-State Gradients and Derivative Couplings in TDDFT with Minimal Auxiliary Basis Set Approximation and GPU Acceleration</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Zhichen Pu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18233">2511.18233</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18526.html">Ab initio modeling of resonant inelastic x-ray scattering from Ca2RuO4</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>D. A. Kukusta et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18526">2511.18526</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20506.html">Physically Interpretable Interatomic Potentials via Symbolic Regression and Reinforcement Learning</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Bilvin Varughese et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20506">2511.20506</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20740.html">CHIPS-TB: Evaluating Tight-Binding Models For Metals, Semiconductors, and Insulators</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>In Jun Park et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20740">2511.20740</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20863.html">Bridging Atomistic and Mesoscale Lithium Transport via Machine-Learned Force Fields and Markov State Models</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Muhammad Nawaz Qaisrani et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20863">2511.20863</a></td>
 </tr>
 </tbody></table>

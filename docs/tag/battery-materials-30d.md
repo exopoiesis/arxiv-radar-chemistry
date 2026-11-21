@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>battery-materials — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <strong>30d</strong> <a href="battery-materials-90d.html">90d</a> <a href="battery-materials-360d.html">360d</a> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32938.html">Vacancy-enhanced Li solid-solution anodes for solid-state batteries: computational screening enabling high critical current density</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Arseniy S. Burov et al.</td>
 <td><a href="http://arxiv.org/abs/2610.32938">2610.32938</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30513.html">Concentration-Dependent Speciation in ZnCl2 Electrolyte Solutions: Transferability of Machine-Learning Interatomic Potentials and Speciation Sensitivity of EXAFS</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Junhan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30513">2610.30513</a></td>
 </tr>
 </tbody></table>

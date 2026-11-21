@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <strong>30d</strong> <a href="reinforcement-learning-90d.html">90d</a> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34585.html">Large Language Models: A Plain-Language Overview for Engineers</a></div></td>
 <td>Bahaeddin Türkoğlu</td>
 <td><a href="http://arxiv.org/abs/2610.34585">2610.34585</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29189.html">Reasoning-Search-Augmented LLMs: An Operational Taxonomy, Benchmark Analysis and Controlled Evidence Synthesis</a></div></td>
-<td>Biswas Poudel et al.</td>
-<td><a href="http://arxiv.org/abs/2610.29189">2610.29189</a></td>
 </tr>
 </tbody></table>

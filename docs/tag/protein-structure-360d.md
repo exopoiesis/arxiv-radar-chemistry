@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">222 papers</span>
+  <span class="paper-count">221 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1340,11 +1340,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22519.html">FoldSAE: Learning to Steer Protein Folding Through Sparse Representations</a></div></td>
 <td>Wojciech Zarzecki et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22519">2511.22519</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05003.html">A patchy-particle 3-dimensional octagonal quasicrystal</a></div></td>
-<td>Akie Kowaguchi et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05003">2408.05003</a></td>
 </tr>
 </tbody></table>

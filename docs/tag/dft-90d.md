@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>dft — 90d</h1>
-  <span class="paper-count">444 papers</span>
+  <span class="paper-count">441 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <strong>90d</strong> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2660,23 +2660,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22464.html">A test drive for exchange-correlation functionals on noncollinear magnets: Mn$_3$Ir, Mn$_3$Ge, NiS$_2$, and YMnO$_3$</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Marie-Therese Huebsch et al.</td>
 <td><a href="http://arxiv.org/abs/2608.22464">2608.22464</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21741.html">First-Principles Atomistic Structure and Dynamics of Polyethylene During High-Pressure Radical Polymerization via Machine Learning Force Fields</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="mlip-90d.html">mlip</a> · <a href="property-prediction-90d.html">property-prediction</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
-<td>Bharatha K. Gunawardana et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21741">2608.21741</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21892.html">PhysECD: A Physics-Constrained E(3)-Equivariant Framework for Electronic Circular Dichroism Spectrum Prediction</a></div><div class="paper-tags"><a href="excited-states-90d.html">excited-states</a></div></td>
-<td>Yi Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21892">2608.21892</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22009.html">Impact of interstitial carbon on local lattice distortions in CoCrFeMnNi high-entropy alloys</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="phase-transition-90d.html">phase-transition</a></div></td>
-<td>Alevtina Smekhova et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22009">2608.22009</a></td>
 </tr>
 </tbody></table>

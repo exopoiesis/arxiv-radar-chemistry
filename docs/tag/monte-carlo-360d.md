@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">303 papers</span>
+  <span class="paper-count">302 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1826,11 +1826,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00512.html">Dual Role of Nb in Defect-Mediated Strength and Ductility of γ-TiAl Alloys</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
 <td>Zhiqiang Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00512">2512.00512</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20506.html">Physically Interpretable Interatomic Potentials via Symbolic Regression and Reinforcement Learning</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
-<td>Bilvin Varughese et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20506">2511.20506</a></td>
 </tr>
 </tbody></table>

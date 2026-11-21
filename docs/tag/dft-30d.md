@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">100 papers</span>
+  <span class="paper-count">94 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -578,41 +578,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31805.html">Low-energy collective electronic excitations in a gold monolayer</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
 <td>Vyacheslav M. Silkin et al.</td>
 <td><a href="http://arxiv.org/abs/2610.31805">2610.31805</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29386.html">First-principles modeling of ordering in Fe-rich Fe-Si alloys</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Daniil M. Khodachenko et al.</td>
-<td><a href="http://arxiv.org/abs/2610.29386">2610.29386</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29858.html">Robust Anomalous Hall Effect in Epitaxial Cubic D0$_3$-Fe$_3$Ge Nanoplates Grown by Chemical Vapor Deposition</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Mingxuan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.29858">2610.29858</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30086.html">Orbitol: Crystal Generation on Wyckoff Orbits</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Ivan Žugec et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30086">2610.30086</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30210.html">Electronic Screening as a Design Lever in La-Doped BaTiO$_3$: Coupled Polarization, Dielectric Response, and Optical Anisotropy</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Sikandar Azam et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30210">2610.30210</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30509.html">A Potential New Dimension of Astrophysical Aromatic Functionalization: Phosphaethynyl (CP) Derivatives</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Reace H. J. Willis et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30509">2610.30509</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30513.html">Concentration-Dependent Speciation in ZnCl2 Electrolyte Solutions: Transferability of Machine-Learning Interatomic Potentials and Speciation Sensitivity of EXAFS</a></div><div class="paper-tags"><a href="battery-materials-30d.html">battery-materials</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Junhan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30513">2610.30513</a></td>
 </tr>
 </tbody></table>

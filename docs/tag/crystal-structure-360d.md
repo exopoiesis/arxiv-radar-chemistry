@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">252 papers</span>
+  <span class="paper-count">249 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1508,23 +1508,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21981.html">Superionicity in Ammonium Polyhydrides at Extreme Pressures</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Kyla de Villa et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21981">2511.21981</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18526.html">Ab initio modeling of resonant inelastic x-ray scattering from Ca2RuO4</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>D. A. Kukusta et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18526">2511.18526</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20327.html">MXtalTools: A Toolkit for Machine Learning on Molecular Crystals</a></div></td>
-<td>Michael Kilgour et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20327">2511.20327</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20362.html">PRISM: Periodic Representation with multIscale and Similarity graph Modelling for enhanced crystal structure property prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Àlex Solé et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20362">2511.20362</a></td>
 </tr>
 </tbody></table>

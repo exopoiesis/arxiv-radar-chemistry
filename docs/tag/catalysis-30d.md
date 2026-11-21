@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>catalysis — 30d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <strong>30d</strong> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,23 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33774.html">Polarized X-rays from table-top free-electron-driven van der Waals crystals</a></div><div class="paper-tags"><a href="vdw-correction-30d.html">vdw-correction</a></div></td>
 <td>Nikhil Pramanik et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33774">2610.33774</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30010.html">Electronic, structural and magnetic properties of goldene nanoribbons</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Fabrício M. de Vasconcelos et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30010">2610.30010</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30393.html">Thermomagnetic enhancement of conserved-charge correlations in a lattice-constrained PNJL model</a></div></td>
-<td>Bruno S. Lopes et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30393">2610.30393</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30531.html">Shorter but not more catalytic: an active-site-resolved model of how tau reshapes amyloid-$β$ secondary nucleation</a></div></td>
-<td>Andrey V. Kuznetsov</td>
-<td><a href="http://arxiv.org/abs/2610.30531">2610.30531</a></td>
 </tr>
 </tbody></table>

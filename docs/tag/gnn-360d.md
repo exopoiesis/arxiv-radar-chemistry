@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">348 papers</span>
+  <span class="paper-count">347 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2096,11 +2096,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05979.html">Accelerating Materials Discovery: Learning a Universal Representation of Chemical Processes for Cross-Domain Property Prediction</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Mikhail Tsitsvero et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05979">2512.05979</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20362.html">PRISM: Periodic Representation with multIscale and Similarity graph Modelling for enhanced crystal structure property prediction</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Àlex Solé et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20362">2511.20362</a></td>
 </tr>
 </tbody></table>

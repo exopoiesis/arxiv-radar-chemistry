@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">399 papers</span>
+  <span class="paper-count">397 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2396,17 +2396,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21904.html">Perspective: Magnon-magnon coupling in hybrid magnonics</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Wei Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21904">2511.21904</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09184.html">Surfaces and interfaces of infinite-layer nickelates studied by dynamical mean-field theory</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Leonard M. Verhoff et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09184">2509.09184</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19862.html">Water induced bandgap engineering in nanoribbons of hexagonal boron nitride</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Chen Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19862">2511.19862</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1481 papers</span>
+  <span class="paper-count">1474 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -8858,47 +8858,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22642.html">A Machine Learning Model for the Chemistry of a Solvated Electron</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Ruiqi Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22642">2511.22642</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.14734.html">Ab initio study of orbital-selective superconductivity in $γ$-BiPd</a></div></td>
-<td>Sonu Prasad Keshri et al.</td>
-<td><a href="http://arxiv.org/abs/2411.14734">2411.14734</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12502.html">The logic of quantum mechanics</a></div></td>
-<td>Eric Buffenoir</td>
-<td><a href="http://arxiv.org/abs/2510.12502">2510.12502</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21254.html">Coupled Structural and Electronic Requirements in Alpha-FASnI3 Imposed by the Sn(II) Lone Pair</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Mridhula Venkatanarayanan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21254">2511.21254</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21404.html">Revealing Fast Ionic Conduction in Solid Electrolytes through Machine Learning Accelerated Raman Calculations</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Manuel Grumet et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21404">2511.21404</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21430.html">Quantum electrodynamic description of the neutral hydrogen molecule ionization</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Hui-hui Miao</td>
-<td><a href="http://arxiv.org/abs/2511.21430">2511.21430</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21657.html">Edge-Dependent Superconductivity in Twisted Bismuth Bilayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Isaías Rodríguez et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21657">2511.21657</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21905.html">EPW-VASP interface for first-principles calculations of electron-phonon interactions</a></div></td>
-<td>Danylo Radevych et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21905">2511.21905</a></td>
 </tr>
 </tbody></table>

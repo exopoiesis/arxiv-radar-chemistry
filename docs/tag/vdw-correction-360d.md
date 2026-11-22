@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vdw-correction — 360d</h1>
-  <span class="paper-count">140 papers</span>
+  <span class="paper-count">139 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <strong>360d</strong> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -848,11 +848,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00362.html">Anisotropic and isotropic elasticity and thermal transport in monolayer C$_{24}$ networks from machine-learning molecular dynamics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Qing Li et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00362">2512.00362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21904.html">Perspective: Magnon-magnon coupling in hybrid magnonics</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Wei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21904">2511.21904</a></td>
 </tr>
 </tbody></table>

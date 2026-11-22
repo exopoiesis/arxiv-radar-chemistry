@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">1978 papers</span>
+  <span class="paper-count">1965 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -11804,83 +11804,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00118.html">An algorithm for atom-centered lossy compression of the atomic orbital basis in density functional theory calculations</a></div></td>
 <td>Anthony O. Lara et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00118">2512.00118</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04292.html">Electronic structure of UTe$_2$ under pressure</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Makoto Shimizu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.04292">2408.04292</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03508.html">From localized 4f electrons to anisotropic exchange interactions in ferromagnetic CeRh6Ge4</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
-<td>Shoichiro Itokazu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03508">2507.03508</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25798.html">Scalable Reactive Atomistic Dynamics with GAIA</a></div><div class="paper-tags"><a href="metadynamics-360d.html">metadynamics</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Suhwan Song et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25798">2509.25798</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17398.html">Crystal Growth and Physical Properties of Orthorhombic Kagome Lattice Magnets $R$Fe$_6$Ge$_6$ ($R$=Y, Tb, Dy)</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Abhijeet Nayak et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17398">2511.17398</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21299.html">Discovery and recovery of crystalline materials with property-conditioned transformers</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Cyprien Bone et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21299">2511.21299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21464.html">Fast machine learned $α$-Fe-H interatomic potential for hydrogen embrittlement</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Eetu Makkonen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21464">2511.21464</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21567.html">Enhanced antineutrino emission from $β$ decay in core-collapse supernovae with self-consistent weak decay rates</a></div></td>
-<td>T. Dasher et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21567">2511.21567</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21600.html">TAB-DRW: A DFT-based Robust Watermark for Generative Tabular Data</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Yizhou Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21600">2511.21600</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21657.html">Edge-Dependent Superconductivity in Twisted Bismuth Bilayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Isaías Rodríguez et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21657">2511.21657</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21821.html">IRSSG: An Open-Source Software Package for Spin Space Groups</a></div></td>
-<td>Sheng Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21821">2511.21821</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21900.html">Beyond Atoms: Evaluating Electron Density Representation for 3D Molecular Learning</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Patricia Suriana et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21900">2511.21900</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21965.html">Demonstration of the ODMR activity of the telecom range ClV center in SiC: a wavefunction theory analysis</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Zsolt Benedek et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21965">2511.21965</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21981.html">Superionicity in Ammonium Polyhydrides at Extreme Pressures</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kyla de Villa et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21981">2511.21981</a></td>
 </tr>
 </tbody></table>

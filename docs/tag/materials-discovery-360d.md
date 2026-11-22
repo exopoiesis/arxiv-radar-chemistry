@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>materials-discovery — 360d</h1>
-  <span class="paper-count">250 papers</span>
+  <span class="paper-count">246 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <a href="materials-discovery-90d.html">90d</a> <strong>360d</strong> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1490,29 +1490,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05989.html">A self-driving lab for solution-processed electrochromic thin films</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
 <td>Selma Dahms et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05989">2512.05989</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21213.html">Lattice-to-total thermal conductivity ratio: a phonon-glass electron-crystal descriptor for data-driven thermoelectric design</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Yifan Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21213">2511.21213</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21299.html">Discovery and recovery of crystalline materials with property-conditioned transformers</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Cyprien Bone et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21299">2511.21299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21904.html">Perspective: Magnon-magnon coupling in hybrid magnonics</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Wei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21904">2511.21904</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05979.html">Accelerating Materials Discovery: Learning a Universal Representation of Chemical Processes for Cross-Domain Property Prediction</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
-<td>Mikhail Tsitsvero et al.</td>
-<td><a href="http://arxiv.org/abs/2512.05979">2512.05979</a></td>
 </tr>
 </tbody></table>

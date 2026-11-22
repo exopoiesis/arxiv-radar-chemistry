@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">408 papers</span>
+  <span class="paper-count">405 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2444,23 +2444,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17741.html">Diffusion Models are Molecular Dynamics Simulators</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Justin Diamond et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17741">2511.17741</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00209.html">Diffusion Models at the Drug Discovery Frontier: A Review on Generating Small Molecules versus Therapeutic Peptides</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Yiquan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00209">2511.00209</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21129.html">CtrlVDiff: Controllable Video Generation via Unified Multimodal Video Diffusion</a></div></td>
-<td>Dianbing Xi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21129">2511.21129</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21600.html">TAB-DRW: A DFT-based Robust Watermark for Generative Tabular Data</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Yizhou Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21600">2511.21600</a></td>
 </tr>
 </tbody></table>

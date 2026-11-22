@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1530 papers</span>
+  <span class="paper-count">1524 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9158,41 +9158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22676.html">A Finite Element Method for Simulation of Coupled Dynamics of Dislocations and Fracture</a></div></td>
 <td>Boyang Gu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22676">2511.22676</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01141.html">Tailoring Heat Transfer at Silica-Water Interfaces via Hydroxyl and Methyl Surface Groups</a></div></td>
-<td>Viktor Mandrolko et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01141">2505.01141</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04102.html">A simulation that recapitulates the dynamics of PER-directed colloidal assembly</a></div></td>
-<td>Cheng-Hung Chou et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04102">2511.04102</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21238.html">The effects of decoherence on Fermi&#x27;s golden rule</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Caihong Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21238">2511.21238</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21254.html">Coupled Structural and Electronic Requirements in Alpha-FASnI3 Imposed by the Sn(II) Lone Pair</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Mridhula Venkatanarayanan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21254">2511.21254</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21464.html">Fast machine learned $α$-Fe-H interatomic potential for hydrogen embrittlement</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Eetu Makkonen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21464">2511.21464</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21981.html">Superionicity in Ammonium Polyhydrides at Extreme Pressures</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Kyla de Villa et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21981">2511.21981</a></td>
 </tr>
 </tbody></table>

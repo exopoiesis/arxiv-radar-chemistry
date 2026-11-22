@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">316 papers</span>
+  <span class="paper-count">313 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1892,23 +1892,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00972.html">Observation of hidden altermagnetism in Cs$_{1-δ}$V$_2$Te$_2$O</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
 <td>Guowei Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00972">2512.00972</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03508.html">From localized 4f electrons to anisotropic exchange interactions in ferromagnetic CeRh6Ge4</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Shoichiro Itokazu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03508">2507.03508</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17398.html">Crystal Growth and Physical Properties of Orthorhombic Kagome Lattice Magnets $R$Fe$_6$Ge$_6$ ($R$=Y, Tb, Dy)</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Abhijeet Nayak et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17398">2511.17398</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21254.html">Coupled Structural and Electronic Requirements in Alpha-FASnI3 Imposed by the Sn(II) Lone Pair</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Mridhula Venkatanarayanan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21254">2511.21254</a></td>
 </tr>
 </tbody></table>

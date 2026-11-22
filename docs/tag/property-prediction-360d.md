@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">229 papers</span>
+  <span class="paper-count">227 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1376,17 +1376,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07619.html">The Catechol Benchmark: Time-series Solvent Selection Data for Few-shot Machine Learning</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
 <td>Toby Boyne et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07619">2506.07619</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21120.html">Learning Cell-Aware Hierarchical Multi-Modal Representations for Robust Molecular Modeling</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Mengran Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21120">2511.21120</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21900.html">Beyond Atoms: Evaluating Electron Density Representation for 3D Molecular Learning</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="protein-ligand-360d.html">protein-ligand</a></div></td>
-<td>Patricia Suriana et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21900">2511.21900</a></td>
 </tr>
 </tbody></table>

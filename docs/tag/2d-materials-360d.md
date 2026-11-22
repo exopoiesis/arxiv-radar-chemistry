@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">505 papers</span>
+  <span class="paper-count">503 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3032,17 +3032,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00362.html">Anisotropic and isotropic elasticity and thermal transport in monolayer C$_{24}$ networks from machine-learning molecular dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Qing Li et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00362">2512.00362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21238.html">The effects of decoherence on Fermi&#x27;s golden rule</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Caihong Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21238">2511.21238</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21657.html">Edge-Dependent Superconductivity in Twisted Bismuth Bilayers</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Isaías Rodríguez et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21657">2511.21657</a></td>
 </tr>
 </tbody></table>

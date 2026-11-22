@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -914,17 +914,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06301.html">Chemistry Integrated Language Model using Hierarchical Molecular Representation for Polymer Informatics</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Jihun Ahn et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06301">2512.06301</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00209.html">Diffusion Models at the Drug Discovery Frontier: A Review on Generating Small Molecules versus Therapeutic Peptides</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Yiquan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00209">2511.00209</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21120.html">Learning Cell-Aware Hierarchical Multi-Modal Representations for Robust Molecular Modeling</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
-<td>Mengran Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21120">2511.21120</a></td>
 </tr>
 </tbody></table>

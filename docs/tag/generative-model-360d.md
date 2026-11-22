@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">458 papers</span>
+  <span class="paper-count">454 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2738,29 +2738,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22640.html">Flow Density Control: Generative Optimization Beyond Entropy-Regularized Fine-Tuning</a></div></td>
 <td>Riccardo De Santi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22640">2511.22640</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09298.html">DensiCrafter: Physically-Constrained Generation and Fabrication of Self-Supporting Hollow Structures</a></div></td>
-<td>Shengqi Dang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09298">2511.09298</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12489.html">SculptDrug : A Spatial Condition-Aware Bayesian Flow Model for Structure-based Drug Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Qingsong Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2511.12489">2511.12489</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20510.html">FRAGMENTA: End-to-end Fragmentation-based Generative Model with Agentic Tuning for Drug Lead Optimization</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Yuto Suzuki et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20510">2511.20510</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21299.html">Discovery and recovery of crystalline materials with property-conditioned transformers</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Cyprien Bone et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21299">2511.21299</a></td>
 </tr>
 </tbody></table>

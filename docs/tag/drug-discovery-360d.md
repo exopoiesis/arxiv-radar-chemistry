@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">465 papers</span>
+  <span class="paper-count">461 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2780,29 +2780,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22311.html">Swarms of Large Language Model Agents for Protein Sequence Design with Experimental Validation</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="protein-llm-360d.html">protein-llm</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Fiona Y. Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22311">2511.22311</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00209.html">Diffusion Models at the Drug Discovery Frontier: A Review on Generating Small Molecules versus Therapeutic Peptides</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-representation-360d.html">molecular-representation</a></div></td>
-<td>Yiquan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00209">2511.00209</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12489.html">SculptDrug : A Spatial Condition-Aware Bayesian Flow Model for Structure-based Drug Design</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Qingsong Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2511.12489">2511.12489</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20471.html">Universe of Thoughts: Enabling Creative Reasoning with Large Language Models</a></div></td>
-<td>Yuto Suzuki et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20471">2511.20471</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20510.html">FRAGMENTA: End-to-end Fragmentation-based Generative Model with Agentic Tuning for Drug Lead Optimization</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Yuto Suzuki et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20510">2511.20510</a></td>
 </tr>
 </tbody></table>

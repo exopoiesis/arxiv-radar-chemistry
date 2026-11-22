@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">347 papers</span>
+  <span class="paper-count">346 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2090,11 +2090,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22885.html">Evaluating Mechanical Property Prediction across Material Classes using Molecular Dynamics Simulations with Universal Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Konstantin Stracke et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22885">2511.22885</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05979.html">Accelerating Materials Discovery: Learning a Universal Representation of Chemical Processes for Cross-Domain Property Prediction</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Mikhail Tsitsvero et al.</td>
-<td><a href="http://arxiv.org/abs/2512.05979">2512.05979</a></td>
 </tr>
 </tbody></table>

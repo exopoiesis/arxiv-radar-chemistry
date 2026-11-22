@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">397 papers</span>
+  <span class="paper-count">392 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2366,35 +2366,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00340.html">Emergent Anomalous and Topological Hall Responses in an Epitaxial Ferromagnetic Weyl Nodal-Line metal Fe5Si3</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
 <td>Shubhashish Pati et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00340">2512.00340</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04292.html">Electronic structure of UTe$_2$ under pressure</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Makoto Shimizu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.04292">2408.04292</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21254.html">Coupled Structural and Electronic Requirements in Alpha-FASnI3 Imposed by the Sn(II) Lone Pair</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Mridhula Venkatanarayanan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21254">2511.21254</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21299.html">Discovery and recovery of crystalline materials with property-conditioned transformers</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Cyprien Bone et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21299">2511.21299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21657.html">Edge-Dependent Superconductivity in Twisted Bismuth Bilayers</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Isaías Rodríguez et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21657">2511.21657</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21904.html">Perspective: Magnon-magnon coupling in hybrid magnonics</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
-<td>Wei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21904">2511.21904</a></td>
 </tr>
 </tbody></table>

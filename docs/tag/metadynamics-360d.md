@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>metadynamics — 360d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="metadynamics-7d.html">7d</a> <a href="metadynamics-30d.html">30d</a> <a href="metadynamics-90d.html">90d</a> <strong>360d</strong> <a href="metadynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,11 +128,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.05419.html">Implementation of Girsanov Reweighting in CP2K</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Sascha Jähnigen et al.</td>
 <td><a href="http://arxiv.org/abs/2601.05419">2601.05419</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25798.html">Scalable Reactive Atomistic Dynamics with GAIA</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Suhwan Song et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25798">2509.25798</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -710,17 +710,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07619.html">The Catechol Benchmark: Time-series Solvent Selection Data for Few-shot Machine Learning</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Toby Boyne et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07619">2506.07619</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20976.html">AI4X Roadmap: Artificial Intelligence for the advancement of scientific pursuit and its future directions</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Stephen G. Dale et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20976">2511.20976</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21297.html">Active Learning Driven Materials Discovery for Low Thermal Conductivity Rare-Earth Pyrochlore for Thermal Barrier Coatings</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Amiya Chowdhury et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21297">2511.21297</a></td>
 </tr>
 </tbody></table>

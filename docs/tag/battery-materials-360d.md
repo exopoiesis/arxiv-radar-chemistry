@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>battery-materials — 360d</h1>
-  <span class="paper-count">185 papers</span>
+  <span class="paper-count">183 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <strong>360d</strong> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1112,17 +1112,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22540.html">Anomalous double-layer restructuring in water-in-salt electrolytes at graphitic interfaces governs capacitance</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Hannah O. Wood et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22540">2511.22540</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21404.html">Revealing Fast Ionic Conduction in Solid Electrolytes through Machine Learning Accelerated Raman Calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Manuel Grumet et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21404">2511.21404</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21430.html">Quantum electrodynamic description of the neutral hydrogen molecule ionization</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Hui-hui Miao</td>
-<td><a href="http://arxiv.org/abs/2511.21430">2511.21430</a></td>
 </tr>
 </tbody></table>

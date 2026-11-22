@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-llm — 360d</h1>
-  <span class="paper-count">102 papers</span>
+  <span class="paper-count">101 papers</span>
   <nav class="window-nav"><a href="protein-llm-7d.html">7d</a> <a href="protein-llm-30d.html">30d</a> <a href="protein-llm-90d.html">90d</a> <strong>360d</strong> <a href="protein-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -620,11 +620,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22311.html">Swarms of Large Language Model Agents for Protein Sequence Design with Experimental Validation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Fiona Y. Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22311">2511.22311</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19474.html">g-DPO: Scalable Preference Optimization for Protein Language Models</a></div></td>
-<td>Constance Ferragu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19474">2510.19474</a></td>
 </tr>
 </tbody></table>

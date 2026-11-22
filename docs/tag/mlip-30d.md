@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,17 +248,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34551.html">A thermodynamic correction layer for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
 <td>Sarath Menon et al.</td>
 <td><a href="http://arxiv.org/abs/2610.34551">2610.34551</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31183.html">Unconstrained learning of equivariant atomistic properties</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="gnn-30d.html">gnn</a></div></td>
-<td>Joseph W. Abbott et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31183">2610.31183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31184.html">Anomalous polar chains in halide perovskites</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Erik Fransson et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31184">2610.31184</a></td>
 </tr>
 </tbody></table>

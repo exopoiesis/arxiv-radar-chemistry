@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <strong>30d</strong> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32754.html">Tensor Networks for Materials Simulation and Quantum Chemistry</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
 <td>Saeed S. Jahromi et al.</td>
 <td><a href="http://arxiv.org/abs/2610.32754">2610.32754</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31426.html">Unifying Time-Independent and Time-Dependent Franck--Condon Pictures in Quantum Mechanochemistry via the Linear Coupling Approximation</a></div></td>
-<td>Vladimir V. Rybkin</td>
-<td><a href="http://arxiv.org/abs/2610.31426">2610.31426</a></td>
 </tr>
 </tbody></table>

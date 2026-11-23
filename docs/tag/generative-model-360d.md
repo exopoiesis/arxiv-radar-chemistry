@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">454 papers</span>
+  <span class="paper-count">455 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22050.html">DSADiff: Data Structure-Aware Diffusion for Crystal Structure Prediction via Mitigating Complexity- and Imbalance-Induced Biases</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Jiang Xiaobo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22050">2611.22050</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19072.html">Nahual: A Sequence Model for Language and Atoms</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Austin H. Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19072">2611.19072</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17670.html">Crystal Structure Prediction from Search to Learning: A 30-Year Expedition</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Jianjun Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17670">2611.17670</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18797.html">A Practitioner&#x27;s Guide to Materials Theory and Computation in the Age of Big Data and Artificial Intelligence</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Jack Yang</td>
+<td><a href="http://arxiv.org/abs/2611.18797">2611.18797</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15451.html">Materials research with a general-purpose agent</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
@@ -2720,23 +2744,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12465.html">PhysX-3D: Physical-Grounded 3D Asset Generation</a></div></td>
 <td>Ziang Cao et al.</td>
 <td><a href="http://arxiv.org/abs/2507.12465">2507.12465</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02196.html">Beyond Ensembles: Simulating All-Atom Protein Dynamics in a Learned Latent Space</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a></div></td>
-<td>Aditya Sengar et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02196">2509.02196</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17344.html">Loomis Painter: Reconstructing the Painting Process</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Markus Pobitzer et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17344">2511.17344</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22640.html">Flow Density Control: Generative Optimization Beyond Entropy-Regularized Fine-Tuning</a></div></td>
-<td>Riccardo De Santi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22640">2511.22640</a></td>
 </tr>
 </tbody></table>

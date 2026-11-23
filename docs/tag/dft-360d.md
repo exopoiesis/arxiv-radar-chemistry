@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">1965 papers</span>
+  <span class="paper-count">1961 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23760.html">Physics-Guided Crystal Structure Elucidation from Powder X-Ray Diffraction with Universal Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Yunsung Lim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23760">2611.23760</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20706.html">Adsorbate-Free Screening of Dissociative Water Adsorption on Nickel Nanoparticles via Graph Neural Networks</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="gnn-360d.html">gnn</a></div></td>
 <td>Marta Monti et al.</td>
 <td><a href="http://arxiv.org/abs/2611.20706">2611.20706</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21244.html">A Density Functional Tight Binding Model for Rapid Screening of Spin-Orbit-Coupling-Driven Topological Properties in Bismuth</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Nir Goldman et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21244">2611.21244</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18797.html">A Practitioner&#x27;s Guide to Materials Theory and Computation in the Age of Big Data and Artificial Intelligence</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="mlip-360d.html">mlip</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Jack Yang</td>
+<td><a href="http://arxiv.org/abs/2611.18797">2611.18797</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-12</td>
@@ -11762,47 +11780,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23038.html">Ferroelectric Control of Spin Textures in Layered Hybrid Perovskites</a></div></td>
 <td>Divyanshi Tyagi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.23038">2511.23038</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17060.html">Charge Radii Measurements of Exotic Tin Isotopes in the Proximity of $N=50$ and $N=82$</a></div></td>
-<td>F. P. Gustafsson et al.</td>
-<td><a href="http://arxiv.org/abs/2504.17060">2504.17060</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18786.html">Machine learning interatomic potential for predicting the thermal properties of uranium nitride</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Beihan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18786">2507.18786</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19395.html">Puzzling Isotonic Odd-Even Staggering of Charge Radii in Deformed Rare Earth Nuclei</a></div></td>
-<td>Endre Takacs et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19395">2511.19395</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22260.html">Classical density functional treatment of polydisperse polarisable clusters</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Clifford E. Woodward et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22260">2511.22260</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22642.html">A Machine Learning Model for the Chemistry of a Solvated Electron</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Ruiqi Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22642">2511.22642</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22725.html">Mechanisms for the Formation of Active Sites in Single-Atom Alloys</a></div></td>
-<td>Ioannis Karageorgiou et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22725">2511.22725</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00118.html">An algorithm for atom-centered lossy compression of the atomic orbital basis in density functional theory calculations</a></div></td>
-<td>Anthony O. Lara et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00118">2512.00118</a></td>
 </tr>
 </tbody></table>

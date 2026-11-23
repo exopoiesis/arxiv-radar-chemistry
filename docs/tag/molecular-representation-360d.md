@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-representation — 360d</h1>
-  <span class="paper-count">150 papers</span>
+  <span class="paper-count">151 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <strong>360d</strong> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20848.html">MolReps: Taking SELFIES, Making SMILES, Teaching LLMs</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Ken Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2611.20848">2611.20848</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21276.html">Classical structural priors improve neural molecular representations in molecule language models</a></div></td>
+<td>Donghyeok Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21276">2611.21276</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-12</td>

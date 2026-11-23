@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25779.html">Intelligent Imaging of Thermal Transport in Nanostructures</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Xin Qian et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25779">2611.25779</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16161.html">Emergence of Phonon Hydrodynamics as a Non-Hermitian Symmetry-Breaking Phase Transition</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
 <td>Xin Qian et al.</td>
@@ -356,11 +362,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25112.html">Exploring electron transport in carbon wire systems using a wave function-based multiconfigurational non-equilibrium Green&#x27;s function approach</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Pranesh Raghavendran et al.</td>
 <td><a href="http://arxiv.org/abs/2608.25112">2608.25112</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22989.html">Discovery of New Zintl Films and Nanowires Grown by Topotaxy Conversion of III-V Semiconductors</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a></div></td>
-<td>Man Suk Song et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22989">2608.22989</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 90d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <strong>90d</strong> <a href="bayesian-optimization-360d.html">360d</a> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22013.html">Weight-Space Programming for Materials Science</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
+<td>Sk Md Ahnaf Akif Alvi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22013">2611.22013</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12491.html">Out-of-the-Box Tabular Foundation Models for Bayesian Optimization in Materials Discovery</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="materials-discovery-90d.html">materials-discovery</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
@@ -182,17 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26016.html">Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
 <td>Yuki K. Wakabayashi et al.</td>
 <td><a href="http://arxiv.org/abs/2608.26016">2608.26016</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22841.html">Polymer-Linked Nanoparticle Networks Running on Heat Can Act as Computing Devices</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Xingfei Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22841">2608.22841</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22967.html">Closed-Loop Bayesian Molecular Inverse Design with Semantic LLM Surrogates</a></div></td>
-<td>Yaoyao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22967">2608.22967</a></td>
 </tr>
 </tbody></table>

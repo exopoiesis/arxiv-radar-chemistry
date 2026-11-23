@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>crystal-structure — all</h1>
-  <span class="paper-count">524 papers</span>
+  <span class="paper-count">530 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,46 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23760.html">Physics-Guided Crystal Structure Elucidation from Powder X-Ray Diffraction with Universal Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="materials-discovery-all.html">materials-discovery</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Yunsung Lim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23760">2611.23760</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22050.html">DSADiff: Data Structure-Aware Diffusion for Crystal Structure Prediction via Mitigating Complexity- and Imbalance-Induced Biases</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="generative-model-all.html">generative-model</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Jiang Xiaobo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22050">2611.22050</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22332.html">Mapping phase competition in GaAs under pressure and temperature</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
+<td>Sakshi Patel et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22332">2611.22332</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19072.html">Nahual: A Sequence Model for Language and Atoms</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="generative-model-all.html">generative-model</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Austin H. Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19072">2611.19072</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17670.html">Crystal Structure Prediction from Search to Learning: A 30-Year Expedition</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="generative-model-all.html">generative-model</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Jianjun Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17670">2611.17670</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18043.html">Enrichment-Oriented Virtual Screening of Perovskite Solar Cells through Reinforcement Learning</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
 <td>Yezeyuan Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2611.18043">2611.18043</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18303.html">CGTransformer: A Topology-Aware Autoregressive Framework for Crystal Generation and Inverse Design</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Zhennan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18303">2611.18303</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-12</td>

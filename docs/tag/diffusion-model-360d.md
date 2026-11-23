@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">405 papers</span>
+  <span class="paper-count">406 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26186.html">Reward misalignment as an opportunity for materials discovery</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Ryotaro Okabe et al.</td>
+<td><a href="http://arxiv.org/abs/2611.26186">2611.26186</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22050.html">DSADiff: Data Structure-Aware Diffusion for Crystal Structure Prediction via Mitigating Complexity- and Imbalance-Induced Biases</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Jiang Xiaobo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22050">2611.22050</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19072.html">Nahual: A Sequence Model for Language and Atoms</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Austin H. Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19072">2611.19072</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12107.html">Geometry and Stochastic Analysis of Flow and Diffusion Models: A Survey</a></div></td>
@@ -2432,17 +2450,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01135.html">Diffusion-Based Synthesis of 3D T1w MPRAGE Images from Multi-Echo GRE with Multi-Parametric MRI Integration</a></div></td>
 <td>Sizhe Fang et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01135">2512.01135</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17344.html">Loomis Painter: Reconstructing the Painting Process</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Markus Pobitzer et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17344">2511.17344</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17741.html">Diffusion Models are Molecular Dynamics Simulators</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Justin Diamond et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17741">2511.17741</a></td>
 </tr>
 </tbody></table>

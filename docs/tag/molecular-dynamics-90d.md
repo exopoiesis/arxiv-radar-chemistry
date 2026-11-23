@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26782.html">ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization</a></div></td>
+<td>Trupti Mohanty et al.</td>
+<td><a href="http://arxiv.org/abs/2611.26782">2611.26782</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19321.html">Generation of protein conformations using a simple inverted transformer</a></div></td>
+<td>Luigi Leonardo Palese</td>
+<td><a href="http://arxiv.org/abs/2611.19321">2611.19321</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16266.html">Studying temperature-induced decrease of spontaneous polarization in PbTiO$_3$ from vibrational amplitude</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a></div></td>
 <td>Zhikai Gao et al.</td>
@@ -2210,17 +2222,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24979.html">FrontierChallenge: Evaluating Scientific Workflow Completion</a></div><div class="paper-tags"><a href="quantum-chemistry-90d.html">quantum-chemistry</a></div></td>
 <td>Liangcai Su et al.</td>
 <td><a href="http://arxiv.org/abs/2608.24979">2608.24979</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22841.html">Polymer-Linked Nanoparticle Networks Running on Heat Can Act as Computing Devices</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
-<td>Xingfei Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22841">2608.22841</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22871.html">Binding Affinity between Polymer Dots (Pdots) and Ovalbumin Protein at Varying pH</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a></div></td>
-<td>Xingfei Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22871">2608.22871</a></td>
 </tr>
 </tbody></table>

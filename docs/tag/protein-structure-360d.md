@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">221 papers</span>
+  <span class="paper-count">223 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24546.html">Biases and Limits of AlphaFold Predictions for Non-Globular Proteins</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
+<td>Maria Cristina Aspromonte et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24546">2611.24546</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21857.html">tmol: a GPU-accelerated implementation of the Rosetta energy function for machine learning</a></div></td>
+<td>Andrew Leaver-Fay et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21857">2611.21857</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19158.html">Simulated Annealing with Topological Spatial Chunking for De Novo Protein Sequence Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
+<td>Kandula Eswara Sai Kumar</td>
+<td><a href="http://arxiv.org/abs/2611.19158">2611.19158</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17130.html">Library of peptides: Analysis of a complex reactive mixture with the use of statistical physics and inference</a></div></td>
 <td>Laura Messio et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17130">2611.17130</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17391.html">Confident and Wrong: Structure Confidence Is a Poor Selection Filter for Protein Function</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a></div></td>
+<td>Eric LoPrete et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17391">2611.17391</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -1328,17 +1352,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12565.html">Self Iterative Label Refinement via Robust Unlabeled Learning</a></div></td>
 <td>Hikaru Asano et al.</td>
 <td><a href="http://arxiv.org/abs/2502.12565">2502.12565</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22311.html">Swarms of Large Language Model Agents for Protein Sequence Design with Experimental Validation</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="protein-llm-360d.html">protein-llm</a></div></td>
-<td>Fiona Y. Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22311">2511.22311</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22519.html">FoldSAE: Learning to Steer Protein Folding Through Sparse Representations</a></div></td>
-<td>Wojciech Zarzecki et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22519">2511.22519</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>battery-materials — 360d</h1>
-  <span class="paper-count">183 papers</span>
+  <span class="paper-count">181 papers</span>
   <nav class="window-nav"><a href="battery-materials-7d.html">7d</a> <a href="battery-materials-30d.html">30d</a> <a href="battery-materials-90d.html">90d</a> <strong>360d</strong> <a href="battery-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1100,17 +1100,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00977.html">Crystalyse: a multi-tool agent for materials design</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
 <td>Ryan Nduma et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00977">2512.00977</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22260.html">Classical density functional treatment of polydisperse polarisable clusters</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Clifford E. Woodward et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22260">2511.22260</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22540.html">Anomalous double-layer restructuring in water-in-salt electrolytes at graphitic interfaces governs capacitance</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Hannah O. Wood et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22540">2511.22540</a></td>
 </tr>
 </tbody></table>

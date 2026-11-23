@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-structure — all</h1>
-  <span class="paper-count">500 papers</span>
+  <span class="paper-count">504 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <a href="protein-structure-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24546.html">Biases and Limits of AlphaFold Predictions for Non-Globular Proteins</a></div><div class="paper-tags"><a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Maria Cristina Aspromonte et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24546">2611.24546</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21857.html">tmol: a GPU-accelerated implementation of the Rosetta energy function for machine learning</a></div></td>
+<td>Andrew Leaver-Fay et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21857">2611.21857</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19158.html">Simulated Annealing with Topological Spatial Chunking for De Novo Protein Sequence Design</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
+<td>Kandula Eswara Sai Kumar</td>
+<td><a href="http://arxiv.org/abs/2611.19158">2611.19158</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17130.html">Library of peptides: Analysis of a complex reactive mixture with the use of statistical physics and inference</a></div></td>
 <td>Laura Messio et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17130">2611.17130</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17391.html">Confident and Wrong: Structure Confidence Is a Poor Selection Filter for Protein Function</a></div><div class="paper-tags"><a href="protein-ligand-all.html">protein-ligand</a></div></td>
+<td>Eric LoPrete et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17391">2611.17391</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>

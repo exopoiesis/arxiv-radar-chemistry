@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2611.20848">2611.20848</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21276.html">Classical structural priors improve neural molecular representations in molecule language models</a></div></td>
+<td>Donghyeok Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21276">2611.21276</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14462.html">Accurate predictions of properties of energetic materials with tabular foundation models</a></div></td>
 <td>Vagn Krister Nes Glomsrud et al.</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37410.html">Accurate structural modelling of protein-glycan recognition with GlycoWeave</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Huifeng Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2610.37410">2610.37410</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32490.html">A curated multi-endpoint drug-protein bioactivity dataset with construct-aware protein targets</a></div></td>
-<td>Lina Abou-Abbas et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32490">2610.32490</a></td>
 </tr>
 </tbody></table>

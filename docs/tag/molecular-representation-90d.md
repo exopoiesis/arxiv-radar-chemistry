@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-representation — 90d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <strong>90d</strong> <a href="molecular-representation-360d.html">360d</a> <a href="molecular-representation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20848.html">MolReps: Taking SELFIES, Making SMILES, Teaching LLMs</a></div><div class="paper-tags"><a href="property-prediction-90d.html">property-prediction</a></div></td>
 <td>Ken Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2611.20848">2611.20848</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21276.html">Classical structural priors improve neural molecular representations in molecule language models</a></div></td>
+<td>Donghyeok Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21276">2611.21276</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-12</td>
@@ -218,17 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25051.html">Visualizing and Quantifying Atomic Contributions to Raman Intensities governed by Spatially-Resolved Atomic Interferences</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="electronic-structure-90d.html">electronic-structure</a></div></td>
 <td>Marc Broeckel et al.</td>
 <td><a href="http://arxiv.org/abs/2608.25051">2608.25051</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23646.html">MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="multimodal-llm-90d.html">multimodal-llm</a> · <a href="property-prediction-90d.html">property-prediction</a></div></td>
-<td>Xinjian Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23646">2608.23646</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23821.html">Finch: Toxicity Dose Response Curve Prediction of Chemical Compounds and Mixtures</a></div></td>
-<td>Abdullah Shouaib et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23821">2608.23821</a></td>
 </tr>
 </tbody></table>

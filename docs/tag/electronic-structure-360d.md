@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electronic-structure — 360d</h1>
-  <span class="paper-count">449 papers</span>
+  <span class="paper-count">448 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <strong>360d</strong> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2702,11 +2702,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00340.html">Emergent Anomalous and Topological Hall Responses in an Epitaxial Ferromagnetic Weyl Nodal-Line metal Fe5Si3</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Shubhashish Pati et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00340">2512.00340</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22060.html">Nonlinear Optical Quantum Communication with a Two-Dimensional Perovskite Light Source</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Shuyue Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22060">2511.22060</a></td>
 </tr>
 </tbody></table>

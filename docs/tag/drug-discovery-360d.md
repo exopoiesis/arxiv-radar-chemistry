@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">461 papers</span>
+  <span class="paper-count">464 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,16 +16,46 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27015.html">Ruby: State-of-the-Art Potency Prediction across Discovery Regimes Using Learned Structural Representations</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Michael Atkin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27015">2611.27015</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27162.html">Hierarchical Hybrid-Coordinate Flow Matching for Accurate and Physically Plausible Apo-to-Holo Protein Generation</a></div></td>
+<td>Minjong Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27162">2611.27162</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23777.html">STORM: A Lightweight Structure-Free Model for Binding Affinity Prediction</a></div><div class="paper-tags"><a href="protein-ligand-360d.html">protein-ligand</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Ayush Pandit et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23777">2611.23777</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19812.html">Reasoning in the loop: antibody lead optimization by probing mechanism and measurement</a></div></td>
 <td>Samuel Stanton et al.</td>
 <td><a href="http://arxiv.org/abs/2611.19812">2611.19812</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19158.html">Simulated Annealing with Topological Spatial Chunking for De Novo Protein Sequence Design</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td>Kandula Eswara Sai Kumar</td>
+<td><a href="http://arxiv.org/abs/2611.19158">2611.19158</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18043.html">Enrichment-Oriented Virtual Screening of Perovskite Solar Cells through Reinforcement Learning</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a></div></td>
 <td>Yezeyuan Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2611.18043">2611.18043</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18846.html">Multi-Assay Antibody Developability Prediction with Shared Structure-Language Representations</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
+<td>Daria B. Kokh</td>
+<td><a href="http://arxiv.org/abs/2611.18846">2611.18846</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -2768,17 +2798,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00379.html">EnzyCLIP: A Cross-Attention Dual Encoder Framework with Contrastive Learning for Predicting Enzyme Kinetic Constants</a></div><div class="paper-tags"><a href="protein-llm-360d.html">protein-llm</a></div></td>
 <td>Anas Aziz Khan et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00379">2512.00379</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19057.html">RELATE: Relation Extraction in Biomedical Abstracts with LLMs and Ontology Constraints</a></div></td>
-<td>Olawumi Olasunkanmi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19057">2509.19057</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22311.html">Swarms of Large Language Model Agents for Protein Sequence Design with Experimental Validation</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="protein-llm-360d.html">protein-llm</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Fiona Y. Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22311">2511.22311</a></td>
 </tr>
 </tbody></table>

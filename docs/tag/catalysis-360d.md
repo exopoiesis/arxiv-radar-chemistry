@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25106.html">Agentic MLIR-to-QIR Translation with Dual-Backend Testing: A Hybrid Deterministic and LLM Approach</a></div></td>
+<td>Sharmin Afrose et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25106">2611.25106</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22667.html">Generating Circularly Polarized and Chiral Cathodoluminescence from a Single Plasmonic Nanoantenna</a></div></td>
 <td>Stan de Peinder et al.</td>
@@ -1784,11 +1790,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02196.html">Coupling between ferroelectric distortions and excitonic properties in PbTiO$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
 <td>Pietro Pacchioni et al.</td>
 <td><a href="http://arxiv.org/abs/2512.02196">2512.02196</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22413.html">Entanglement gain in supercatalytic state transformations</a></div></td>
-<td>Guillermo Díez-Pastor et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22413">2511.22413</a></td>
 </tr>
 </tbody></table>

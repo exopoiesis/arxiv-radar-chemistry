@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1524 papers</span>
+  <span class="paper-count">1517 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26782.html">ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization</a></div></td>
+<td>Trupti Mohanty et al.</td>
+<td><a href="http://arxiv.org/abs/2611.26782">2611.26782</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19321.html">Generation of protein conformations using a simple inverted transformer</a></div></td>
+<td>Luigi Leonardo Palese</td>
+<td><a href="http://arxiv.org/abs/2611.19321">2611.19321</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16266.html">Studying temperature-induced decrease of spontaneous polarization in PbTiO$_3$ from vibrational amplitude</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
@@ -9104,59 +9116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00212.html">Understanding the Role of Particle Deformability on the Crystal and Glass formation using Two-dimensional Ring Polymer Model</a></div></td>
 <td>Padmanabha Bose et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00212">2512.00212</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05178.html">Unveiling hadronic resonance dynamics at LHC energies: insights from EPOS4</a></div></td>
-<td>Vikash Sumberia et al.</td>
-<td><a href="http://arxiv.org/abs/2412.05178">2412.05178</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18786.html">Machine learning interatomic potential for predicting the thermal properties of uranium nitride</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Beihan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18786">2507.18786</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15341.html">The effect of multi-occupancy traps on the diffusion and retention of multiple hydrogen isotopes in irradiated tungsten and vanadium</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Sanjeet Kaur et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15341">2508.15341</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11148.html">Enhanced Sampling for Efficient Learning of Coarse-Grained Machine Learning Potentials</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Weilong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11148">2510.11148</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17741.html">Diffusion Models are Molecular Dynamics Simulators</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="mlip-360d.html">mlip</a></div></td>
-<td>Justin Diamond et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17741">2511.17741</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22300.html">Molecular simulations of phase separation in elastic polymer networks</a></div></td>
-<td>Takahiro Yokoyama et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22300">2511.22300</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22540.html">Anomalous double-layer restructuring in water-in-salt electrolytes at graphitic interfaces governs capacitance</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Hannah O. Wood et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22540">2511.22540</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22631.html">How Thermostats Influence Dynamics Across Time Scales: A Systematic Study from Fast Motions to Slow Transitions</a></div></td>
-<td>Frederick Heinz et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22631">2511.22631</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22676.html">A Finite Element Method for Simulation of Coupled Dynamics of Dislocations and Fracture</a></div></td>
-<td>Boyang Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22676">2511.22676</a></td>
 </tr>
 </tbody></table>

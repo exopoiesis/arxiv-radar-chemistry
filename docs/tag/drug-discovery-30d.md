@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>drug-discovery — 30d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <strong>30d</strong> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,16 +16,46 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27015.html">Ruby: State-of-the-Art Potency Prediction across Discovery Regimes Using Learned Structural Representations</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
+<td>Michael Atkin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27015">2611.27015</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27162.html">Hierarchical Hybrid-Coordinate Flow Matching for Accurate and Physically Plausible Apo-to-Holo Protein Generation</a></div></td>
+<td>Minjong Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27162">2611.27162</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23777.html">STORM: A Lightweight Structure-Free Model for Binding Affinity Prediction</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
+<td>Ayush Pandit et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23777">2611.23777</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19812.html">Reasoning in the loop: antibody lead optimization by probing mechanism and measurement</a></div></td>
 <td>Samuel Stanton et al.</td>
 <td><a href="http://arxiv.org/abs/2611.19812">2611.19812</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19158.html">Simulated Annealing with Topological Spatial Chunking for De Novo Protein Sequence Design</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Kandula Eswara Sai Kumar</td>
+<td><a href="http://arxiv.org/abs/2611.19158">2611.19158</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18043.html">Enrichment-Oriented Virtual Screening of Perovskite Solar Cells through Reinforcement Learning</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a></div></td>
 <td>Yezeyuan Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2611.18043">2611.18043</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18846.html">Multi-Assay Antibody Developability Prediction with Shared Structure-Language Representations</a></div><div class="paper-tags"><a href="protein-llm-30d.html">protein-llm</a></div></td>
+<td>Daria B. Kokh</td>
+<td><a href="http://arxiv.org/abs/2611.18846">2611.18846</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -122,29 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36280.html">EVA-Flow: Learning Shared Chemistry for Unified Environment-Aware Molecular Conformation Generation</a></div><div class="paper-tags"><a href="protein-ligand-30d.html">protein-ligand</a></div></td>
 <td>Bing Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2610.36280">2610.36280</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32103.html">ReMedI: Inference-Time Refinement and Self-Distillation for Controllable Molecular Optimization</a></div><div class="paper-tags"><a href="molecular-llm-30d.html">molecular-llm</a></div></td>
-<td>Jia Yi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32103">2610.32103</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32779.html">Computational De Novo Design of Miniprotein Candidate Neutralizers Targeting the IL-23 Cytokine Subunit p19</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
-<td>Raghav Paladugu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32779">2610.32779</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33195.html">Agent-guided epitope excision enables economical de novo binder design</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Jun W. Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2610.33195">2610.33195</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33315.html">MLIPDiff: Guiding Denoising Diffusion Models for Structure-Based Drug Design via Machine-Learned Interatomic Potentials</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a></div></td>
-<td>Yiyan Liao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.33315">2610.33315</a></td>
 </tr>
 </tbody></table>

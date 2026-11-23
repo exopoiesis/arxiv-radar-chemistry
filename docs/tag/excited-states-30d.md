@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>excited-states — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <strong>30d</strong> <a href="excited-states-90d.html">90d</a> <a href="excited-states-360d.html">360d</a> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33837.html">V-Representability Beyond Singular Times in Time-Dependent Density Functional Theory: The Hubbard Dimer Case</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Éric Cancès et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33837">2610.33837</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32456.html">Side-Chain Engineering Controls Molecular Packing and Vertical Electron Transport in Discrete n-Type NDI-T2 Oligomers</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Zihao Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32456">2610.32456</a></td>
 </tr>
 </tbody></table>

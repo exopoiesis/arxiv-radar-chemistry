@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>structure-prediction — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="structure-prediction-30d.html">30d</a> <a href="structure-prediction-90d.html">90d</a> <a href="structure-prediction-360d.html">360d</a> <a href="structure-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22050.html">DSADiff: Data Structure-Aware Diffusion for Crystal Structure Prediction via Mitigating Complexity- and Imbalance-Induced Biases</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="diffusion-model-7d.html">diffusion-model</a> · <a href="generative-model-7d.html">generative-model</a></div></td>
 <td>Jiang Xiaobo et al.</td>
 <td><a href="http://arxiv.org/abs/2611.22050">2611.22050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20986.html">Calpha: Toward Native Biomolecular Intelligence in a General-Purpose Language Model</a></div></td>
-<td>Yong Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.20986">2611.20986</a></td>
 </tr>
 </tbody></table>

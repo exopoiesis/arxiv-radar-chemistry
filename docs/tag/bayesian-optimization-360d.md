@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 360d</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -746,23 +746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05388.html">Spectrally-selective dynamic radiative thermoregulation via phase engineering</a></div></td>
 <td>Qizhang Li et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05388">2512.05388</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.03173.html">Rapid optimization in high dimensional space by deep kernel learning augmented genetic algorithms</a></div></td>
-<td>Mani Valleti et al.</td>
-<td><a href="http://arxiv.org/abs/2410.03173">2410.03173</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23141.html">Automated Discovery of Laser Dicing Processes with Bayesian Optimization for Semiconductor Manufacturing</a></div></td>
-<td>David Leeftink et al.</td>
-<td><a href="http://arxiv.org/abs/2511.23141">2511.23141</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05989.html">A self-driving lab for solution-processed electrochromic thin films</a></div><div class="paper-tags"><a href="materials-discovery-360d.html">materials-discovery</a></div></td>
-<td>Selma Dahms et al.</td>
-<td><a href="http://arxiv.org/abs/2512.05989">2512.05989</a></td>
 </tr>
 </tbody></table>

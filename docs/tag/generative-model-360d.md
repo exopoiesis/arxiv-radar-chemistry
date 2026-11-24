@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">455 papers</span>
+  <span class="paper-count">454 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2738,11 +2738,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01756.html">Mofasa: A Step Change in Metal-Organic Framework Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="mof-360d.html">mof</a></div></td>
 <td>Vaidotas Simkus et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01756">2512.01756</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12465.html">PhysX-3D: Physical-Grounded 3D Asset Generation</a></div></td>
-<td>Ziang Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12465">2507.12465</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">223 papers</span>
+  <span class="paper-count">222 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1346,11 +1346,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04490.html">Multiscale guidance of protein structure prediction with heterogeneous cryo-EM data</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Rishwanth Raghu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04490">2506.04490</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.12565.html">Self Iterative Label Refinement via Robust Unlabeled Learning</a></div></td>
-<td>Hikaru Asano et al.</td>
-<td><a href="http://arxiv.org/abs/2502.12565">2502.12565</a></td>
 </tr>
 </tbody></table>

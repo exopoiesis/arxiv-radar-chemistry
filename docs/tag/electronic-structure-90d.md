@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electronic-structure — 90d</h1>
-  <span class="paper-count">93 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <a href="electronic-structure-30d.html">30d</a> <strong>90d</strong> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -554,23 +554,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26440.html">Automatic generation of exchange-correlation response kernels</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
 <td>Susi Lehtola</td>
 <td><a href="http://arxiv.org/abs/2608.26440">2608.26440</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24402.html">Quantum Vibronic Dynamics Shape Catalytically Relevant Au-Ligand Interfaces in Atomically Precise Gold Nanoclusters</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="photocatalysis-90d.html">photocatalysis</a></div></td>
-<td>Mengyuan Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24402">2608.24402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25051.html">Visualizing and Quantifying Atomic Contributions to Raman Intensities governed by Spatially-Resolved Atomic Interferences</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Marc Broeckel et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25051">2608.25051</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25090.html">Intercalation of Alkali Metal into WTe2, the Crystal Structure of A0.5WTe2 and Observation of a Metal-to-Semiconductor Transition</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
-<td>Patrick Schmidt et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25090">2608.25090</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>ab-initio — 30d</h1>
-  <span class="paper-count">64 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <strong>30d</strong> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -374,29 +374,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34551.html">A thermodynamic correction layer for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="electronic-structure-30d.html">electronic-structure</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
 <td>Sarath Menon et al.</td>
 <td><a href="http://arxiv.org/abs/2610.34551">2610.34551</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33457.html">First-Principles Investigation of the Structural, Electronic, Optical, Elastic, and Thermoelectric Properties of X2MoSeO6 (X = K, Rb, Cs)</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Sha Ajharul Islam Forhat et al.</td>
-<td><a href="http://arxiv.org/abs/2610.33457">2610.33457</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33458.html">Relativistic Cavity Quantum Electrodynamical Algebraic Diagrammatic Construction Method for Strong Light-Matter Coupling</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
-<td>Sudipta Chakraborty et al.</td>
-<td><a href="http://arxiv.org/abs/2610.33458">2610.33458</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33838.html">First-Principles-Informed Modeling of Thermal Transport and Laser-Induced Heating in Ultrahigh-Temperature Carbides</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Shivanand Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2610.33838">2610.33838</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33879.html">Finite-temperature ab-initio-Informed Nuclear Equation-of-State Tables (FINEST): Nuclear matter uncertainties in core-collapse supernovae</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Finia P. Jost et al.</td>
-<td><a href="http://arxiv.org/abs/2610.33879">2610.33879</a></td>
 </tr>
 </tbody></table>

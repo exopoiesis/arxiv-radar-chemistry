@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">227 papers</span>
+  <span class="paper-count">225 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1364,17 +1364,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05138.html">polyRETRO: a Language Model Approach to predict Polymerization Class and Monomer(s) for a Target Polymer</a></div></td>
 <td>Sakshi Agarwal et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05138">2512.05138</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.01528.html">Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey</a></div></td>
-<td>Qizhi Pei et al.</td>
-<td><a href="http://arxiv.org/abs/2403.01528">2403.01528</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03080.html">AtomDisc: An Atom-level Tokenizer that Boosts Molecular LLMs and Reveals Structure--Property Associations</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Mingxu Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03080">2512.03080</a></td>
 </tr>
 </tbody></table>

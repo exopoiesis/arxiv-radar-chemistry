@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>electronic-structure — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="electronic-structure-7d.html">7d</a> <strong>30d</strong> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,78 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32723.html">Mixing and Preserving Properties of Non-van der Waals 2D Materials in Sandwich-like Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
+<td>Anastasiia Nihei et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32723">2611.32723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22108.html">Perturbative Recovery of Stabilizer-Subspace Correlations for Quantum Computational Chemistry</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Qianjun Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22108">2611.22108</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29902.html">Autonomous Multireference Quantum Chemistry with Artificial Intelligence Agents</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Younghwan Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29902">2611.29902</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30917.html">Molecular Pawns on a Surface Chessboard: Computational Investigation of Nanographenes with Atomistic Methods</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Antonio Lorenzo Mariano et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30917">2611.30917</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31548.html">Spin Hamiltonian, magnetic anisotropy and excitation spectrum in altermagnetic $α$-MnTe from first principles</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Matteo Costa et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31548">2611.31548</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29349.html">Graph Neural Networks for Accurate Quasiparticle Energy Levels in Large Supercells of Transition Metal Dichalcogenides</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="dft-30d.html">dft</a> · <a href="gnn-30d.html">gnn</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
+<td>Rafael R. Del Grande et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29349">2611.29349</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28747.html">Minimal Three-Band Model and $d$-Wave Superconductivity in La$_4$Ni$_3$O$_8$</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Ao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28747">2611.28747</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27037.html">Transition-Metal Substitutions in MOF-5: A Hybrid-DFT Study of Oxygen Electrocatalysis</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="mof-30d.html">mof</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
+<td>Pedro H. Souza et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27037">2611.27037</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24097.html">Uncovering the Structural, Electronic, and Electrostatic Landscapes of SrTiO$_3$ Grain Boundaries via Grand Canonical Monte Carlo with a Machine-Learning Interatomic Potential</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
+<td>Xing He et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24097">2611.24097</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22649.html">Collisional lineshapes of an N$_2$-perturbed electronic transition in O$_2$ from first principles of quantum theory validated by accurate experimental spectra</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Maciej Gancewski et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22649">2611.22649</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22784.html">From a High-T$\rm_C$ Spin-Gapless Semiconductor to a Spin-Glass: The Role of Disorder in NiMnCrAl</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>Arka Patra et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22784">2611.22784</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24468.html">Hidden topological signatures in a van der Waals ferromagnet revealed by spin-resolved circular-dichroic photoemission</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
+<td>Jay R. Paudel et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24468">2611.24468</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16475.html">Ferroelectric control of exciton photoluminescence in rhombohedrally stacked bilayer WSe$_2$</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a></div></td>
@@ -110,23 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36268.html">Towards Quantum Computation of Bulk FeO</a></div><div class="paper-tags"><a href="quantum-computing-30d.html">quantum-computing</a></div></td>
 <td>Daniel Staros et al.</td>
 <td><a href="http://arxiv.org/abs/2610.36268">2610.36268</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34354.html">Transition Metal-Anchored Newly Synthesized Aza-Triphenylene Monolayer for Efficient Hydrogen Evolution Reaction: Insights from DFT</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="catalysis-30d.html">catalysis</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Soumendra Kumar Das et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34354">2610.34354</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34543.html">Role of site-specific coordination for the structural and electronic properties of a Co-HATCN network on silver</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
-<td>Martin Anstett et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34543">2610.34543</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34551.html">A thermodynamic correction layer for machine learning interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Sarath Menon et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34551">2610.34551</a></td>
 </tr>
 </tbody></table>

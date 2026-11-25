@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31672.html">Photocatalytic Water Splitting in GeC/ReS$_2$ van der Waals Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Parisa Beyranvand et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31672">2611.31672</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13536.html">Adaptive catalyst discovery emerges from composable scientific intelligence</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
 <td>Wentao Li et al.</td>
@@ -200,11 +206,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06029.html">From orbital analysis to active learning: an integrated strategy for the accelerated design of TADF emitters</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
 <td>Jean-Pierre Tchapet Njafa et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06029">2512.06029</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00634.html">Resonant states and nuclear dynamics in solid-state systems: the case of silicon-hydrogen bond dissociation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
-<td>Woncheol Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00634">2512.00634</a></td>
 </tr>
 </tbody></table>

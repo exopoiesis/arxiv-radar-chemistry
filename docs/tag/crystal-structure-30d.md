@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>crystal-structure — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <strong>30d</strong> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,46 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32761.html">Lattice Thermal Conductivity of MgO and the MgSiO$_3$ Polymorphs Bridgmanite and Post-Perovskite at Lower-Mantle Conditions Using Fine-Tuned MACE Potentials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Amrendra Kumar Tiwari et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32761">2611.32761</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29889.html">Unveiling the Complex high-pressure phases of Sodium at the Melting Curve Minimum via Data-Drive Crystal Structure Prediction</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Zhenyu Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29889">2611.29889</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30348.html">Strain-Induced Tetragonal-to-Cubic Transition in MAPbI$_3$ from Machine-Learned Molecular Dynamics</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Daan Holleman et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30348">2611.30348</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30865.html">Altermagnetism of MnSiN2 and MnGeN2 in a wurtzite-based crystal structure</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Ilteris K. Turan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30865">2611.30865</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22140.html">Synthetic Crystal Data Generation for Diffusion Pretraining in Material Property Prediction</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="gnn-30d.html">gnn</a> · <a href="mlip-30d.html">mlip</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
+<td>Aamod Varma et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22140">2611.22140</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23760.html">Physics-Guided Crystal Structure Elucidation from Powder X-Ray Diffraction with Universal Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Yunsung Lim et al.</td>
 <td><a href="http://arxiv.org/abs/2611.23760">2611.23760</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24097.html">Uncovering the Structural, Electronic, and Electrostatic Landscapes of SrTiO$_3$ Grain Boundaries via Grand Canonical Monte Carlo with a Machine-Learning Interatomic Potential</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
+<td>Xing He et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24097">2611.24097</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-17</td>
@@ -29,9 +65,21 @@ current_window: 30d
 </tr>
 <tr class="paper">
 <td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22153.html">Swift Heavy Ion Tracks in Polymorphs of Titanium Dioxide: The Effects of Electron Beam and Crystal Structures</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Xiaoting Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22153">2611.22153</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22332.html">Mapping phase competition in GaAs under pressure and temperature</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
 <td>Sakshi Patel et al.</td>
 <td><a href="http://arxiv.org/abs/2611.22332">2611.22332</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20614.html">Nitrogen Defect Coupling in Epitaxial LaFeO3 From Structural Reconstruction to Water Oxidation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a></div></td>
+<td>Le Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20614">2611.20614</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-14</td>
@@ -110,11 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37597.html">The Acridine Polymorph Landscape: Characterization and Selective Control by Additives</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Adam Lahouari et al.</td>
 <td><a href="http://arxiv.org/abs/2610.37597">2610.37597</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34029.html">TCSP3.0: Template-Based Crystal Structure Prediction with Coefficient-Preserving Element Substitution and Structural Diversity</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Ying Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34029">2610.34029</a></td>
 </tr>
 </tbody></table>

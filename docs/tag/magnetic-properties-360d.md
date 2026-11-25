@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">317 papers</span>
+  <span class="paper-count">327 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32370.html">AI-assisted formal proofs for static and time-dependent density functional theory on lattices</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="excited-states-360d.html">excited-states</a></div></td>
+<td>Miguel A. L. Marques et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32370">2611.32370</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30917.html">Molecular Pawns on a Surface Chessboard: Computational Investigation of Nanographenes with Atomistic Methods</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Antonio Lorenzo Mariano et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30917">2611.30917</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31432.html">Current-Dependent Meta-GGA and Local Hybrid Functionals for Relativistic NMR Shifts</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
+<td>Yannick J. Franzke et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31432">2611.31432</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27849.html">Interaction and confinement effects for a ${}^6\mathrm{Li}_2$ condensate in a shaken lattice</a></div></td>
 <td>Yang-Hao Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2611.27849">2611.27849</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24097.html">Uncovering the Structural, Electronic, and Electrostatic Landscapes of SrTiO$_3$ Grain Boundaries via Grand Canonical Monte Carlo with a Machine-Learning Interatomic Potential</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Xing He et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24097">2611.24097</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-18</td>
@@ -28,10 +52,46 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2611.24584">2611.24584</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24754.html">Atomic-scale assembly of sulfur vacancy complexes for tailored in-gap states in monolayer WS$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Daniel Jansen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24754">2611.24754</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22489.html">Combined magnetic and structural transition state in first-principles calculations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Samare Rostami et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22489">2611.22489</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23593.html">Cold Magnetized Quark Matter under Compact-Star Conditions</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a></div></td>
+<td>S. A. Ferraris et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23593">2611.23593</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24468.html">Hidden topological signatures in a van der Waals ferromagnet revealed by spin-resolved circular-dichroic photoemission</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Jay R. Paudel et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24468">2611.24468</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20491.html">Rashba Effect and Type-III Broken-Gap Band Alignment in MoTe$_2$/HfS$_2$ van der Waals Heterostructures for Tunnel Field-Effect Transistors</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="tmd-360d.html">tmd</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
+<td>Daniel S. Lopes et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20491">2611.20491</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21244.html">A Density Functional Tight Binding Model for Rapid Screening of Spin-Orbit-Coupling-Driven Topological Properties in Bismuth</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
 <td>Nir Goldman et al.</td>
 <td><a href="http://arxiv.org/abs/2611.21244">2611.21244</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21610.html">Hyperkagome antiferromagnetism in the iron garnet Almandine Fe$_3$Al$_2$Si$_3$O$_{12}$</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Minnong Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21610">2611.21610</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-13</td>

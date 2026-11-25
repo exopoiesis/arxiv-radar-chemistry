@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>property-prediction — 90d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <strong>90d</strong> <a href="property-prediction-360d.html">360d</a> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32371.html">A Description-Derived Drug-Drug Interaction Benchmark Reveals Split-Dependent Molecular Representation Rankings</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Manel Gil-Sorribes et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32371">2611.32371</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32568.html">Representation and Model Contributions on Small Molecular Benchmarks: Controlled Comparisons and External Evaluation</a></div><div class="paper-tags"><a href="free-energy-90d.html">free-energy</a> · <a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Nora A. M. A. Talkhan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32568">2611.32568</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29779.html">Constrained Diffusion from Binary Evaluations via Learned Doob h-Functions</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
+<td>Ssaumya Kammal Jaiswal et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29779">2611.29779</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22140.html">Synthetic Crystal Data Generation for Diffusion Pretraining in Material Property Prediction</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="gnn-90d.html">gnn</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Aamod Varma et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22140">2611.22140</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20848.html">MolReps: Taking SELFIES, Making SMILES, Teaching LLMs</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
@@ -254,11 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04261.html">Self-Supervised Pretraining of Molecular Graph Encoders with LeJEPA</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
 <td>Michał Kulczykowski et al.</td>
 <td><a href="http://arxiv.org/abs/2609.04261">2609.04261</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25893.html">A General-Purpose Molecular Foundation Model Transfers Across Diverse Olfactory Tasks</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
-<td>Yikun Han et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25893">2608.25893</a></td>
 </tr>
 </tbody></table>

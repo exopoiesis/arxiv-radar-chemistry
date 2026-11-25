@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>tmd — all</h1>
-  <span class="paper-count">146 papers</span>
+  <span class="paper-count">148 papers</span>
   <nav class="window-nav"><a href="tmd-7d.html">7d</a> <a href="tmd-30d.html">30d</a> <a href="tmd-90d.html">90d</a> <a href="tmd-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24547.html">Orientation-Tunable Interfacial Thermal Conductance in Lateral MoSe2/MoS2 Heterostructures: A Deep Potential Molecular Dynamics Study</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Shirin Sabokdast et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24547">2611.24547</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20491.html">Rashba Effect and Type-III Broken-Gap Band Alignment in MoTe$_2$/HfS$_2$ van der Waals Heterostructures for Tunnel Field-Effect Transistors</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="magnetic-properties-all.html">magnetic-properties</a> · <a href="vdw-correction-all.html">vdw-correction</a></div></td>
+<td>Daniel S. Lopes et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20491">2611.20491</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16085.html">Tunable Long-Range Magnetic Exchange in Adatom-Decorated Transition Metal Dichalcogenide Monolayers: An ab initio Embedding Model Study</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a></div></td>

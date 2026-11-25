@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-discovery — 30d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <strong>30d</strong> <a href="materials-discovery-90d.html">90d</a> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30066.html">Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in Materials Discovery</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Harry Sevi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30066">2611.30066</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29132.html">DeepDOSReasoner: Physics-Grounded Reasoning for Density-of-States Prediction and Materials Discovery</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Yingheng Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29132">2611.29132</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27580.html">Designing Perovskites for Chemical Looping Hydrogen Production</a></div><div class="paper-tags"><a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
@@ -62,6 +74,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21244.html">A Density Functional Tight Binding Model for Rapid Screening of Spin-Orbit-Coupling-Driven Topological Properties in Bismuth</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
 <td>Nir Goldman et al.</td>
 <td><a href="http://arxiv.org/abs/2611.21244">2611.21244</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19596.html">Scaling laws in machine learning on non-ideal experimental data enable inverse design of radiative-cooling coatings</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
+<td>Kunihiko Shizume et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19596">2611.19596</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-13</td>
@@ -128,11 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36193.html">Learning the Chronology of Materials Discovery for Synthesizability Prediction</a></div></td>
 <td>Junkil Park et al.</td>
 <td><a href="http://arxiv.org/abs/2610.36193">2610.36193</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34021.html">Deep Scientific Reasoning under Physical Constraints: Structure-Aware Spectrum Prediction</a></div></td>
-<td>Yingheng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34021">2610.34021</a></td>
 </tr>
 </tbody></table>

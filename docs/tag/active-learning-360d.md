@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23058.html">WIP: Exploring Student-Created AI Agents and Instructional Videos to Foster Engagement in Computing Education</a></div></td>
+<td>Lucas G. Zangari et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23058">2611.23058</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23075.html">Exploring Students&#x27; Insights on Creating Videos to Learn Software Design and Engineering</a></div></td>
+<td>Pedro G. Feijóo-García et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23075">2611.23075</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16792.html">Systematic Evaluation of Training Data Generation Strategies for Machine Learning-Based Molecular and Materials Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
@@ -698,11 +710,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04242.html">Characterizing Defect Dynamics in Silicon Carbide Using Symmetry-Adapted Collective Variables and Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Soumajit Dutta et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04242">2512.04242</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00667.html">Active Learning of Fractional-Order Viscoelastic Model Parameters for Realistic Haptic Rendering</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Harun Tolasa et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00667">2512.00667</a></td>
 </tr>
 </tbody></table>

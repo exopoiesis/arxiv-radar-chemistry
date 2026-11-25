@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlip — 360d</h1>
-  <span class="paper-count">565 papers</span>
+  <span class="paper-count">593 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <strong>360d</strong> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,180 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31865.html">Accelerating Equivariant Interatomic Potentials for Molecular Dynamics through Radial tabulation and Kernel Fusion</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Jaekyun Yoo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31865">2611.31865</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32609.html">Thermodynamics of complex crystals from a generalized mean-field bond model</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Raynol Dsouza et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32609">2611.32609</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32659.html">Comparative Molecular Dynamics Study of Initial Oxide Film Growth on Al, Mg, and Ti Using a Universal Neural Network Potential</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Yoyo Hinuma et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32659">2611.32659</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32739.html">Neutron Spectroscopy Transformed: Deuterated ZIF-8 and Machine-Learned Potentials Catch Nitrogen Threading Its Gates</a></div></td>
+<td>Jeff Armstrong et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32739">2611.32739</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32851.html">Path-probability gradients for optimizing force fields against dynamical observables</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Zhongyao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32851">2611.32851</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30066.html">Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in Materials Discovery</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="materials-discovery-360d.html">materials-discovery</a></div></td>
+<td>Harry Sevi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30066">2611.30066</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30229.html">Accelerating interatomic potential development through student-driven exploration and reliability-aware distillation</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="mof-360d.html">mof</a></div></td>
+<td>Ruiqi Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30229">2611.30229</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30348.html">Strain-Induced Tetragonal-to-Cubic Transition in MAPbI$_3$ from Machine-Learned Molecular Dynamics</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Daan Holleman et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30348">2611.30348</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30917.html">Molecular Pawns on a Surface Chessboard: Computational Investigation of Nanographenes with Atomistic Methods</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Antonio Lorenzo Mariano et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30917">2611.30917</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25178.html">The phase diagram of fluid hydrogen near melting from machine-learned interatomic potentials trained on quantum Monte Carlo</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
+<td>Shubhang Goswami et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25178">2611.25178</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29574.html">MagPot: A magnetoelastic potential generator for molecular dynamics simulations</a></div><div class="paper-tags"><a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>P. Nieves et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29574">2611.29574</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25646.html">AdsNet: A Graph Neural Network for Direct Adsorption Energy Prediction</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a></div></td>
+<td>Changzhi Ai et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25646">2611.25646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26533.html">Emergent Fatigue Dynamics from Foundational Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Jingye Tan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.26533">2611.26533</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26819.html">Recovering from Averages: An Inverse Problem Perspective on Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Tina Torabi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.26819">2611.26819</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22140.html">Synthetic Crystal Data Generation for Diffusion Pretraining in Material Property Prediction</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="gnn-360d.html">gnn</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
+<td>Aamod Varma et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22140">2611.22140</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23873.html">Technical Note on Matlantis PFP v9: Extending the Element and Domain Coverage of the r2SCAN Training Data</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Daiki Shintani et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23873">2611.23873</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24148.html">Machine learning interatomic potentials and orientational defects in polymers</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Arnold Kiv et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24148">2611.24148</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24759.html">Characterizing adsorption thermodynamics in carbon capture materials: an efficient first-principles approach</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mof-360d.html">mof</a></div></td>
+<td>Anna T. Bui et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24759">2611.24759</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28125.html">Using potential derivatives to reduce the cost of rectangular collocation: a general and versatile approach for computational vibrational spectroscopy without a potential energy surface</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Moksh Bhateja et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28125">2611.28125</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22272.html">Neural Network Path Optimization for Finding Transition States on a Machine Learned Potential</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a></div></td>
+<td>Kareem Hegazy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22272">2611.22272</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22626.html">Prior-guided adaptive local refinement of foundation interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Yunlong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22626">2611.22626</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23535.html">Application of Pretrained Universal Machine Learning Force-Fields for Phase Transitions Prediction in ZrO2</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Rajan Khadka et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23535">2611.23535</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20429.html">FiuMD: Heterogeneous Batching for Coarse-Grained Molecular Dynamics with Neural Network Potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Hugo D. Hernández R. et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20429">2611.20429</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20585.html">Scaling a Universal Graph Neural Network Force Field to Billions of Atoms on Desk-Side GPUs</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
+<td>Jaehyung Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20585">2611.20585</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21026.html">Bias Conditioning and Long-Range Electrostatics for Consistent Machine-Learning Potentials of Electrified Interfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
+<td>Lucas B. T. de Kam et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21026">2611.21026</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21147.html">Large-scale Monte Carlo/Molecular Dynamics simulations with Atomic Cluster Expansion potentials in LAMMPS</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Lorenzo Piersante et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21147">2611.21147</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21900.html">Dynamics and transport in LiF using classical and machine learned interatomic potentials</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Harvey L. Devereux et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21900">2611.21900</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19793.html">IANN: A Unified Framework for Equivariant InterAtomic Neural Networks with User-Friendly Implementation</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="gnn-360d.html">gnn</a></div></td>
+<td>Changzhi Ai et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19793">2611.19793</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17679.html">Electric Fields Turn Vacancy-trapping Grain Boundaries into Li-Ion Pathways in Li2O</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Youjeong Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17679">2611.17679</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18797.html">A Practitioner&#x27;s Guide to Materials Theory and Computation in the Age of Big Data and Artificial Intelligence</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="gnn-360d.html">gnn</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="materials-discovery-360d.html">materials-discovery</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
@@ -3398,11 +3572,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01627.html">Accelerated Machine Learning Force Field for Predicting Thermal Conductivity of Organic Liquids</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Wei Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01627">2512.01627</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00512.html">Dual Role of Nb in Defect-Mediated Strength and Ductility of γ-TiAl Alloys</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Zhiqiang Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00512">2512.00512</a></td>
 </tr>
 </tbody></table>

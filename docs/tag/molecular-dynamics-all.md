@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-dynamics — all</h1>
-  <span class="paper-count">2979 papers</span>
+  <span class="paper-count">3034 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,16 +16,328 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31865.html">Accelerating Equivariant Interatomic Potentials for Molecular Dynamics through Radial tabulation and Kernel Fusion</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Jaekyun Yoo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31865">2611.31865</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31959.html">Antiferroelectric Fluids with Hierarchical Polar Organization</a></div></td>
+<td>Hiroya Nishikawa et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31959">2611.31959</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32609.html">Thermodynamics of complex crystals from a generalized mean-field bond model</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Raynol Dsouza et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32609">2611.32609</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32659.html">Comparative Molecular Dynamics Study of Initial Oxide Film Growth on Al, Mg, and Ti Using a Universal Neural Network Potential</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
+<td>Yoyo Hinuma et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32659">2611.32659</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32850.html">Geometry and topology of DNA defects</a></div></td>
+<td>A. Fassino et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32850">2611.32850</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33089.html">Anharmonic enhancement of thermal conductivity in amorphous Ge$_2$Sb$_2$Te$_5$: A consistent picture from molecular dynamics and Wigner transport</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>Luiz Felipe C. Pereira et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33089">2611.33089</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30015.html">Nonmonotonic In-Plane Thermal Transport in Metal-Embedded Graphitic Carbon Nitride</a></div><div class="paper-tags"><a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>Wenwu Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30015">2611.30015</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30160.html">Generation and non-thermal annealing of dislocations and atomic-scale roughness by nonlinear surface acoustic waves</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a></div></td>
+<td>Yuan Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30160">2611.30160</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30330.html">Atomistic insight into defect-mediated boron redistribution and high-temperature strengthening in TiAl alloys</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
+<td>Xiang Meng et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30330">2611.30330</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30348.html">Strain-Induced Tetragonal-to-Cubic Transition in MAPbI$_3$ from Machine-Learned Molecular Dynamics</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Daan Holleman et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30348">2611.30348</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31404.html">Three-phase contact lines as distinct molecular adsorption environments</a></div></td>
+<td>Fabio Staniscia et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31404">2611.31404</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25178.html">The phase diagram of fluid hydrogen near melting from machine-learned interatomic potentials trained on quantum Monte Carlo</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="phase-transition-all.html">phase-transition</a></div></td>
+<td>Shubhang Goswami et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25178">2611.25178</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29174.html">An informational interpretation of the reverse nonequilibrium molecular dynamics</a></div></td>
+<td>Yuxing Jiao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29174">2611.29174</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29574.html">MagPot: A magnetoelastic potential generator for molecular dynamics simulations</a></div><div class="paper-tags"><a href="materials-science-all.html">materials-science</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>P. Nieves et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29574">2611.29574</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28501.html">An equivariant classical density functional for ionic fluids at complex interfaces</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
+<td>Bingqing Cheng</td>
+<td><a href="http://arxiv.org/abs/2611.28501">2611.28501</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28599.html">FastCREST: GPU-Accelerated CREST Conformer Searches with Consistent Energies and Gradients</a></div><div class="paper-tags"><a href="metadynamics-all.html">metadynamics</a></div></td>
+<td>Supantha Dey et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28599">2611.28599</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29053.html">Fractal dimension of velocity-driven mixing: Reanalysis of Cao et al. (Phys. Rev. A 45, 3841 (1992)) and the universality of the Marstrand co-dimension rule</a></div></td>
+<td>Rod W. Douglass et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29053">2611.29053</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27103.html">Axial Thermal Transport in Transition Metal Chalcogenide Nanowires from Machine-Learning Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>Wenwu Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27103">2611.27103</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27583.html">Edge-dislocation interactions with sub 3 nm vacancy and interstitial clusters in FeCr alloys: Mechanisms, Obstacle strength and Fate</a></div></td>
+<td>Layatmika Sahoo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27583">2611.27583</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27842.html">Prediction and characterisation of cation topology of pentanary high-entropy alloy (MoWNbTaV)S$_2$</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a></div></td>
+<td>Shubham Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27842">2611.27842</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27924.html">BioEmu2: Scalable Emulation of Biomolecular Dynamics</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="free-energy-all.html">free-energy</a> · <a href="generative-model-all.html">generative-model</a> · <a href="structure-prediction-all.html">structure-prediction</a></div></td>
+<td>Michael Gastegger et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27924">2611.27924</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25375.html">Weakly coordinating anions and solvents break the conductivity-transference-solvation tradeoff</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>Alex Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25375">2611.25375</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25836.html">Molecular Dynamics Simulation of the Solidification of AlCoCuFeNi High-Entropy Alloy Nanowire</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
+<td>O. I. Kushnerov</td>
+<td><a href="http://arxiv.org/abs/2611.25836">2611.25836</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25899.html">Light-particle emission in nucleon-induced fission of $^{235,238}$U at energies from 10 MeV to 1 GeV</a></div></td>
+<td>Fuchang Gu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25899">2611.25899</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26533.html">Emergent Fatigue Dynamics from Foundational Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Jingye Tan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.26533">2611.26533</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26724.html">Cavity-Controlled Hysteresis and Multilevel Molecular Switching in Hybrid Optomechanics</a></div></td>
+<td>Hugo Molinares et al.</td>
+<td><a href="http://arxiv.org/abs/2611.26724">2611.26724</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26782.html">ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization</a></div></td>
 <td>Trupti Mohanty et al.</td>
 <td><a href="http://arxiv.org/abs/2611.26782">2611.26782</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23737.html">Kernel Design in Particle Mesh Ewald Methods: Splitting, Interpolation, and Upsampling</a></div></td>
+<td>Shidong Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23737">2611.23737</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23866.html">Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heating</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Daosheng Tang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23866">2611.23866</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24547.html">Orientation-Tunable Interfacial Thermal Conductance in Lateral MoSe2/MoS2 Heterostructures: A Deep Potential Molecular Dynamics Study</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="dft-all.html">dft</a> · <a href="tmd-all.html">tmd</a></div></td>
+<td>Shirin Sabokdast et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24547">2611.24547</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25097.html">Mixtures of a fluid with competing interactions and a simple solvent near a hard wall</a></div></td>
+<td>Ivan Kravtsiv et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25097">2611.25097</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22153.html">Swift Heavy Ion Tracks in Polymorphs of Titanium Dioxide: The Effects of Electron Beam and Crystal Structures</a></div><div class="paper-tags"><a href="crystal-structure-all.html">crystal-structure</a></div></td>
+<td>Xiaoting Jia et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22153">2611.22153</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22230.html">Discovery of new antiviral agents through artificial intelligence: in vitro and in vivo results</a></div><div class="paper-tags"><a href="reinforcement-learning-all.html">reinforcement-learning</a></div></td>
+<td>Roza Izmailyan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22230">2611.22230</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22626.html">Prior-guided adaptive local refinement of foundation interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
+<td>Yunlong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22626">2611.22626</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22858.html">AlCoCuFeNi High-Entropy Alloy Nanoparticle Melting and Solidification: A Classical Molecular Dynamics Simulation Study</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
+<td>O. I. Kushnerov</td>
+<td><a href="http://arxiv.org/abs/2611.22858">2611.22858</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23002.html">Indentation of pre-tensioned cortex-like fibre networks: tension, local stretching and the signature of defect architecture</a></div></td>
+<td>Shubham Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23002">2611.23002</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23213.html">Modeling quantum information scrambling in realistic protein NMR experiments</a></div></td>
+<td>Alec F. White et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23213">2611.23213</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23535.html">Application of Pretrained Universal Machine Learning Force-Fields for Phase Transitions Prediction in ZrO2</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Rajan Khadka et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23535">2611.23535</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20429.html">FiuMD: Heterogeneous Batching for Coarse-Grained Molecular Dynamics with Neural Network Potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Hugo D. Hernández R. et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20429">2611.20429</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20723.html">Oxirane Ring-Opening Dynamics Mediated By The First Singlet Excitation Using Time-Dependent \textit{GW} Molecular Dynamics</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="excited-states-all.html">excited-states</a> · <a href="free-energy-all.html">free-energy</a></div></td>
+<td>Aaditya Manjanath et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20723">2611.20723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21147.html">Large-scale Monte Carlo/Molecular Dynamics simulations with Atomic Cluster Expansion potentials in LAMMPS</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
+<td>Lorenzo Piersante et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21147">2611.21147</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21282.html">How to calculate temperature and energy in Molecular Dynamics</a></div></td>
+<td>Søren Toxvaerd</td>
+<td><a href="http://arxiv.org/abs/2611.21282">2611.21282</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21900.html">Dynamics and transport in LiF using classical and machine learned interatomic potentials</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Harvey L. Devereux et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21900">2611.21900</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20002.html">Self-assembly of dipolar nanoclusters on an attractive substrate: A coarse-grained simulation approach</a></div></td>
+<td>Denis Gessert et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20002">2611.20002</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20260.html">Oxygens breathe, electrons jump</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="battery-materials-all.html">battery-materials</a></div></td>
+<td>Cristiano Malica et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20260">2611.20260</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19045.html">Emergence of Anisotropic Defect Networks in Shocked Diamond</a></div></td>
+<td>Zipeng Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19045">2611.19045</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19321.html">Generation of protein conformations using a simple inverted transformer</a></div></td>
 <td>Luigi Leonardo Palese</td>
 <td><a href="http://arxiv.org/abs/2611.19321">2611.19321</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19547.html">Affordable Analytic Gradients for G0W0-BSE Excited States for Multiple GW Variants via Back-Propagation</a></div><div class="paper-tags"><a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
+<td>Qirui Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19547">2611.19547</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19645.html">Formulation of Brownian chain molecular dynamics and the path-resolved quasi-density operator</a></div></td>
+<td>Motoyuki Shiga</td>
+<td><a href="http://arxiv.org/abs/2611.19645">2611.19645</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19658.html">Mesoscale Neural Operators: Learning Nonlinear Constitutive Laws from Molecular Dynamics for Scalable Fracture Predictions</a></div></td>
+<td>Yue Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19658">2611.19658</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17679.html">Electric Fields Turn Vacancy-trapping Grain Boundaries into Li-Ion Pathways in Li2O</a></div><div class="paper-tags"><a href="mlip-all.html">mlip</a></div></td>
+<td>Youjeong Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17679">2611.17679</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18236.html">Deciphering multiple binding modes in large protein complexes via Enhanced Sampling and beta-VAE: the CYFIP1-eIF4E case</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a></div></td>
+<td>Francesco Pignotti et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18236">2611.18236</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18332.html">Radiation in relativistic plasmas via particle simulations</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a></div></td>
+<td>Efstratios M. Kritikos et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18332">2611.18332</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18795.html">Lower Bound of Thermal Conductivity in Graphene</a></div><div class="paper-tags"><a href="2d-materials-all.html">2d-materials</a> · <a href="thermal-properties-all.html">thermal-properties</a></div></td>
+<td>Yan Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18795">2611.18795</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-12</td>
@@ -56,6 +368,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17283.html">SiC-BN composites with extreme thermal and environmental stability</a></div><div class="paper-tags"><a href="thermal-properties-all.html">thermal-properties</a></div></td>
 <td>Abhijit Biswas et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17283">2611.17283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17513.html">Equilibrium Elongation of Charged Nanoclusters</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
+<td>Efstratios M. Kritikos et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17513">2611.17513</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17514.html">Deformation Kinetics of Charged Nanoclusters via Surface Diffusion</a></div></td>
+<td>Efstratios M. Kritikos et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17514">2611.17514</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -98,6 +422,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16099.html">CupOFMoCA: Coupled Objective-Guided Discrete Flows for Molecular Conjugate Assembly</a></div></td>
 <td>Ruoxi Rosie Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16099">2611.16099</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18749.html">Real-time dynamics with bead-Fourier path integrals. III. Atomistic condensed-phase simulations</a></div></td>
+<td>Nathan London et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18749">2611.18749</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-10</td>

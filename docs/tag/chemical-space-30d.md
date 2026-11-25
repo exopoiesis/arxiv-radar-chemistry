@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>chemical-space — 30d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="chemical-space-7d.html">7d</a> <strong>30d</strong> <a href="chemical-space-90d.html">90d</a> <a href="chemical-space-360d.html">360d</a> <a href="chemical-space-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24130.html">A Universal Diffusion Model for the Quantum Position Operator</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="gnn-30d.html">gnn</a></div></td>
+<td>Ransell D&#x27;Souza et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24130">2611.24130</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17121.html">Using an energy pixels approach to estimate the size a 2nd Generation DEL must be to train a high-resolution binding model</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a></div></td>

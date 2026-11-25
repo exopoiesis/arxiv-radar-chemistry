@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>protein-structure — 90d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <strong>90d</strong> <a href="protein-structure-360d.html">360d</a> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31856.html">Start Where the Data Are: Statistical Priors for One-Step Generation on Manifolds</a></div></td>
+<td>Yuyao Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31856">2611.31856</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32347.html">Beyond Hard Tokens: Predictive Memory for Multimodal Protein Generation</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
+<td>Xiaoliang Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32347">2611.32347</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33104.html">Evolutionary constraints on protein fold diversity</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>
+<td>Harutyun Sahakyan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33104">2611.33104</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29935.html">GABIF: An Adaptive Guided Graph Denoising Framework for Antibody Conditional Inverse Folding</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="protein-ligand-90d.html">protein-ligand</a></div></td>
+<td>Mingwei Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29935">2611.29935</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30336.html">Impact of Topology and Sequence Length on the Pressure-Dependent Collapsibility of Proteins</a></div></td>
+<td>Jiayi Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30336">2611.30336</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24546.html">Biases and Limits of AlphaFold Predictions for Non-Globular Proteins</a></div><div class="paper-tags"><a href="structure-prediction-90d.html">structure-prediction</a></div></td>

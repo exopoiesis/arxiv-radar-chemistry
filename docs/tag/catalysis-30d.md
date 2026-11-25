@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>catalysis — 30d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <strong>30d</strong> <a href="catalysis-90d.html">90d</a> <a href="catalysis-360d.html">360d</a> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29144.html">Structure-Preserving Analysis of a Nonlinear Reaction--Diffusion Model for Homogeneous Redox Catalysis</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
+<td>Guangming Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29144">2611.29144</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28208.html">Bring Your Own Instanton: Monopole Catalysis from Sourced SU(2) Instantons</a></div></td>
+<td>Csaba Csáki et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28208">2611.28208</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28324.html">MatHarness: Towards Long-Horizon Open-ended AutoResearch for Computational Materials Science</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
+<td>Yanlin Fei et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28324">2611.28324</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25646.html">AdsNet: A Graph Neural Network for Direct Adsorption Energy Prediction</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="gnn-30d.html">gnn</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Changzhi Ai et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25646">2611.25646</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24710.html">The magical memory cost of entanglement spectrum compression</a></div></td>
+<td>Matias Karjula et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24710">2611.24710</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25106.html">Agentic MLIR-to-QIR Translation with Dual-Backend Testing: A Hybrid Deterministic and LLM Approach</a></div></td>
@@ -32,6 +62,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22734.html">Catalytic imaginarity transformations</a></div></td>
 <td>Ying-Hui Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.22734">2611.22734</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23593.html">Cold Magnetized Quark Matter under Compact-Star Conditions</a></div><div class="paper-tags"><a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>S. A. Ferraris et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23593">2611.23593</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-16</td>
@@ -134,17 +170,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37581.html">Water at the molecular frontier</a></div></td>
 <td>Mischa Bonn et al.</td>
 <td><a href="http://arxiv.org/abs/2610.37581">2610.37581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33981.html">Tau creates spatially moving hotspots of amyloid-$β$ secondary nucleation: a reaction-diffusion model</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
-<td>Andrey V. Kuznetsov</td>
-<td><a href="http://arxiv.org/abs/2610.33981">2610.33981</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34354.html">Transition Metal-Anchored Newly Synthesized Aza-Triphenylene Monolayer for Efficient Hydrogen Evolution Reaction: Insights from DFT</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Soumendra Kumar Das et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34354">2610.34354</a></td>
 </tr>
 </tbody></table>

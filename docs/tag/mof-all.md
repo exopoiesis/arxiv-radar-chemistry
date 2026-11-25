@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mof — all</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">93 papers</span>
   <nav class="window-nav"><a href="mof-7d.html">7d</a> <a href="mof-30d.html">30d</a> <a href="mof-90d.html">90d</a> <a href="mof-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30229.html">Accelerating interatomic potential development through student-driven exploration and reliability-aware distillation</a></div><div class="paper-tags"><a href="battery-materials-all.html">battery-materials</a> · <a href="dft-all.html">dft</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Ruiqi Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30229">2611.30229</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27037.html">Transition-Metal Substitutions in MOF-5: A Hybrid-DFT Study of Oxygen Electrocatalysis</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="dft-all.html">dft</a> · <a href="electrocatalysis-all.html">electrocatalysis</a> · <a href="electronic-structure-all.html">electronic-structure</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
+<td>Pedro H. Souza et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27037">2611.27037</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24759.html">Characterizing adsorption thermodynamics in carbon capture materials: an efficient first-principles approach</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="free-energy-all.html">free-energy</a> · <a href="mlip-all.html">mlip</a></div></td>
+<td>Anna T. Bui et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24759">2611.24759</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08024.html">Heat Transport Mechanisms in MOF-5</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>

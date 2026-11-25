@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vdw-correction — 360d</h1>
-  <span class="paper-count">139 papers</span>
+  <span class="paper-count">145 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <strong>360d</strong> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32723.html">Mixing and Preserving Properties of Non-van der Waals 2D Materials in Sandwich-like Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
+<td>Anastasiia Nihei et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32723">2611.32723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30974.html">Interface-Engineered Piezoelectricity and Electromechanical Coupling in Two-Dimensional van der Waals Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a></div></td>
+<td>Shivanand Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30974">2611.30974</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31672.html">Photocatalytic Water Splitting in GeC/ReS$_2$ van der Waals Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
+<td>Parisa Beyranvand et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31672">2611.31672</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24468.html">Hidden topological signatures in a van der Waals ferromagnet revealed by spin-resolved circular-dichroic photoemission</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>Jay R. Paudel et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24468">2611.24468</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20491.html">Rashba Effect and Type-III Broken-Gap Band Alignment in MoTe$_2$/HfS$_2$ van der Waals Heterostructures for Tunnel Field-Effect Transistors</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
+<td>Daniel S. Lopes et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20491">2611.20491</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20133.html">Robust Antiferromagnetic Ordering above 500 K in a Family of Bilayer van der Waals Materials</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Tengda Rong et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20133">2611.20133</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17521.html">Thermally Activated Magnetic Switching in Antiferromagnetic Van der Waals Trilayers Resolved by Single-Spin Diamond Magnetometry</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Fabian A. Gerritsma et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17521">2611.17521</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15060.html">Defective $α$-In$_2$Se$_3$ from first principles</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
@@ -842,11 +884,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00921.html">Exchange-Correlation Functionals in 2D Materials: Applications, Challenges, and Limitations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
 <td>Ahsan Javed et al.</td>
 <td><a href="http://arxiv.org/abs/2512.00921">2512.00921</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00362.html">Anisotropic and isotropic elasticity and thermal transport in monolayer C$_{24}$ networks from machine-learning molecular dynamics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Qing Li et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00362">2512.00362</a></td>
 </tr>
 </tbody></table>

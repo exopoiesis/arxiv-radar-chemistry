@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>2d-materials — 90d</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <strong>90d</strong> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,94 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32265.html">First-principles phase diagram of monolayer CrS$_2$ polymorphs under biaxial strain and its sensitivity to the Hubbard U parameter</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Rashmi Ranjan Routaray et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32265">2611.32265</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32723.html">Mixing and Preserving Properties of Non-van der Waals 2D Materials in Sandwich-like Heterostructures</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>Anastasiia Nihei et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32723">2611.32723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30974.html">Interface-Engineered Piezoelectricity and Electromechanical Coupling in Two-Dimensional van der Waals Heterostructures</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>Shivanand Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30974">2611.30974</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31672.html">Photocatalytic Water Splitting in GeC/ReS$_2$ van der Waals Heterostructures</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="photocatalysis-90d.html">photocatalysis</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>Parisa Beyranvand et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31672">2611.31672</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29349.html">Graph Neural Networks for Accurate Quasiparticle Energy Levels in Large Supercells of Transition Metal Dichalcogenides</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="gnn-90d.html">gnn</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Rafael R. Del Grande et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29349">2611.29349</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27842.html">Prediction and characterisation of cation topology of pentanary high-entropy alloy (MoWNbTaV)S$_2$</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Shubham Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27842">2611.27842</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28279.html">First-Principles Investigation of the {ScSe2} TMDs Monolayer: Structural Stability, Electronic and Optical Properties</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a></div></td>
+<td>Takwa Ben Othman et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28279">2611.28279</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24547.html">Orientation-Tunable Interfacial Thermal Conductance in Lateral MoSe2/MoS2 Heterostructures: A Deep Potential Molecular Dynamics Study</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="tmd-90d.html">tmd</a></div></td>
+<td>Shirin Sabokdast et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24547">2611.24547</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24754.html">Atomic-scale assembly of sulfur vacancy complexes for tailored in-gap states in monolayer WS$_{2}$</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>Daniel Jansen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24754">2611.24754</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20491.html">Rashba Effect and Type-III Broken-Gap Band Alignment in MoTe$_2$/HfS$_2$ van der Waals Heterostructures for Tunnel Field-Effect Transistors</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="tmd-90d.html">tmd</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>Daniel S. Lopes et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20491">2611.20491</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21244.html">A Density Functional Tight Binding Model for Rapid Screening of Spin-Orbit-Coupling-Driven Topological Properties in Bismuth</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a> · <a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Nir Goldman et al.</td>
 <td><a href="http://arxiv.org/abs/2611.21244">2611.21244</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20133.html">Robust Antiferromagnetic Ordering above 500 K in a Family of Bilayer van der Waals Materials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="thermal-properties-90d.html">thermal-properties</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
+<td>Tengda Rong et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20133">2611.20133</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19060.html">Interplay of interfacial energetics and selective Ni segregation in the morphology of co-precipitates in low-alloy steels</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Jia-Hong Ke et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19060">2611.19060</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18795.html">Lower Bound of Thermal Conductivity in Graphene</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-properties-90d.html">thermal-properties</a></div></td>
+<td>Yan Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18795">2611.18795</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18961.html">Accelerating Atomistic-Continuum Simulations of Multilayer 2D Materials with Functional Principal Component Analysis-Based Machine Learning</a></div></td>
+<td>Jonathan Oleson et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18961">2611.18961</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-12</td>
@@ -680,11 +764,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26704.html">AlGaN/GaN Hall-Effect Sensor for In-Situ Magnetic Field Monitoring of the HSX Stellarator</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Yiming Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2608.26704">2608.26704</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25640.html">Nuclearity of Copper Clusters on hBN/SiC Heterostructure Modulates Molecular Adsorption</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Reza Khakpour et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25640">2608.25640</a></td>
 </tr>
 </tbody></table>

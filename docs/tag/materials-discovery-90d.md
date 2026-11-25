@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>materials-discovery — 90d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">57 papers</span>
   <nav class="window-nav"><a href="materials-discovery-7d.html">7d</a> <a href="materials-discovery-30d.html">30d</a> <strong>90d</strong> <a href="materials-discovery-360d.html">360d</a> <a href="materials-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30066.html">Diagnostic Accuracy Is Not Deployment Value: Decision-Aligned Reliability Evaluation for Foundation MLIPs in Materials Discovery</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="dft-90d.html">dft</a> · <a href="mlip-90d.html">mlip</a></div></td>
+<td>Harry Sevi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30066">2611.30066</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29132.html">DeepDOSReasoner: Physics-Grounded Reasoning for Density-of-States Prediction and Materials Discovery</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Yingheng Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29132">2611.29132</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27580.html">Designing Perovskites for Chemical Looping Hydrogen Production</a></div><div class="paper-tags"><a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
@@ -62,6 +74,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21244.html">A Density Functional Tight Binding Model for Rapid Screening of Spin-Orbit-Coupling-Driven Topological Properties in Bismuth</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
 <td>Nir Goldman et al.</td>
 <td><a href="http://arxiv.org/abs/2611.21244">2611.21244</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19596.html">Scaling laws in machine learning on non-ideal experimental data enable inverse design of radiative-cooling coatings</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
+<td>Kunihiko Shizume et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19596">2611.19596</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-13</td>
@@ -338,17 +356,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00900.html">Fourier Neural Operators for Composition-Driven Crystal Structure Discovery</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a> · <a href="crystal-structure-90d.html">crystal-structure</a></div></td>
 <td>Zhijie Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.00900">2609.00900</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25270.html">High-throughput Discovery of Magnetic Rare Earth Transition Metal Alloys</a></div><div class="paper-tags"><a href="crystal-structure-90d.html">crystal-structure</a> · <a href="dft-90d.html">dft</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
-<td>Shuo Tao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25270">2608.25270</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25392.html">Interpretable physics-informed retrieval-augmented generation language model for end-to-end inorganic crystal synthesis planning</a></div><div class="paper-tags"><a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
-<td>Wei-Jian Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25392">2608.25392</a></td>
 </tr>
 </tbody></table>

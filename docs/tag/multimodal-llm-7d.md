@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23480.html">Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations</a></div></td>
-<td>Jonathan Lichtle et al.</td>
-<td><a href="http://arxiv.org/abs/2611.23480">2611.23480</a></td>
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32821.html">PhysMend: Verification-Guided Program Refinement for Physics-Aware Video Generation</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a></div></td>
+<td>Meilong Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32821">2611.32821</a></td>
 </tr>
 </tbody></table>

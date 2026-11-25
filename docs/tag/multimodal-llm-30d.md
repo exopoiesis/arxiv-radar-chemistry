@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>multimodal-llm — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="multimodal-llm-7d.html">7d</a> <strong>30d</strong> <a href="multimodal-llm-90d.html">90d</a> <a href="multimodal-llm-360d.html">360d</a> <a href="multimodal-llm-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32821.html">PhysMend: Verification-Guided Program Refinement for Physics-Aware Video Generation</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
+<td>Meilong Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32821">2611.32821</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23480.html">Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations</a></div></td>

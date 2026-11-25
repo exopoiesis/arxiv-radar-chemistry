@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29349.html">Graph Neural Networks for Accurate Quasiparticle Energy Levels in Large Supercells of Transition Metal Dichalcogenides</a></div><div class="paper-tags"><a href="2d-materials-90d.html">2d-materials</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="gnn-90d.html">gnn</a> · <a href="materials-science-90d.html">materials-science</a></div></td>
+<td>Rafael R. Del Grande et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29349">2611.29349</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22013.html">Weight-Space Programming for Materials Science</a></div><div class="paper-tags"><a href="materials-discovery-90d.html">materials-discovery</a></div></td>
 <td>Sk Md Ahnaf Akif Alvi et al.</td>
@@ -182,11 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02126.html">Scalable Bayesian Optimization of Composite Functions for Image-Based Inverse Problems in Materials Characterization</a></div></td>
 <td>Dasol Yoon et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02126">2609.02126</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26016.html">Bayesian Optimization for Self-Driving Materials Laboratories: From Algorithms to Physics-Informed Workflows</a></div><div class="paper-tags"><a href="catalysis-90d.html">catalysis</a></div></td>
-<td>Yuki K. Wakabayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26016">2608.26016</a></td>
 </tr>
 </tbody></table>

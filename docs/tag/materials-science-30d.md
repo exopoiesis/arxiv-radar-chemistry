@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>materials-science — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <strong>30d</strong> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30160.html">Generation and non-thermal annealing of dislocations and atomic-scale roughness by nonlinear surface acoustic waves</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Yuan Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30160">2611.30160</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29349.html">Graph Neural Networks for Accurate Quasiparticle Energy Levels in Large Supercells of Transition Metal Dichalcogenides</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="gnn-30d.html">gnn</a></div></td>
+<td>Rafael R. Del Grande et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29349">2611.29349</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29574.html">MagPot: A magnetoelastic potential generator for molecular dynamics simulations</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>P. Nieves et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29574">2611.29574</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28324.html">MatHarness: Towards Long-Horizon Open-ended AutoResearch for Computational Materials Science</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Yanlin Fei et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28324">2611.28324</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25651.html">MatVerse: A Foundation Model for Materials Science</a></div></td>
@@ -32,6 +56,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18121.html">Optimizing Drilling Trajectories in Multi-Material Structures Using Quantum Annealers</a></div></td>
 <td>Eneko Osaba et al.</td>
 <td><a href="http://arxiv.org/abs/2611.18121">2611.18121</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18122.html">Quantum phase estimation on a Rydberg quantum simulator</a></div><div class="paper-tags"><a href="excited-states-30d.html">excited-states</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
+<td>Hendrik Timme et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18122">2611.18122</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18420.html">Graph diffusion transformer for interpretable generation and inverse design of disordered atomic structures</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
+<td>Jiani Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18420">2611.18420</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-13</td>

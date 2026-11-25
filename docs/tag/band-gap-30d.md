@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>band-gap — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <strong>30d</strong> <a href="band-gap-90d.html">90d</a> <a href="band-gap-360d.html">360d</a> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,58 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32723.html">Mixing and Preserving Properties of Non-van der Waals 2D Materials in Sandwich-like Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
+<td>Anastasiia Nihei et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32723">2611.32723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30344.html">High-Throughput Screening of Phononic Bandgap in Experimentally Realized Materials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Mohammad Bagheri et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30344">2611.30344</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30681.html">Strain-induced non-trivial band topology and large magnetoresistance in epitaxial SrTaO$_3$ thin films</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="thermal-properties-30d.html">thermal-properties</a> · <a href="tmo-30d.html">tmo</a></div></td>
+<td>Aditya Mehta et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30681">2611.30681</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31672.html">Photocatalytic Water Splitting in GeC/ReS$_2$ van der Waals Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="photocatalysis-30d.html">photocatalysis</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
+<td>Parisa Beyranvand et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31672">2611.31672</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29349.html">Graph Neural Networks for Accurate Quasiparticle Energy Levels in Large Supercells of Transition Metal Dichalcogenides</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="gnn-30d.html">gnn</a> · <a href="materials-science-30d.html">materials-science</a></div></td>
+<td>Rafael R. Del Grande et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29349">2611.29349</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27037.html">Transition-Metal Substitutions in MOF-5: A Hybrid-DFT Study of Oxygen Electrocatalysis</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electrocatalysis-30d.html">electrocatalysis</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="mof-30d.html">mof</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
+<td>Pedro H. Souza et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27037">2611.27037</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27220.html">Chemical Programming of Stacking Order and Superconductivity Dimensionality in NbSe2-xTex Polytypic Heterostructures</a></div></td>
 <td>Xiangqi Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.27220">2611.27220</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28172.html">Structural, optoelectronic, mechanical, thermodynamic and thermoelectric properties of kesterite Cu2ZnSnS4: A first-principles study</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="free-energy-30d.html">free-energy</a></div></td>
+<td>Iskandar Raufzoda et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28172">2611.28172</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28279.html">First-Principles Investigation of the {ScSe2} TMDs Monolayer: Structural Stability, Electronic and Optical Properties</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a></div></td>
+<td>Takwa Ben Othman et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28279">2611.28279</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-18</td>
@@ -28,16 +76,52 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2611.23837">2611.23837</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24754.html">Atomic-scale assembly of sulfur vacancy complexes for tailored in-gap states in monolayer WS$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
+<td>Daniel Jansen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24754">2611.24754</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23016.html">Ab initio Engineering of Topological Superconductivity in Substrate-Supported Magnetic Chains</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
+<td>András Lászlóffy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23016">2611.23016</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24468.html">Hidden topological signatures in a van der Waals ferromagnet revealed by spin-resolved circular-dichroic photoemission</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="vdw-correction-30d.html">vdw-correction</a></div></td>
+<td>Jay R. Paudel et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24468">2611.24468</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21244.html">A Density Functional Tight Binding Model for Rapid Screening of Spin-Orbit-Coupling-Driven Topological Properties in Bismuth</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
 <td>Nir Goldman et al.</td>
 <td><a href="http://arxiv.org/abs/2611.21244">2611.21244</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19888.html">Metallic or insulating magnetic phases of transition-metal oxides in light of the Slater vs Mott controversy</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Xiuwen Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19888">2611.19888</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18109.html">Pressure dependent DFT study of mechanical, thermal, electronic, magnetic, and optical properties of EuCd2As2: a magnetic semimetal</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
+<td>Salauddin Muhammad Anis et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18109">2611.18109</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18303.html">CGTransformer: A Topology-Aware Autoregressive Framework for Crystal Generation and Inverse Design</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Zhennan Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.18303">2611.18303</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17462.html">Diffusion Tree Sampling for Inference Time Adaptation of Crystal Generative Models</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Daniel T. Levy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17462">2611.17462</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>

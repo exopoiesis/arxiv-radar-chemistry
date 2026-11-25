@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <strong>30d</strong> <a href="reinforcement-learning-90d.html">90d</a> <a href="reinforcement-learning-360d.html">360d</a> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30509.html">De Novo Generation of Odorant Molecules with Targeted Olfactory Receptor Activation Patterns</a></div><div class="paper-tags"><a href="drug-discovery-30d.html">drug-discovery</a></div></td>
+<td>Kexin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30509">2611.30509</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25452.html">FamilySpace: From Emergent Chemical Semantics to Controllable Crystal Generation</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
+<td>Haowei Hua et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25452">2611.25452</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22230.html">Discovery of new antiviral agents through artificial intelligence: in vitro and in vivo results</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Roza Izmailyan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22230">2611.22230</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22250.html">PCGRL for Complex Platformers: Synthesizing Playable and Diverse Levels via Inflated Envelopes and Forward Curricula</a></div></td>
@@ -56,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04433.html">Movable Antenna Aided Robust Wireless Transmission: From Model-Based Optimization to Scalable Reinforcement Learning</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Jinshuo Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.04433">2611.04433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34585.html">Large Language Models: A Plain-Language Overview for Engineers</a></div></td>
-<td>Bahaeddin Türkoğlu</td>
-<td><a href="http://arxiv.org/abs/2610.34585">2610.34585</a></td>
 </tr>
 </tbody></table>

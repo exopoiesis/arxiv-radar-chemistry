@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,78 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32821.html">PhysMend: Verification-Guided Program Refinement for Physics-Aware Video Generation</a></div><div class="paper-tags"><a href="multimodal-llm-30d.html">multimodal-llm</a></div></td>
+<td>Meilong Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32821">2611.32821</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29935.html">GABIF: An Adaptive Guided Graph Denoising Framework for Antibody Conditional Inverse Folding</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
+<td>Mingwei Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29935">2611.29935</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30062.html">What Do Co-Folding Models Learn? Insights from Enhanced Transition Path Sampling</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Muhammad R. Hasyim</td>
+<td><a href="http://arxiv.org/abs/2611.30062">2611.30062</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29253.html">OAT3D: A Generative Model for 3D Shape- and Resolution-Free Structural Topology Optimization</a></div></td>
+<td>Hongrui Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29253">2611.29253</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29318.html">Reward Tilting via Semantic Noising</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
+<td>Rafał Karczewski et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29318">2611.29318</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27188.html">Generating grain boundary structures at a specified energy with a symmetry-constrained diffusion model</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
+<td>Kazuya Miyamoto et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27188">2611.27188</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27791.html">Synthetic Surrogate Functional Regression (SSFR): A Robust Framework for Estimating Spatially Varying Covariate Effects in Surrogate-Augmented Neuroimaging</a></div></td>
+<td>Guannan Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27791">2611.27791</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27924.html">BioEmu2: Scalable Emulation of Biomolecular Dynamics</a></div><div class="paper-tags"><a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
+<td>Michael Gastegger et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27924">2611.27924</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22098.html">Every Measurement, Every Direction, All at Once: Multimodal Flow Matching for Molecules and Spectra</a></div></td>
+<td>Thorben Prein et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22098">2611.22098</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25452.html">FamilySpace: From Emergent Chemical Semantics to Controllable Crystal Generation</a></div><div class="paper-tags"><a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Haowei Hua et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25452">2611.25452</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23684.html">Variable Length Diffuse Everything: Arbitrary Length Generative Modeling on Arbitrary State Spaces</a></div></td>
+<td>Kevin Rojas et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23684">2611.23684</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25264.html">Process-Knowledge-Guided Latent Diffusion for Generative Design of Porous Architectures: A Case Study in Aerosol Jet Printing</a></div></td>
+<td>Ngoc Dang Khoa Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25264">2611.25264</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22050.html">DSADiff: Data Structure-Aware Diffusion for Crystal Structure Prediction via Mitigating Complexity- and Imbalance-Induced Biases</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="diffusion-model-30d.html">diffusion-model</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
@@ -29,15 +101,33 @@ current_window: 30d
 </tr>
 <tr class="paper">
 <td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17650.html">Classifier-Guided Latent Diffusion for Small-Molecule Generation</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="molecular-representation-30d.html">molecular-representation</a></div></td>
+<td>Ali Forooghi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17650">2611.17650</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17670.html">Crystal Structure Prediction from Search to Learning: A 30-Year Expedition</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Jianjun Hu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17670">2611.17670</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18420.html">Graph diffusion transformer for interpretable generation and inverse design of disordered atomic structures</a></div><div class="paper-tags"><a href="materials-science-30d.html">materials-science</a></div></td>
+<td>Jiani Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18420">2611.18420</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18797.html">A Practitioner&#x27;s Guide to Materials Theory and Computation in the Age of Big Data and Artificial Intelligence</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="gnn-30d.html">gnn</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="materials-science-30d.html">materials-science</a> · <a href="mlip-30d.html">mlip</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>Jack Yang</td>
 <td><a href="http://arxiv.org/abs/2611.18797">2611.18797</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17462.html">Diffusion Tree Sampling for Inference Time Adaptation of Crystal Generative Models</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Daniel T. Levy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17462">2611.17462</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -98,11 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02906.html">Site-orbit masked twin-branch Transformer for symmetry-constrained crystal generation</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="crystal-structure-30d.html">crystal-structure</a> · <a href="materials-discovery-30d.html">materials-discovery</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
 <td>Junchi Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.02906">2611.02906</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34029.html">TCSP3.0: Template-Based Crystal Structure Prediction with Coefficient-Preserving Element Substitution and Structural Diversity</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Ying Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34029">2610.34029</a></td>
 </tr>
 </tbody></table>

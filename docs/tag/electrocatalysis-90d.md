@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>electrocatalysis — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <strong>90d</strong> <a href="electrocatalysis-360d.html">360d</a> <a href="electrocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30070.html">Stable but Hidden: Identifiability and Experimental Design under Missing Compositional Support</a></div></td>
+<td>Harry Sevi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30070">2611.30070</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27037.html">Transition-Metal Substitutions in MOF-5: A Hybrid-DFT Study of Oxygen Electrocatalysis</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="mof-90d.html">mof</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
+<td>Pedro H. Souza et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27037">2611.27037</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20614.html">Nitrogen Defect Coupling in Epitaxial LaFeO3 From Structural Reconstruction to Water Oxidation</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="crystal-structure-90d.html">crystal-structure</a></div></td>
+<td>Le Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20614">2611.20614</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15939.html">Atomistic simulations of electrochemical systems with machine learning potentials</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="free-energy-90d.html">free-energy</a> · <a href="materials-science-90d.html">materials-science</a> · <a href="mlip-90d.html">mlip</a></div></td>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32821.html">PhysMend: Verification-Guided Program Refinement for Physics-Aware Video Generation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Meilong Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32821">2611.32821</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23480.html">Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations</a></div></td>
 <td>Jonathan Lichtle et al.</td>
@@ -98,11 +104,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27893.html">CommerceVibe: Learning to Design E-Commerce Creatives as Executable Visual Code via Dual-Feedback Reinforcement Learning</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
 <td>Yajiao Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27893">2608.27893</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25973.html">SciMIF: Understanding Multimodal Instruction Following in Scientific Domains</a></div></td>
-<td>Ye Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25973">2608.25973</a></td>
 </tr>
 </tbody></table>

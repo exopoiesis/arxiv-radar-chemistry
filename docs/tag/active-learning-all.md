@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>active-learning — all</h1>
-  <span class="paper-count">244 papers</span>
+  <span class="paper-count">246 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <a href="active-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23058.html">WIP: Exploring Student-Created AI Agents and Instructional Videos to Foster Engagement in Computing Education</a></div></td>
+<td>Lucas G. Zangari et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23058">2611.23058</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23075.html">Exploring Students&#x27; Insights on Creating Videos to Learn Software Design and Engineering</a></div></td>
+<td>Pedro G. Feijóo-García et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23075">2611.23075</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16792.html">Systematic Evaluation of Training Data Generation Strategies for Machine Learning-Based Molecular and Materials Property Prediction</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>

@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32347.html">Beyond Hard Tokens: Predictive Memory for Multimodal Protein Generation</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a></div></td>
+<td>Xiaoliang Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32347">2611.32347</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28529.html">General-purpose language models are neurosymbolic reasoners able to annotate proteins from sequence</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-function-360d.html">protein-function</a></div></td>
+<td>Christopher J. Mungall et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28529">2611.28529</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18846.html">Multi-Assay Antibody Developability Prediction with Shared Structure-Language Representations</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Daria B. Kokh</td>
@@ -602,17 +614,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19532.html">Toward the Explainability of Protein Language Models</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Andrea Hunklinger et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19532">2506.19532</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.07299.html">Life-Code: Central Dogma Modeling with Multi-Omics Sequence Unification</a></div></td>
-<td>Zicheng Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2502.07299">2502.07299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00379.html">EnzyCLIP: A Cross-Attention Dual Encoder Framework with Contrastive Learning for Predicting Enzyme Kinetic Constants</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Anas Aziz Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00379">2512.00379</a></td>
 </tr>
 </tbody></table>

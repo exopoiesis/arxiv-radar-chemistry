@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24130.html">A Universal Diffusion Model for the Quantum Position Operator</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="gnn-360d.html">gnn</a></div></td>
+<td>Ransell D&#x27;Souza et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24130">2611.24130</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17121.html">Using an energy pixels approach to estimate the size a 2nd Generation DEL must be to train a high-resolution binding model</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
 <td>Boris P. Belotserkovskii et al.</td>
@@ -698,11 +704,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00593.html">Look mom, no experimental data! Learning to score protein-ligand interactions from simulations</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-ligand-360d.html">protein-ligand</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Michael Brocidiacono et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00593">2506.00593</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00384.html">Efficient and Programmable Exploration of Synthesizable Chemical Space</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Shitong Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00384">2512.00384</a></td>
 </tr>
 </tbody></table>

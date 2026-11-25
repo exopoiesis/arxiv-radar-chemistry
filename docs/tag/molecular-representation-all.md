@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-representation — all</h1>
-  <span class="paper-count">292 papers</span>
+  <span class="paper-count">297 papers</span>
   <nav class="window-nav"><a href="molecular-representation-7d.html">7d</a> <a href="molecular-representation-30d.html">30d</a> <a href="molecular-representation-90d.html">90d</a> <a href="molecular-representation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32371.html">A Description-Derived Drug-Drug Interaction Benchmark Reveals Split-Dependent Molecular Representation Rankings</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
+<td>Manel Gil-Sorribes et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32371">2611.32371</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32568.html">Representation and Model Contributions on Small Molecular Benchmarks: Controlled Comparisons and External Evaluation</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a> · <a href="property-prediction-all.html">property-prediction</a></div></td>
+<td>Nora A. M. A. Talkhan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32568">2611.32568</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25076.html">ShEPhERD-score: Fast, adaptable three-dimensional alignment of molecular features</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a></div></td>
+<td>Nate Somers et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25076">2611.25076</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28096.html">Auditing two-stage MS/MS molecular retrieval on MassSpecGym v1.5: Reranking gains, candidate priors and spectrum dependence</a></div></td>
+<td>Jiaqi Xue et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28096">2611.28096</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20848.html">MolReps: Taking SELFIES, Making SMILES, Teaching LLMs</a></div><div class="paper-tags"><a href="property-prediction-all.html">property-prediction</a></div></td>
@@ -26,6 +50,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21276.html">Classical structural priors improve neural molecular representations in molecule language models</a></div></td>
 <td>Donghyeok Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2611.21276">2611.21276</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17650.html">Classifier-Guided Latent Diffusion for Small-Molecule Generation</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="generative-model-all.html">generative-model</a></div></td>
+<td>Ali Forooghi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17650">2611.17650</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-12</td>

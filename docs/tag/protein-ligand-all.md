@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>protein-ligand — all</h1>
-  <span class="paper-count">313 papers</span>
+  <span class="paper-count">315 papers</span>
   <nav class="window-nav"><a href="protein-ligand-7d.html">7d</a> <a href="protein-ligand-30d.html">30d</a> <a href="protein-ligand-90d.html">90d</a> <a href="protein-ligand-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29935.html">GABIF: An Adaptive Guided Graph Denoising Framework for Antibody Conditional Inverse Folding</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="drug-discovery-all.html">drug-discovery</a> · <a href="generative-model-all.html">generative-model</a> · <a href="protein-structure-all.html">protein-structure</a></div></td>
+<td>Mingwei Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29935">2611.29935</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27015.html">Ruby: State-of-the-Art Potency Prediction across Discovery Regimes Using Learned Structural Representations</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
@@ -26,6 +32,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23777.html">STORM: A Lightweight Structure-Free Model for Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-all.html">drug-discovery</a> · <a href="thermodynamic-integration-all.html">thermodynamic-integration</a></div></td>
 <td>Ayush Pandit et al.</td>
 <td><a href="http://arxiv.org/abs/2611.23777">2611.23777</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31275.html">Agentic Optimization: LLM Agents Select and Configure Algorithms for Engineering Design</a></div></td>
+<td>Dominic Mashak et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31275">2611.31275</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-12</td>

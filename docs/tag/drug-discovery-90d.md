@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>drug-discovery — 90d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">89 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <strong>90d</strong> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30509.html">De Novo Generation of Odorant Molecules with Targeted Olfactory Receptor Activation Patterns</a></div><div class="paper-tags"><a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
+<td>Kexin Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30509">2611.30509</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29935.html">GABIF: An Adaptive Guided Graph Denoising Framework for Antibody Conditional Inverse Folding</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
+<td>Mingwei Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29935">2611.29935</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30028.html">Quantum Amplitude Estimation for Ligand and Pose Index Retrieval</a></div></td>
+<td>Pei-Kun Yang</td>
+<td><a href="http://arxiv.org/abs/2611.30028">2611.30028</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29681.html">Towards Global Counterfactual-Based Self-Explainable Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
+<td>Wendy Zheng et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29681">2611.29681</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28529.html">General-purpose language models are neurosymbolic reasoners able to annotate proteins from sequence</a></div><div class="paper-tags"><a href="protein-function-90d.html">protein-function</a> · <a href="protein-llm-90d.html">protein-llm</a></div></td>
+<td>Christopher J. Mungall et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28529">2611.28529</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25076.html">ShEPhERD-score: Fast, adaptable three-dimensional alignment of molecular features</a></div><div class="paper-tags"><a href="molecular-representation-90d.html">molecular-representation</a></div></td>
+<td>Nate Somers et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25076">2611.25076</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27015.html">Ruby: State-of-the-Art Potency Prediction across Discovery Regimes Using Learned Structural Representations</a></div><div class="paper-tags"><a href="protein-ligand-90d.html">protein-ligand</a> · <a href="thermodynamic-integration-90d.html">thermodynamic-integration</a></div></td>
@@ -56,6 +92,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18846.html">Multi-Assay Antibody Developability Prediction with Shared Structure-Language Representations</a></div><div class="paper-tags"><a href="protein-llm-90d.html">protein-llm</a></div></td>
 <td>Daria B. Kokh</td>
 <td><a href="http://arxiv.org/abs/2611.18846">2611.18846</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17462.html">Diffusion Tree Sampling for Inference Time Adaptation of Crystal Generative Models</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Daniel T. Levy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17462">2611.17462</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -506,11 +548,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27429.html">Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation</a></div><div class="paper-tags"><a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
 <td>Nguyen Xuan-Vu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27429">2608.27429</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26228.html">PathoMIC: A Benchmark for Cross-Species Antimicrobial Peptide Activity Prediction</a></div></td>
-<td>Yeqing Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26228">2608.26228</a></td>
 </tr>
 </tbody></table>

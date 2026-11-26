@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-transition — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="phase-transition-7d.html">7d</a> <strong>30d</strong> <a href="phase-transition-90d.html">90d</a> <a href="phase-transition-360d.html">360d</a> <a href="phase-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01830.html">Temperature-Dependent Raman Signatures of Local Symmetry Breaking in Vacancy Double Perovskite Cs$_2$SnI$_6$</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
 <td>Tomke E. Glier et al.</td>
 <td><a href="http://arxiv.org/abs/2611.01830">2611.01830</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35437.html">The role of density in phase transitions and new perspectives on theta functions</a></div></td>
-<td>Kaixin Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35437">2610.35437</a></td>
 </tr>
 </tbody></table>

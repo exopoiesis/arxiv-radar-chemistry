@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>free-energy — 7d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,23 +92,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26819.html">Recovering from Averages: An Inverse Problem Perspective on Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a></div></td>
 <td>Tina Torabi et al.</td>
 <td><a href="http://arxiv.org/abs/2611.26819">2611.26819</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22140.html">Synthetic Crystal Data Generation for Diffusion Pretraining in Material Property Prediction</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="dft-7d.html">dft</a> · <a href="gnn-7d.html">gnn</a> · <a href="mlip-7d.html">mlip</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Aamod Varma et al.</td>
-<td><a href="http://arxiv.org/abs/2611.22140">2611.22140</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24759.html">Characterizing adsorption thermodynamics in carbon capture materials: an efficient first-principles approach</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a> · <a href="mof-7d.html">mof</a></div></td>
-<td>Anna T. Bui et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24759">2611.24759</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28125.html">Using potential derivatives to reduce the cost of rectangular collocation: a general and versatile approach for computational vibrational spectroscopy without a potential energy surface</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Moksh Bhateja et al.</td>
-<td><a href="http://arxiv.org/abs/2611.28125">2611.28125</a></td>
 </tr>
 </tbody></table>

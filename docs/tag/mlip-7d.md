@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mlip — 7d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,35 +98,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26819.html">Recovering from Averages: An Inverse Problem Perspective on Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
 <td>Tina Torabi et al.</td>
 <td><a href="http://arxiv.org/abs/2611.26819">2611.26819</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22140.html">Synthetic Crystal Data Generation for Diffusion Pretraining in Material Property Prediction</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="dft-7d.html">dft</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="gnn-7d.html">gnn</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Aamod Varma et al.</td>
-<td><a href="http://arxiv.org/abs/2611.22140">2611.22140</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23873.html">Technical Note on Matlantis PFP v9: Extending the Element and Domain Coverage of the r2SCAN Training Data</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Daiki Shintani et al.</td>
-<td><a href="http://arxiv.org/abs/2611.23873">2611.23873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24148.html">Machine learning interatomic potentials and orientational defects in polymers</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
-<td>Arnold Kiv et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24148">2611.24148</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24759.html">Characterizing adsorption thermodynamics in carbon capture materials: an efficient first-principles approach</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="mof-7d.html">mof</a></div></td>
-<td>Anna T. Bui et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24759">2611.24759</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28125.html">Using potential derivatives to reduce the cost of rectangular collocation: a general and versatile approach for computational vibrational spectroscopy without a potential energy surface</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Moksh Bhateja et al.</td>
-<td><a href="http://arxiv.org/abs/2611.28125">2611.28125</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -278,71 +278,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26533.html">Emergent Fatigue Dynamics from Foundational Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Jingye Tan et al.</td>
 <td><a href="http://arxiv.org/abs/2611.26533">2611.26533</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22140.html">Synthetic Crystal Data Generation for Diffusion Pretraining in Material Property Prediction</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="gnn-7d.html">gnn</a> · <a href="mlip-7d.html">mlip</a> · <a href="property-prediction-7d.html">property-prediction</a></div></td>
-<td>Aamod Varma et al.</td>
-<td><a href="http://arxiv.org/abs/2611.22140">2611.22140</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23760.html">Physics-Guided Crystal Structure Elucidation from Powder X-Ray Diffraction with Universal Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="materials-discovery-7d.html">materials-discovery</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Yunsung Lim et al.</td>
-<td><a href="http://arxiv.org/abs/2611.23760">2611.23760</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23873.html">Technical Note on Matlantis PFP v9: Extending the Element and Domain Coverage of the r2SCAN Training Data</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
-<td>Daiki Shintani et al.</td>
-<td><a href="http://arxiv.org/abs/2611.23873">2611.23873</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24097.html">Uncovering the Structural, Electronic, and Electrostatic Landscapes of SrTiO$_3$ Grain Boundaries via Grand Canonical Monte Carlo with a Machine-Learning Interatomic Potential</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="monte-carlo-7d.html">monte-carlo</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Xing He et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24097">2611.24097</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24148.html">Machine learning interatomic potentials and orientational defects in polymers</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a></div></td>
-<td>Arnold Kiv et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24148">2611.24148</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24288.html">Reconciling Models for Infinite-Layer Nickelate Superconductors: Role of Interstitial-$s$ Band or $A$-Pocket</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Ao Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24288">2611.24288</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24345.html">Density functional theory of renormalization group in nuclear matter</a></div></td>
-<td>Yong-rui Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24345">2611.24345</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24547.html">Orientation-Tunable Interfacial Thermal Conductance in Lateral MoSe2/MoS2 Heterostructures: A Deep Potential Molecular Dynamics Study</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="tmd-7d.html">tmd</a></div></td>
-<td>Shirin Sabokdast et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24547">2611.24547</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24754.html">Atomic-scale assembly of sulfur vacancy complexes for tailored in-gap states in monolayer WS$_{2}$</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
-<td>Daniel Jansen et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24754">2611.24754</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24759.html">Characterizing adsorption thermodynamics in carbon capture materials: an efficient first-principles approach</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="mlip-7d.html">mlip</a> · <a href="mof-7d.html">mof</a></div></td>
-<td>Anna T. Bui et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24759">2611.24759</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28125.html">Using potential derivatives to reduce the cost of rectangular collocation: a general and versatile approach for computational vibrational spectroscopy without a potential energy surface</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Moksh Bhateja et al.</td>
-<td><a href="http://arxiv.org/abs/2611.28125">2611.28125</a></td>
 </tr>
 </tbody></table>

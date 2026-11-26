@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33557.html">DiffER$^2$: Diffusion Ensembles for Retrosynthesis Prediction with SMILES Adapted Particle Guidance</a></div><div class="paper-tags"><a href="molecular-generation-90d.html">molecular-generation</a> · <a href="retrosynthesis-90d.html">retrosynthesis</a></div></td>
+<td>Sean Current et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33557">2611.33557</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29935.html">GABIF: An Adaptive Guided Graph Denoising Framework for Antibody Conditional Inverse Folding</a></div><div class="paper-tags"><a href="drug-discovery-90d.html">drug-discovery</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="protein-ligand-90d.html">protein-ligand</a> · <a href="protein-structure-90d.html">protein-structure</a></div></td>
 <td>Mingwei Liu et al.</td>
@@ -584,11 +590,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.27893.html">CommerceVibe: Learning to Design E-Commerce Creatives as Executable Visual Code via Dual-Feedback Reinforcement Learning</a></div><div class="paper-tags"><a href="multimodal-llm-90d.html">multimodal-llm</a> · <a href="reinforcement-learning-90d.html">reinforcement-learning</a></div></td>
 <td>Yajiao Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27893">2608.27893</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26585.html">GRAS: Guided Reduced-Variance Proposals and Adaptive Selection for Training-Free Reward Alignment in Discrete Diffusion</a></div><div class="paper-tags"><a href="protein-structure-90d.html">protein-structure</a></div></td>
-<td>Kwanyoung Kim</td>
-<td><a href="http://arxiv.org/abs/2608.26585">2608.26585</a></td>
 </tr>
 </tbody></table>

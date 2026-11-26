@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,29 +176,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26782.html">ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization</a></div></td>
 <td>Trupti Mohanty et al.</td>
 <td><a href="http://arxiv.org/abs/2611.26782">2611.26782</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23737.html">Kernel Design in Particle Mesh Ewald Methods: Splitting, Interpolation, and Upsampling</a></div></td>
-<td>Shidong Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.23737">2611.23737</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23866.html">Tuning spreading transport in GaN HEMTs with an AlN space layer under non-equilibrium heating</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Daosheng Tang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.23866">2611.23866</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24547.html">Orientation-Tunable Interfacial Thermal Conductance in Lateral MoSe2/MoS2 Heterostructures: A Deep Potential Molecular Dynamics Study</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="dft-7d.html">dft</a> · <a href="tmd-7d.html">tmd</a></div></td>
-<td>Shirin Sabokdast et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24547">2611.24547</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25097.html">Mixtures of a fluid with competing interactions and a simple solvent near a hard wall</a></div></td>
-<td>Ivan Kravtsiv et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25097">2611.25097</a></td>
 </tr>
 </tbody></table>

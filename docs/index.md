@@ -5,15 +5,27 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-11-25._
+_Updated 2026-11-26._
 
-**16897** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**16899** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.33557.html">DiffER$^2$: Diffusion Ensembles for Retrosynthesis Prediction with SMILES Adapted Particle Guidance</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/molecular-generation-30d.html">molecular-generation</a> · <a href="tag/retrosynthesis-30d.html">retrosynthesis</a></div></td>
+<td>Sean Current et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33557">2611.33557</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.34254.html">Crucible: Evaluating LLM Agents in Executable Chemistry Research Environments</a></div><div class="paper-tags"><a href="tag/retrosynthesis-30d.html">retrosynthesis</a></div></td>
+<td>Yinjun Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34254">2611.34254</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.30509.html">De Novo Generation of Odorant Molecules with Targeted Olfactory Receptor Activation Patterns</a></div><div class="paper-tags"><a href="tag/drug-discovery-30d.html">drug-discovery</a> · <a href="tag/reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
@@ -181,17 +193,5 @@ _Updated 2026-11-25._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.32851.html">Path-probability gradients for optimizing force fields against dynamical observables</a></div><div class="paper-tags"><a href="tag/free-energy-30d.html">free-energy</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
 <td>Zhongyao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.32851">2611.32851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.33060.html">Native vacancy energetics and association in TiN and CrN: chemical potential dependence, clustering, and surface effects</a></div><div class="paper-tags"><a href="tag/dft-30d.html">dft</a> · <a href="tag/thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Barsha Bhattacharjee et al.</td>
-<td><a href="http://arxiv.org/abs/2611.33060">2611.33060</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.33089.html">Anharmonic enhancement of thermal conductivity in amorphous Ge$_2$Sb$_2$Te$_5$: A consistent picture from molecular dynamics and Wigner transport</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Luiz Felipe C. Pereira et al.</td>
-<td><a href="http://arxiv.org/abs/2611.33089">2611.33089</a></td>
 </tr>
 </tbody></table>

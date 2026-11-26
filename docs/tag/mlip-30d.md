@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mlip — 30d</h1>
-  <span class="paper-count">65 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <strong>30d</strong> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -380,29 +380,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37606.html">A unified coarse-grained neural network potential for the dynamics of biomolecular complexes</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Antonio Mirarchi et al.</td>
 <td><a href="http://arxiv.org/abs/2610.37606">2610.37606</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30591.html">Decoding Composition-Structure-Performance Relations in Sodium Layered Oxide Positive Electrode Materials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a> · <a href="tmo-30d.html">tmo</a></div></td>
-<td>Yunyeong Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30591">2610.30591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32652.html">Low-variance estimators for nuclear quantum mean forces</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Venkat Kapil</td>
-<td><a href="http://arxiv.org/abs/2610.32652">2610.32652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35164.html">Accelerating SO(2)-Equivariant Materials Models through Low-Precision Emulation</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Denghui Lu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35164">2610.35164</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35547.html">High-efficiency solid-state electrochemical thermal switching through phonon engineering of 2D materials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="thermal-properties-30d.html">thermal-properties</a> · <a href="tmd-30d.html">tmd</a></div></td>
-<td>Harry Mclean et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35547">2610.35547</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33557.html">DiffER$^2$: Diffusion Ensembles for Retrosynthesis Prediction with SMILES Adapted Particle Guidance</a></div><div class="paper-tags"><a href="molecular-generation-7d.html">molecular-generation</a> · <a href="retrosynthesis-7d.html">retrosynthesis</a></div></td>
+<td>Sean Current et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33557">2611.33557</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29935.html">GABIF: An Adaptive Guided Graph Denoising Framework for Antibody Conditional Inverse Folding</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="protein-ligand-7d.html">protein-ligand</a> · <a href="protein-structure-7d.html">protein-structure</a></div></td>
 <td>Mingwei Liu et al.</td>
@@ -74,11 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26359.html">Learning from Context: Leave-One-Out Prediction in Jump Diffusions</a></div></td>
 <td>Christian Wald</td>
 <td><a href="http://arxiv.org/abs/2611.26359">2611.26359</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24130.html">A Universal Diffusion Model for the Quantum Position Operator</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="chemical-space-7d.html">chemical-space</a> · <a href="gnn-7d.html">gnn</a></div></td>
-<td>Ransell D&#x27;Souza et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24130">2611.24130</a></td>
 </tr>
 </tbody></table>

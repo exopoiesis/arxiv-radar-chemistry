@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>vdw-correction — 360d</h1>
-  <span class="paper-count">145 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="vdw-correction-7d.html">7d</a> <a href="vdw-correction-30d.html">30d</a> <a href="vdw-correction-90d.html">90d</a> <strong>360d</strong> <a href="vdw-correction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -878,11 +878,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04029.html">Anisotropic Phonon Dynamics and Directional Transport in Actinide van der Waals Semiconductor USe$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a></div></td>
 <td>Aljoscha Söll et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04029">2512.04029</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00921.html">Exchange-Correlation Functionals in 2D Materials: Applications, Challenges, and Limitations</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="materials-science-360d.html">materials-science</a></div></td>
-<td>Ahsan Javed et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00921">2512.00921</a></td>
 </tr>
 </tbody></table>

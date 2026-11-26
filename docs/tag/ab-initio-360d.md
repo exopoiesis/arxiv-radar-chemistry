@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1518 papers</span>
+  <span class="paper-count">1516 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -9110,17 +9110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02196.html">Coupling between ferroelectric distortions and excitonic properties in PbTiO$_3$</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
 <td>Pietro Pacchioni et al.</td>
 <td><a href="http://arxiv.org/abs/2512.02196">2512.02196</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00914.html">Field-Tunable Quantum Metric in Few-Layer Phosphorene</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a></div></td>
-<td>Md Afsar Reja et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00914">2512.00914</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00988.html">Second-Order Jahn-Teller Distortions and Dynamic Lattice Polarizability as the Origin of Broadband Emission in Bi3+-Doped Cs2SnCl6</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Shruti Prasad et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00988">2512.00988</a></td>
 </tr>
 </tbody></table>

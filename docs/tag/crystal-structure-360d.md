@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">261 papers</span>
+  <span class="paper-count">260 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1574,11 +1574,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02196.html">Coupling between ferroelectric distortions and excitonic properties in PbTiO$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a></div></td>
 <td>Pietro Pacchioni et al.</td>
 <td><a href="http://arxiv.org/abs/2512.02196">2512.02196</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00977.html">Crystalyse: a multi-tool agent for materials design</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a></div></td>
-<td>Ryan Nduma et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00977">2512.00977</a></td>
 </tr>
 </tbody></table>

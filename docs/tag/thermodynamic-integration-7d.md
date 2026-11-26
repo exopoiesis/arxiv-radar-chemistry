@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <a href="thermodynamic-integration-360d.html">360d</a> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,23 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27580.html">Designing Perovskites for Chemical Looping Hydrogen Production</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a></div></td>
 <td>Ivana Staničić et al.</td>
 <td><a href="http://arxiv.org/abs/2611.27580">2611.27580</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23777.html">STORM: A Lightweight Structure-Free Model for Binding Affinity Prediction</a></div><div class="paper-tags"><a href="drug-discovery-7d.html">drug-discovery</a> · <a href="protein-ligand-7d.html">protein-ligand</a></div></td>
-<td>Ayush Pandit et al.</td>
-<td><a href="http://arxiv.org/abs/2611.23777">2611.23777</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24097.html">Uncovering the Structural, Electronic, and Electrostatic Landscapes of SrTiO$_3$ Grain Boundaries via Grand Canonical Monte Carlo with a Machine-Learning Interatomic Potential</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a> · <a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Xing He et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24097">2611.24097</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25127.html">Machine Learning-Driven High-Throughput Screening of Equimolar and Non-Equimolar High-Entropy Carbides</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Arina A. Svinukhova et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25127">2611.25127</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>magnetic-properties — 360d</h1>
-  <span class="paper-count">327 papers</span>
+  <span class="paper-count">325 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <strong>360d</strong> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1964,17 +1964,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01615.html">Electric polarization driven by non-collinear spin alignment investigated by first principles calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
 <td>Sergiy Mankovsky et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01615">2512.01615</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00786.html">Asteroseismic detection of a predominantly toroidal magnetic field in the deep interior of the main-sequence F star KIC 9244992</a></div></td>
-<td>Masao Takata et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00786">2512.00786</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00972.html">Observation of hidden altermagnetism in Cs$_{1-δ}$V$_2$Te$_2$O</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Guowei Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00972">2512.00972</a></td>
 </tr>
 </tbody></table>

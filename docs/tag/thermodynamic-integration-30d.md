@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <strong>30d</strong> <a href="thermodynamic-integration-90d.html">90d</a> <a href="thermodynamic-integration-360d.html">360d</a> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,17 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03767.html">Quantifying out-of-distribution data severity with Wasserstein distances: benchmarking large language models for alloy property prediction</a></div><div class="paper-tags"><a href="materials-discovery-30d.html">materials-discovery</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
 <td>YuJie Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.03767">2611.03767</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30591.html">Decoding Composition-Structure-Performance Relations in Sodium Layered Oxide Positive Electrode Materials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="mlip-30d.html">mlip</a> · <a href="tmo-30d.html">tmo</a></div></td>
-<td>Yunyeong Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30591">2610.30591</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35353.html">Direct observation of a spin-polarized surface Dirac gap in the antiferromagnetic topological insulator NdBi</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="magnetic-properties-30d.html">magnetic-properties</a></div></td>
-<td>Yuto Fukushima et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35353">2610.35353</a></td>
 </tr>
 </tbody></table>

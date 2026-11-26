@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>magnetic-properties — 30d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="magnetic-properties-7d.html">7d</a> <strong>30d</strong> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,17 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03919.html">Protostellar evolution of intermediate-mass stars: implications for the survival of fossil magnetic fields</a></div></td>
 <td>Luis Villarroel Casanova et al.</td>
 <td><a href="http://arxiv.org/abs/2611.03919">2611.03919</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35153.html">Temperature-dependent magnetic properties of the antiferromagnet Mn$_2$Au</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a></div></td>
-<td>Jackson L. Ross et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35153">2610.35153</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35353.html">Direct observation of a spin-polarized surface Dirac gap in the antiferromagnetic topological insulator NdBi</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
-<td>Yuto Fukushima et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35353">2610.35353</a></td>
 </tr>
 </tbody></table>

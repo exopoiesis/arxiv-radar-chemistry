@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dft — 360d</h1>
-  <span class="paper-count">2033 papers</span>
+  <span class="paper-count">2025 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <strong>360d</strong> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -12164,53 +12164,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03277.html">On-the-Fly Cavity-Molecular Dynamics of Vibrational Polaritons</a></div></td>
 <td>Sachith Wickramasinghe et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03277">2512.03277</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.18601.html">Influence of interstitial Li on the electronic properties of Li$_{x}$CsPbI$_{3}$ for photovoltaic and battery applications</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Wei Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2403.18601">2403.18601</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16554.html">Machine Learning Time Propagators for Time-Dependent Density Functional Theory Simulations</a></div><div class="paper-tags"><a href="excited-states-360d.html">excited-states</a></div></td>
-<td>Karan Shah et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16554">2508.16554</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01160.html">From Regression to Classification: Exploring the Benefits of Categorical Representations of Energy in MLIPs</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
-<td>Ahmad Ali</td>
-<td><a href="http://arxiv.org/abs/2512.01160">2512.01160</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01399.html">Modeling high-order harmonic generation in quantum dots using a real-space tight-binding approach</a></div></td>
-<td>Martin Thümmler et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01399">2512.01399</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01631.html">First-principles screening of materials with extreme effective masses</a></div><div class="paper-tags"><a href="electronic-structure-360d.html">electronic-structure</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Szymon Błazucki et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01631">2512.01631</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01808.html">Pair Transfer and Reaction Dynamics in $^{40,48}$Ca + $^{96}$Zr Collisions Below the Coulomb Barrier</a></div></td>
-<td>Ibrahim Abdurrahman et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01808">2512.01808</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01907.html">First-principles band alignment engineering in polar and nonpolar orientations for wurtzite AlN, GaN, and B$_x$Al$_{1-x}$N alloys</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Cody L Milne et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01907">2512.01907</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02207.html">Uncertainty Principle and Angular Momentum Generation in Microscopic Fission Models</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>G. Scamps et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02207">2512.02207</a></td>
 </tr>
 </tbody></table>

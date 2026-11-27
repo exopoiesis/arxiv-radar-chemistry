@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>dft — 30d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">141 papers</span>
   <nav class="window-nav"><a href="dft-7d.html">7d</a> <strong>30d</strong> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -860,41 +860,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02202.html">Thermodynamic Underpinnings Affecting Compressive and Tensile Plasticity in Refractory Compositionally Complex Alloys</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Eric A. Lass et al.</td>
 <td><a href="http://arxiv.org/abs/2611.02202">2611.02202</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36501.html">Spin-Charge Conversion in an Epitaxial Kagome Flat-Band Metal</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="electronic-structure-30d.html">electronic-structure</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
-<td>Wenyi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36501">2610.36501</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36542.html">First-principles-based search for emergent topological spin textures in transition-metal dichalcogenide monolayers</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="materials-discovery-30d.html">materials-discovery</a></div></td>
-<td>Yuhyun Cha et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36542">2610.36542</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37095.html">First-Principles Investigation of Irida-Graphane: A Wide-Band-Gap Semiconductor Derived from Irida-Graphene</a></div><div class="paper-tags"><a href="2d-materials-30d.html">2d-materials</a> · <a href="ab-initio-30d.html">ab-initio</a> · <a href="band-gap-30d.html">band-gap</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Djardiel S. Gomes et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37095">2610.37095</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37152.html">Cu intercalation and field-driven filament formation in vertically aligned MoS$_2$ memristors</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Touko Lehenkari et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37152">2610.37152</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37360.html">Impact of Neutrino Trapping on the Equation of State and Structure of Hybrid Stars with 2SC Quark Matter</a></div></td>
-<td>Andrea Sabatucci et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37360">2610.37360</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37483.html">StudDFT: A quantum chemistry program for educational and research purposes</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Stanislav K. Ignatov</td>
-<td><a href="http://arxiv.org/abs/2610.37483">2610.37483</a></td>
 </tr>
 </tbody></table>

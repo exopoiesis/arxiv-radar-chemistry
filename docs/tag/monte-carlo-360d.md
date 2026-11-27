@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">316 papers</span>
+  <span class="paper-count">315 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1904,11 +1904,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03825.html">Acceleration of Parallel Tempering for Markov Chain Monte Carlo methods</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a> · <a href="replica-exchange-360d.html">replica-exchange</a></div></td>
 <td>Aingeru Ramos et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03825">2512.03825</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02207.html">Uncertainty Principle and Angular Momentum Generation in Microscopic Fission Models</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>G. Scamps et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02207">2512.02207</a></td>
 </tr>
 </tbody></table>

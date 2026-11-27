@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 360d</h1>
-  <span class="paper-count">342 papers</span>
+  <span class="paper-count">341 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <strong>360d</strong> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2060,11 +2060,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04322.html">Quantum Chemistry Simulation of Dibenzothiophene for Asphalt Aging Analysis</a></div></td>
 <td>Om Tailor</td>
 <td><a href="http://arxiv.org/abs/2512.04322">2512.04322</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22593.html">An Optimal Framework for Constructing Lie-Algebra Generator Pools: Application to Variational Quantum Eigensolvers for Chemistry</a></div><div class="paper-tags"><a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Yaromir Viswanathan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22593">2511.22593</a></td>
 </tr>
 </tbody></table>

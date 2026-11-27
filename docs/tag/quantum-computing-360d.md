@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>quantum-computing — 360d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">119 papers</span>
   <nav class="window-nav"><a href="quantum-computing-7d.html">7d</a> <a href="quantum-computing-30d.html">30d</a> <a href="quantum-computing-90d.html">90d</a> <strong>360d</strong> <a href="quantum-computing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -728,17 +728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12089.html">On the Convergence of Markov Chain Distribution within Quantum Walk Circuit Subspace</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Aingeru Ramos et al.</td>
 <td><a href="http://arxiv.org/abs/2504.12089">2504.12089</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22593.html">An Optimal Framework for Constructing Lie-Algebra Generator Pools: Application to Variational Quantum Eigensolvers for Chemistry</a></div><div class="paper-tags"><a href="quantum-chemistry-360d.html">quantum-chemistry</a></div></td>
-<td>Yaromir Viswanathan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22593">2511.22593</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03099.html">QGShap: Quantum Acceleration for Faithful GNN Explanations</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="gnn-360d.html">gnn</a></div></td>
-<td>Haribandhu Jena et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03099">2512.03099</a></td>
 </tr>
 </tbody></table>

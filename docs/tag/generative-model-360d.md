@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">469 papers</span>
+  <span class="paper-count">467 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2816,17 +2816,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17478.html">ConfRover: Simultaneous Modeling of Protein Conformation and Dynamics via Autoregression</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Yuning Shen et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17478">2505.17478</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01294.html">Experimental Methods, Health Indicators, and Diagnostic Strategies for Retired Lithium-ion Batteries: A Comprehensive Review</a></div></td>
-<td>Song Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01294">2512.01294</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01756.html">Mofasa: A Step Change in Metal-Organic Framework Generation</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="mof-360d.html">mof</a></div></td>
-<td>Vaidotas Simkus et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01756">2512.01756</a></td>
 </tr>
 </tbody></table>

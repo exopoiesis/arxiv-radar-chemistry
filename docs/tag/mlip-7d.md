@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mlip — 7d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <a href="mlip-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34547.html">SCO-Hyper-Meta-Double-GroupNN: A Double-Group SU(2) Hyper-/Meta-Graph Neural Network for Cooperative Spin-Crossover Potential Energy Surfaces</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Rong Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34547">2611.34547</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31865.html">Accelerating Equivariant Interatomic Potentials for Molecular Dynamics through Radial tabulation and Kernel Fusion</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
@@ -80,23 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29574.html">MagPot: A magnetoelastic potential generator for molecular dynamics simulations</a></div><div class="paper-tags"><a href="materials-science-7d.html">materials-science</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>P. Nieves et al.</td>
 <td><a href="http://arxiv.org/abs/2611.29574">2611.29574</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25646.html">AdsNet: A Graph Neural Network for Direct Adsorption Energy Prediction</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="dft-7d.html">dft</a> · <a href="gnn-7d.html">gnn</a></div></td>
-<td>Changzhi Ai et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25646">2611.25646</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26533.html">Emergent Fatigue Dynamics from Foundational Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Jingye Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2611.26533">2611.26533</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26819.html">Recovering from Averages: An Inverse Problem Perspective on Machine-Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Tina Torabi et al.</td>
-<td><a href="http://arxiv.org/abs/2611.26819">2611.26819</a></td>
 </tr>
 </tbody></table>

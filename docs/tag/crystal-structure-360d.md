@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystal-structure — 360d</h1>
-  <span class="paper-count">260 papers</span>
+  <span class="paper-count">256 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <a href="crystal-structure-30d.html">30d</a> <a href="crystal-structure-90d.html">90d</a> <strong>360d</strong> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1550,29 +1550,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03842.html">Super-hard and superconducting boron clathrates in the prediction of U-B compounds</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Juefei Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03842">2512.03842</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.18601.html">Influence of interstitial Li on the electronic properties of Li$_{x}$CsPbI$_{3}$ for photovoltaic and battery applications</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Wei Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2403.18601">2403.18601</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03129.html">Finite-temperature properties and the hidden ferroelectric $R3c$ phase of bulk CaTiO$_3$ from second principles</a></div><div class="paper-tags"><a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Huazhang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03129">2505.03129</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01615.html">Electric polarization driven by non-collinear spin alignment investigated by first principles calculations</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Sergiy Mankovsky et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01615">2512.01615</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02196.html">Coupling between ferroelectric distortions and excitonic properties in PbTiO$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a></div></td>
-<td>Pietro Pacchioni et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02196">2512.02196</a></td>
 </tr>
 </tbody></table>

@@ -58,6 +58,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2611.24130">2611.24130</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33200.html">Adaptive attention routing multimodal expert graph neural network for drug-drug interaction prediction</a></div></td>
+<td>Jingyi Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33200">2611.33200</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20585.html">Scaling a Universal Graph Neural Network Force Field to Billions of Atoms on Desk-Side GPUs</a></div><div class="paper-tags"><a href="mlip-90d.html">mlip</a></div></td>
 <td>Jaehyung Lee et al.</td>
@@ -458,11 +464,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00915.html">Element priors and target support shape chemical transfer in materials graph networks</a></div></td>
 <td>Ran Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2609.00915">2609.00915</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.28347.html">Work Function and High-Coverage Adsorption Energy as Hydrogen-Evolution Descriptors on Ag-Au-Pd-Pt Alloys</a></div></td>
-<td>Zacharias Liasi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.28347">2608.28347</a></td>
 </tr>
 </tbody></table>

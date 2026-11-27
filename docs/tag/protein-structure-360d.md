@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>protein-structure — 360d</h1>
-  <span class="paper-count">227 papers</span>
+  <span class="paper-count">226 papers</span>
   <nav class="window-nav"><a href="protein-structure-7d.html">7d</a> <a href="protein-structure-30d.html">30d</a> <a href="protein-structure-90d.html">90d</a> <strong>360d</strong> <a href="protein-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1370,11 +1370,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02315.html">Few-shot Protein Fitness Prediction via In-context Learning and Test-time Training</a></div></td>
 <td>Felix Teufel et al.</td>
 <td><a href="http://arxiv.org/abs/2512.02315">2512.02315</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04490.html">Multiscale guidance of protein structure prediction with heterogeneous cryo-EM data</a></div><div class="paper-tags"><a href="structure-prediction-360d.html">structure-prediction</a></div></td>
-<td>Rishwanth Raghu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04490">2506.04490</a></td>
 </tr>
 </tbody></table>

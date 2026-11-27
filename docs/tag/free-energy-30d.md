@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>free-energy — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <strong>30d</strong> <a href="free-energy-90d.html">90d</a> <a href="free-energy-360d.html">360d</a> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34547.html">SCO-Hyper-Meta-Double-GroupNN: A Double-Group SU(2) Hyper-/Meta-Graph Neural Network for Cooperative Spin-Crossover Potential Energy Surfaces</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Rong Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34547">2611.34547</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32568.html">Representation and Model Contributions on Small Molecular Benchmarks: Controlled Comparisons and External Evaluation</a></div><div class="paper-tags"><a href="molecular-representation-30d.html">molecular-representation</a> · <a href="property-prediction-30d.html">property-prediction</a></div></td>
@@ -206,29 +212,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02277.html">Atom-Wise Allocation of Message-Passing Scale for Molecular Property Prediction</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
 <td>Regina Qianru Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.02277">2611.02277</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36647.html">Designing Geared Molecular Rotors in Flexible Metal-Organic Frameworks</a></div><div class="paper-tags"><a href="metadynamics-30d.html">metadynamics</a> · <a href="mof-30d.html">mof</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Konstantin Stracke et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36647">2610.36647</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37483.html">StudDFT: A quantum chemistry program for educational and research purposes</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Stanislav K. Ignatov</td>
-<td><a href="http://arxiv.org/abs/2610.37483">2610.37483</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37586.html">On-the-fly Estimation of Quantum-Corrected Thermodynamics in LAMMPS</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Robert Ramji et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37586">2610.37586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37597.html">The Acridine Polymorph Landscape: Characterization and Selective Control by Additives</a></div><div class="paper-tags"><a href="crystal-structure-30d.html">crystal-structure</a> · <a href="structure-prediction-30d.html">structure-prediction</a></div></td>
-<td>Adam Lahouari et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37597">2610.37597</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gnn — all</h1>
-  <span class="paper-count">768 papers</span>
+  <span class="paper-count">769 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,6 +56,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24130.html">A Universal Diffusion Model for the Quantum Position Operator</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="chemical-space-all.html">chemical-space</a> · <a href="diffusion-model-all.html">diffusion-model</a></div></td>
 <td>Ransell D&#x27;Souza et al.</td>
 <td><a href="http://arxiv.org/abs/2611.24130">2611.24130</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33200.html">Adaptive attention routing multimodal expert graph neural network for drug-drug interaction prediction</a></div></td>
+<td>Jingyi Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33200">2611.33200</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-16</td>

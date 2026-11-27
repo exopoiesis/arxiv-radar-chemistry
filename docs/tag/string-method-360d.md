@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>string-method — 360d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="string-method-7d.html">7d</a> <a href="string-method-30d.html">30d</a> <a href="string-method-90d.html">90d</a> <strong>360d</strong> <a href="string-method-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,11 +140,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14294.html">An empirical formulation of accelerated molecular dynamics for simulating and predicting microstructure evolution in materials</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="materials-science-360d.html">materials-science</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Liang Wan et al.</td>
 <td><a href="http://arxiv.org/abs/2503.14294">2503.14294</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01479.html">Non-Markovian dynamics in ice nucleation</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Pablo Montero de Hijes et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01479">2512.01479</a></td>
 </tr>
 </tbody></table>

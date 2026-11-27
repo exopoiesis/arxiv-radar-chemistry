@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalysis — 360d</h1>
-  <span class="paper-count">302 papers</span>
+  <span class="paper-count">301 papers</span>
   <nav class="window-nav"><a href="catalysis-7d.html">7d</a> <a href="catalysis-30d.html">30d</a> <a href="catalysis-90d.html">90d</a> <strong>360d</strong> <a href="catalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1820,11 +1820,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03785.html">Interfacial Control of Orbital Occupancy and Spin State in LaCoO$_3$</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="tmo-360d.html">tmo</a></div></td>
 <td>Ellen M. Kiens et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03785">2512.03785</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02196.html">Coupling between ferroelectric distortions and excitonic properties in PbTiO$_3$</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Pietro Pacchioni et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02196">2512.02196</a></td>
 </tr>
 </tbody></table>

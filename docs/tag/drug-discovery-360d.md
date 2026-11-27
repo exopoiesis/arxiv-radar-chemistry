@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>drug-discovery — 360d</h1>
-  <span class="paper-count">469 papers</span>
+  <span class="paper-count">468 papers</span>
   <nav class="window-nav"><a href="drug-discovery-7d.html">7d</a> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <strong>360d</strong> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2822,11 +2822,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02667.html">Graph VQ-Transformer (GVT): Fast and Accurate Molecular Generation via High-Fidelity Discrete Latents</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Haozhuo Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2512.02667">2512.02667</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03099.html">QGShap: Quantum Acceleration for Faithful GNN Explanations</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Haribandhu Jena et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03099">2512.03099</a></td>
 </tr>
 </tbody></table>

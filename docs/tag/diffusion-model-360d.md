@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">418 papers</span>
+  <span class="paper-count">416 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2510,17 +2510,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03127.html">Atomic Diffusion Models for Small Molecule Structure Elucidation from NMR Spectra</a></div></td>
 <td>Ziyu Xiong et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03127">2512.03127</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01756.html">Mofasa: A Step Change in Metal-Organic Framework Generation</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="mof-360d.html">mof</a></div></td>
-<td>Vaidotas Simkus et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01756">2512.01756</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02143.html">CoatFusion: Controllable Material Coating in Images</a></div></td>
-<td>Sagie Levy et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02143">2512.02143</a></td>
 </tr>
 </tbody></table>

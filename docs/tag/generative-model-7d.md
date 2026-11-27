@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>generative-model — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27924.html">BioEmu2: Scalable Emulation of Biomolecular Dynamics</a></div><div class="paper-tags"><a href="enhanced-sampling-7d.html">enhanced-sampling</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
 <td>Michael Gastegger et al.</td>
 <td><a href="http://arxiv.org/abs/2611.27924">2611.27924</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22098.html">Every Measurement, Every Direction, All at Once: Multimodal Flow Matching for Molecules and Spectra</a></div></td>
-<td>Thorben Prein et al.</td>
-<td><a href="http://arxiv.org/abs/2611.22098">2611.22098</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25452.html">FamilySpace: From Emergent Chemical Semantics to Controllable Crystal Generation</a></div><div class="paper-tags"><a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
-<td>Haowei Hua et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25452">2611.25452</a></td>
 </tr>
 </tbody></table>

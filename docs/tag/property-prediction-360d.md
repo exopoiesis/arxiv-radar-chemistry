@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>property-prediction — 360d</h1>
-  <span class="paper-count">229 papers</span>
+  <span class="paper-count">227 papers</span>
   <nav class="window-nav"><a href="property-prediction-7d.html">7d</a> <a href="property-prediction-30d.html">30d</a> <a href="property-prediction-90d.html">90d</a> <strong>360d</strong> <a href="property-prediction-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1376,17 +1376,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10341.html">Multi-View Graph Learning with Graph-Tuple</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
 <td>Shiyu Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10341">2510.10341</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01287.html">milearn: A Python Package for Multi-Instance Machine Learning</a></div></td>
-<td>Dmitry Zankov et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01287">2512.01287</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05138.html">polyRETRO: a Language Model Approach to predict Polymerization Class and Monomer(s) for a Target Polymer</a></div></td>
-<td>Sakshi Agarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2512.05138">2512.05138</a></td>
 </tr>
 </tbody></table>

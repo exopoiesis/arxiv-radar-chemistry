@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1516 papers</span>
+  <span class="paper-count">1509 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34547.html">SCO-Hyper-Meta-Double-GroupNN: A Double-Group SU(2) Hyper-/Meta-Graph Neural Network for Cooperative Spin-Crossover Potential Energy Surfaces</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Rong Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34547">2611.34547</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32609.html">Thermodynamics of complex crystals from a generalized mean-field bond model</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -9062,53 +9068,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03016.html">Topological Shell Structures in Neutron Stars: Effects on Equilibrium, Oscillations, and Gravitational-Wave Signatures</a></div></td>
 <td>Debojoti Kuzur et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03016">2512.03016</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.18601.html">Influence of interstitial Li on the electronic properties of Li$_{x}$CsPbI$_{3}$ for photovoltaic and battery applications</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Wei Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2403.18601">2403.18601</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23001.html">Observing the spatial and temporal evolution of exciton wave functions</a></div><div class="paper-tags"><a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Marcel Theilen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.23001">2511.23001</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01206.html">Microscopic origin of the spin-splitting in altermagnets</a></div></td>
-<td>Suyoung Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01206">2512.01206</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01615.html">Electric polarization driven by non-collinear spin alignment investigated by first principles calculations</a></div><div class="paper-tags"><a href="crystal-structure-360d.html">crystal-structure</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Sergiy Mankovsky et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01615">2512.01615</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01627.html">Accelerated Machine Learning Force Field for Predicting Thermal Conductivity of Organic Liquids</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
-<td>Wei Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01627">2512.01627</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01874.html">On-chip high-order parametric downconversion in the excitonic Mott insulator Nb$_3$Cl$_8$ for programmable multiphoton entangled states</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Dmitry Skachkov et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01874">2512.01874</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02085.html">Effect of the avoided crossing on the rovibrational energy levels, resonances, and predissociation lifetimes within the ground and first excited electronic states of lithium fluoride</a></div></td>
-<td>V. G. Ushakov et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02085">2512.02085</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02196.html">Coupling between ferroelectric distortions and excitonic properties in PbTiO$_3$</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
-<td>Pietro Pacchioni et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02196">2512.02196</a></td>
 </tr>
 </tbody></table>

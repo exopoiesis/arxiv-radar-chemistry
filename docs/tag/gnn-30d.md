@@ -58,6 +58,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2611.24130">2611.24130</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33200.html">Adaptive attention routing multimodal expert graph neural network for drug-drug interaction prediction</a></div></td>
+<td>Jingyi Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33200">2611.33200</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20585.html">Scaling a Universal Graph Neural Network Force Field to Billions of Atoms on Desk-Side GPUs</a></div><div class="paper-tags"><a href="mlip-30d.html">mlip</a></div></td>
 <td>Jaehyung Lee et al.</td>
@@ -146,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02277.html">Atom-Wise Allocation of Message-Passing Scale for Molecular Property Prediction</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
 <td>Regina Qianru Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.02277">2611.02277</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37222.html">Magnetic crystal generation with site-resolved magnetic moments via Gaussian-mixture retargeting and finite-budget yield prediction</a></div></td>
-<td>Wen-Chuang Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.37222">2610.37222</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>materials-science — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <a href="materials-science-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,17 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28324.html">MatHarness: Towards Long-Horizon Open-ended AutoResearch for Computational Materials Science</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="dft-7d.html">dft</a></div></td>
 <td>Yanlin Fei et al.</td>
 <td><a href="http://arxiv.org/abs/2611.28324">2611.28324</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25651.html">MatVerse: A Foundation Model for Materials Science</a></div></td>
-<td>Xuanyu Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25651">2611.25651</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25779.html">Intelligent Imaging of Thermal Transport in Nanostructures</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Xin Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25779">2611.25779</a></td>
 </tr>
 </tbody></table>

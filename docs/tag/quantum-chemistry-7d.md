@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="quantum-chemistry-30d.html">30d</a> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,17 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27851.html">Tackling Many-Body Coulomb Singularity by Randomization</a></div></td>
 <td>Di Fang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.27851">2611.27851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22897.html">Born for the Task: Rethinking Quantum Chemistry with Foresighted Agentic Computing</a></div></td>
-<td>Haozhi Han et al.</td>
-<td><a href="http://arxiv.org/abs/2611.22897">2611.22897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25448.html">Atlas: Accelerating Quantum FTQC Compilation with Optimized Algebraic Rotation Synthesis</a></div><div class="paper-tags"><a href="quantum-computing-7d.html">quantum-computing</a></div></td>
-<td>Anbang Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25448">2611.25448</a></td>
 </tr>
 </tbody></table>

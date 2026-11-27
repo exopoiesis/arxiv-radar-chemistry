@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34547.html">SCO-Hyper-Meta-Double-GroupNN: A Double-Group SU(2) Hyper-/Meta-Graph Neural Network for Cooperative Spin-Crossover Potential Energy Surfaces</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="mlip-7d.html">mlip</a></div></td>
+<td>Rong Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34547">2611.34547</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31865.html">Accelerating Equivariant Interatomic Potentials for Molecular Dynamics through Radial tabulation and Kernel Fusion</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="mlip-7d.html">mlip</a></div></td>
@@ -140,41 +146,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27924.html">BioEmu2: Scalable Emulation of Biomolecular Dynamics</a></div><div class="paper-tags"><a href="enhanced-sampling-7d.html">enhanced-sampling</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="generative-model-7d.html">generative-model</a> · <a href="structure-prediction-7d.html">structure-prediction</a></div></td>
 <td>Michael Gastegger et al.</td>
 <td><a href="http://arxiv.org/abs/2611.27924">2611.27924</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25375.html">Weakly coordinating anions and solvents break the conductivity-transference-solvation tradeoff</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Alex Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25375">2611.25375</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25836.html">Molecular Dynamics Simulation of the Solidification of AlCoCuFeNi High-Entropy Alloy Nanowire</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a></div></td>
-<td>O. I. Kushnerov</td>
-<td><a href="http://arxiv.org/abs/2611.25836">2611.25836</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25899.html">Light-particle emission in nucleon-induced fission of $^{235,238}$U at energies from 10 MeV to 1 GeV</a></div></td>
-<td>Fuchang Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25899">2611.25899</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26533.html">Emergent Fatigue Dynamics from Foundational Interatomic Potentials</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Jingye Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2611.26533">2611.26533</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26724.html">Cavity-Controlled Hysteresis and Multilevel Molecular Switching in Hybrid Optomechanics</a></div></td>
-<td>Hugo Molinares et al.</td>
-<td><a href="http://arxiv.org/abs/2611.26724">2611.26724</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26782.html">ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization</a></div></td>
-<td>Trupti Mohanty et al.</td>
-<td><a href="http://arxiv.org/abs/2611.26782">2611.26782</a></td>
 </tr>
 </tbody></table>

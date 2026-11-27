@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>thermal-properties — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,23 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27103.html">Axial Thermal Transport in Transition Metal Chalcogenide Nanowires from Machine-Learning Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Wenwu Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.27103">2611.27103</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25375.html">Weakly coordinating anions and solvents break the conductivity-transference-solvation tradeoff</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Alex Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25375">2611.25375</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25779.html">Intelligent Imaging of Thermal Transport in Nanostructures</a></div><div class="paper-tags"><a href="materials-discovery-7d.html">materials-discovery</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
-<td>Xin Qian et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25779">2611.25779</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25928.html">Thermal investigation of buffer and transition layers in AlGaN HEMT stacks</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Simon Fernbach et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25928">2611.25928</a></td>
 </tr>
 </tbody></table>

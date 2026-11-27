@@ -5,9 +5,9 @@ title: "Chemistry arxiv-radar"
 
 # Chemistry arxiv-radar
 
-_Updated 2026-11-26._
+_Updated 2026-11-27._
 
-**16899** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**16901** chemistry-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -25,6 +25,12 @@ _Updated 2026-11-26._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.34254.html">Crucible: Evaluating LLM Agents in Executable Chemistry Research Environments</a></div><div class="paper-tags"><a href="tag/retrosynthesis-30d.html">retrosynthesis</a></div></td>
 <td>Yinjun Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.34254">2611.34254</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.34547.html">SCO-Hyper-Meta-Double-GroupNN: A Double-Group SU(2) Hyper-/Meta-Graph Neural Network for Cooperative Spin-Crossover Potential Energy Surfaces</a></div><div class="paper-tags"><a href="tag/ab-initio-30d.html">ab-initio</a> · <a href="tag/free-energy-30d.html">free-energy</a> · <a href="tag/mlip-30d.html">mlip</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Rong Fu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34547">2611.34547</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-24</td>
@@ -187,11 +193,5 @@ _Updated 2026-11-26._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.32850.html">Geometry and topology of DNA defects</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>A. Fassino et al.</td>
 <td><a href="http://arxiv.org/abs/2611.32850">2611.32850</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.32851.html">Path-probability gradients for optimizing force fields against dynamical observables</a></div><div class="paper-tags"><a href="tag/free-energy-30d.html">free-energy</a> · <a href="tag/mlip-30d.html">mlip</a></div></td>
-<td>Zhongyao Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.32851">2611.32851</a></td>
 </tr>
 </tbody></table>

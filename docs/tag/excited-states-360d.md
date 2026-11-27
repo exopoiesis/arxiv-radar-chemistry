@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>excited-states — 360d</h1>
-  <span class="paper-count">217 papers</span>
+  <span class="paper-count">216 papers</span>
   <nav class="window-nav"><a href="excited-states-7d.html">7d</a> <a href="excited-states-30d.html">30d</a> <a href="excited-states-90d.html">90d</a> <strong>360d</strong> <a href="excited-states-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1310,11 +1310,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06029.html">From orbital analysis to active learning: an integrated strategy for the accelerated design of TADF emitters</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a> · <a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="photocatalysis-360d.html">photocatalysis</a></div></td>
 <td>Jean-Pierre Tchapet Njafa et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06029">2512.06029</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16554.html">Machine Learning Time Propagators for Time-Dependent Density Functional Theory Simulations</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Karan Shah et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16554">2508.16554</a></td>
 </tr>
 </tbody></table>

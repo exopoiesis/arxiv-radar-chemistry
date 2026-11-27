@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,35 +248,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28324.html">MatHarness: Towards Long-Horizon Open-ended AutoResearch for Computational Materials Science</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
 <td>Yanlin Fei et al.</td>
 <td><a href="http://arxiv.org/abs/2611.28324">2611.28324</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25646.html">AdsNet: A Graph Neural Network for Direct Adsorption Energy Prediction</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="gnn-7d.html">gnn</a> · <a href="mlip-7d.html">mlip</a></div></td>
-<td>Changzhi Ai et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25646">2611.25646</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25907.html">Ab-initio study of magnetic interaction in RNiO2: role of rare-earth size and epitaxial strain</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
-<td>Ramasamy Murugesan et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25907">2611.25907</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25928.html">Thermal investigation of buffer and transition layers in AlGaN HEMT stacks</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Simon Fernbach et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25928">2611.25928</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25944.html">Alloying effects on the interface cohesion of grain boundaries in the Ni--Fe--Cr system</a></div></td>
-<td>Aljoscha Felix Baumann et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25944">2611.25944</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26533.html">Emergent Fatigue Dynamics from Foundational Interatomic Potentials</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Jingye Tan et al.</td>
-<td><a href="http://arxiv.org/abs/2611.26533">2611.26533</a></td>
 </tr>
 </tbody></table>

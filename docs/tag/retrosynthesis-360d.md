@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>retrosynthesis — 360d</h1>
-  <span class="paper-count">97 papers</span>
+  <span class="paper-count">96 papers</span>
   <nav class="window-nav"><a href="retrosynthesis-7d.html">7d</a> <a href="retrosynthesis-30d.html">30d</a> <a href="retrosynthesis-90d.html">90d</a> <strong>360d</strong> <a href="retrosynthesis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -590,11 +590,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10967.html">Retro-Expert: Collaborative Reasoning for Interpretable Retrosynthesis</a></div><div class="paper-tags"><a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Xinyi Li et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10967">2508.10967</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01507.html">SynthStrategy: Extracting and Formalizing Latent Strategic Insights from LLMs in Organic Chemistry</a></div></td>
-<td>Daniel Armstrong et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01507">2512.01507</a></td>
 </tr>
 </tbody></table>

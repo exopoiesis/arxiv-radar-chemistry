@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-properties — 360d</h1>
-  <span class="paper-count">281 papers</span>
+  <span class="paper-count">278 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <a href="thermal-properties-90d.html">90d</a> <strong>360d</strong> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1682,23 +1682,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04835.html">Interband and kinetic corrections to the electronic Boltzmann transport equation</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
 <td>Elena Trukhan et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04835">2512.04835</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23001.html">Observing the spatial and temporal evolution of exciton wave functions</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a></div></td>
-<td>Marcel Theilen et al.</td>
-<td><a href="http://arxiv.org/abs/2511.23001">2511.23001</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01627.html">Accelerated Machine Learning Force Field for Predicting Thermal Conductivity of Organic Liquids</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Wei Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01627">2512.01627</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01631.html">First-principles screening of materials with extreme effective masses</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a></div></td>
-<td>Szymon Błazucki et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01631">2512.01631</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>gnn — 360d</h1>
-  <span class="paper-count">357 papers</span>
+  <span class="paper-count">356 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <strong>360d</strong> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,6 +56,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24130.html">A Universal Diffusion Model for the Quantum Position Operator</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Ransell D&#x27;Souza et al.</td>
 <td><a href="http://arxiv.org/abs/2611.24130">2611.24130</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33200.html">Adaptive attention routing multimodal expert graph neural network for drug-drug interaction prediction</a></div></td>
+<td>Jingyi Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33200">2611.33200</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-16</td>
@@ -2144,17 +2150,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10341.html">Multi-View Graph Learning with Graph-Tuple</a></div><div class="paper-tags"><a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Shiyu Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10341">2510.10341</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02130.html">Cross-View Topology-Aware Graph Representation Learning</a></div></td>
-<td>Ahmet Sami Korkmaz et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02130">2512.02130</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03099.html">QGShap: Quantum Acceleration for Faithful GNN Explanations</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="quantum-computing-360d.html">quantum-computing</a></div></td>
-<td>Haribandhu Jena et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03099">2512.03099</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>electronic-structure — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="electronic-structure-30d.html">30d</a> <a href="electronic-structure-90d.html">90d</a> <a href="electronic-structure-360d.html">360d</a> <a href="electronic-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34694.html">Automatic dual basis sets for self-consistent field calculations</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Joonatan Huhtasalo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34694">2611.34694</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34732.html">A general-purpose electron density model for molecular chemistry</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Paolo Pegolo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34732">2611.34732</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32723.html">Mixing and Preserving Properties of Non-van der Waals 2D Materials in Sandwich-like Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="vdw-correction-7d.html">vdw-correction</a></div></td>
@@ -56,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28747.html">Minimal Three-Band Model and $d$-Wave Superconductivity in La$_4$Ni$_3$O$_8$</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>Ao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.28747">2611.28747</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27037.html">Transition-Metal Substitutions in MOF-5: A Hybrid-DFT Study of Oxygen Electrocatalysis</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a> · <a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="mof-7d.html">mof</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Pedro H. Souza et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27037">2611.27037</a></td>
 </tr>
 </tbody></table>

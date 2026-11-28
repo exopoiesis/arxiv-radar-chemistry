@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>magnetic-properties — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="magnetic-properties-30d.html">30d</a> <a href="magnetic-properties-90d.html">90d</a> <a href="magnetic-properties-360d.html">360d</a> <a href="magnetic-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33717.html">Crystal-Symmetry-Dependent Field-Free Superconducting Diode Effect in CoPt/Nb Heterostructures</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
+<td>He Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33717">2611.33717</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34732.html">A general-purpose electron density model for molecular chemistry</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Paolo Pegolo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34732">2611.34732</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32370.html">AI-assisted formal proofs for static and time-dependent density functional theory on lattices</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="excited-states-7d.html">excited-states</a></div></td>
@@ -32,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31432.html">Current-Dependent Meta-GGA and Local Hybrid Functionals for Relativistic NMR Shifts</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
 <td>Yannick J. Franzke et al.</td>
 <td><a href="http://arxiv.org/abs/2611.31432">2611.31432</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27849.html">Interaction and confinement effects for a ${}^6\mathrm{Li}_2$ condensate in a shaken lattice</a></div></td>
-<td>Yang-Hao Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27849">2611.27849</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,9 +17,33 @@ current_window: 30d
 <tbody>
 <tr class="paper">
 <td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33770.html">Solvent-Mediated Disintegration of a Vitrimer Network</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Manoj K Patel et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33770">2611.33770</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34156.html">Foundation interatomic potentials capture structural disorder in metallic glasses</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Dario Massa et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34156">2611.34156</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34459.html">Uphill Diffusion in Yukawa Plasmas</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
+<td>Matt E. Caplan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34459">2611.34459</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34547.html">SCO-Hyper-Meta-Double-GroupNN: A Double-Group SU(2) Hyper-/Meta-Graph Neural Network for Cooperative Spin-Crossover Potential Energy Surfaces</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="mlip-30d.html">mlip</a></div></td>
 <td>Rong Fu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.34547">2611.34547</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34565.html">Origin of the anomalous shape of the $γ$-loop in paramagnetic Fe1-xCrx alloys from coupled Atomistic Spin Dynamics and ab initio Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="free-energy-30d.html">free-energy</a> · <a href="thermodynamic-integration-30d.html">thermodynamic-integration</a></div></td>
+<td>Joakim Stenborg et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34565">2611.34565</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-24</td>
@@ -56,6 +80,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33089.html">Anharmonic enhancement of thermal conductivity in amorphous Ge$_2$Sb$_2$Te$_5$: A consistent picture from molecular dynamics and Wigner transport</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Luiz Felipe C. Pereira et al.</td>
 <td><a href="http://arxiv.org/abs/2611.33089">2611.33089</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33538.html">ILMlip: fast and universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Jonas Hänseroth et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33538">2611.33538</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33543.html">Effects of Yttrium doping on Proton Conductivity in Ba(Fe, Co, Zr, Y)O$_{3-δ}$ Cathode Materials for Proton Ceramic Fuel Cells</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="crystal-structure-30d.html">crystal-structure</a></div></td>
+<td>Chiyoung Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33543">2611.33543</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>

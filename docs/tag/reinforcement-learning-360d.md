@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>reinforcement-learning — 360d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">168 papers</span>
   <nav class="window-nav"><a href="reinforcement-learning-7d.html">7d</a> <a href="reinforcement-learning-30d.html">30d</a> <a href="reinforcement-learning-90d.html">90d</a> <strong>360d</strong> <a href="reinforcement-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33985.html">MolGPAO: Molecular Generative Pre-trained Autoregressive Octree with Speculative Decoding and Sub-Millisecond Seam Healing for 3D Molecules</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Shangqian Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33985">2611.33985</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30509.html">De Novo Generation of Odorant Molecules with Targeted Olfactory Receptor Activation Patterns</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a></div></td>
 <td>Kexin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.30509">2611.30509</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33417.html">Temporal Selective Exploration for Reinforcement Learning-Guided Continuous-Discrete Flow Matching in 3D Molecular Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
+<td>Lianghong Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33417">2611.33417</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-19</td>
@@ -1010,11 +1022,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.19153.html">Test-Time Training Scaling Laws for Chemical Exploration in Drug Design</a></div><div class="paper-tags"><a href="chemical-llm-360d.html">chemical-llm</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
 <td>Morgan Thomas et al.</td>
 <td><a href="http://arxiv.org/abs/2501.19153">2501.19153</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17238.html">Training a Scientific Reasoning Model for Chemistry</a></div></td>
-<td>Siddharth M. Narayanan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17238">2506.17238</a></td>
 </tr>
 </tbody></table>

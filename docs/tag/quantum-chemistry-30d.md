@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>quantum-chemistry — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="quantum-chemistry-7d.html">7d</a> <strong>30d</strong> <a href="quantum-chemistry-90d.html">90d</a> <a href="quantum-chemistry-360d.html">360d</a> <a href="quantum-chemistry-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33830.html">Geometry Sets the Neutral MLIP-DFT Gap in Non-Covalent Binding, and Charged Systems Fail</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="mlip-30d.html">mlip</a></div></td>
+<td>Rui Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33830">2611.33830</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34895.html">Schrödinger&#x27;s Legacy: The Wave Function and Quantum Reality</a></div></td>
+<td>Davide Romano et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34895">2611.34895</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32236.html">Augmented Imaginary-Time Evolution of Neural Quantum States with Implicit Time Steps</a></div></td>
 <td>Maksymilian Kliczkowski et al.</td>
 <td><a href="http://arxiv.org/abs/2611.32236">2611.32236</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33509.html">Reducing T gates in product formulas with agent loops</a></div></td>
+<td>Luis Mantilla Calderón et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33509">2611.33509</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>
@@ -146,11 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01389.html">A GPU-Accelerated and Geometry-Aware Quantum-Classical Framework for Optimized PES Scans with CUDA-Q</a></div><div class="paper-tags"><a href="free-energy-30d.html">free-energy</a></div></td>
 <td>Panayiotis Christou et al.</td>
 <td><a href="http://arxiv.org/abs/2611.01389">2611.01389</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38701.html">Sample-Based Quantum Diagonalization for Variable Molecular Geometries</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="drug-discovery-30d.html">drug-discovery</a> · <a href="excited-states-30d.html">excited-states</a></div></td>
-<td>Matthieu Fortin-Deschenes et al.</td>
-<td><a href="http://arxiv.org/abs/2610.38701">2610.38701</a></td>
 </tr>
 </tbody></table>

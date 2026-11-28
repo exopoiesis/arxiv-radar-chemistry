@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>free-energy — 360d</h1>
-  <span class="paper-count">336 papers</span>
+  <span class="paper-count">338 papers</span>
   <nav class="window-nav"><a href="free-energy-7d.html">7d</a> <a href="free-energy-30d.html">30d</a> <a href="free-energy-90d.html">90d</a> <strong>360d</strong> <a href="free-energy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2611.34547">2611.34547</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34565.html">Origin of the anomalous shape of the $γ$-loop in paramagnetic Fe1-xCrx alloys from coupled Atomistic Spin Dynamics and ab initio Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Joakim Stenborg et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34565">2611.34565</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32568.html">Representation and Model Contributions on Small Molecular Benchmarks: Controlled Comparisons and External Evaluation</a></div><div class="paper-tags"><a href="molecular-representation-360d.html">molecular-representation</a> · <a href="property-prediction-360d.html">property-prediction</a></div></td>
 <td>Nora A. M. A. Talkhan et al.</td>
@@ -32,6 +38,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32851.html">Path-probability gradients for optimizing force fields against dynamical observables</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a></div></td>
 <td>Zhongyao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.32851">2611.32851</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33338.html">On the binding and stability of CeO2 molecules on low-index Au surfaces</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
+<td>Ying-Cheng Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33338">2611.33338</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>

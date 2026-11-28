@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34334.html">PineIR: 3D molecular structures from an infrared spectrum alone</a></div></td>
+<td>Giulio Benedini et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34334">2611.34334</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32821.html">PhysMend: Verification-Guided Program Refinement for Physics-Aware Video Generation</a></div><div class="paper-tags"><a href="multimodal-llm-30d.html">multimodal-llm</a></div></td>
 <td>Meilong Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.32821">2611.32821</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33226.html">Shower Shapes and Data-Driven Simulation Studies using a Highly Granular Crystal ECAL</a></div></td>
+<td>Jack Rolph et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33226">2611.33226</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>

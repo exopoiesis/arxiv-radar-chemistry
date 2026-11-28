@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">416 papers</span>
+  <span class="paper-count">415 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33557.html">DiffER$^2$: Diffusion Ensembles for Retrosynthesis Prediction with SMILES Adapted Particle Guidance</a></div><div class="paper-tags"><a href="molecular-generation-360d.html">molecular-generation</a> · <a href="retrosynthesis-360d.html">retrosynthesis</a></div></td>
 <td>Sean Current et al.</td>
 <td><a href="http://arxiv.org/abs/2611.33557">2611.33557</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34459.html">Uphill Diffusion in Yukawa Plasmas</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Matt E. Caplan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34459">2611.34459</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34724.html">LiDAR Intensity Reconstruction with Limited Real Data: An Architecture Benchmark under Fixed-Epoch Training</a></div></td>
+<td>Christopher M. Coovrey et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34724">2611.34724</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>
@@ -2492,23 +2504,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18603.html">Demystify Protein Generation with Hierarchical Conditional Diffusion Models</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
 <td>Zinan Ling et al.</td>
 <td><a href="http://arxiv.org/abs/2507.18603">2507.18603</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17478.html">ConfRover: Simultaneous Modeling of Protein Conformation and Dynamics via Autoregression</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Yuning Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17478">2505.17478</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02667.html">Graph VQ-Transformer (GVT): Fast and Accurate Molecular Generation via High-Fidelity Discrete Latents</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="molecular-generation-360d.html">molecular-generation</a></div></td>
-<td>Haozhuo Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02667">2512.02667</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03127.html">Atomic Diffusion Models for Small Molecule Structure Elucidation from NMR Spectra</a></div></td>
-<td>Ziyu Xiong et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03127">2512.03127</a></td>
 </tr>
 </tbody></table>

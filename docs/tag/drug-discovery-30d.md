@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2611.30509">2611.30509</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33417.html">Temporal Selective Exploration for Reinforcement Learning-Guided Continuous-Discrete Flow Matching in 3D Molecular Design</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a> · <a href="reinforcement-learning-30d.html">reinforcement-learning</a></div></td>
+<td>Lianghong Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33417">2611.33417</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29935.html">GABIF: An Adaptive Guided Graph Denoising Framework for Antibody Conditional Inverse Folding</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="protein-ligand-30d.html">protein-ligand</a> · <a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Mingwei Liu et al.</td>
@@ -182,11 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03963.html">ProteoCraft: Protein Design as Proposal-Verification Search</a></div><div class="paper-tags"><a href="protein-structure-30d.html">protein-structure</a></div></td>
 <td>Fang Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.03963">2611.03963</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38701.html">Sample-Based Quantum Diagonalization for Variable Molecular Geometries</a></div><div class="paper-tags"><a href="catalysis-30d.html">catalysis</a> · <a href="excited-states-30d.html">excited-states</a> · <a href="quantum-chemistry-30d.html">quantum-chemistry</a></div></td>
-<td>Matthieu Fortin-Deschenes et al.</td>
-<td><a href="http://arxiv.org/abs/2610.38701">2610.38701</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>2d-materials — 360d</h1>
-  <span class="paper-count">512 papers</span>
+  <span class="paper-count">514 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <a href="2d-materials-90d.html">90d</a> <strong>360d</strong> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33717.html">Crystal-Symmetry-Dependent Field-Free Superconducting Diode Effect in CoPt/Nb Heterostructures</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a></div></td>
+<td>He Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33717">2611.33717</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33868.html">Self-Assembled Triangular Sc-rich Nanodomains: The Orign of Anomalous Alloy Scattering in ScAlN/GaN Heterostructures</a></div></td>
+<td>Yuhao Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33868">2611.33868</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32265.html">First-principles phase diagram of monolayer CrS$_2$ polymorphs under biaxial strain and its sensitivity to the Hubbard U parameter</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
@@ -26,6 +38,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32723.html">Mixing and Preserving Properties of Non-van der Waals 2D Materials in Sandwich-like Heterostructures</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="band-gap-360d.html">band-gap</a> · <a href="dft-360d.html">dft</a> · <a href="electronic-structure-360d.html">electronic-structure</a> · <a href="vdw-correction-360d.html">vdw-correction</a></div></td>
 <td>Anastasiia Nihei et al.</td>
 <td><a href="http://arxiv.org/abs/2611.32723">2611.32723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33298.html">Spin-Wave Excitations in $\mathrm{La_3Ni_2O_7}$: A Dynamical Mean-Field Theory and Bethe-Salpeter Equation Study</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Zhihui Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33298">2611.33298</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>
@@ -3080,11 +3098,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03785.html">Interfacial Control of Orbital Occupancy and Spin State in LaCoO$_3$</a></div><div class="paper-tags"><a href="catalysis-360d.html">catalysis</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="tmo-360d.html">tmo</a></div></td>
 <td>Ellen M. Kiens et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03785">2512.03785</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02522.html">Tuning proximity-induced spin-orbit coupling in graphene/WSe$_{2}$ heterostructures</a></div><div class="paper-tags"><a href="magnetic-properties-360d.html">magnetic-properties</a> · <a href="tmd-360d.html">tmd</a></div></td>
-<td>Tobias Rockinger et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02522">2512.02522</a></td>
 </tr>
 </tbody></table>

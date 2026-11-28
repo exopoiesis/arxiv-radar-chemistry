@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>electrocatalysis — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="electrocatalysis-7d.html">7d</a> <a href="electrocatalysis-30d.html">30d</a> <a href="electrocatalysis-90d.html">90d</a> <strong>360d</strong> <a href="electrocatalysis-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05938.html">Adsorption energies are necessary but not sufficient to identify good catalysts</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="catalysis-360d.html">catalysis</a></div></td>
 <td>Shahana Chatterjee et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05938">2512.05938</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02894.html">Exploring the Electronic Nature of Spinel Oxides: A Review of Their Electron Interactions and Prospects</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
-<td>Jagadis Prasad Nayak et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02894">2512.02894</a></td>
 </tr>
 </tbody></table>

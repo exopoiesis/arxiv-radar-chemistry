@@ -28,6 +28,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2611.33089">2611.33089</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33338.html">On the binding and stability of CeO2 molecules on low-index Au surfaces</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
+<td>Ying-Cheng Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33338">2611.33338</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30015.html">Nonmonotonic In-Plane Thermal Transport in Metal-Embedded Graphitic Carbon Nitride</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Wenwu Jiang et al.</td>
@@ -56,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30688.html">The effect of isotopically-enriched 70Ge on the Raman scattering in Cr2Ge2Te6</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
 <td>Grzegorz Krasucki et al.</td>
 <td><a href="http://arxiv.org/abs/2611.30688">2611.30688</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27103.html">Axial Thermal Transport in Transition Metal Chalcogenide Nanowires from Machine-Learning Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Wenwu Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27103">2611.27103</a></td>
 </tr>
 </tbody></table>

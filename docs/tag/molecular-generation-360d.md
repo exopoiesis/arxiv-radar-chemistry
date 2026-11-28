@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2611.33557">2611.33557</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33417.html">Temporal Selective Exploration for Reinforcement Learning-Guided Continuous-Discrete Flow Matching in 3D Molecular Design</a></div><div class="paper-tags"><a href="drug-discovery-360d.html">drug-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
+<td>Lianghong Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33417">2611.33417</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15109.html">Expanding the Decision Space of Pretrained Models through Structured Re-Decoding</a></div><div class="paper-tags"><a href="protein-structure-360d.html">protein-structure</a> · <a href="structure-prediction-360d.html">structure-prediction</a></div></td>
 <td>Tinglan Wang et al.</td>
@@ -860,11 +866,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.19153.html">Test-Time Training Scaling Laws for Chemical Exploration in Drug Design</a></div><div class="paper-tags"><a href="chemical-llm-360d.html">chemical-llm</a> · <a href="chemical-space-360d.html">chemical-space</a> · <a href="drug-discovery-360d.html">drug-discovery</a> · <a href="reinforcement-learning-360d.html">reinforcement-learning</a></div></td>
 <td>Morgan Thomas et al.</td>
 <td><a href="http://arxiv.org/abs/2501.19153">2501.19153</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02667.html">Graph VQ-Transformer (GVT): Fast and Accurate Molecular Generation via High-Fidelity Discrete Latents</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="drug-discovery-360d.html">drug-discovery</a></div></td>
-<td>Haozhuo Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02667">2512.02667</a></td>
 </tr>
 </tbody></table>

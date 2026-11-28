@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>diffusion-model — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <strong>30d</strong> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33557.html">DiffER$^2$: Diffusion Ensembles for Retrosynthesis Prediction with SMILES Adapted Particle Guidance</a></div><div class="paper-tags"><a href="molecular-generation-30d.html">molecular-generation</a> · <a href="retrosynthesis-30d.html">retrosynthesis</a></div></td>
 <td>Sean Current et al.</td>
 <td><a href="http://arxiv.org/abs/2611.33557">2611.33557</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34459.html">Uphill Diffusion in Yukawa Plasmas</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Matt E. Caplan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34459">2611.34459</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34724.html">LiDAR Intensity Reconstruction with Limited Real Data: An Architecture Benchmark under Fixed-Epoch Training</a></div></td>
+<td>Christopher M. Coovrey et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34724">2611.34724</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>

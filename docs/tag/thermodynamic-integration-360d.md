@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermodynamic-integration — 360d</h1>
-  <span class="paper-count">143 papers</span>
+  <span class="paper-count">142 papers</span>
   <nav class="window-nav"><a href="thermodynamic-integration-7d.html">7d</a> <a href="thermodynamic-integration-30d.html">30d</a> <a href="thermodynamic-integration-90d.html">90d</a> <strong>360d</strong> <a href="thermodynamic-integration-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34565.html">Origin of the anomalous shape of the $γ$-loop in paramagnetic Fe1-xCrx alloys from coupled Atomistic Spin Dynamics and ab initio Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Joakim Stenborg et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34565">2611.34565</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32659.html">Comparative Molecular Dynamics Study of Initial Oxide Film Growth on Al, Mg, and Ti Using a Universal Neural Network Potential</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -860,17 +866,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05166.html">Mechanical Stability of 2D Ti2COx MXenes Under Compression Using Reactive Molecular Dynamics</a></div><div class="paper-tags"><a href="2d-materials-360d.html">2d-materials</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Hossein Darban</td>
 <td><a href="http://arxiv.org/abs/2512.05166">2512.05166</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21362.html">Investigating the effects of local environment on nitrogen vacancies in high entropy metal nitrides</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Charith R. DeSilva et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21362">2507.21362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02894.html">Exploring the Electronic Nature of Spinel Oxides: A Review of Their Electron Interactions and Prospects</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="electrocatalysis-360d.html">electrocatalysis</a></div></td>
-<td>Jagadis Prasad Nayak et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02894">2512.02894</a></td>
 </tr>
 </tbody></table>

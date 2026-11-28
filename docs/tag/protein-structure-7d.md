@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34462.html">Same Seed, Different Top Prediction: Cross-Platform Reproducibility of AlphaFold 3 Inference on TPUs, GPUs, and CPUs</a></div></td>
+<td>Lorenzo Pazienza</td>
+<td><a href="http://arxiv.org/abs/2611.34462">2611.34462</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31856.html">Start Where the Data Are: Statistical Priors for One-Step Generation on Manifolds</a></div></td>
 <td>Yuyao Wang et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30336.html">Impact of Topology and Sequence Length on the Pressure-Dependent Collapsibility of Proteins</a></div></td>
 <td>Jiayi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.30336">2611.30336</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24546.html">Biases and Limits of AlphaFold Predictions for Non-Globular Proteins</a></div><div class="paper-tags"><a href="structure-prediction-7d.html">structure-prediction</a></div></td>
-<td>Maria Cristina Aspromonte et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24546">2611.24546</a></td>
 </tr>
 </tbody></table>

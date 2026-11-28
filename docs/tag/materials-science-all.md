@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>materials-science — all</h1>
-  <span class="paper-count">781 papers</span>
+  <span class="paper-count">782 papers</span>
   <nav class="window-nav"><a href="materials-science-7d.html">7d</a> <a href="materials-science-30d.html">30d</a> <a href="materials-science-90d.html">90d</a> <a href="materials-science-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34288.html">Rehearse in 3D, Render in 2D: Physically Consistent and Editable Robot World Models</a></div></td>
+<td>Guangyu Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34288">2611.34288</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30160.html">Generation and non-thermal annealing of dislocations and atomic-scale roughness by nonlinear surface acoustic waves</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>

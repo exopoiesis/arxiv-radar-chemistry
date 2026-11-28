@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ab-initio — 360d</h1>
-  <span class="paper-count">1509 papers</span>
+  <span class="paper-count">1511 papers</span>
   <nav class="window-nav"><a href="ab-initio-7d.html">7d</a> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <strong>360d</strong> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,9 +17,33 @@ current_window: 360d
 <tbody>
 <tr class="paper">
 <td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33824.html">Revisiting Monocular In-Hand Object Scanning: Dataset, Pose Estimation, and Surface Reconstruction</a></div></td>
+<td>Di Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33824">2611.33824</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34156.html">Foundation interatomic potentials capture structural disorder in metallic glasses</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Dario Massa et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34156">2611.34156</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34305.html">Quantum chaotic signature in non-empirical ensemble of DNA base pairs</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
+<td>Mehdi Ameri</td>
+<td><a href="http://arxiv.org/abs/2611.34305">2611.34305</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34547.html">SCO-Hyper-Meta-Double-GroupNN: A Double-Group SU(2) Hyper-/Meta-Graph Neural Network for Cooperative Spin-Crossover Potential Energy Surfaces</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Rong Fu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.34547">2611.34547</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34565.html">Origin of the anomalous shape of the $γ$-loop in paramagnetic Fe1-xCrx alloys from coupled Atomistic Spin Dynamics and ab initio Molecular Dynamics</a></div><div class="paper-tags"><a href="free-energy-360d.html">free-energy</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Joakim Stenborg et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34565">2611.34565</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-24</td>
@@ -38,6 +62,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33089.html">Anharmonic enhancement of thermal conductivity in amorphous Ge$_2$Sb$_2$Te$_5$: A consistent picture from molecular dynamics and Wigner transport</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Luiz Felipe C. Pereira et al.</td>
 <td><a href="http://arxiv.org/abs/2611.33089">2611.33089</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33538.html">ILMlip: fast and universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Jonas Hänseroth et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33538">2611.33538</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33543.html">Effects of Yttrium doping on Proton Conductivity in Ba(Fe, Co, Zr, Y)O$_{3-δ}$ Cathode Materials for Proton Ceramic Fuel Cells</a></div><div class="paper-tags"><a href="battery-materials-360d.html">battery-materials</a> · <a href="crystal-structure-360d.html">crystal-structure</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Chiyoung Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33543">2611.33543</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>
@@ -9044,29 +9080,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04242.html">Characterizing Defect Dynamics in Silicon Carbide Using Symmetry-Adapted Collective Variables and Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Soumajit Dutta et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04242">2512.04242</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.18259.html">Equation of state and Fermi liquid properties of dense matter based on chiral effective field theory interactions</a></div></td>
-<td>Faruk Alp et al.</td>
-<td><a href="http://arxiv.org/abs/2504.18259">2504.18259</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08864.html">Autonomous thermodynamically informed database generation for machine-learned interatomic potentials and application to magnesium</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a></div></td>
-<td>Vincent G. Fletcher et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08864">2508.08864</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02639.html">Competing excitonic couplings as origin of mimicked phase transitions in zinc-phthalocyanine single crystals</a></div><div class="paper-tags"><a href="dft-360d.html">dft</a> · <a href="phase-transition-360d.html">phase-transition</a></div></td>
-<td>Lisa Schraut-May et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02639">2512.02639</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03016.html">Topological Shell Structures in Neutron Stars: Effects on Equilibrium, Oscillations, and Gravitational-Wave Signatures</a></div></td>
-<td>Debojoti Kuzur et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03016">2512.03016</a></td>
 </tr>
 </tbody></table>

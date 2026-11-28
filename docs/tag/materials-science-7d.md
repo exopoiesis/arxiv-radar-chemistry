@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34288.html">Rehearse in 3D, Render in 2D: Physically Consistent and Editable Robot World Models</a></div></td>
+<td>Guangyu Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34288">2611.34288</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30160.html">Generation and non-thermal annealing of dislocations and atomic-scale roughness by nonlinear surface acoustic waves</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Yuan Xu et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29574.html">MagPot: A magnetoelastic potential generator for molecular dynamics simulations</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>P. Nieves et al.</td>
 <td><a href="http://arxiv.org/abs/2611.29574">2611.29574</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28324.html">MatHarness: Towards Long-Horizon Open-ended AutoResearch for Computational Materials Science</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Yanlin Fei et al.</td>
-<td><a href="http://arxiv.org/abs/2611.28324">2611.28324</a></td>
 </tr>
 </tbody></table>

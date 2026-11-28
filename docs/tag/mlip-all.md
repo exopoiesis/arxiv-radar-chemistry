@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mlip — all</h1>
-  <span class="paper-count">1074 papers</span>
+  <span class="paper-count">1077 papers</span>
   <nav class="window-nav"><a href="mlip-7d.html">7d</a> <a href="mlip-30d.html">30d</a> <a href="mlip-90d.html">90d</a> <a href="mlip-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33830.html">Geometry Sets the Neutral MLIP-DFT Gap in Non-Covalent Binding, and Charged Systems Fail</a></div><div class="paper-tags"><a href="dft-all.html">dft</a> · <a href="quantum-chemistry-all.html">quantum-chemistry</a></div></td>
+<td>Rui Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33830">2611.33830</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34156.html">Foundation interatomic potentials capture structural disorder in metallic glasses</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="dft-all.html">dft</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Dario Massa et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34156">2611.34156</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34547.html">SCO-Hyper-Meta-Double-GroupNN: A Double-Group SU(2) Hyper-/Meta-Graph Neural Network for Cooperative Spin-Crossover Potential Energy Surfaces</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="free-energy-all.html">free-energy</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
@@ -50,6 +62,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32851.html">Path-probability gradients for optimizing force fields against dynamical observables</a></div><div class="paper-tags"><a href="free-energy-all.html">free-energy</a></div></td>
 <td>Zhongyao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.32851">2611.32851</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33538.html">ILMlip: fast and universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-all.html">ab-initio</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Jonas Hänseroth et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33538">2611.33538</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>

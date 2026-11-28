@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>2d-materials — 90d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="2d-materials-7d.html">7d</a> <a href="2d-materials-30d.html">30d</a> <strong>90d</strong> <a href="2d-materials-360d.html">360d</a> <a href="2d-materials-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33717.html">Crystal-Symmetry-Dependent Field-Free Superconducting Diode Effect in CoPt/Nb Heterostructures</a></div><div class="paper-tags"><a href="magnetic-properties-90d.html">magnetic-properties</a></div></td>
+<td>He Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33717">2611.33717</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33868.html">Self-Assembled Triangular Sc-rich Nanodomains: The Orign of Anomalous Alloy Scattering in ScAlN/GaN Heterostructures</a></div></td>
+<td>Yuhao Yin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33868">2611.33868</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32265.html">First-principles phase diagram of monolayer CrS$_2$ polymorphs under biaxial strain and its sensitivity to the Hubbard U parameter</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
@@ -26,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32723.html">Mixing and Preserving Properties of Non-van der Waals 2D Materials in Sandwich-like Heterostructures</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="band-gap-90d.html">band-gap</a> · <a href="dft-90d.html">dft</a> · <a href="electronic-structure-90d.html">electronic-structure</a> · <a href="vdw-correction-90d.html">vdw-correction</a></div></td>
 <td>Anastasiia Nihei et al.</td>
 <td><a href="http://arxiv.org/abs/2611.32723">2611.32723</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33298.html">Spin-Wave Excitations in $\mathrm{La_3Ni_2O_7}$: A Dynamical Mean-Field Theory and Bethe-Salpeter Equation Study</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a></div></td>
+<td>Zhihui Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33298">2611.33298</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>

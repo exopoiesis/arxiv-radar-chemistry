@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>crystal-structure — 30d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="crystal-structure-7d.html">7d</a> <strong>30d</strong> <a href="crystal-structure-90d.html">90d</a> <a href="crystal-structure-360d.html">360d</a> <a href="crystal-structure-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33913.html">PerovAgent: Autonomous Ligand Design for Halide Perovskite Nanocrystals</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a></div></td>
+<td>Seungjun Cha et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33913">2611.33913</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32761.html">Lattice Thermal Conductivity of MgO and the MgSiO$_3$ Polymorphs Bridgmanite and Post-Perovskite at Lower-Mantle Conditions Using Fine-Tuned MACE Potentials</a></div><div class="paper-tags"><a href="dft-30d.html">dft</a> · <a href="thermal-properties-30d.html">thermal-properties</a></div></td>
 <td>Amrendra Kumar Tiwari et al.</td>
 <td><a href="http://arxiv.org/abs/2611.32761">2611.32761</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33543.html">Effects of Yttrium doping on Proton Conductivity in Ba(Fe, Co, Zr, Y)O$_{3-δ}$ Cathode Materials for Proton Ceramic Fuel Cells</a></div><div class="paper-tags"><a href="ab-initio-30d.html">ab-initio</a> · <a href="battery-materials-30d.html">battery-materials</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Chiyoung Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33543">2611.33543</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>dft — 7d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="dft-30d.html">30d</a> <a href="dft-90d.html">90d</a> <a href="dft-360d.html">360d</a> <a href="dft-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,66 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33795.html">Exact subtraction of electron self-interaction from the Kohn-Sham equations</a></div></td>
+<td>J. E. Ingall et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33795">2611.33795</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33830.html">Geometry Sets the Neutral MLIP-DFT Gap in Non-Covalent Binding, and Charged Systems Fail</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
+<td>Rui Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33830">2611.33830</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33913.html">PerovAgent: Autonomous Ligand Design for Halide Perovskite Nanocrystals</a></div><div class="paper-tags"><a href="crystal-structure-7d.html">crystal-structure</a></div></td>
+<td>Seungjun Cha et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33913">2611.33913</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33985.html">MolGPAO: Molecular Generative Pre-trained Autoregressive Octree with Speculative Decoding and Sub-Millisecond Seam Healing for 3D Molecules</a></div><div class="paper-tags"><a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
+<td>Shangqian Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33985">2611.33985</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34000.html">Wannier-Based Low-Energy Electronic Structure Analysis of $λ$-(STF)$_2$GaCl$_4$</a></div></td>
+<td>Arifa D. Agustin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34000">2611.34000</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34156.html">Foundation interatomic potentials capture structural disorder in metallic glasses</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Dario Massa et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34156">2611.34156</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34301.html">The transverse spin-gradient approximation in noncollinear spin density functional theory</a></div></td>
+<td>Mihály A. Csirik</td>
+<td><a href="http://arxiv.org/abs/2611.34301">2611.34301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34305.html">Quantum chaotic signature in non-empirical ensemble of DNA base pairs</a></div><div class="paper-tags"><a href="ab-initio-7d.html">ab-initio</a></div></td>
+<td>Mehdi Ameri</td>
+<td><a href="http://arxiv.org/abs/2611.34305">2611.34305</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34694.html">Automatic dual basis sets for self-consistent field calculations</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
+<td>Joonatan Huhtasalo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34694">2611.34694</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34732.html">A general-purpose electron density model for molecular chemistry</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a> · <a href="magnetic-properties-7d.html">magnetic-properties</a></div></td>
+<td>Paolo Pegolo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34732">2611.34732</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32265.html">First-principles phase diagram of monolayer CrS$_2$ polymorphs under biaxial strain and its sensitivity to the Hubbard U parameter</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
@@ -62,6 +122,24 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33060.html">Native vacancy energetics and association in TiN and CrN: chemical potential dependence, clustering, and surface effects</a></div><div class="paper-tags"><a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
 <td>Barsha Bhattacharjee et al.</td>
 <td><a href="http://arxiv.org/abs/2611.33060">2611.33060</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33298.html">Spin-Wave Excitations in $\mathrm{La_3Ni_2O_7}$: A Dynamical Mean-Field Theory and Bethe-Salpeter Equation Study</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a></div></td>
+<td>Zhihui Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33298">2611.33298</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33338.html">On the binding and stability of CeO2 molecules on low-index Au surfaces</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
+<td>Ying-Cheng Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33338">2611.33338</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33377.html">Dressed Time-Dependent Density Functional Theory: Opening and Closing a Pandora&#x27;s box</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
+<td>Jack T. Taylor et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33377">2611.33377</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>
@@ -188,65 +266,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28747.html">Minimal Three-Band Model and $d$-Wave Superconductivity in La$_4$Ni$_3$O$_8$</a></div><div class="paper-tags"><a href="electronic-structure-7d.html">electronic-structure</a></div></td>
 <td>Ao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.28747">2611.28747</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24744.html">GenerativeQC: A Generative, GPU-Accelerated Quantum Chemistry Program</a></div><div class="paper-tags"><a href="quantum-chemistry-7d.html">quantum-chemistry</a></div></td>
-<td>Shengrui Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.24744">2611.24744</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27037.html">Transition-Metal Substitutions in MOF-5: A Hybrid-DFT Study of Oxygen Electrocatalysis</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="electrocatalysis-7d.html">electrocatalysis</a> · <a href="electronic-structure-7d.html">electronic-structure</a> · <a href="mof-7d.html">mof</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Pedro H. Souza et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27037">2611.27037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27392.html">Hall effect in electrolyte solutions: Self-consistent Debye-Huckel-Onsager theory</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a></div></td>
-<td>Yury Budkov et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27392">2611.27392</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27430.html">Conductivity of electrolyte solutions: Self-consistent Debye-Hückel-Onsager theory</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a></div></td>
-<td>Yury Budkov et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27430">2611.27430</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27842.html">Prediction and characterisation of cation topology of pentanary high-entropy alloy (MoWNbTaV)S$_2$</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="free-energy-7d.html">free-energy</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Shubham Agarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27842">2611.27842</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27869.html">Linear Response Theory of Nitrogen K-Edge X-ray Absorption of TCNQ</a></div><div class="paper-tags"><a href="excited-states-7d.html">excited-states</a></div></td>
-<td>Alberto Boccuni et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27869">2611.27869</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27955.html">Molecular structure breaks universality in screening behavior of electrolyte solutions</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a></div></td>
-<td>Anna T. Bui et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27955">2611.27955</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28172.html">Structural, optoelectronic, mechanical, thermodynamic and thermoelectric properties of kesterite Cu2ZnSnS4: A first-principles study</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="free-energy-7d.html">free-energy</a></div></td>
-<td>Iskandar Raufzoda et al.</td>
-<td><a href="http://arxiv.org/abs/2611.28172">2611.28172</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28279.html">First-Principles Investigation of the {ScSe2} TMDs Monolayer: Structural Stability, Electronic and Optical Properties</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="ab-initio-7d.html">ab-initio</a> · <a href="band-gap-7d.html">band-gap</a></div></td>
-<td>Takwa Ben Othman et al.</td>
-<td><a href="http://arxiv.org/abs/2611.28279">2611.28279</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28324.html">MatHarness: Towards Long-Horizon Open-ended AutoResearch for Computational Materials Science</a></div><div class="paper-tags"><a href="catalysis-7d.html">catalysis</a> · <a href="materials-science-7d.html">materials-science</a></div></td>
-<td>Yanlin Fei et al.</td>
-<td><a href="http://arxiv.org/abs/2611.28324">2611.28324</a></td>
 </tr>
 </tbody></table>

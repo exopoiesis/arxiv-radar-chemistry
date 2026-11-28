@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>thermal-properties — 90d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">70 papers</span>
   <nav class="window-nav"><a href="thermal-properties-7d.html">7d</a> <a href="thermal-properties-30d.html">30d</a> <strong>90d</strong> <a href="thermal-properties-360d.html">360d</a> <a href="thermal-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33089.html">Anharmonic enhancement of thermal conductivity in amorphous Ge$_2$Sb$_2$Te$_5$: A consistent picture from molecular dynamics and Wigner transport</a></div><div class="paper-tags"><a href="ab-initio-90d.html">ab-initio</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Luiz Felipe C. Pereira et al.</td>
 <td><a href="http://arxiv.org/abs/2611.33089">2611.33089</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33338.html">On the binding and stability of CeO2 molecules on low-index Au surfaces</a></div><div class="paper-tags"><a href="dft-90d.html">dft</a> · <a href="free-energy-90d.html">free-energy</a></div></td>
+<td>Ying-Cheng Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33338">2611.33338</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>

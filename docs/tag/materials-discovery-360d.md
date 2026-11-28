@@ -76,6 +76,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2611.21244">2611.21244</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33195.html">Verified experience improves materials prediction with large language models</a></div></td>
+<td>Yiming Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33195">2611.33195</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19596.html">Scaling laws in machine learning on non-ideal experimental data enable inverse design of radiative-cooling coatings</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Kunihiko Shizume et al.</td>
@@ -1544,11 +1550,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19667.html">Dara: Automated multiple-hypothesis phase identification and refinement from powder X-ray diffraction</a></div><div class="paper-tags"><a href="chemical-space-360d.html">chemical-space</a></div></td>
 <td>Yuxing Fei et al.</td>
 <td><a href="http://arxiv.org/abs/2510.19667">2510.19667</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22307.html">Enhanced Conditional Generation of Double Perovskite by Knowledge-Guided Language Model Feedback</a></div></td>
-<td>Inhyo Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22307">2511.22307</a></td>
 </tr>
 </tbody></table>

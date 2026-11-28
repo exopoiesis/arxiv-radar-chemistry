@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">1558 papers</span>
+  <span class="paper-count">1559 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,9 +17,33 @@ current_window: 360d
 <tbody>
 <tr class="paper">
 <td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33770.html">Solvent-Mediated Disintegration of a Vitrimer Network</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Manoj K Patel et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33770">2611.33770</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34156.html">Foundation interatomic potentials capture structural disorder in metallic glasses</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="dft-360d.html">dft</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Dario Massa et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34156">2611.34156</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34459.html">Uphill Diffusion in Yukawa Plasmas</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
+<td>Matt E. Caplan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34459">2611.34459</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34547.html">SCO-Hyper-Meta-Double-GroupNN: A Double-Group SU(2) Hyper-/Meta-Graph Neural Network for Cooperative Spin-Crossover Potential Energy Surfaces</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Rong Fu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.34547">2611.34547</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34565.html">Origin of the anomalous shape of the $γ$-loop in paramagnetic Fe1-xCrx alloys from coupled Atomistic Spin Dynamics and ab initio Molecular Dynamics</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="thermodynamic-integration-360d.html">thermodynamic-integration</a></div></td>
+<td>Joakim Stenborg et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34565">2611.34565</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-24</td>
@@ -56,6 +80,18 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33089.html">Anharmonic enhancement of thermal conductivity in amorphous Ge$_2$Sb$_2$Te$_5$: A consistent picture from molecular dynamics and Wigner transport</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="thermal-properties-360d.html">thermal-properties</a></div></td>
 <td>Luiz Felipe C. Pereira et al.</td>
 <td><a href="http://arxiv.org/abs/2611.33089">2611.33089</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33538.html">ILMlip: fast and universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="mlip-360d.html">mlip</a></div></td>
+<td>Jonas Hänseroth et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33538">2611.33538</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33543.html">Effects of Yttrium doping on Proton Conductivity in Ba(Fe, Co, Zr, Y)O$_{3-δ}$ Cathode Materials for Proton Ceramic Fuel Cells</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="battery-materials-360d.html">battery-materials</a> · <a href="crystal-structure-360d.html">crystal-structure</a></div></td>
+<td>Chiyoung Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33543">2611.33543</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>
@@ -9332,35 +9368,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04242.html">Characterizing Defect Dynamics in Silicon Carbide Using Symmetry-Adapted Collective Variables and Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="ab-initio-360d.html">ab-initio</a> · <a href="active-learning-360d.html">active-learning</a> · <a href="dft-360d.html">dft</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="free-energy-360d.html">free-energy</a> · <a href="mlip-360d.html">mlip</a></div></td>
 <td>Soumajit Dutta et al.</td>
 <td><a href="http://arxiv.org/abs/2512.04242">2512.04242</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17478.html">ConfRover: Simultaneous Modeling of Protein Conformation and Dynamics via Autoregression</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="protein-structure-360d.html">protein-structure</a></div></td>
-<td>Yuning Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17478">2505.17478</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12674.html">Distortion-Driven Carrier Decoupling in Doped LiMgPO4</a></div></td>
-<td>Zhihua Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2511.12674">2511.12674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02864.html">Modulation of DNA rheology by a transcription factor that forms aging microgels</a></div></td>
-<td>Amandine Hong-Minh et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02864">2512.02864</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02963.html">Probing the Microscopic Origin of Toughness in Multiple Polymer Networks</a></div></td>
-<td>Nicholas H. P. Orr et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02963">2512.02963</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03174.html">Interfacial Thermal Conductance Between a Polyethylene Glycol Polymer Chain and Water: A Molecular Dynamics Study</a></div></td>
-<td>Shadi Babaei et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03174">2512.03174</a></td>
 </tr>
 </tbody></table>

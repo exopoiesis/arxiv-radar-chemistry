@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>ab-initio — 7d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="ab-initio-30d.html">30d</a> <a href="ab-initio-90d.html">90d</a> <a href="ab-initio-360d.html">360d</a> <a href="ab-initio-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,9 +17,33 @@ current_window: 7d
 <tbody>
 <tr class="paper">
 <td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33824.html">Revisiting Monocular In-Hand Object Scanning: Dataset, Pose Estimation, and Surface Reconstruction</a></div></td>
+<td>Di Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33824">2611.33824</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34156.html">Foundation interatomic potentials capture structural disorder in metallic glasses</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Dario Massa et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34156">2611.34156</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34305.html">Quantum chaotic signature in non-empirical ensemble of DNA base pairs</a></div><div class="paper-tags"><a href="dft-7d.html">dft</a></div></td>
+<td>Mehdi Ameri</td>
+<td><a href="http://arxiv.org/abs/2611.34305">2611.34305</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34547.html">SCO-Hyper-Meta-Double-GroupNN: A Double-Group SU(2) Hyper-/Meta-Graph Neural Network for Cooperative Spin-Crossover Potential Energy Surfaces</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a> · <a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Rong Fu et al.</td>
 <td><a href="http://arxiv.org/abs/2611.34547">2611.34547</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34565.html">Origin of the anomalous shape of the $γ$-loop in paramagnetic Fe1-xCrx alloys from coupled Atomistic Spin Dynamics and ab initio Molecular Dynamics</a></div><div class="paper-tags"><a href="free-energy-7d.html">free-energy</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
+<td>Joakim Stenborg et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34565">2611.34565</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-24</td>
@@ -38,6 +62,18 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33089.html">Anharmonic enhancement of thermal conductivity in amorphous Ge$_2$Sb$_2$Te$_5$: A consistent picture from molecular dynamics and Wigner transport</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
 <td>Luiz Felipe C. Pereira et al.</td>
 <td><a href="http://arxiv.org/abs/2611.33089">2611.33089</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33538.html">ILMlip: fast and universal machine-learning interatomic potentials</a></div><div class="paper-tags"><a href="mlip-7d.html">mlip</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Jonas Hänseroth et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33538">2611.33538</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33543.html">Effects of Yttrium doping on Proton Conductivity in Ba(Fe, Co, Zr, Y)O$_{3-δ}$ Cathode Materials for Proton Ceramic Fuel Cells</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a> · <a href="crystal-structure-7d.html">crystal-structure</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Chiyoung Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33543">2611.33543</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>
@@ -98,23 +134,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28452.html">A Covalent Bonding Network Using p-Block Elements to Stabilize Lithium-Rich Cathode Materials</a></div><div class="paper-tags"><a href="battery-materials-7d.html">battery-materials</a></div></td>
 <td>Amelia Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2611.28452">2611.28452</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27103.html">Axial Thermal Transport in Transition Metal Chalcogenide Nanowires from Machine-Learning Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="thermal-properties-7d.html">thermal-properties</a></div></td>
-<td>Wenwu Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27103">2611.27103</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27402.html">Quantum computing for gearing down complex many-fermion problems</a></div><div class="paper-tags"><a href="quantum-computing-7d.html">quantum-computing</a></div></td>
-<td>Weijie Du et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27402">2611.27402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28279.html">First-Principles Investigation of the {ScSe2} TMDs Monolayer: Structural Stability, Electronic and Optical Properties</a></div><div class="paper-tags"><a href="2d-materials-7d.html">2d-materials</a> · <a href="band-gap-7d.html">band-gap</a> · <a href="dft-7d.html">dft</a></div></td>
-<td>Takwa Ben Othman et al.</td>
-<td><a href="http://arxiv.org/abs/2611.28279">2611.28279</a></td>
 </tr>
 </tbody></table>

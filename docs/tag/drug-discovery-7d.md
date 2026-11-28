@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>drug-discovery — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="drug-discovery-30d.html">30d</a> <a href="drug-discovery-90d.html">90d</a> <a href="drug-discovery-360d.html">360d</a> <a href="drug-discovery-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30509.html">De Novo Generation of Odorant Molecules with Targeted Olfactory Receptor Activation Patterns</a></div><div class="paper-tags"><a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
 <td>Kexin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.30509">2611.30509</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33417.html">Temporal Selective Exploration for Reinforcement Learning-Guided Continuous-Discrete Flow Matching in 3D Molecular Design</a></div><div class="paper-tags"><a href="molecular-generation-7d.html">molecular-generation</a> · <a href="reinforcement-learning-7d.html">reinforcement-learning</a></div></td>
+<td>Lianghong Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33417">2611.33417</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-23</td>
@@ -44,23 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28529.html">General-purpose language models are neurosymbolic reasoners able to annotate proteins from sequence</a></div><div class="paper-tags"><a href="protein-function-7d.html">protein-function</a> · <a href="protein-llm-7d.html">protein-llm</a></div></td>
 <td>Christopher J. Mungall et al.</td>
 <td><a href="http://arxiv.org/abs/2611.28529">2611.28529</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25076.html">ShEPhERD-score: Fast, adaptable three-dimensional alignment of molecular features</a></div><div class="paper-tags"><a href="molecular-representation-7d.html">molecular-representation</a></div></td>
-<td>Nate Somers et al.</td>
-<td><a href="http://arxiv.org/abs/2611.25076">2611.25076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27015.html">Ruby: State-of-the-Art Potency Prediction across Discovery Regimes Using Learned Structural Representations</a></div><div class="paper-tags"><a href="protein-ligand-7d.html">protein-ligand</a> · <a href="thermodynamic-integration-7d.html">thermodynamic-integration</a></div></td>
-<td>Michael Atkin et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27015">2611.27015</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27162.html">Hierarchical Hybrid-Coordinate Flow Matching for Accurate and Physically Plausible Apo-to-Holo Protein Generation</a></div></td>
-<td>Minjong Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2611.27162">2611.27162</a></td>
 </tr>
 </tbody></table>
